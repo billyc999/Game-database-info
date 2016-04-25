@@ -1,0 +1,6113 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Nintendo WiiWare</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="101-in-1 Explosive Megamix (USA)">
+    <description>101-in-1 Explosive Megamix</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Board Game</genre>
+    <score>3.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="2 Fast 4 Gnomz (USA)">
+    <description>2 Fast 4 Gnomz</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>QubicGames</manufacturer>
+    <dev>QubicGames</dev>
+    <genre>Action</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="3 Degrees Celcius (Japan)">
+    <description>3 Degrees Celcius</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Kemco</manufacturer>
+    <dev>Cool&amp;Warm</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="3-2-1, Rattle Battle! (USA)">
+    <description>3-2-1, Rattle Battle!</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Tecmo,LTD.</manufacturer>
+    <dev>Tecmo,Ltd.</dev>
+    <genre>Other</genre>
+    <score>2.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="3D Pixel Racing (USA)">
+    <description>3D Pixel Racing</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Microforum Ltd.</manufacturer>
+    <dev>Microforum Ltd.</dev>
+    <genre>Racing</genre>
+    <score>3.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="5 Arcade Gems (USA)">
+    <description>5 Arcade Gems</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Racing</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="5 Spots Party (USA)">
+    <description>5 Spots Party</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cosmonaut Games</manufacturer>
+    <dev>Cosmonaut Games</dev>
+    <genre>Puzzle</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="5-in-1 Solitaire (USA)">
+    <description>5-in-1 Solitaire</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure Inc.</manufacturer>
+    <dev>Digital Leisure Inc.</dev>
+    <genre>Board Game</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="81diver Wii (Japan)">
+    <description>81diver Wii</description>
+    <year>2009</year>
+    <rating>ESRB - M (Mature)</rating>
+    <manufacturer>Silver Star Japan</manufacturer>
+    <dev>Silver Star Japan</dev>
+    <genre>Other</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Adventure Island - The Beginning (USA)">
+    <description>Adventure Island - The Beginning</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Platformer</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Adventure on Lost Island - Hidden Object Game (USA)">
+    <description>Adventure on Lost Island - Hidden Object Game</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ateam Inc.</manufacturer>
+    <dev>Ateam Inc.</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aero Guitar (Japan)">
+    <description>Aero Guitar</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Yudo</manufacturer>
+    <dev>Yudo</dev>
+    <genre>Music</genre>
+    <score>3.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aha! I Found It! - Hidden Object Game (USA)">
+    <description>Aha! I Found It! - Hidden Object Game</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ateam Inc.</manufacturer>
+    <dev>Ateam Inc.</dev>
+    <genre>Adventure</genre>
+    <score>2.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aha! I Got It! - Escape Game (USA)">
+    <description>Aha! I Got It! - Escape Game</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ateam Inc.</manufacturer>
+    <dev>Ateam Inc.</dev>
+    <genre>Puzzle</genre>
+    <score>2.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Airport Mania - First Flight (USA)">
+    <description>Airport Mania - First Flight</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Lemon Games SL</manufacturer>
+    <dev>Reflexive Entertainment, Lemon Games</dev>
+    <genre>Puzzle</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien Crush Returns (USA)">
+    <description>Alien Crush Returns</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Entertainment, Inc.</manufacturer>
+    <dev>Hudson Entertainment, Inc.</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Amazing Brain Train, The! (USA)">
+    <description>Amazing Brain Train, The!</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>NinjaBee</manufacturer>
+    <dev>NinjaBee</dev>
+    <genre>Education</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="And Yet It Moves (USA)">
+    <description>And Yet It Moves</description>
+    <year>2010</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Broken Rules</manufacturer>
+    <dev>Broken Rules</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ANIMA - Ark of Sinners (USA)">
+    <description>ANIMA - Ark of Sinners</description>
+    <year>2011</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Anima Game Studio</manufacturer>
+    <dev>Anima Game Studio</dev>
+    <genre>Action</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ant Nation (USA)">
+    <description>Ant Nation</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Simulation</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AquaSpace (USA)">
+    <description>AquaSpace</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Paon</dev>
+    <genre>Simulation</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Essentials (USA)">
+    <description>Arcade Essentials</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Arcade</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Sports (USA)">
+    <description>Arcade Sports</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev>Icon Games</dev>
+    <genre>Sports</genre>
+    <score>2.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arkanoid Plus! (USA)">
+    <description>Arkanoid Plus!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Taito</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Around the World (USA)">
+    <description>Around the World</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Wizarbox</manufacturer>
+    <dev>Wizarbox</dev>
+    <genre>Education</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Art of Balance (USA)">
+    <description>Art of Balance</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Shin&apos;en Multimedia</manufacturer>
+    <dev>Shin&apos;en Multimedia</dev>
+    <genre>Puzzle</genre>
+    <score>4.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Art Style - CUBELLO (USA)">
+    <description>Art Style - CUBELLO</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>skip Ltd.</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Art Style - light trax (USA)">
+    <description>Art Style - light trax</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>skip Ltd.</dev>
+    <genre>Racing</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Art Style - ORBIENT (USA)">
+    <description>Art Style - ORBIENT</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>skip Ltd.</dev>
+    <genre>Puzzle</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Art Style - ROTOHEX (USA)">
+    <description>Art Style - ROTOHEX</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>skip Ltd.</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Art Style - ROTOZOA (USA)">
+    <description>Art Style - ROTOZOA</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>skip Ltd.</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astro Bugz Revenge (USA)">
+    <description>Astro Bugz Revenge</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sudden Games</manufacturer>
+    <dev>Sudden Games</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aya and the Cubes of Light (USA)">
+    <description>Aya and the Cubes of Light</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Object Vision Software</manufacturer>
+    <dev>Object Vision Software</dev>
+    <genre>Platformer</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bakutan (Japan)">
+    <description>Bakutan</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Alpha Unit</manufacturer>
+    <dev>Alpha Unit</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Balloon Pop Festival (USA)">
+    <description>Balloon Pop Festival</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>UFO Interactive</manufacturer>
+    <dev>UFO Interactive</dev>
+    <genre>Puzzle</genre>
+    <score>2.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bang Attack (USA)">
+    <description>Bang Attack</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Engine Software</manufacturer>
+    <dev>Engine Software</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Battle Poker (USA)">
+    <description>Battle Poker</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Left Field Productions</manufacturer>
+    <dev>Left Field Productions</dev>
+    <genre>Board Games</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bejeweled 2 (USA)">
+    <description>Bejeweled 2</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>PopCap Games</manufacturer>
+    <dev>Engine Software</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ben 10 Alien Force - The Rise of Hex (USA)">
+    <description>Ben 10 Alien Force - The Rise of Hex</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Black Lantern Studios, Inc</dev>
+    <genre>Action</genre>
+    <score>2.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Big Bass Arcade (USA)">
+    <description>Big Bass Arcade</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Big John Games</manufacturer>
+    <dev>Digital Clay Studios</dev>
+    <genre>Arcade</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Big Kahuna Party (USA)">
+    <description>Big Kahuna Party</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Reflexive Entertainment</manufacturer>
+    <dev>Reflexive Entertainment</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Big Town Shoot Out (USA)">
+    <description>Big Town Shoot Out</description>
+    <year>2011</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Performance Design Products</manufacturer>
+    <dev>Performance Design Products</dev>
+    <genre>Shooter</genre>
+    <score>4.2</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bingo Party Deluxe (USA)">
+    <description>Bingo Party Deluxe</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ateam Inc.</manufacturer>
+    <dev>Ateam Inc.</dev>
+    <genre>Board Game</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bit Boy!! (USA)">
+    <description>Bit Boy!!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Bplus, Marvelous Entertainment</manufacturer>
+    <dev>Marvelous Entertainment</dev>
+    <genre>Action</genre>
+    <score>3.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bit.Trip Complete (USA)">
+    <description>Bit.Trip Complete</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Gaijin Games</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bittos Plus (USA)">
+    <description>Bittos Plus</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>MACHINE Studios LLC</manufacturer>
+    <dev>Unconditional Studios LLC</dev>
+    <genre>Puzzle</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blaster Master - Overdrive (USA)">
+    <description>Blaster Master - Overdrive</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Sunsoft</manufacturer>
+    <dev>Sunsoft</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Block Breaker Deluxe (USA)">
+    <description>Block Breaker Deluxe</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Arcade</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blood Beach (USA)">
+    <description>Blood Beach</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Coresoft Inc.</manufacturer>
+    <dev>Coresoft Inc.</dev>
+    <genre>Shooter</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bloons (USA)">
+    <description>Bloons</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hands-On Mobile</manufacturer>
+    <dev>Hands-On Mobile</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bobby Carrot Forever (USA)">
+    <description>Bobby Carrot Forever</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>FDG Entertainment</manufacturer>
+    <dev>FDG Entertainment</dev>
+    <genre>Adventure</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Boingz (USA)">
+    <description>Boingz</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>RealNetworks</manufacturer>
+    <dev>RealNetworks</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Boku wa Plarail Untenshi - Shinkansen &amp; Joukikikansha Hen (Japan)">
+    <description>Boku wa Plarail Untenshi - Shinkansen &amp; Joukikikansha Hen</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Simulation</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bokumo Sekai wo Sukuitai (Japan)">
+    <description>Bokumo Sekai wo Sukuitai</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Poisoft</manufacturer>
+    <dev>Poisoft</dev>
+    <genre>Role-Playing</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bokumo Sekai wo Sukuitai - Battle Tournament (Japan)">
+    <description>Bokumo Sekai wo Sukuitai - Battle Tournament</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Poisoft</manufacturer>
+    <dev>Poisoft</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bomberman Blast (USA)">
+    <description>Bomberman Blast</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bonsai Barber (USA)">
+    <description>Bonsai Barber</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Zoonami</manufacturer>
+    <dev>Nintendo</dev>
+    <genre>Simulation</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brain Challenge (USA)">
+    <description>Brain Challenge</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Puzzle</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brain Drain (USA)">
+    <description>Brain Drain</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Enjoy Gaming</manufacturer>
+    <dev>Enjoy Gaming</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bruiser and Scratch (USA)">
+    <description>Bruiser &amp; Scratch</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Steel Penny Games</manufacturer>
+    <dev>Steel Penny Games</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bubble Bobble Plus! (USA)">
+    <description>Bubble Bobble Plus!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev>Taito</dev>
+    <genre>Arcade</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BurgerTime World Tour (USA)">
+    <description>BurgerTime World Tour</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>MonkeyPaw Games</manufacturer>
+    <dev>Frozen Codebase</dev>
+    <genre>Action</genre>
+    <score>2.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Burn the Rope (USA)">
+    <description>Burn the Rope</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Big Blue Bubble</manufacturer>
+    <dev>Big Blue Bubble</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bust-a-Move Plus! (USA)">
+    <description>Bust-a-Move Plus!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev>Taito</dev>
+    <genre>Puzze</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carmen Sandiego Adventures in Math - The Big Ben Burglary (USA)">
+    <description>Carmen Sandiego Adventures in Math - The Big Ben Burglary</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Learning Company</manufacturer>
+    <dev>Gamelion</dev>
+    <genre>Education</genre>
+    <score>3.7</score>
+    <player>1-6 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carmen Sandiego Adventures in Math - The Case of the Crumbling Cathedral (USA)">
+    <description>Carmen Sandiego Adventures in Math - The Case of the Crumbling Cathedral</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Learning Company</manufacturer>
+    <dev>Gamelion</dev>
+    <genre>Education</genre>
+    <score>4.2</score>
+    <player>1-6 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carmen Sandiego Adventures in Math - The Great Gateway Grab (USA)">
+    <description>Carmen Sandiego Adventures in Math - The Great Gateway Grab</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Learning Company</manufacturer>
+    <dev>Gamelion</dev>
+    <genre>Education</genre>
+    <score>3.7</score>
+    <player>1-6 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carmen Sandiego Adventures in Math - The Island of Diamonds (USA)">
+    <description>Carmen Sandiego Adventures in Math - The Island of Diamonds</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Learning Company</manufacturer>
+    <dev>Gamelion</dev>
+    <genre>Adventure</genre>
+    <score>4.2</score>
+    <player>1-6 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carmen Sandiego Adventures in Math - The Lady Liberty Larceny (USA)">
+    <description>Carmen Sandiego Adventures in Math - The Lady Liberty Larceny</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Learning Company</manufacturer>
+    <dev>Gamelion</dev>
+    <genre>Education</genre>
+    <score>3.8</score>
+    <player>1-6 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carnival King (USA)">
+    <description>Carnival King</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Incredible Technologies</manufacturer>
+    <dev>Incredible Technologies</dev>
+    <genre>Shooter</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Castlevania - The Adventure ReBirth (USA)">
+    <description>Castlevania - The Adventure ReBirth</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cave Story (USA) (v258)">
+    <description>Cave Story</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Nicalis</manufacturer>
+    <dev>Studio Pixel</dev>
+    <genre>Adventure</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chess Challenge! (USA)">
+    <description>Chess Challenge!</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Board Game</genre>
+    <score>3.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chick Chick BOOM (USA)">
+    <description>Chick Chick BOOM</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Arc System Works</manufacturer>
+    <dev>tons of bits</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chindouchuu!! Pole no Daibouken (Japan)">
+    <description>Chindouchuu!! Pole no Daibouken</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev>Sega</dev>
+    <genre>Action</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Christmas Clix (USA)">
+    <description>Christmas Clix</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>JV Games</manufacturer>
+    <dev>JV Games</dev>
+    <genre>Puzzle</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chronos Twins DX (USA)">
+    <description>Chronos Twins DX</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>EnjoyUP Games</manufacturer>
+    <dev>EnjoyUP Games</dev>
+    <genre>Platformer</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cocoto Fishing Master (USA)">
+    <description>Cocoto Fishing Master</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Neko Entertainment</manufacturer>
+    <dev>Neko Entertainment</dev>
+    <genre>Simulation</genre>
+    <score>2.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cocoto Platform Jumper (USA)">
+    <description>Cocoto Platform Jumper</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Neko Entertainment</manufacturer>
+    <dev>Neko Entertainment</dev>
+    <genre>Platformer</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ColorZ (USA)">
+    <description>ColorZ</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Luck Plus</manufacturer>
+    <dev>Exkee</dev>
+    <genre>Puzzle</genre>
+    <score>4.0</score>
+    <player>1-3 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Contra ReBirth (USA)">
+    <description>Contra ReBirth</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Action</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Copter Crisis (USA)">
+    <description>Copter Crisis</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Simulation</genre>
+    <score>3.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cozy Fire (USA)">
+    <description>Cozy Fire</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>dtp young entertainment</manufacturer>
+    <dev>dtp young entertainment</dev>
+    <genre>Simulation</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cricket Challenge (Europe)">
+    <description>Cricket Challenge</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameshastra</manufacturer>
+    <dev>Gameshastra</dev>
+    <genre>Sports</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Critter Round-Up (USA)">
+    <description>Critter Round-Up</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Epicenter Studios</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cruise Party (USA)">
+    <description>Cruise Party</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Enjoy Gaming</manufacturer>
+    <dev>Visual Impact</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crystal Defenders R1 (USA)">
+    <description>Crystal Defenders R1</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Square Enix</dev>
+    <genre>Strategy</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crystal Defenders R2 (USA)">
+    <description>Crystal Defenders R2</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Square Enix</dev>
+    <genre>Strategy</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dart Rage (USA)">
+    <description>Dart Rage</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>JV Games</manufacturer>
+    <dev>JV Games</dev>
+    <genre>Sports</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Darts Wii (Japan)">
+    <description>Darts Wii</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Alpha Unit</manufacturer>
+    <dev>Alpha Unit</dev>
+    <genre>Other</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Deer Captor (USA)">
+    <description>Deer Captor</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Arc System Works</manufacturer>
+    <dev>Aksys Games</dev>
+    <genre>Other</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Defend Your Castle (USA)">
+    <description>Defend Your Castle</description>
+    <year>2008</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>XGen Studios</manufacturer>
+    <dev>XGen Studios</dev>
+    <genre>Action</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Derby Dogs (USA)">
+    <description>Derby Dogs</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Arksys Games</manufacturer>
+    <dev>SIMS Co. Ltd</dev>
+    <genre>Simulation</genre>
+    <score>3.9</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Diatomic (USA)">
+    <description>Diatomic</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Grendel Games</manufacturer>
+    <dev>Grendel Games</dev>
+    <genre>Arcade</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Diner Dash (USA)">
+    <description>Diner Dash</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Puzzle</genre>
+    <score>4.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Discipline - Teikoku no Tanjyou (Japan)">
+    <description>Discipline - Teikoku no Tanjyou</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Unigame Bunko</manufacturer>
+    <dev>Marvelous Entertainment,</dev>
+    <genre>Other</genre>
+    <score>2.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dive - The Medes Islands Secret (USA)">
+    <description>Dive - The Medes Islands Secret</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cosmonaut Games</manufacturer>
+    <dev>Cosmonaut Games</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doc Clock - The Toasted Sandwich of Time (USA)">
+    <description>Doc Clock - The Toasted Sandwich of Time</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Stickmen Studios</manufacturer>
+    <dev>Stickmen Studios</dev>
+    <genre>Puzzle</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doc Louiss Punch Out (USA) (Promo)">
+    <description>Doc Louiss Punch Out</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Next Level Games</dev>
+    <genre>Arcade</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Downtown Nekketsu Dodgeball (Japan)">
+    <description>Downtown Nekketsu Dodgeball</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Miracle Kidz</manufacturer>
+    <dev>Miracle Kidz</dev>
+    <genre>Sports</genre>
+    <score>4.5</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dr. Mario Online Rx (USA) (v256)">
+    <description>Dr. Mario Online Rx</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Arika</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dracula - Undead Awakening (USA)">
+    <description>Dracula - Undead Awakening</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Chillingo</manufacturer>
+    <dev>MoreGames Ent.</dev>
+    <genre>Action</genre>
+    <score>3.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dragon Master Spell Caster (USA)">
+    <description>Dragon Master Spell Caster</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Stickmen Studios</manufacturer>
+    <dev>Stickmen Studios</dev>
+    <genre>Adventure</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Driift Mania (USA)">
+    <description>Driift Mania</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Racing</genre>
+    <score>3.7</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drill Sergeant Mindstrong (USA)">
+    <description>Drill Sergeant Mindstrong</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Xseed Games, Rising Star Games</manufacturer>
+    <dev>HI Games and Publishing</dev>
+    <genre>Puzzle</genre>
+    <score>2.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drop Zone - Under Fire (USA)">
+    <description>Drop Zone - Under Fire</description>
+    <year>2012</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Selectsoft</manufacturer>
+    <dev>Selectsoft</dev>
+    <genre>Action</genre>
+    <score>4.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eat! Fat! FIGHT! (USA)">
+    <description>Eat! Fat! FIGHT!</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Tecmo</manufacturer>
+    <dev>Tecmo</dev>
+    <genre>Fighting</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eco Shooter - Plant 530 (USA)">
+    <description>Eco Shooter - Plant 530</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Intelligent Systems</dev>
+    <genre>Shooter</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eduardo the Samurai Toaster (USA)">
+    <description>Eduardo the Samurai Toaster</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Semnat Studios</manufacturer>
+    <dev>Semnat Studios</dev>
+    <genre>Action</genre>
+    <score>3.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Enjoy your Massage! (USA)">
+    <description>Enjoy your Massage!</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Microforum Ltd.</manufacturer>
+    <dev>Microforum Ltd.</dev>
+    <genre>Relaxation</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Equilibrio (USA)">
+    <description>Equilibrio</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Marvelous Entertainment</manufacturer>
+    <dev>DK Games</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="escapeVektor - Chapter 1 (USA)">
+    <description>escapeVektor - Chapter 1</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nnooo</manufacturer>
+    <dev>Nnooo</dev>
+    <genre>Arcade</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Evasive Space (USA)">
+    <description>Evasive Space</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Yuke&apos;s</manufacturer>
+    <dev>High Voltage Software</dev>
+    <genre>Action</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excitebike - World Rally (USA) (v512)">
+    <description>Excitebike - World Rally</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Monster Games</dev>
+    <genre>Racing</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="F-O-R-T-U-N-E - Hoshi no Furi Sosogu Oka (Japan)">
+    <description>F-O-R-T-U-N-E - Hoshi no Furi Sosogu Oka</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cybird</manufacturer>
+    <dev>Cybird</dev>
+    <genre>Adventure</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family &amp; Friends Party (USA) (v257)">
+    <description>Family &amp; Friends Party</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gammick Entertainment</manufacturer>
+    <dev>Gammick Entertainment</dev>
+    <genre>Other</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Card Games (USA)">
+    <description>Family Card Games</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Simulation</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Games - Pen and Paper Edition (USA)">
+    <description>Family Games - Pen and Paper Edition</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev>Icon Games</dev>
+    <genre>Board Games</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Glide Hockey (USA)">
+    <description>Family Glide Hockey</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Sports</genre>
+    <score>3.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Go-Kart Racing (USA)">
+    <description>Family Go-Kart Racing</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Racing</genre>
+    <score>2.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Mini Golf (USA)">
+    <description>Family Mini Golf</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Sports</genre>
+    <score>3.9</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Pirate Party (USA)">
+    <description>Family Pirate Party</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Board Games</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Slot Car Racing (USA)">
+    <description>Family Slot Car Racing</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Racing</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Table Tennis (USA)">
+    <description>Family Table Tennis</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>505 Games</manufacturer>
+    <dev>Aksys Games</dev>
+    <genre>Sports</genre>
+    <score>2.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Tennis (USA)">
+    <description>Family Tennis</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Aksys Games</manufacturer>
+    <dev>Aksys Games</dev>
+    <genre>Sports</genre>
+    <score>3.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fantasic Cube (Japan)">
+    <description>Fantasic Cube</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Zoom Inc.</manufacturer>
+    <dev>Zoom Inc.</dev>
+    <genre>Other</genre>
+    <score>4.2</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fantastic Tambourine (Japan)">
+    <description>Fantastic Tambourine</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Zoom Inc.</manufacturer>
+    <dev>Zoom Inc.</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fantasy Slots - Adventure Slots and Games (USA)">
+    <description>Fantasy Slots - Adventure Slots and Games</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Big John Games</manufacturer>
+    <dev>Big John Games</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="FAST - Racing League (USA)">
+    <description>FAST - Racing League</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Shin&apos;en Multimedia</manufacturer>
+    <dev>Shin&apos;en Multimedia</dev>
+    <genre>Racing</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fast Draw Showdown (USA)">
+    <description>Fast Draw Showdown</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Shooter</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fenimore Fillmore - The Westerner (USA)">
+    <description>Fenimore Fillmore - The Westerner</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Revistronic</manufacturer>
+    <dev>Revistronic</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Final Fantasy Crystal Chronicles - My Life as a Darklord (USA)">
+    <description>Final Fantasy Crystal Chronicles - My Life as a Darklord</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Square Enix</dev>
+    <genre>Strategy</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Final Fantasy Crystal Chronicles - My Life as a King (USA)">
+    <description>Final Fantasy Crystal Chronicles - My Life as a King</description>
+    <year>2008</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Square Enix</dev>
+    <genre>Strategy</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Final Fantasy IV - The After Years (USA)">
+    <description>Final Fantasy IV - The After Years</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Square Enix, Matrix Software</manufacturer>
+    <dev>Matrix Software</dev>
+    <genre>RPG</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fireplacing (USA)">
+    <description>Fireplacing</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Korner Entertainment</manufacturer>
+    <dev>Continental Producciones</dev>
+    <genre>Relaxation</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fish Tank (USA)">
+    <description>Fish Tank</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>iFun4all</manufacturer>
+    <dev>iFun4all</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fish&apos;em All (USA)">
+    <description>Fish&apos;em All</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Abylight</manufacturer>
+    <dev>Abylight</dev>
+    <genre>Arcade</genre>
+    <score>4.2</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fishie Fishie (USA)">
+    <description>Fishie Fishie</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>DK Games</manufacturer>
+    <dev>DK Games</dev>
+    <genre>Arcade</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Flight Control (USA)">
+    <description>Flight Control</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Firemint</manufacturer>
+    <dev>Firemint</dev>
+    <genre>Puzzle</genre>
+    <score>4.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Flowerworks (USA)">
+    <description>Flowerworks</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nocturnal Entertainment</manufacturer>
+    <dev>Nocturnal Entertainment</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fluidity (USA)">
+    <description>Fluidity</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Curve Studios</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frobot (USA)">
+    <description>Frobot</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Fugazo</manufacturer>
+    <dev>Fugazo</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger - Hyper Arcade Edition (USA)">
+    <description>Frogger - Hyper Arcade Edition</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Zombie Studios</dev>
+    <genre>Arcade</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger Returns (USA)">
+    <description>Frogger Returns</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Arcade</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fun! Fun! Minigolf (USA)">
+    <description>Fun! Fun! Minigolf</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Shin&apos;en Multimedia</manufacturer>
+    <dev>Shin&apos;en Multimedia</dev>
+    <genre>Sports</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Furry Legends (USA)">
+    <description>Furry Legends</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gamelion Studios</manufacturer>
+    <dev>Gamelion Studios</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gabrielle&apos;s Ghostly Groove - Monster Mix (USA)">
+    <description>Gabrielle&apos;s Ghostly Groove - Monster Mix</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev>Santa Entertainment,</dev>
+    <genre>Dancing</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Game Sound Station (Japan)">
+    <description>Game Sound Station</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gust Corporation</manufacturer>
+    <dev>Gust Corporation</dev>
+    <genre>Music</genre>
+    <score>4.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gene Labs (USA)">
+    <description>Gene Labs</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Frontline Studios</manufacturer>
+    <dev>Frontline Studios</dev>
+    <genre>Puzzle</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ghost Mania (USA)">
+    <description>Ghost Mania</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Legendo Entertainment</manufacturer>
+    <dev>Legendo Entertainment</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ghost Mansion Party (USA)">
+    <description>Ghost Mansion Party</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Board Game</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="GhostSlayer (USA)">
+    <description>GhostSlayer</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Gevo Entertainment</manufacturer>
+    <dev>Gevo Entertainment</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Girlfriends Forever - Magic Skate (Europe)">
+    <description>Girlfriends Forever - Magic Skate</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Kolkom</manufacturer>
+    <dev>Kolkom</dev>
+    <genre>Other</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gnomz (USA)">
+    <description>Gnomz</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>QubicGames</manufacturer>
+    <dev>QubicGames</dev>
+    <genre>Arcade</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gods vs. Humans (USA)">
+    <description>Gods vs. Humans</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Zallage</manufacturer>
+    <dev>Artefacts Studio</dev>
+    <genre>Strategy</genre>
+    <score>2.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gradius ReBirth (USA) (v257)">
+    <description>Gradius ReBirth</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Shooter</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gravitronix (USA)">
+    <description>Gravitronix</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Medaverse Studios</manufacturer>
+    <dev>Medaverse Studios</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Grill-Off with Ultra Hand! (USA) (Promo)">
+    <description>Grill-Off with Ultra Hand!</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Nintendo</dev>
+    <genre>Arcade</genre>
+    <score>2.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Groovin&apos; Blocks (USA)">
+    <description>Groovin&apos; Blocks</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Empty Clip Studios</manufacturer>
+    <dev>Empty Clip Studios</dev>
+    <genre>Puzzle</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gyrostarr (USA)">
+    <description>Gyrostarr</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>High Voltage Software</manufacturer>
+    <dev>High Voltage Software</dev>
+    <genre>Shooter</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hajiite! Block Rush (Japan)">
+    <description>Hajiite! Block Rush</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Agenda</manufacturer>
+    <dev>Agenda</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hamekomi Lucky Puzzle Wii Returns (Japan)">
+    <description>Hamekomi Lucky Puzzle Wii Returns</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tryfirst</manufacturer>
+    <dev>Yuke&apos;s</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Happy Hammerin&apos; (USA)">
+    <description>Happy Hammerin&apos;</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gamebridge</manufacturer>
+    <dev>Agenda</dev>
+    <genre>Action</genre>
+    <score>3.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Happy Holidays - Christmas (USA)">
+    <description>Happy Holidays - Christmas</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>505 Games</manufacturer>
+    <dev>505 Games</dev>
+    <genre>Other</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Happy Holidays - Halloween (USA)">
+    <description>Happy Holidays - Halloween</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>505 Games</manufacturer>
+    <dev>505 Games</dev>
+    <genre>Other</genre>
+    <score>2.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Harvest Moon - My Little Shop (USA)">
+    <description>Harvest Moon - My Little Shop</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev>Marvelous Entertainment</dev>
+    <genre>Simulation</genre>
+    <score>3.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="HB Arcade Cards (USA)">
+    <description>HB Arcade Cards</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>HB Studios</manufacturer>
+    <dev>HB Studios</dev>
+    <genre>Simulation</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="HB Arcade Disc Golf (USA)">
+    <description>HB Arcade Disc Golf</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>HB Studios</manufacturer>
+    <dev>HB Studios</dev>
+    <genre>Sports</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Heavy Fire - Black Arms (USA)">
+    <description>Heavy Fire - Black Arms</description>
+    <year>2011</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Teyon</manufacturer>
+    <dev>Teyon</dev>
+    <genre>Shooter</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Heavy Fire - Special Operations (USA)">
+    <description>Heavy Fire - Special Operations</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Teyon</manufacturer>
+    <dev>Teyon</dev>
+    <genre>Shooter</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Helix (USA)">
+    <description>Helix</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ghostfire Games</manufacturer>
+    <dev>Ghostfire Games</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Heracles Chariot Racing (USA)">
+    <description>Heracles Chariot Racing</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Neko Entertainment</manufacturer>
+    <dev>Neko Entertainment</dev>
+    <genre>Racing</genre>
+    <score>2.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Heron - Steam Machine (USA)">
+    <description>Heron - Steam Machine</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Triangle Studios</manufacturer>
+    <dev>Triangle Studios</dev>
+    <genre>Puzzle</genre>
+    <score>3.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="High Voltage Hot Rod Show (USA)">
+    <description>High Voltage Hot Rod Show</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>High Voltage Software</manufacturer>
+    <dev>High Voltage Software</dev>
+    <genre>Racing</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hirameki Card Battle - Mekuruka (Japan)">
+    <description>Hirameki Card Battle - Mekuruka</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tom Create</manufacturer>
+    <dev>Tom Create</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hockey Allstar Shootout (USA)">
+    <description>Hockey Allstar Shootout</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Big Blue Bubble</manufacturer>
+    <dev>Big Blue Bubble</dev>
+    <genre>Sports</genre>
+    <score>2.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Home Sweet Home (USA)">
+    <description>Home Sweet Home</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Big Blue Bubble</manufacturer>
+    <dev>Big Blue Bubble</dev>
+    <genre>Simulation</genre>
+    <score>2.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="HoopWorld (USA)">
+    <description>HoopWorld</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Streamline Studios Virtual Toys</manufacturer>
+    <dev>Streamline Studios</dev>
+    <genre>Sports</genre>
+    <score>4.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Horizon Riders (USA)">
+    <description>Horizon Riders</description>
+    <year>2011</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Sabarasa</manufacturer>
+    <dev>Sabarasa</dev>
+    <genre>Racing</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hubert the Teddy Bear - Winter Games (USA)">
+    <description>Hubert the Teddy Bear - Winter Games</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Teyon</manufacturer>
+    <dev>Teyon</dev>
+    <genre>Sports</genre>
+    <score>3.1</score>
+    <player>1-16 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Incoming! (USA)">
+    <description>Incoming!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>JV Games</manufacturer>
+    <dev>JV Games</dev>
+    <genre>Strategy</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Incredible Maze, The (USA)">
+    <description>Incredible Maze, The</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Puzzle</genre>
+    <score>2.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Inkub (USA)">
+    <description>Inkub</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cosmonaut Games</manufacturer>
+    <dev>Cosmonaut Games</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ivy the Kiwi - Mini (Japan)">
+    <description>Ivy the Kiwi - Mini</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Xseed Games</manufacturer>
+    <dev>Namco Bandai</dev>
+    <genre>Adventure</genre>
+    <score>4.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jam City Rollergirls (USA)">
+    <description>Jam City Rollergirls</description>
+    <year>2011</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Frozen Codebase</manufacturer>
+    <dev>Frozen Codebase</dev>
+    <genre>Sports</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Janken Party Paradise (Japan)">
+    <description>Janken Party Paradise</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Studio Zan</manufacturer>
+    <dev>Studio Zan</dev>
+    <genre>Other</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="JellyCar 2 (USA)">
+    <description>JellyCar 2</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Disney Interactive Studios</manufacturer>
+    <dev>Mistic Software</dev>
+    <genre>Driving</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jett Rocket (USA)">
+    <description>Jett Rocket</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Shin&apos;en Multimedia</manufacturer>
+    <dev>Shin&apos;en Multimedia</dev>
+    <genre>Action</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jewel Keepers - Easter Island (USA)">
+    <description>Jewel Keepers - Easter Island</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Puzzle</genre>
+    <score>4.2</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jinsei Game (Japan)">
+    <description>Jinsei Game</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Other</genre>
+    <score>4.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jinsei Game - Happy Step (Japan)">
+    <description>Jinsei Game - Happy Step</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Other</genre>
+    <score>4.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jintori Action! Taikoukenchi - Karakuri Shiro no Nazo (Japan)">
+    <description>Jintori Action! Taikoukenchi - Karakuri Shiro no Nazo</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Perpetuum</manufacturer>
+    <dev>Perpetuum</dev>
+    <genre>Action</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jungle Speed (USA)">
+    <description>Jungle Speed</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Playful Entertainment</manufacturer>
+    <dev>Playful Entertainment</dev>
+    <genre>Board Game</genre>
+    <score>4.2</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Just JAM (USA)">
+    <description>Just JAM</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Big John Games</manufacturer>
+    <dev>Big John Games</dev>
+    <genre>Creative</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kaku! Ugoku! Tsukamaeru! Sensei Wii (Japan)">
+    <description>Kaku! Ugoku! Tsukamaeru! Sensei Wii</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Action</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kanken - Minna de Wai Wai Kanji Nou (Japan)">
+    <description>Kanken - Minna de Wai Wai Kanji Nou</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>IE Institute Co. Ltd.</manufacturer>
+    <dev>IE Institute Co. Ltd.</dev>
+    <genre>Other</genre>
+    <score>3.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kappa-kun to Asobou - Kappa-kun no Ota no Shimikai (Japan)">
+    <description>Kappa-kun to Asobou - Kappa-kun no Ota no Shimikai</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cable Entertainment</manufacturer>
+    <dev>Cable Entertainment</dev>
+    <genre>Other</genre>
+    <score>4.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kappa-kun to Asobou - Kappa-kun to 3 Bikino Koneko (Japan)">
+    <description>Kappa-kun to Asobou - Kappa-kun to 3 Bikino Koneko</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cable Entertainment</manufacturer>
+    <dev>Cable Entertainment</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kappa-kun to Asobou - Kappa-kun to Mori no Nakamatachi (Japan)">
+    <description>Kappa-kun to Asobou - Kappa-kun to Mori no Nakamatachi</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cable Entertainment</manufacturer>
+    <dev>Cable Entertainment</dev>
+    <genre>Other</genre>
+    <score>4.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Karaoke Joysound Wii (Japan)">
+    <description>Karaoke Joysound Wii</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Xing Inc.</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Music</genre>
+    <score>3.6</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Karate Phants - Gloves of Glory (Europe)">
+    <description>Karate Phants - Gloves of Glory</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Snap Dragon</manufacturer>
+    <dev>Snap Dragon</dev>
+    <genre>Fighting</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kentei TV! Wii - Minna de Gotouchi Quiz Battle! (Japan)">
+    <description>Kentei TV! Wii - Minna de Gotouchi Quiz Battle!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Kosaido Co. Ltd.</manufacturer>
+    <dev>Kosaido Co. Ltd.</dev>
+    <genre>Quiz</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kentoushi - Furi Furi Boxing (Japan)">
+    <description>Kentoushi - Furi Furi Boxing</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Sports</genre>
+    <score>4.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kodomo Kyouiku Terebi Wii - Aiue Ouchan (Japan)">
+    <description>Kodomo Kyouiku Terebi Wii - Aiue Ouchan</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Home Media</manufacturer>
+    <dev>Home Media</dev>
+    <genre>Other</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kodomo Kyouiku Terebi Wii - Aiue Oumuzu (Japan)">
+    <description>Kodomo Kyouiku Terebi Wii - Aiue Oumuzu</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Home Media</manufacturer>
+    <dev>Home Media</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kotoba no Puzzle - Mojipittan Wii (Japan) (v257)">
+    <description>Kotoba no Puzzle - Mojipittan Wii</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Namco Bandai</manufacturer>
+    <dev>Namco Bandai</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kung Fu Funk - Everybody is Kung Fu Fighting! (USA)">
+    <description>Kung Fu Funk - Everybody is Kung Fu Fighting!</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Stickmen Studios</manufacturer>
+    <dev>Stickmen Studios</dev>
+    <genre>Action</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kyotokei (USA)">
+    <description>Kyotokei</description>
+    <year>2011</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Microforum Ltd.</manufacturer>
+    <dev>Microforum Ltd.</dev>
+    <genre>Shooter</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="La-Mulana (USA)">
+    <description>La-Mulana</description>
+    <year>2012</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Nicalis, Asterizm</manufacturer>
+    <dev>Nigoro</dev>
+    <genre>Action</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lead the Meerkats (USA)">
+    <description>Lead the Meerkats</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Lapland Studio</manufacturer>
+    <dev>Lapland Studio</dev>
+    <genre>Simulation</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Learning with The PooYoos - Episode 1 (USA)">
+    <description>Learning with The PooYoos - Episode 1</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Lexis Numerique</manufacturer>
+    <dev>Lexis Numerique</dev>
+    <genre>Education</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Learning with The PooYoos - Episode 2 (USA)">
+    <description>Learning with The PooYoos - Episode 2</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Lexis Numerique</manufacturer>
+    <dev>Lexis Numerique</dev>
+    <genre>Education</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Learning with The PooYoos - Episode 3 (USA)">
+    <description>Learning with The PooYoos - Episode 3</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Lexis Numerique</manufacturer>
+    <dev>Lexis Numerique</dev>
+    <genre>Education</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Let&apos;s Catch (USA)">
+    <description>Let&apos;s Catch</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev>Prope</dev>
+    <genre>Sports</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Let&apos;s Create! - Pottery (USA)">
+    <description>Let&apos;s Create! - Pottery</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Infinite Dreams Inc.</manufacturer>
+    <dev>Infinite Dreams Inc.</dev>
+    <genre>Other</genre>
+    <score>4.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Let&apos;s Zenryoku Hitchhike!!!!!!!!! (Japan)">
+    <description>Let&apos;s Zenryoku Hitchhike!!!!!!!!!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>DropWave</manufacturer>
+    <dev>Nippon Ichi Software</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Licca-chan Oshare House (Japan)">
+    <description>Licca-chan Oshare House</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Other</genre>
+    <score>4.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Liight (USA)">
+    <description>Liight</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Studio Walljump</manufacturer>
+    <dev>Studio Walljump</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lilt Line (USA)">
+    <description>Lilt Line</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gaijin Games</manufacturer>
+    <dev>Gaijin Games</dev>
+    <genre>Music</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Line Attack Heroes (Japan)">
+    <description>Line Attack Heroes</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Grezzo</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="LIT (USA)">
+    <description>LIT</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>WayForward Technologies</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Little Tournament Over Yonder (USA)">
+    <description>Little Tournament Over Yonder</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Gevo Entertainment</manufacturer>
+    <dev>Gevo Entertainment</dev>
+    <genre>Strategy</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lonpos (USA)">
+    <description>Lonpos</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Genki,</dev>
+    <genre>Puzzle</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="LostWinds (USA)">
+    <description>LostWinds</description>
+    <year>2008</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Frontier Developments</dev>
+    <genre>Adventure</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="LostWinds - Winter of the Melodias (USA)">
+    <description>LostWinds - Winter of the Melodias</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Frontier Developments</dev>
+    <genre>Adventure</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Maboshi&apos;s Arcade (USA)">
+    <description>Maboshi&apos;s Arcade</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Mindware Corp</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1-3 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MadStone (USA)">
+    <description>MadStone</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>RiverMan Media</manufacturer>
+    <dev>RiverMan Media</dev>
+    <genre>Puzzle</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magic Destiny - Astrological Games (USA)">
+    <description>Magic Destiny - Astrological Games</description>
+    <year>2001</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Shanblue Interactive</manufacturer>
+    <dev>Shanblue Interactive</dev>
+    <genre>Simulation</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magic Obelisk, The (USA)">
+    <description>Magic Obelisk, The</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Game Arts</manufacturer>
+    <dev>Game Arts</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magnetica Twist (USA)">
+    <description>Magnetica Twist</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Mitchell Corporation</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magnetis (USA)">
+    <description>Magnetis</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Yullaby</manufacturer>
+    <dev>Yullaby</dev>
+    <genre>Puzzle</genre>
+    <score>4.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mahjong (Europe)">
+    <description>Mahjong</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cosmiga</manufacturer>
+    <dev> GameOn</dev>
+    <genre>Board Game</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Major League Eating - The Game (USA)">
+    <description>Major League Eating - The Game</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Mastiff</manufacturer>
+    <dev>Mastiff</dev>
+    <genre>Simulation</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Manic Monkey Mayhem (USA)">
+    <description>Manic Monkey Mayhem</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Code Monkeys Ltd.</manufacturer>
+    <dev>The Code Monkeys Ltd.</dev>
+    <genre>Action</genre>
+    <score>4.2</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mart Racer (USA)">
+    <description>Mart Racer</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Joju Games</manufacturer>
+    <dev>Joju Games</dev>
+    <genre>Racing</genre>
+    <score>2.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Max &amp; the Magic Marker (USA)">
+    <description>Max &amp; the Magic Marker</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Press Play</manufacturer>
+    <dev>Marvelous Entertainment</dev>
+    <genre>Platformer</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MDK2 (USA)">
+    <description>MDK2</description>
+    <year>2011</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Interplay</manufacturer>
+    <dev>Beamdog</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mega Man 10 (USA)">
+    <description>Mega Man 10</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev>Inti Creates</dev>
+    <genre>Platformer</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mega Man 9 (USA)">
+    <description>Mega Man 9</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev>Inti Creates</dev>
+    <genre>Platformer</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Midnight Bowling (USA)">
+    <description>Midnight Bowling</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Sports</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Midnight Pool (USA)">
+    <description>Midnight Pool</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Sports</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Miffy&apos;s World (Europe)">
+    <description>Miffy&apos;s World</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>PAN Vision</manufacturer>
+    <dev>Biodroid</dev>
+    <genre>Education</genre>
+    <score>2.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Military Madness - Nectaris (USA)">
+    <description>Military Madness - Nectaris</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Backbone Entertainment</dev>
+    <genre>Strategy</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Minna de Asobou - Koinu de Kururin (Japan)">
+    <description>Minna de Asobou - Koinu de Kururin</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>MTO</manufacturer>
+    <dev>MTO</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Minna de Taisen Puzzle - Shanghai Wii (Japan)">
+    <description>Minna de Taisen Puzzle - Shanghai Wii</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sunsoft</manufacturer>
+    <dev>Sunsoft</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Minna de Tobikome! Penguin Diving - Hooper Looper (Japan)">
+    <description>Minna de Tobikome! Penguin Diving - Hooper Looper</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Agenda</manufacturer>
+    <dev>Agenda</dev>
+    <genre>Action</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Minna no Theater Wii (Japan)">
+    <description>Minna no Theater Wii</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Fuji Soft</manufacturer>
+    <dev>Fuji Soft</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mister Bumblebee Racing Champion (Europe)">
+    <description>Mister Bumblebee Racing Champion</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>h2f Informationssysteme</manufacturer>
+    <dev>h2f Informationssysteme</dev>
+    <genre>Racing</genre>
+    <score>2.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mix Superstar (USA)">
+    <description>Mix Superstar</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Music</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moebius Drive (Japan)">
+    <description>Moebius Drive</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Jorudan Co. Ltd.</manufacturer>
+    <dev>Jorudan Co. Ltd.</dev>
+    <genre>Driving</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moki Moki (USA)">
+    <description>Moki Moki</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev>Natsume</dev>
+    <genre>Puzzle</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monochrome Racing (USA)">
+    <description>Monochrome Racing</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Racing</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monsteca Corral, A - Monsters vs. Robots (USA)">
+    <description>Monsteca Corral, A - Monsters vs. Robots</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Onteca</manufacturer>
+    <dev>Onteca</dev>
+    <genre>Action</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MotoHeroz (USA)">
+    <description>MotoHeroz</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>RedLynx</manufacturer>
+    <dev>RedLynx</dev>
+    <genre>Racing</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mouse House (USA)">
+    <description>Mouse House</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Plaid World Studios</manufacturer>
+    <dev>Plaid World Studios</dev>
+    <genre>Puzzle</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mr. Driller W (USA)">
+    <description>Mr. Driller W</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Namco Bandai</manufacturer>
+    <dev>Namco Bandai</dev>
+    <genre>Action</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Muscle March (USA)">
+    <description>Muscle March</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Namco Bandai</manufacturer>
+    <dev>Namco Bandai</dev>
+    <genre>Arcade</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Aquarium (USA)">
+    <description>My Aquarium</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Relaxation</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Aquarium 2 (USA)">
+    <description>My Aquarium 2</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Relaxation</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Dolphin (USA)">
+    <description>My Dolphin</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>T&amp;S Ltd.</manufacturer>
+    <dev>T&amp;S Ltd.</dev>
+    <genre>Simulation</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Little Baby (USA)">
+    <description>My Little Baby</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>dtp young entertainment</manufacturer>
+    <dev>dtp young entertainment</dev>
+    <genre>Simulation</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Planetarium (USA)">
+    <description>My Planetarium</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Relaxation</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Pokemon Ranch (USA) (v256)">
+    <description>My Pokemon Ranch</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Ambrella</dev>
+    <genre>Relaxation</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="My Zoo (USA)">
+    <description>My Zoo</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Simulation</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mystery of Whiterock Castle, The (USA)">
+    <description>Mystery of Whiterock Castle, The</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>RTL Playtainment</manufacturer>
+    <dev>RTL Playtainment</dev>
+    <genre>Adventure</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Neves Plus (USA)">
+    <description>Neves Plus</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Yuke&apos;s</manufacturer>
+    <dev>Ignition Entertainment</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Newton vs The Horde (USA)">
+    <description>Newton vs The Horde</description>
+    <year>2012</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>RadiationBurn</manufacturer>
+    <dev>RadiationBurn</dev>
+    <genre>Arcade</genre>
+    <score>4.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Niki - Rock &apos;n&apos; Ball (USA)">
+    <description>Niki - Rock &apos;n&apos; Ball</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Bplus</manufacturer>
+    <dev>Bplus</dev>
+    <genre>Action</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="NyxQuest - Kindred Spirits (USA)">
+    <description>NyxQuest - Kindred Spirits</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Over The Top Games</manufacturer>
+    <dev>Agatsuma Entertainment</dev>
+    <genre>Platformer</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Oekaki Logic (Japan)">
+    <description>Oekaki Logic</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>G-Mode</manufacturer>
+    <dev>G-Mode</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Onslaught (USA)">
+    <description>Onslaught</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Shooter</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Order!! (Japan)">
+    <description>Order!!</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Poisoft</manufacturer>
+    <dev>Poisoft</dev>
+    <genre>Strategy</genre>
+    <score>4.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Osu! Exercise Doujou (Japan)">
+    <description>Osu! Exercise Doujou</description>
+    <year>2010</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>IE Institute Co. Ltd.</manufacturer>
+    <dev>IE Institute Co. Ltd.</dev>
+    <genre>Other</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Othello (Japan)">
+    <description>Othello</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Arc System Works</manufacturer>
+    <dev>Arc System Works</dev>
+    <genre>Board Game</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ouchide Mugen Puti Puti (Japan)">
+    <description>Ouchide Mugen Puti Puti</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Namco Bandai</manufacturer>
+    <dev>Namco Bandai</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Out of Galaxy - Gin no Koushika (Japan)">
+    <description>Out of Galaxy - Gin no Koushika</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Sunsoft</manufacturer>
+    <dev>Sunsoft</dev>
+    <genre>Action</genre>
+    <score>4.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Overflow (USA)">
+    <description>Overflow</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Puzzle</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Overturn (USA)">
+    <description>Overturn</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Studio Zan</manufacturer>
+    <dev>Studio Zan</dev>
+    <genre>Fighting</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Paint Splash (USA)">
+    <description>Paint Splash</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>KnapNok Games</manufacturer>
+    <dev>KnapNok Games</dev>
+    <genre>Creative</genre>
+    <score>4.2</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pallurikio (USA)">
+    <description>Pallurikio</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Playstos</manufacturer>
+    <dev>Playstos</dev>
+    <genre>Action</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Paper Wars - Cannon Fodder (USA)">
+    <description>Paper Wars - Cannon Fodder</description>
+    <year>2011</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>iFun4all</manufacturer>
+    <dev>iFun4all</dev>
+    <genre>Strategy</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Party Fun Pirate (USA)">
+    <description>Party Fun Pirate</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Other</genre>
+    <score>3.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pearl Harbor - Episode 1 - Red Sun Rising (USA)">
+    <description>Pearl Harbor - Episode 1 - Red Sun Rising</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Legendo Entertainment</manufacturer>
+    <dev>Legendo Entertainment</dev>
+    <genre>Shooter</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Penguins &amp; Friends - Hey! That&apos;s My Fish! (USA)">
+    <description>Penguins &amp; Friends - Hey! That&apos;s My Fish!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gammick Entertainment</manufacturer>
+    <dev>Gammick Entertainment</dev>
+    <genre>Board Game</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Phalanx (Japan)">
+    <description>Phalanx</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Zoom Inc.</manufacturer>
+    <dev>Zoom Inc.</dev>
+    <genre>Action</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Phoenix Wright - Ace Attorney (USA)">
+    <description>Phoenix Wright - Ace Attorney</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev>Capcom</dev>
+    <genre>Adventure</genre>
+    <score>4.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Phoenix Wright - Ace Attorney Justice for All (USA)">
+    <description>Phoenix Wright - Ace Attorney Justice for All</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev>Capcom</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Phoenix Wright - Ace Attorney Trials and Tribulations (USA)">
+    <description>Phoenix Wright - Ace Attorney Trials and Tribulations</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev>Capcom</dev>
+    <genre>Adventure</genre>
+    <score>4.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Physio Fun - Balance Training (Europe)">
+    <description>Physio Fun - Balance Training</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Kaasa Solution</manufacturer>
+    <dev>Kaasa Solution</dev>
+    <genre>Relaxation</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Physio Fun - Pelvic Floor Training (Europe)">
+    <description>Physio Fun - Pelvic Floor Training</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Kaasa Solution</manufacturer>
+    <dev>Kaasa Solution</dev>
+    <genre>Fitness</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PictureBook Games - Pop-Up Pursuit (USA)">
+    <description>PictureBook Games - Pop-Up Pursuit</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>h.a.n.d. Inc.</dev>
+    <genre>Board Game</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinocchio&apos;s Puzzle (USA)">
+    <description>Pinocchio&apos;s Puzzle</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>EnjoyUp Games</manufacturer>
+    <dev>EnjoyUp Games</dev>
+    <genre>Puzzle</genre>
+    <score>3.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pirates - The Key of Dreams (USA)">
+    <description>Pirates - The Key of Dreams</description>
+    <year>2008</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Oxygen Games</manufacturer>
+    <dev>Oxygen Games</dev>
+    <genre>Action</genre>
+    <score>3.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pit Crew Panic! (USA)">
+    <description>Pit Crew Panic!</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Plaettchen Twist &apos;n&apos; Paint (USA)">
+    <description>Plaettchen Twist &apos;n&apos; Paint</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Bplus</manufacturer>
+    <dev>Bplus</dev>
+    <genre>Puzzle</genre>
+    <score>2.9</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Planet Fish (USA)">
+    <description>Planet Fish</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ludia</manufacturer>
+    <dev>Ludia</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Planet Pachinko (USA)">
+    <description>Planet Pachinko</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Allied Kingdoms</manufacturer>
+    <dev>Allied Kingdoms</dev>
+    <genre>Platformer</genre>
+    <score>3.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Play with Birds (USA)">
+    <description>Play with Birds</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Games Farm</manufacturer>
+    <dev>Games Farm</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan (Japan)">
+    <description>Pokemon Fushigi no Dungeon - Ikuzo! Arashi no Boukendan</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Chunsoft</dev>
+    <genre>Role-Playing</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Fushigi no Dungeon - Mezase! Hikari no Boukendan (Japan)">
+    <description>Pokemon Fushigi no Dungeon - Mezase! Hikari no Boukendan</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Chunsoft</dev>
+    <genre>Role-Playing</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan (Japan)">
+    <description>Pokemon Fushigi no Dungeon - Susume! Honou no Boukendan</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Chunsoft</dev>
+    <genre>Role-Playing</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Rumble (USA)">
+    <description>Pokemon Rumble</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Ambrella</dev>
+    <genre>Fighting</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokers Wii (Japan)">
+    <description>Pokers Wii</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Milestone</manufacturer>
+    <dev>UFO Interactive</dev>
+    <genre>Puzzle</genre>
+    <score>3.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokosuka Racing (Japan)">
+    <description>Pokosuka Racing</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Recom</manufacturer>
+    <dev>Recom</dev>
+    <genre>Driving</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pong Toss Pro - Frat Party Games (USA)">
+    <description>Pong Toss Pro - Frat Party Games</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>JV Games</manufacturer>
+    <dev>JV Games</dev>
+    <genre>Board Game</genre>
+    <score>1.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pong Toss! Frat Party Games (USA)">
+    <description>Pong Toss! Frat Party Games</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>JV Games</manufacturer>
+    <dev>JV Games</dev>
+    <genre>Sports</genre>
+    <score>2.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ponjan Wii (Japan)">
+    <description>Ponjan Wii</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pool Revolution - Cue Sports (USA)">
+    <description>Pool Revolution - Cue Sports</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Sports</genre>
+    <score>2.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop (USA)">
+    <description>Pop</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Electronic Arts</manufacturer>
+    <dev>Nnooo,</dev>
+    <genre>Puzzle</genre>
+    <score>3.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop &apos;Em, Drop &apos;Em SameGame (USA)">
+    <description>Pop &apos;Em, Drop &apos;Em SameGame</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Popple to Mahou no Crayon (Japan)">
+    <description>Popple to Mahou no Crayon</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>G-Mode</manufacturer>
+    <dev>G-Mode</dev>
+    <genre>Action</genre>
+    <score>4.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Potpourrii (USA)">
+    <description>Potpourrii</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Abstraction Games</manufacturer>
+    <dev>Abstraction Games</dev>
+    <genre>Puzzle</genre>
+    <score>3.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Ai Monogatari (Japan)">
+    <description>Princess Ai Monogatari</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sunsoft</manufacturer>
+    <dev>Sunsoft</dev>
+    <genre>Other</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Protoethea (USA)">
+    <description>Protoethea</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Builders</manufacturer>
+    <dev>Sabarasa, Ubisoft</dev>
+    <genre>Shooter</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pub Darts (USA)">
+    <description>Pub Darts</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Big Blue Bubble</manufacturer>
+    <dev>Big Blue Bubble</dev>
+    <genre>Sports</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pucca&apos;s Kisses Game (USA)">
+    <description>Pucca&apos;s Kisses Game</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>BigBen Interactive</manufacturer>
+    <dev>Otaboo</dev>
+    <genre>Platformer</genre>
+    <score>3.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rabbids Lab (USA)">
+    <description>Rabbids Lab</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Ubisoft</manufacturer>
+    <dev>Ubisoft</dev>
+    <genre>Other</genre>
+    <score>2.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Racers&apos; Islands - Crazy Arenas (USA)">
+    <description>Racers&apos; Islands - Crazy Arenas</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Zallag</manufacturer>
+    <dev>Artefacts Studio</dev>
+    <genre>Racing</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Racers&apos; Islands - Crazy Racers (USA)">
+    <description>Racers&apos; Islands - Crazy Racers</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Zallag</manufacturer>
+    <dev>Artefacts Studio</dev>
+    <genre>Racing</genre>
+    <score>2.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rage of the Gladiator (USA)">
+    <description>Rage of the Gladiator</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ghostfire Games</manufacturer>
+    <dev>Ghostfire Games</dev>
+    <genre>Fighting</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rainbow Islands - Towering Adventure! (USA)">
+    <description>Rainbow Islands - Towering Adventure!</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Taito</dev>
+    <genre>Arcade</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Raku Raku Kinen Appli Wii - Kinenka no Isha ga Oshieru Nanoka de Yamaru Hoho (Japan)">
+    <description>Raku Raku Kinen Appli Wii - Kinenka no Isha ga Oshieru Nanoka de Yamaru Hoho</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Silver Star Japan</manufacturer>
+    <dev>Mayumi Abe</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Reel Fishing - Ocean Challenge (USA)">
+    <description>Reel Fishing - Ocean Challenge</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev>Marvelous Entertainment</dev>
+    <genre>Sports</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Reel Fishing Challenge (USA)">
+    <description>Reel Fishing Challenge</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev>Marvelous Entertainment</dev>
+    <genre>Simulation</genre>
+    <score>2.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Reel Fishing Challenge II (USA)">
+    <description>Reel Fishing Challenge II</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev>Marvelous Entertainment</dev>
+    <genre>Simulation</genre>
+    <score>2.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Retro City Rampage (USA)">
+    <description>Retro City Rampage</description>
+    <year>2013</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Vblank Entertainment Inc.</manufacturer>
+    <dev>Vblank Entertainment Inc.</dev>
+    <genre>Action</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robin Hood - The Return of Richard (USA)">
+    <description>Robin Hood - The Return of Richard</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Shooter</genre>
+    <score>2.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robocalypse - Beaver Defense (USA)">
+    <description>Robocalypse - Beaver Defense</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Vogster Entertainment</manufacturer>
+    <dev>Vogster Entertainment</dev>
+    <genre>Strategy</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robox (USA)">
+    <description>Robox</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Dreambox Games</manufacturer>
+    <dev>Dreambox Games</dev>
+    <genre>Platformer</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rock N&apos; Roll Climber (USA)">
+    <description>Rock N&apos; Roll Climber</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Vitei</dev>
+    <genre>Action</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rubik&apos;s Puzzle Galaxy - RUSH (USA)">
+    <description>Rubik&apos;s Puzzle Galaxy - RUSH</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Two Tribes B.V.</manufacturer>
+    <dev>Two Tribes B.V.</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rush Rush Rally Racing (Europe)">
+    <description>Rush Rush Rally Racing</description>
+    <year>2012</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Senile Team</manufacturer>
+    <dev>Redspotgames</dev>
+    <genre>Racing</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sandy Beach (USA)">
+    <description>Sandy Beach</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Relaxation</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Save the Furries (USA)">
+    <description>Save the Furries</description>
+    <year>2012</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>SDP Games</manufacturer>
+    <dev>SDP Games</dev>
+    <genre>Puzzle</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sekai no Omoshiro Party Game (Japan)">
+    <description>Sekai no Omoshiro Party Game</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>SIMS Co. Ltd.</manufacturer>
+    <dev>SIMS Co. Ltd.</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sekai no Omoshiro Party Game 2 (Japan)">
+    <description>Sekai no Omoshiro Party Game 2</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>SIMS Co. Ltd.</manufacturer>
+    <dev>SIMS Co. Ltd.</dev>
+    <genre>Other</genre>
+    <score>4.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sexy Poker (USA)">
+    <description>Sexy Poker</description>
+    <year>2009</year>
+    <rating>ESRB - M (Mature)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Board Game</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ShadowPlay (USA)">
+    <description>ShadowPlay</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Deep Fried Entertainment</manufacturer>
+    <dev>Deep Fried Entertainment</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shikakui Atama wo Maru Kusuru - Mainichi Minna no Challenge Hen (Japan)">
+    <description>Shikakui Atama wo Maru Kusuru - Mainichi Minna no Challenge Hen</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>IE Institute Co. Ltd.</manufacturer>
+    <dev>Nichinoken</dev>
+    <genre>Other</genre>
+    <score>4.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shootanto - Evolutionary Mayhem (USA)">
+    <description>Shootanto - Evolutionary Mayhem</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Grand Prix Games</dev>
+    <genre>Shooter</genre>
+    <score>3.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Silver Star Chess (USA)">
+    <description>Silver Star Chess</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Electronic Arts</manufacturer>
+    <dev>Silver Star Japan</dev>
+    <genre>Board Game</genre>
+    <score>3.4</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Silver Star Reversi (USA)">
+    <description>Silver Star Reversi</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Electronic Arts</manufacturer>
+    <dev>Silver Star Japan</dev>
+    <genre>Board Game</genre>
+    <score>3.8</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simple Series Vol. 1 - The Block Kuzushi neo (Japan)">
+    <description>Simple Series Vol. 1 - The Block Kuzushi neo</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>D3 Publisher</manufacturer>
+    <dev>Tam Soft</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simple Series Vol. 2 - The Number Puzzle neo (Japan)">
+    <description>Simple Series Vol. 2 - The Number Puzzle neo</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>D3 Publisher</manufacturer>
+    <dev>Tam Soft</dev>
+    <genre>Other</genre>
+    <score>3.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simple Series Vol. 3 - The Mahjong (Japan)">
+    <description>Simple Series Vol. 3 - The Mahjong</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>D3 Publisher</manufacturer>
+    <dev>Tam Soft</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simple Series Vol. 4 - The Misshitsu kara no Dasshutsu (Japan)">
+    <description>Simple Series Vol. 4 - The Misshitsu kara no Dasshutsu</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>D3 Publisher</manufacturer>
+    <dev>Intense</dev>
+    <genre>Adventure</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simple Series Vol. 5 - The Judo (Japan)">
+    <description>Simple Series Vol. 5 - The Judo</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>D3 Publisher</manufacturer>
+    <dev>Tam Soft</dev>
+    <genre>Sports</genre>
+    <score>4.2</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snail Mail (USA)">
+    <description>Snail Mail</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sandlot Games</manufacturer>
+    <dev>Sandlot Games</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sneezies (USA)">
+    <description>Sneezies</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Chillingo</manufacturer>
+    <dev>Chillingo</dev>
+    <genre>Puzzle</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snowboard Riot (USA)">
+    <description>Snowboard Riot</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Sports</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snowpack Park (USA)">
+    <description>Snowpack Park</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Nintendo</dev>
+    <genre>Adventure</genre>
+    <score>3.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Soccer Bashi (USA)">
+    <description>Soccer Bashi</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev>Icon Games</dev>
+    <genre>Puzzle</genre>
+    <score>2.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Soccer Up! (USA)">
+    <description>Soccer Up!</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>EnjoyUp Games</manufacturer>
+    <dev>EnjoyUp Games</dev>
+    <genre>Sports</genre>
+    <score>2.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Solitaire (Europe)">
+    <description>Solitaire</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Cosmigo</manufacturer>
+    <dev>GameOn</dev>
+    <genre>Simulation</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sonic the Hedgehog 4 - Episode I (USA)">
+    <description>Sonic the Hedgehog 4 - Episode I</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev>Sonic Team &amp; Dimps</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sorcery Blade (Japan)">
+    <description>Sorcery Blade</description>
+    <year>2008</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Kemco</manufacturer>
+    <dev>Kemco</dev>
+    <genre>Action</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Invaders Get Even (USA)">
+    <description>Space Invaders Get Even</description>
+    <year>2008</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Taito</dev>
+    <genre>Shooter</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Trek (USA)">
+    <description>Space Trek</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Calaris</manufacturer>
+    <dev>Calaris</dev>
+    <genre>Action</genre>
+    <score>3.7</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spaceball Revolution (USA)">
+    <description>Spaceball Revolution</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Virtual Toys</manufacturer>
+    <dev>Virtual Toys</dev>
+    <genre>Puzzle</genre>
+    <score>3.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SPOGS Racing (USA)">
+    <description>SPOGS Racing</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>D2C Games</manufacturer>
+    <dev>D2C Games</dev>
+    <genre>Racing</genre>
+    <score>2.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spot the Differences! (USA)">
+    <description>Spot the Differences!</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev>Sanuk Games</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Star Soldier R (USA)">
+    <description>Star Soldier R</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Shooter</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Step Up! (USA)">
+    <description>Step Up!</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>GolemLabs &amp; Zoozen</manufacturer>
+    <dev>GolemLabs &amp; Zoozen</dev>
+    <genre>Fitness</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stonekeep - Bones of the Ancestors (USA)">
+    <description>Stonekeep - Bones of the Ancestors</description>
+    <year>2012</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Interplay</manufacturer>
+    <dev>Alpine Studios</dev>
+    <genre>RPG</genre>
+    <score>2.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stop Stress - A Day of Fury (USA)">
+    <description>Stop Stress - A Day of Fury</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Abylight</manufacturer>
+    <dev>JungleLand Games</dev>
+    <genre>Other</genre>
+    <score>2.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 1 - Homestar Ruiner (USA)">
+    <description>Strong Bad&apos;s Cool Game for Attractive People - Episode 1 - Homestar Ruiner</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 2 - Strong Badia the Free (USA)">
+    <description>Strong Bad&apos;s Cool Game for Attractive People - Episode 2 - Strong Badia the Free</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 3 - Baddest of the Bands (USA)">
+    <description>Strong Bad&apos;s Cool Game for Attractive People - Episode 3 - Baddest of the Bands</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 4 - Dangeresque 3 - The Criminal Projective (USA)">
+    <description>Strong Bad&apos;s Cool Game for Attractive People - Episode 4 - Dangeresque 3 - The Criminal Projective</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strong Bad&apos;s Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough (USA)">
+    <description>Strong Bad&apos;s Cool Game for Attractive People - Episode 5 - 8-Bit Is Enough</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>4.1</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stunt Cars (USA)">
+    <description>Stunt Cars</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev>Icon Games</dev>
+    <genre>Racing</genre>
+    <score>2.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sudoku Challenge! (USA)">
+    <description>Sudoku Challenge!</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Puzzle</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sugarbunnies Wii - Youkoso Bunnies Field-e (Japan)">
+    <description>Sugarbunnies Wii - Youkoso Bunnies Field-e</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Action</genre>
+    <score>3.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sugu Suro Duo - New Pulsar R&amp;V (Japan)">
+    <description>Sugu Suro Duo - New Pulsar R&amp;V</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Yamasa Entertainment</manufacturer>
+    <dev>Yamasa Entertainment</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Swords &amp; Soldiers (USA)">
+    <description>Swords &amp; Soldiers</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ronimo Games</manufacturer>
+    <dev>Ronimo Games</dev>
+    <genre>Strategy</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Bearsworth Manor, The - Chaotic Conflicts (USA)">
+    <description>Tales of Bearsworth Manor, The - Chaotic Conflicts</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Square Enix</dev>
+    <genre>Puzzle</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Bearsworth Manor, The - Puzzling Pages (USA)">
+    <description>Tales of Bearsworth Manor, The - Puzzling Pages</description>
+    <year>2010</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Square Enix</manufacturer>
+    <dev>Square Enix</dev>
+    <genre>Puzzle</genre>
+    <score>3.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Elastic Boy - Mission 1 (USA)">
+    <description>Tales of Elastic Boy - Mission 1</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Lexis Numerique</manufacturer>
+    <dev>Lexis Numerique</dev>
+    <genre>Arcade</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Monkey Island - Chapter 1 - Launch of the Screaming Narwhal (USA)">
+    <description>Tales of Monkey Island - Chapter 1 - Launch of the Screaming Narwhal</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Action</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay (USA)">
+    <description>Tales of Monkey Island - Chapter 2 - The Siege of Spinner Cay</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Action</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Monkey Island - Chapter 3 - Lair of the Leviathan (USA)">
+    <description>Tales of Monkey Island - Chapter 3 - Lair of the Leviathan</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>3.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Monkey Island - Chapter 4 - The Trial and Execution of Guybrush Threepwood (USA)">
+    <description>Tales of Monkey Island - Chapter 4 - The Trial and Execution of Guybrush Threepwood</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tales of Monkey Island - Chapter 5 - Rise of the Pirate God (USA)">
+    <description>Tales of Monkey Island - Chapter 5 - Rise of the Pirate God</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Telltale Games</manufacturer>
+    <dev>Telltale Games</dev>
+    <genre>Adventure</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Target Toss Pro - Bags (USA)">
+    <description>Target Toss Pro - Bags</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Incredible Technologies</manufacturer>
+    <dev>Incredible Technologies</dev>
+    <genre>Sports</genre>
+    <score>3.8</score>
+    <player>1-16 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Target Toss Pro - Lawn Darts (USA)">
+    <description>Target Toss Pro - Lawn Darts</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Incredible Technologies</manufacturer>
+    <dev>Incredible Technologies</dev>
+    <genre>Sports</genre>
+    <score>4.0</score>
+    <player>1-16 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tenshi no Solitaire (Japan)">
+    <description>Tenshi no Solitaire</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>G-Mode</manufacturer>
+    <dev>G-Mode</dev>
+    <genre>Other</genre>
+    <score>3.8</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris Party (USA)">
+    <description>Tetris Party</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tetris Online, Inc.</manufacturer>
+    <dev>Tetris Online, Inc.</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Texas Hold&apos;em Poker (USA)">
+    <description>Texas Hold&apos;em Poker</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Simulation</genre>
+    <score>3.9</score>
+    <player>1-5 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Texas Hold&apos;em Tournament (USA)">
+    <description>Texas Hold&apos;em Tournament</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Simulation</genre>
+    <score>3.6</score>
+    <player>1-5 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Three Musketeers, The - One For All (USA)">
+    <description>Three Musketeers, The - One For All</description>
+    <year>2009</year>
+    <rating>ESRB - K-A (Kids to Adults)</rating>
+    <manufacturer>Legendo Entertainment</manufacturer>
+    <dev>Legendo Entertainment</dev>
+    <genre>Platformer</genre>
+    <score>3.4</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ThruSpace (USA)">
+    <description>ThruSpace</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Keys Factory</dev>
+    <genre>Puzzle</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TikiTowers (USA)">
+    <description>TikiTowers</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>RealNetworks</manufacturer>
+    <dev>RealNetworks</dev>
+    <genre>Puzzle</genre>
+    <score>3.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TNT Racers (USA)">
+    <description>TNT Racers</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>dtp Entertainment</manufacturer>
+    <dev>dtp Entertainment</dev>
+    <genre>Racing</genre>
+    <score>3.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Toki Tori (USA)">
+    <description>Toki Tori</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Two Tribes B.V.</manufacturer>
+    <dev>Two Tribes B.V.</dev>
+    <genre>Puzzle</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tokyo City Nights (Japan)">
+    <description>Tokyo City Nights</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Action</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tomena Sanner (USA)">
+    <description>Tomena Sanner</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Action</genre>
+    <score>3.9</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tomy Car Drive Shutsudou! Kinkyuu Sharyou Hen (Japan)">
+    <description>Tomy Car Drive Shutsudou! Kinkyuu Sharyou Hen</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Takara Tomy</manufacturer>
+    <dev>Takara Tomy</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Toribash (USA)">
+    <description>Toribash</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Nabi Studios</manufacturer>
+    <dev>Nabi Studios</dev>
+    <genre>Fighting</genre>
+    <score>4.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Trenches Generals (USA)">
+    <description>Trenches Generals</description>
+    <year>2011</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Fishing Cactus</manufacturer>
+    <dev>Fishing Cactus</dev>
+    <genre>Strategy</genre>
+    <score>3.6</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Jumping Sports (USA)">
+    <description>Triple Jumping Sports</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Code Monkeys</manufacturer>
+    <dev>The Code Monkeys</dev>
+    <genre>Sports</genre>
+    <score>3.0</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Running Sports (USA)">
+    <description>Triple Running Sports</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Code Monkeys</manufacturer>
+    <dev>The Code Monkeys</dev>
+    <genre>Sports</genre>
+    <score>3.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Shot Sports (USA)">
+    <description>Triple Shot Sports</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Code Monkeys</manufacturer>
+    <dev>The Code Monkeys</dev>
+    <genre>Sports</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Throwing Sports (USA)">
+    <description>Triple Throwing Sports</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>The Code Monkeys</manufacturer>
+    <dev>The Code Monkeys</dev>
+    <genre>Sports</genre>
+    <score>3.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tsuushin Taikyoku - Hayazashi Shogi Sandan (Japan)">
+    <description>Tsuushin Taikyoku - Hayazashi Shogi Sandan</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Nintendo</dev>
+    <genre>Other</genre>
+    <score>2.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tsuushin Taikyoku - Igo Dojo 2700-Mon (Japan)">
+    <description>Tsuushin Taikyoku - Igo Dojo 2700-Mon</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Nintendo</dev>
+    <genre>Action</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tsuushin Taikyoku - World Chess (Japan)">
+    <description>Tsuushin Taikyoku - World Chess</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Nintendo</dev>
+    <genre>Board Game</genre>
+    <score>2.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tumblebugs 2 (USA)">
+    <description>Tumblebugs 2</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameshastra</manufacturer>
+    <dev>Wildfire Studios</dev>
+    <genre>Puzzle</genre>
+    <score>3.5</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TV Show King (USA) (v256)">
+    <description>TV Show King</description>
+    <year>2008</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Board Game</genre>
+    <score>3.5</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TV Show King 2 (USA)">
+    <description>TV Show King 2</description>
+    <year>2009</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Board Game</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ubongo (USA)">
+    <description>Ubongo</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Korner Entertainment</manufacturer>
+    <dev>Korner Entertainment</dev>
+    <genre>Board Game</genre>
+    <score>3.7</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="UNO (USA)">
+    <description>UNO</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Board Game</genre>
+    <score>3.8</score>
+    <player>1-6 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Unou Kids - Okigaru Unou Training (Japan)">
+    <description>Unou Kids - Okigaru Unou Training</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>IE Institute Co. Ltd.</manufacturer>
+    <dev>IE Institute Co. Ltd.</dev>
+    <genre>Other</genre>
+    <score>4.0</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Urbanix (USA)">
+    <description>Urbanix</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev>Nordcurrent</dev>
+    <genre>Arcade</genre>
+    <score>4.1</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="V.I.P. Casino - Blackjack (USA)">
+    <description>V.I.P. Casino - Blackjack</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>High Voltage Software</manufacturer>
+    <dev>High Voltage Software</dev>
+    <genre>Board Game</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vampire Crystals (USA)">
+    <description>Vampire Crystals</description>
+    <year>2012</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Shanblue Interactive</manufacturer>
+    <dev>Shanblue Interactive</dev>
+    <genre>Action</genre>
+    <score>3.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Violin Paradise (USA)">
+    <description>Violin Paradise</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Keystone Game Studio</manufacturer>
+    <dev>Keystone Game Studio</dev>
+    <genre>Music</genre>
+    <score>3.4</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Viral Survival (USA)">
+    <description>Viral Survival</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nippon Ichi Software,</manufacturer>
+    <dev>Peakvox</dev>
+    <genre>Action</genre>
+    <score>4.0</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Voodoo Dice (USA)">
+    <description>Voodoo Dice</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ubisoft</manufacturer>
+    <dev>Exkee</dev>
+    <genre>Puzzle</genre>
+    <score>1.8</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="WarioWare D.I.Y. Showcase (USA)">
+    <description>WarioWare D.I.Y. Showcase</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Intelligent Systems</dev>
+    <genre>Other</genre>
+    <score>3.6</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="WarMen Tactics (USA)">
+    <description>WarMen Tactics</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Calaris</manufacturer>
+    <dev>Calaris</dev>
+    <genre>Action</genre>
+    <score>2.6</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Water Warfare (USA)">
+    <description>Water Warfare</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev>Hudson Soft</dev>
+    <genre>Shooter</genre>
+    <score>3.8</score>
+    <player>1-8 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Where&apos;s Wally - Fantastic Journey 1 (Europe)">
+    <description>Where&apos;s Wally - Fantastic Journey 1</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <dev>Ludia</dev>
+    <genre>Relaxation</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Where&apos;s Wally - Fantastic Journey 2 (Europe)">
+    <description>Where&apos;s Wally - Fantastic Journey 2</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <dev>Ludia</dev>
+    <genre>Puzzle</genre>
+    <score>3.7</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Where&apos;s Wally - Fantastic Journey 3 (Europe)">
+    <description>Where&apos;s Wally - Fantastic Journey 3</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Ubi Soft Entertainment</manufacturer>
+    <dev>Ludia</dev>
+    <genre>Puzzle</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wild West Guns (USA)">
+    <description>Wild West Guns</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev>Gameloft</dev>
+    <genre>Arcade</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Will of Dr. Frankenstein, The (Europe)">
+    <description>Will of Dr. Frankenstein, The</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Enjoy Gaming</manufacturer>
+    <dev>Visual Impact</dev>
+    <genre>Adventure</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Word Searcher (USA)">
+    <description>Word Searcher</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Puzzle</genre>
+    <score>4.3</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Word Searcher Deluxe (USA)">
+    <description>Word Searcher Deluxe</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev>Digital Leisure</dev>
+    <genre>Board Game</genre>
+    <score>4.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World of Goo (USA)">
+    <description>World of Goo</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>2D Boy</dev>
+    <genre>Puzzle</genre>
+    <score>4.3</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Xmas Puzzle (USA)">
+    <description>Xmas Puzzle</description>
+    <year>2011</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>EnjoyUp Games</manufacturer>
+    <dev>EnjoyUp Games</dev>
+    <genre>Puzzle</genre>
+    <score>4.2</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yard Sale Hidden Treasures - Sunnyville (USA)">
+    <description>Yard Sale Hidden Treasures - Sunnyville</description>
+    <year>2010</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev>Konami</dev>
+    <genre>Puzzle</genre>
+    <score>3.9</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="You, Me, and the Cubes (USA)">
+    <description>You, Me, and the Cubes</description>
+    <year>2009</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev>Fyto</dev>
+    <genre>Puzzle</genre>
+    <score>3.5</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yummy Yummy Cooking Jam (USA)">
+    <description>Yummy Yummy Cooking Jam</description>
+    <year>2008</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Virtual Toys</manufacturer>
+    <dev>Virtual Toys</dev>
+    <genre>Action</genre>
+    <score>4.3</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zombie Panic in Wonderland (USA)">
+    <description>Zombie Panic in Wonderland</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Marvelous Entertainment</manufacturer>
+    <dev>Akaoni Studio</dev>
+    <genre>Shooter</genre>
+    <score>3.9</score>
+    <player>1-2 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zombii Attack (USA)">
+    <description>Zombii Attack</description>
+    <year>2012</year>
+    <rating>ESRB - E10+ (Everyone 10+)</rating>
+    <manufacturer>Gamers Digital</manufacturer>
+    <dev>Motiviti</dev>
+    <genre>Action</genre>
+    <score>4.2</score>
+    <player>1 Player</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zoo Disc Golf (USA)">
+    <description>Zoo Disc Golf</description>
+    <year>2010</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sonalysts</manufacturer>
+    <dev>Sonalysts</dev>
+    <genre>Sports</genre>
+    <score>3.1</score>
+    <player>1-4 Players</player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>
