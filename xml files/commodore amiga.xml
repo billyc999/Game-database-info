@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <menu>
   <header>
-    <listname>commodore amiga</listname>
+    <listname>Commodore Amiga</listname>
     <lastlistupdate></lastlistupdate>
     <listversion>test</listversion>
     <exporterversion></exporterversion>
@@ -17885,7 +17885,7 @@
     <cloneof></cloneof>
   </game>
   <game name="OilImperium_v1.3_De_0545">
-    <description>Oil Imperium </description>
+    <description>Oil Imperium</description>
     <year>1989</year>
     <rating>ESRB - RP (Rating Pending)</rating>
     <manufacturer>reLINE</manufacturer>
