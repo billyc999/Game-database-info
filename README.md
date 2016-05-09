@@ -1,11 +1,15 @@
-# Game-database-info
+# Game-database-info #
+
 Game database info to be used in creation of xml files or kodi scraper files
 
-Pending information
+## Pending information ##
 
+## Data conversion ##
+Bash script to convert csv files to hyperspin style xml. To convert just one csv pass 
+the csv filename to the script. To convert all csv files in a folder run the script 
+with no arguments.
 
-Bash script to convert csv files to hyperspin style xml. To convert just one csv pass the csv filename to the script. To convert all csv files in a folder run the script with no arguments.
-
+```
 #!/bin/bash
 #csv xml function
 convcsv2xml()
@@ -97,3 +101,4 @@ else
 		convcsv2xml "$file"
 	done
 fi
+```
