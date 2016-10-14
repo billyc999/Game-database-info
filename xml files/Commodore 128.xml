@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Commodore 128</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="80 Column Games (USA) (Unl)">
+    <description>80 Column Games (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tim Dotson</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="A Mind Forever Voyaging (USA) (Side A)">
+    <description>A Mind Forever Voyaging (USA) (Side A)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="A Mind Forever Voyaging (USA) (Side B)">
+    <description>A Mind Forever Voyaging (USA) (Side B)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien Invaders (USA) (Unl)">
+    <description>Alien Invaders (USA) (Unl)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SpiceWare</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astra - Invasion3 (USA) (Unl)">
+    <description>Astra - Invasion3 (USA) (Unl)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chris Batchelor</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astra Intruders (USA) (Unl)">
+    <description>Astra Intruders (USA) (Unl)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chris Batchelor</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Avenging Astra (USA) (Unl)">
+    <description>Avenging Astra (USA) (Unl)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chris Batchelor</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Battle Blox (USA) (Unl)">
+    <description>Battle Blox (USA) (Unl)</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hydrophilic</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beyond Zork (USA) (Side A)">
+    <description>Beyond Zork (USA) (Side A)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beyond Zork (USA) (Side B)">
+    <description>Beyond Zork (USA) (Side B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blackjack (USA) (Unl)">
+    <description>Blackjack (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tim Von Pein</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Border Zone (USA) (Side A)">
+    <description>Border Zone (USA) (Side A)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Border Zone (USA) (Side B)">
+    <description>Border Zone (USA) (Side B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bureaucracy (USA) (Side A)">
+    <description>Bureaucracy (USA) (Side A)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bureaucracy (USA) (Side B)">
+    <description>Bureaucracy (USA) (Side B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BurgerWhop! (USA) (Unl)">
+    <description>BurgerWhop! (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Brian L. Copeland</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Casino 128 (USA) (Unl)">
+    <description>Casino 128 (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Stephen Ross</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Casino Blackjack (USA)">
+    <description>Casino Blackjack (USA)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>U.S. Arts Software</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Castle Quest (USA)">
+    <description>Castle Quest (USA)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>A. J. Saveriano</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dice Poker (USA) (Unl)">
+    <description>Dice Poker (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Louis Avanzi</manufacturer>
+    <dev></dev>
+    <genre>Board</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dominoes 128 (USA) (Unl)">
+    <description>Dominoes 128 (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>(Unknown)</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Elite 128 (Europe)">
+    <description>Elite 128 (Europe)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Firebird</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Faster Blaster (USA) (Unl)">
+    <description>Faster Blaster (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lee C. Dickinson</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Great Hacker, The (USA) (Unl)">
+    <description>Great Hacker, The (USA) (Unl)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Quru Labs</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hearts-128 (USA) (Unl)">
+    <description>Hearts-128 (USA) (Unl)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>John Zielinsky</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Side A)">
+    <description>Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Side A)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Side B)">
+    <description>Hitchhiker&apos;s Guide to the Galaxy, The (USA) (Side B)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kikstart Off-Road Simulator (Europe)">
+    <description>Kikstart Off-Road Simulator (Europe)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mastertronic</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Klondike Jones (USA) (Unl)">
+    <description>Klondike Jones (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Loadstar</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Last V8, The (Europe)">
+    <description>Last V8, The (Europe)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mastertronic</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Leather Goddesses of Phobos (USA) (Side A)">
+    <description>Leather Goddesses of Phobos (USA) (Side A)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Leather Goddesses of Phobos (USA) (Side B)">
+    <description>Leather Goddesses of Phobos (USA) (Side B)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Litter Patrol (USA) (Unl)">
+    <description>Litter Patrol (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>(Unknown)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lunar Lander (USA) (Unl)">
+    <description>Lunar Lander (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>David Dubinsky</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mah-Jong (USA) (Unl)">
+    <description>Mah-Jong (USA) (Unl)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Kurt Tappe</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mike&apos;s Maze (USA) (Unl)">
+    <description>Mike&apos;s Maze (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mike Deming</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Millifoot 80 (USA) (Unl)">
+    <description>Millifoot 80 (USA) (Unl)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>L.K. Snyder</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nord and Bert Couldn&apos;t Make Head or Tail of It (USA) (Side A)">
+    <description>Nord and Bert Couldn&apos;t Make Head or Tail of It (USA) (Side A)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nord and Bert Couldn&apos;t Make Head or Tail of It (USA) (Side B)">
+    <description>Nord and Bert Couldn&apos;t Make Head or Tail of It (USA) (Side B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Oh! Thello (USA) (Unl)">
+    <description>Oh! Thello (USA) (Unl)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bill Gerrard</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Planetfall (USA) (Side A)">
+    <description>Planetfall (USA) (Side A)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Planetfall (USA) (Side B)">
+    <description>Planetfall (USA) (Side B)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Prince&apos;s Quest, The (USA) (Unl)">
+    <description>Prince&apos;s Quest, The (USA) (Unl)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Michael J. Castor</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robo-Droids (USA) (Unl)">
+    <description>Robo-Droids (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lee C. Dickinson</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rocky Horror Show, The (USA)">
+    <description>Rocky Horror Show, The (USA)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>CRL</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sherlock - The Riddle of the Crown Jewels (USA) (Side A)">
+    <description>Sherlock - The Riddle of the Crown Jewels (USA) (Side A)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sherlock - The Riddle of the Crown Jewels (USA) (Side B)">
+    <description>Sherlock - The Riddle of the Crown Jewels (USA) (Side B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Solitaire 128 (USA) (Unl)">
+    <description>Solitaire 128 (USA) (Unl)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Aaron Peromsik</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris80 (USA) (Unl)">
+    <description>Tetris80 (USA) (Unl)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Echo Magnetic Media</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Thai Boxing (Europe)">
+    <description>Thai Boxing (Europe)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Anco Software</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Trader (USA) (Unl)">
+    <description>Trader (USA) (Unl)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>B. G. Dodson</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Trinity (USA) (Side A)">
+    <description>Trinity (USA) (Side A)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Trinity (USA) (Side B)">
+    <description>Trinity (USA) (Side B)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ultimate Risk (USA) (Unl)">
+    <description>Ultimate Risk (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gerald C. Petereit</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Uniquest (USA) (Unl)">
+    <description>Uniquest (USA) (Unl)</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>(Unknown)</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Westfront II (USA) (Unl)">
+    <description>Westfront II (USA) (Unl)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Paul Panks</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wishbringer (USA) (Side A)">
+    <description>Wishbringer (USA) (Side A)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wishbringer (USA) (Side B)">
+    <description>Wishbringer (USA) (Side B)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yahtzee (USA) (Unl)">
+    <description>Yahtzee (USA) (Unl)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>John Teeple</manufacturer>
+    <dev></dev>
+    <genre>Tabletop</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zork - The Undiscovered Underground (USA) (Side A)">
+    <description>Zork - The Undiscovered Underground (USA) (Side A)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zork - The Undiscovered Underground (USA) (Side B)">
+    <description>Zork - The Undiscovered Underground (USA) (Side B)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zork 1 - The Great Underground Empire (Gold Edition) (USA) (Side A)">
+    <description>Zork 1 - The Great Underground Empire (Gold Edition) (USA) (Side A)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zork 1 - The Great Underground Empire (Gold Edition) (USA) (Side B)">
+    <description>Zork 1 - The Great Underground Empire (Gold Edition) (USA) (Side B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Infocom</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

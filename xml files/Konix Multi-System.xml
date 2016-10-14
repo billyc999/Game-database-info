@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Konix Multi-System</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="KONIX_ATTACK_OF_THE_MUTANT_CAMELS_V0_4">
+    <description>Attack of the Mutant Camels</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Llamasoft</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

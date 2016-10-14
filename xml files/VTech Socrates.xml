@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>VTech Socrates</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Amazing Mazes (USA)">
+    <description>Amazing Mazes (USA)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Around the World (USA)">
+    <description>Around the World (USA)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CAD Professor (USA)">
+    <description>CAD Professor (USA)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Facts &apos;N Fraction (USA)">
+    <description>Facts &apos;N Fraction (USA)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Game Wizard (USA)">
+    <description>Game Wizard (USA)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hodge-Podge (USA)">
+    <description>Hodge-Podge (USA)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Memory Mania (USA)">
+    <description>Memory Mania (USA)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="State to State (USA)">
+    <description>State to State (USA)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video Technology</manufacturer>
+    <dev></dev>
+    <genre>Education</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

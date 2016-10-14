@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Nintendo Pokemon Mini</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Pichu Bros. Mini (Japan)">
+    <description>Pichu Bros. Mini (Japan)</description>
+    <year>2000</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Denyusha Co. Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Multiplay</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Breeder Mini (Japan) (Translated En)">
+    <description>Pokemon Breeder Mini (Japan) (Translated En)</description>
+    <year>2002</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Jupiter Corp.</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Party Mini (USA)">
+    <description>Pokemon Party Mini (USA)</description>
+    <year>2001</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Denyusha Co. Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Multiplay</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Pinball Mini (USA)">
+    <description>Pokemon Pinball Mini (USA)</description>
+    <year>2001</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Jupiter Corp.</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Puzzle Collection (USA)">
+    <description>Pokemon Puzzle Collection (USA)</description>
+    <year>2001</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Jupiter Corp.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Puzzle Collection Vol. 2 (Japan) (Translated En)">
+    <description>Pokemon Puzzle Collection Vol. 2 (Japan) (Translated En)</description>
+    <year>2002</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Jupiter Corp.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Race Mini (Japan)">
+    <description>Pokemon Race Mini (Japan)</description>
+    <year>2002</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Jupiter Corp.</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Tetris (Europe)">
+    <description>Pokemon Tetris (Europe)</description>
+    <year>2002</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pokemon Zany Cards (USA)">
+    <description>Pokemon Zany Cards (USA)</description>
+    <year>2001</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Denyusha Co. Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Card Battle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snorlax&apos;s Lunch Time (USA) (GameCube)">
+    <description>Snorlax&apos;s Lunch Time (USA) (GameCube)</description>
+    <year>2003</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Togepi no Daibouken (Japan) (Translated En)">
+    <description>Togepi no Daibouken (Japan) (Translated En)</description>
+    <year>2002</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Jupiter Corp.</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

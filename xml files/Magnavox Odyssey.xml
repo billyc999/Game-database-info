@@ -1,0 +1,471 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Magnavox Odyssey</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Analogic">
+    <description>Analogic</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Thinking Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Baseball">
+    <description>Baseball</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Basketball">
+    <description>Basketball</description>
+    <year>1973</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 8</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brain Wave">
+    <description>Brain Wave</description>
+    <year>1973</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Thinking Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cartridge 11">
+    <description>Cartridge 11</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Basketball prototype</manufacturer>
+    <dev></dev>
+    <genre>Prototype</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cat and Mouse">
+    <description>Cat and Mouse</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 4</manufacturer>
+    <dev></dev>
+    <genre>Survival Horror</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dogfight">
+    <description>Dogfight</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 9</manufacturer>
+    <dev></dev>
+    <genre>Light Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football (Kicking and Passing)">
+    <description>Football (Kicking and Passing)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football (Running)">
+    <description>Football (Running)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 4</manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fun Zoo">
+    <description>Fun Zoo</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 2</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Handball">
+    <description>Handball</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 8</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Haunted House">
+    <description>Haunted House</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 4</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hockey">
+    <description>Hockey</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Interplanetary Voyage">
+    <description>Interplanetary Voyage</description>
+    <year>1973</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 12</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Invasion (1)">
+    <description>Invasion (1)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 4</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Invasion (2)">
+    <description>Invasion (2)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 5</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Invasion (3)">
+    <description>Invasion (3)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 6</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Percepts">
+    <description>Percepts</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 2</manufacturer>
+    <dev></dev>
+    <genre>Thinking Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Prehistoric Safari">
+    <description>Prehistoric Safari</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 9</manufacturer>
+    <dev></dev>
+    <genre>Light Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Roulette">
+    <description>Roulette</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 6</manufacturer>
+    <dev></dev>
+    <genre>Gambling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shooting Gallery">
+    <description>Shooting Gallery</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 10</manufacturer>
+    <dev></dev>
+    <genre>Light Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shootout">
+    <description>Shootout</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 9</manufacturer>
+    <dev></dev>
+    <genre>Light Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simon Says">
+    <description>Simon Says</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 2</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ski">
+    <description>Ski</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 2</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Soccer (1)">
+    <description>Soccer (1)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Soccer (2)">
+    <description>Soccer (2)</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 5</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="States">
+    <description>States</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 6</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Submarine">
+    <description>Submarine</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 5</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Table Tennis">
+    <description>Table Tennis</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 1</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tennis">
+    <description>Tennis</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 3</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Volleyball">
+    <description>Volleyball</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 7</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Win">
+    <description>Win</description>
+    <year>1973</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 4</manufacturer>
+    <dev></dev>
+    <genre>Thinking Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wipeout">
+    <description>Wipeout</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cartridge 5</manufacturer>
+    <dev></dev>
+    <genre>Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

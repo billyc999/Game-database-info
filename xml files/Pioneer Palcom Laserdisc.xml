@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Pioneer Palcom Laserdisc</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Astron Belt (Japan)">
+    <description>Astron Belt</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Action/Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Badlands (Japan)">
+    <description>Badlands</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cosmos Circuit (Japan)">
+    <description>Cosmos Circuit</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TOEI</manufacturer>
+    <dev></dev>
+    <genre>Driving/Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Esh&apos;s Aurunmilla (Japan)">
+    <description>Eshapos;s Aurunmilla (1985)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>LaserDisc Corporation</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="InterStellar (Japan)">
+    <description>InterStellar</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Funai/Gakken</manufacturer>
+    <dev></dev>
+    <genre>vertical Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nihonkai Daikaisen - Umi Yukaba (Japan)">
+    <description>Nihonkai Daikaisen - Umi Yukaba</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>LaserDisc Corporation</manufacturer>
+    <dev></dev>
+    <genre>Action/Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rolling Blaster (Japan)">
+    <description>Rolling Blaster</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Techno Quest</manufacturer>
+    <dev></dev>
+    <genre>vertical Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Starfighters (Japan)">
+    <description>Starfighters</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>ASCII Corporation</manufacturer>
+    <dev></dev>
+    <genre>Strategy/Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strike Mission (Japan)">
+    <description>Strike Mission</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>LaserDisc Corporation</manufacturer>
+    <dev></dev>
+    <genre>Strategy/Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>WoW Action Max</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="38AmbushAlley">
+    <description>.38 Ambush Alley</description>
+    <year>1987</year>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <manufacturer>Sourcing International Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BlueThunder">
+    <description>Blue Thunder</description>
+    <year>1987</year>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <manufacturer>Sourcing International Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hydrosub2021">
+    <description>Hydrosub: 2021</description>
+    <year>1987</year>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <manufacturer>Sourcing International Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SonicFury">
+    <description>Sonic Fury</description>
+    <year>1987</year>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <manufacturer>Sourcing International Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PopsGhostly">
+    <description>The Rescue of Pops Ghostly</description>
+    <year>1987</year>
+    <rating>HSRS - PG (Parental Guidance)</rating>
+    <manufacturer>Sourcing International Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

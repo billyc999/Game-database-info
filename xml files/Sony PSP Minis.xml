@@ -1,0 +1,4111 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Sony PSP Minis</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="1000 Tiny Claws (USA)">
+    <description>1000 Tiny Claws</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mediatonic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20Q (Europe)">
+    <description>20Q</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>I-Play</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="3, 2, 1 …supercrash! (USA)">
+    <description>3, 2, 1 …Supercrash!</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="3D Twist &amp; Match (USA)">
+    <description>3D Twist and Match</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="4x4 Jam (USA)">
+    <description>4×4 Jam</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Invictus Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="5 in 1 Solitaire (USA)">
+    <description>5-in-1 Arcade Hits</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Grip Games</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="5-in-1 Arcade Hits (USA)">
+    <description>5-in-1 Solitaire</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Digital Leisure</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="A Space Shooter For 2 Bucks! (USA)">
+    <description>A Space Shooter for Two Bucks!</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Frima Studio</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Armstrong Vs. The Alien Scumbags! (USA)">
+    <description>Ace Armstrong vs. the Alien Scumbags!</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Actual Crimes Jack The Ripper (USA)">
+    <description>Actual Crimes: Jack the Ripper</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Virtual Playground</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rocket Racing (USA)">
+    <description>Aero Racer (AKA Rocket Racing)</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Halfbrick Studios</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Age of Hammer Wars (USA)">
+    <description>Age of Hammer Wars</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dynamic Systems</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Age Of Zombies (USA)">
+    <description>Age of Zombies</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Halfbrick Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien Havoc (USA)">
+    <description>Alien Havoc</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Creat Studios</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien Zombie Death (USA)">
+    <description>Alien Zombie Death</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>PomPom Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alpha Mission (USA)">
+    <description>Alpha Mission</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ambassador Kane (Europe)">
+    <description>Ambassador Kane</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>60°North</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ancient Game Treasures - Mill (USA)">
+    <description>Ancient Game Treasures Mill</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G1M2</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Angry Birds (USA)">
+    <description>Angry Birds</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Rovio</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Apache Overkill (USA)">
+    <description>Apache Overkill</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Playerthree</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aquattack! (USA)">
+    <description>Aquattack!</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mere Mortals</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Air Hockey &amp; Bowling (USA)">
+    <description>Arcade Air Hockey and Bowling</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Darts (USA)">
+    <description>Arcade Darts</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Essentials (Europe)">
+    <description>Arcade Essentials</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Essentials Evolution (Europe)">
+    <description>Arcade Essentials Evolution</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcade Pool (USA)">
+    <description>Arcade Pool</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Archibald`s Adventures (USA)">
+    <description>Archibald&apos;s Adventures</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Rake in Grass</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Artic Adventures - Polar Puzzles (USA)">
+    <description>Arctic Adventures: Polar’s Puzzles</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Eiconic Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Athena (USA)">
+    <description>Athena</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BABEL - The King of the Blocks (USA)">
+    <description>Babel: The King of the Blocks</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Basha Baloot (Europe)">
+    <description>Basha Baloot</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Quirkat</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Basha Card Game Collection (Europe)">
+    <description>Basha Card Game Collection</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Quirkat</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Basha Tarneeb (Europe)">
+    <description>Basha Tarneeb</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Quirkat</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Basha Trix (Europe)">
+    <description>Basha Trix</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Quirkat</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Battle Poker (USA)">
+    <description>Battle Poker</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Left Field Productions</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beach Buzzin’ Chopper (Europe)">
+    <description>Beach Buzzin’ Chopper</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Asylum Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beam &apos;em Up (USA)">
+    <description>Beam &apos;em Up</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Immersive Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bee Wars (Europe)">
+    <description>Bee Wars</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bermuda Triangle (USA)">
+    <description>Bermuda Triangle</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Best Of Solitaire (USA)">
+    <description>Best of Solitaire</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cosmigo</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blast Off (USA)">
+    <description>Blast Off</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Halfbrick Studios</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blimp - The Flying Adventure (USA)">
+    <description>Blimp: The Flying Adventures</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Craneballs Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Block Cascade Fusion (USA)">
+    <description>Block Cascade Fusion</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gamelion Studios</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bloons (USA)">
+    <description>Bloons</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bloober Team</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bloons TD (USA)">
+    <description>Bloons TD</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bloober Team</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Boom Beats (USA)">
+    <description>Boom Beats</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gamelion Studios</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BounceBack (Europe)">
+    <description>BounceBack</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Steel Minions</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bowling 3D (USA)">
+    <description>Bowling 3D</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MystoneGame Inc.</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brainpipe (USA)">
+    <description>BrainPipe</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hands-On Mobile</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Breakquest (USA)">
+    <description>BreakQuest</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Beatshapers</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BreakQuest - Extra Evolution (USA)">
+    <description>BreakQuest: Extra Evolution</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Beatshapers</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brick Breaker (USA)">
+    <description>Brick Breaker</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>BigBen Interactive</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bubble Trubble (USA)">
+    <description>Bubble Trubble</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Creat Studios</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bunny Dodge (USA)">
+    <description>Bunny Dodge</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Skylon Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Burnin&apos; Rubber (USA)">
+    <description>Burnin&apos; Rubber</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G1M2</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Busy Sweets Factory (USA)">
+    <description>Busy Sweets Factory</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Canabalt (USA)">
+    <description>Canabalt</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Semi Secret Software</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Car Jack Streets (USA)">
+    <description>Car Jack Streets</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tag Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Card Shark (USA)">
+    <description>Card Shark</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midas Interactive Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carnivores - Ice Age (USA)">
+    <description>Carnivores Ice Age</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>WizardWorks Software</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carnivores - Dinosaur Hunters (USA)">
+    <description>Carnivores: Dinosaur Hunter</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Beatshapers</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Caterpillar (USA)">
+    <description>Caterpillar</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TikGames</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Championship Manager 2010 Express (Europe)">
+    <description>Championship Manager 2010 Express</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gusto Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Charge! Tank Squad! (USA)">
+    <description>Charge! Tank Squad</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chopper I (USA)">
+    <description>Chopper I</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Circles (USA)">
+    <description>Circles, Circles, Circles</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Coconut Dodge (USA)">
+    <description>Coconut Dodge</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>FuturLab</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cohort Chess (USA)">
+    <description>Cohort Chess</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cohort Studios</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Core Blaster (USA)">
+    <description>Core Blaster</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ringzero Game Studio</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crime Spree (Europe)">
+    <description>Crime Spree</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Skyworks Interactive</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cubixx (USA)">
+    <description>Cubixx</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="D-Cube Planet (USA)">
+    <description>D-Cube Planet</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Days of Thunder (USA)">
+    <description>Days of Thunder</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sony Online Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Defenders Of The Mystic Garden (USA)">
+    <description>Defenders of the Mystic Garden</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Twisted Dragon Media</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Deflector (USA)">
+    <description>Deflector</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Denki Blocks (USA)">
+    <description>Denki Blocks!</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Denki</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Digi-tiles (USA)">
+    <description>Digi-Tiles</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doodle Fit (USA)">
+    <description>Doodle Fit</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gamelion Studios</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doodle Pool (USA)">
+    <description>Doodle Pool</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Big Head Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dr. Maybee And The Adventures Of Scary Girl (USA)">
+    <description>Dr. Maybee and the Adventures of Scarygirl</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TikGames</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dr. Minigames (USA)">
+    <description>Dr. Mini Games</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dracula - Undead Awakening (USA)">
+    <description>Dracula: Undead Awakening</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chillingo Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drums Challenge (USA)">
+    <description>Drums Challenge</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Duæl Invaders (Europe)">
+    <description>Duæl Invaders</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ducati Challenge (USA)">
+    <description>Ducati Challenge</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Digital Tales</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dynogems (USA)">
+    <description>Dynogems</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Earth Shield (USA)">
+    <description>Earthshield</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Echoes (USA)">
+    <description>Echoes</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Halfbrick Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Edge (USA)">
+    <description>Edge</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mobigame</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Enchanted Cavern (Europe)">
+    <description>Enchanted Cavern</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Enigmo (USA)">
+    <description>Enigmo</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Beatshapers</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Epyx&apos;s Impossible Mission (Europe)">
+    <description>Epyx&apos;s Impossible Mission</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Epyx</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Express Raider (USA)">
+    <description>Express Raider</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G1M2</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Games Pen &amp; Paper Edition (USA)">
+    <description>Family Games</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Farm Frenzy (USA)">
+    <description>Farm Frenzy</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Farm Frenzy 2 (USA)">
+    <description>Farm Frenzy 2</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Farm Frenzy 3 (USA)">
+    <description>Farm Frenzy 3</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Farm Frenzy - Pizza Party (Europe)">
+    <description>Farm Frenzy: Pizza Party</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Feisty Feet (USA)">
+    <description>Feisty Feet</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>iSquared Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fieldrunners (USA)">
+    <description>Fieldrunners</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Subatomic Studios</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fighting Fantasy - Talisman of Death (USA)">
+    <description>Fighting Fantasy: Talisman of Death</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fighting Fantasy - The Warlock of Firetop Mountain (USA)">
+    <description>Fighting Fantasy: The Warlock of Firetop Mountain</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Finger Connection (USA)">
+    <description>Finger Connection</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fish Tank (USA)">
+    <description>Fish Tank</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>iFun4all</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Flick Fishing (USA)">
+    <description>Flick Fishing</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Floating Cloud God Saves The Pilgrims (USA)">
+    <description>Floating Cloud God Saves the Pilgrims</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dakko Dakko</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fly Fu (USA)">
+    <description>Fly Fu</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Invictus Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Flying Hamster, The (USA)">
+    <description>Flying Hamster, The</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>The Game Atelier</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Forest Puzzle (USA)">
+    <description>Forest Puzzle</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>IBA Group</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fort Commander - King&apos;s Gambit (USA)">
+    <description>Fort Commander 1Fort Commander: King&apos;s Gambit</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Immersive Games</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fort Commander II - Counterattack (USA)">
+    <description>Fort Commander 2Fort Commander II: Counterattack</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Immersive Games</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fortix (USA)">
+    <description>Fortix</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nemesys</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Free Shot Frenzy (Europe)">
+    <description>Free Shot Frenzy</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Freekscape - Escape From Hell (USA)">
+    <description>Freekscape: Escape From Hell</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Creat Studios</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Funky Punch (USA)">
+    <description>Funky Punch</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Solus Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Future Fight (Europe)">
+    <description>Future Fight</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bloober Team</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Galcon Labs (USA)">
+    <description>Galcon Labs</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Beatshapers</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gamocracy One - Legend of Robot (USA)">
+    <description>Gamocracy One: Legend of Robot</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>The Bearded Ladies</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gang Wars (USA)">
+    <description>Gang Wars</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gold Fever (USA)">
+    <description>Gold Fever</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TikGames</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gold Medalist (USA)">
+    <description>Gold Medalist</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Golf Mania (USA)">
+    <description>Golf Mania</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="greenTechPLUS+ (Europe)">
+    <description>greenTechPLUS+</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Optum</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Guerrilla War (USA)">
+    <description>Guerrilla War</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="HAL 21 (USA)">
+    <description>HAL 21</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hello Flowerz (USA)">
+    <description>Hello Flowerz</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Virtual Toys</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Heracles - Chariot Racing (USA)">
+    <description>Heracles Chariot Racing</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Neko Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hero of Sparta (USA)">
+    <description>Hero of Sparta</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="History - Egypt - Engineering An Empire (USA)">
+    <description>History Egypt: Engineering an Empire</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Slitherine Strategies</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hive Sweeper (Europe)">
+    <description>Hive Sweeper</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Skyl-com</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Homerun Hitters (USA)">
+    <description>Homerun Hitters</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hotel Mogul (USA)">
+    <description>Hotel Mogul</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hungry Giraffe (USA)">
+    <description>Hungry Giraffe</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hysteria Project (USA)">
+    <description>Hysteria Project</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hysteria Project 2 (USA)">
+    <description>Hysteria Project 2</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="I Kill Zombies (USA)">
+    <description>I Kill Zombies</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Open Emotion Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="I Must Run! (USA)">
+    <description>I Must Run!</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gamelion Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="History - Ice Road Truckers (USA)">
+    <description>Ice Road Truckers</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Slitherine Strategies</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Idiot Squad (USA)">
+    <description>Idiot Squad</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hydravision</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ikari III - The Rescue (USA)">
+    <description>Ikari III - The Rescue</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ikari Warriors (USA)">
+    <description>Ikari Warriors</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Influence (USA)">
+    <description>Influence</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G-Game Workshop</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="International Snooker (Europe)">
+    <description>International Snooker</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Big Head Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jane&apos;s Hotel (USA)">
+    <description>Jane&apos;s Hotel</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Realore Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jelly Pops (USA)">
+    <description>Jelly Pops</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>PomPom Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jelly Car 2 (USA)">
+    <description>JellyCar 2</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Disney Interactive Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jetpack Joyride (USA)">
+    <description>Jetpack Joyride</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Halfbrick Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jewel Keepers Easter Island (USA)">
+    <description>Jewel Keepers: Easter Island</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kahoots (USA)">
+    <description>Kahoots</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Honeyslug Ltd</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kaleidoscope (Interactive Synaesthesia Project) (USA)">
+    <description>Kaleidoscope (Interactive Synaesthesia Project)</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>iSquared Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Karimogi (USA)">
+    <description>Karimogi</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Knight Fortix 2 (USA)">
+    <description>Knight Fortix 2</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nemesys</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="L.A. GRIDLOCK (Europe)">
+    <description>LA Gridlock</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Immersive Games</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Labyrinth (Europe)">
+    <description>Labyrinth</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>BigBen Interactive</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Left to Die in Zombhai (Europe)">
+    <description>Left to Die in Zombhai</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>iSquared Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Legend Of Kunoichi (USA)">
+    <description>Legend of Kunoichi</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Let&apos;s Golf! (USA)">
+    <description>Let&apos;s Golf</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lock &apos;n&apos; Chase (USA)">
+    <description>Lock &apos;n&apos; Chase</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G1M2</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Love Cupid (USA)">
+    <description>Love Cupid</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="M.O.Z.O.X. Space Salvager (USA)">
+    <description>M.O.Z.O.X. Space Salvager</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Twisted Dragon Media</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mad Blocker Alpha - Revenge of the Fluzzles (USA)">
+    <description>Mad Blocker Alpha: Revenge of the Fluzzles</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Open Emotion Studios</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mahjong Solitaire (USA)">
+    <description>Mahjong Solitaire</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Agetec</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mahjongg Artifacts (USA)">
+    <description>Mahjongg Artifacts</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G5 Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mahjongg Artifacts - Chapter 2 (USA)">
+    <description>Mahjongg Artifacts: Chapter 2</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G5 Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Manic Monkey Mayhem (USA)">
+    <description>Manic Monkey Mayhem</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>The Code Monkeys</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Marvin&apos;s Maze (USA)">
+    <description>Marvin&apos;s Maze</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Me Monstar - Hear Me Roar! (USA)">
+    <description>Me Monstar: Hear Me Roar!</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cohort Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mecho Wars (USA)">
+    <description>Mecho Wars</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Creat Studios</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mena Speed (Europe)">
+    <description>Mena Speed</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Quirkat</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Metara (Europe)">
+    <description>Metara</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Playgroundsquad</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mighty Flip Champs! DX (USA)">
+    <description>Mighty Flip Champs! DX</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>WayForward Technologies</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MiniSquadron (USA)">
+    <description>MiniSquadron</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Grip Games/Supermono studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monochrome Racing (USA)">
+    <description>Monochrome Racing</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monopoly (USA)">
+    <description>Monopoly</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>EA Mobile</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monsters (probably) Stole My Princess (USA)">
+    <description>Monsters (Probably) Stole My Princess</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mediatonic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mr. Hat and the Magic Cube (Europe)">
+    <description>Mr. Hat and the Magic Cube</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bravo Game Studios</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Music Quiz (USA)">
+    <description>Music Quiz</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="N.O.V.A. Near Orbit Vanguard Alliance (USA)">
+    <description>N.O.V.A. Near Orbit Vanguard Alliance</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameloft</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ninjamurai (USA)">
+    <description>Ninjamurai</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Open Emotion Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nocturnal (Europe)">
+    <description>Nocturnal</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nom Nation (Europe)">
+    <description>Nom Nation</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Playerthree</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Normal Tanks (USA)">
+    <description>NormalTanks</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Beatshapers</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Numba (Europe)">
+    <description>Numba</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cobra Mobile</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="OMG-Z (USA)">
+    <description>OMG-Z</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="One Epic Game (USA)">
+    <description>One Epic Game</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Grip Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="One Two Boat Racing (USA)">
+    <description>One Two Boat Racing</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Orbit (USA)">
+    <description>Orbit</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ozma Wars (USA)">
+    <description>Ozma Wars</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="P.O.W. - Prisoners of War (USA)">
+    <description>P.O.W. - Prisoners of War</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PAC-MAN Championship Edition (USA)">
+    <description>Pac-Man Championship Edition</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bandai Namco Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pachisi (Europe)">
+    <description>Pachisi</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pallurikio (USA)">
+    <description>Pallurikio</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Playstos</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Panda Craze (USA)">
+    <description>Panda Craze</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TikGames</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Paper Wars - Cannon Fodder (USA)">
+    <description>Paper Wars: Cannon Fodder</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>iFun4all</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Phase Shift - Threats Beyond The Network (Asia)">
+    <description>Phase Shift - Threats Beyond The Network</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dark Potato Studios</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pile Up! Bakery (USA)">
+    <description>Pile Up! Bakery</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinball Dreams (USA)">
+    <description>Pinball Dreams</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Rebellion Developments</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinball Duel (USA)">
+    <description>Pinball Duel</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinball Fantasies (USA)">
+    <description>Pinball Fantasies</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cowboy Rodeo</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pipe Madness (USA)">
+    <description>Pipe Madness</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ayeware AB</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pix&apos;n Love Rush (USA)">
+    <description>Pix&apos;n Love Rush</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Piyotama (Europe)">
+    <description>Piyotama</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sony</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Prehistoric Isle (USA)">
+    <description>Prehistoric Isle</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Psycho Soldier (USA)">
+    <description>Psycho Soldier</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Puzzle Scape (Europe)">
+    <description>Puzzle Scape</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Farmind Ltd</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Quiz Animania (USA)">
+    <description>Quiz Animania</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ramen Heaven (USA)">
+    <description>Ramen Heaven</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rasmus Klump and the Big Maze (Europe)">
+    <description>Rasmus Klump and the Big Maze</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordisk Film Game Publishing</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rasmus Klump in Pingonesien (Europe)">
+    <description>Rasmus Klump in Pingonesien</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordisk Film Game Publishing</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rasmus Klump is saving the Chickens (Europe)">
+    <description>Rasmus Klump is saving the Chickens</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordisk Film Game Publishing</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Redbull X-fighters (USA)">
+    <description>Red Bull X-Fighters</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>I-Play</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Reef Aquarium (USA)">
+    <description>Reef Aquarium</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Biart Studio</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Retro Cave Flyer (USA)">
+    <description>Retro Cave Flyer</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Big Head Games</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Revoltin&apos; Youth (Europe)">
+    <description>Revoltin&apos; Youth</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Open Emotion Studios</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robin Hood - The Return of Richard (USA)">
+    <description>Robin Hood: The Return of Richard</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rocks N&apos; Rockets (USA)">
+    <description>Rocks N&apos; Rockets</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Creat Studios</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ronnie O&apos;Sullivan&apos;s Snooker (USA)">
+    <description>Ronnie O&apos;Sullivan&apos;s Snooker</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>P1 Sports Ltd</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Route 66 (USA)">
+    <description>Route 66</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rumble Trucks (USA)">
+    <description>Rumble Trucks</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Playerthree</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Run Ghost Run (USA)">
+    <description>Run Ghost Run</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SAR - Search and Rescue (USA)">
+    <description>SAR - Search and Rescue</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sasuke vs. Commander (USA)">
+    <description>Sasuke vs. Commander</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shapo (USA)">
+    <description>Shapo</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TikGames</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sheep Defense (USA)">
+    <description>Sheep Defense</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SHIFT extended (USA)">
+    <description>SHIFT extended</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zallag</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shogi (USA)">
+    <description>Shogi</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sky Force (USA)">
+    <description>Sky Force</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>iDreams Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SmashBreak (USA)">
+    <description>Smashbreak</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snake Warriors - Training (USA)">
+    <description>Snake Warriors: Training</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Crystal Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sneezies (USA)">
+    <description>Sneezies</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chillingo Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snowy - The Bear&apos;s Adventures (USA)">
+    <description>Snowy: The Bear&apos;s Adventures</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Game-Remakes</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bashi Blocks (USA)">
+    <description>Soccer Bashi (AKA Bashi Blocks)</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Icon Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Solitaire (USA)">
+    <description>Solitaire</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>BigBen Interactive</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spaceball Revolution (USA)">
+    <description>Spaceball Revolution</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Virtual Toys</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Speedball 2 Evolution (USA)">
+    <description>Speedball 2 Evolution</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Vivid Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spot The Differences (USA)">
+    <description>Spot the Differences!</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stand O&apos;food (USA)">
+    <description>Stand O&apos; Food</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G5 Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Star Hammer Tactics (USA)">
+    <description>Star Hammer Tactics</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Black Lab Games</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stellar Attack (USA)">
+    <description>Stellar Attack</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stick Man Rescue (USA)">
+    <description>Stick Man Rescue</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TikGames</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Street Smart (USA)">
+    <description>Street Smart</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sudoku (USA)">
+    <description>Sudoku</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>EA Mobile</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Fruitfall Deluxe (Europe)">
+    <description>Super Fruit Fall</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>System 3</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Supermarket Mania (USA)">
+    <description>Supermarket Mania</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>G5 Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Swap Zap (Europe)">
+    <description>Swap Zap</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Playgroundsquad</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sweet Reversi (USA)">
+    <description>Sweet Reversi</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="T.N.K. III (USA)">
+    <description>T.N.K. III</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tehra Dark Warrior (USA)">
+    <description>Tehra: Dark Warrior</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>StormBASIC Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Telegraph Crosswords (USA)">
+    <description>Telegraph Crosswords</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Telegraph Sudoku &amp; Kakuro (USA)">
+    <description>Telegraph Sudoku &amp; Kakuro</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetraminos (USA)">
+    <description>Tetraminos</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>BigBen Interactive</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris (USA)">
+    <description>Tetris</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>EA Mobile</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="2D Adventures Of Rotating Octopus Character, The (USA)">
+    <description>The 2D Adventures of Rotating Octopus Character</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dakko Dakko</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Impossible Game, The (Europe)">
+    <description>The Impossible Game</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Grip Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Marbians, The (USA)">
+    <description>The Marbians</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordisk Film Games Publishing</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mystery Of The Crystal Portal, The (USA)">
+    <description>The Mystery of the Crystal Portal</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Artogon</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Next Space, The (USA)">
+    <description>The Next Space</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Terminator, The (USA)">
+    <description>The Terminator</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Big Head Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Treasures of Montezuma, The (USA)">
+    <description>The Treasures of Montezuma</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Alawar Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="This Is Football Management (Europe)">
+    <description>This is Football Management</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sports Director Ltd.</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tiger Trouble (Europe)">
+    <description>Tiger Trouble</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Time Soldiers (USA)">
+    <description>Time Soldiers</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tiny Hawk (Europe)">
+    <description>Tiny Hawk</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Polygon Toys</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tonzurakko (USA)">
+    <description>Tonzurakko</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEJ</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Top Gun (USA)">
+    <description>Top Gun</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Paramount Digital Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Top Trumps NBA All Stars (USA)">
+    <description>Top Trumps: NBA All Stars</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ideas Pad</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Touch Racing Nitro (Europe)">
+    <description>Touch Racing Nitro</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bravo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Touchdown Fever (USA)">
+    <description>Touchdown Fever</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Trailblazer (USA)">
+    <description>Trailblazer</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ideas Pad</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Twin Blades (USA)">
+    <description>Twin Blades - The Reaping Vanguard</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sanuk Games</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Urbanix (USA)">
+    <description>Urbanix</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nordcurrent</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vanguard (USA)">
+    <description>Vanguard</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vanguard II (USA)">
+    <description>Vanguard II</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vector TD (USA)">
+    <description>Vector TD</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Candystand</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Velocity (USA)">
+    <description>Velocity</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>FuturLab</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vempire (USA)">
+    <description>Vempire</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>impressionware</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vibes (USA)">
+    <description>Vibes</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Laughing Jackal</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Victory Road (USA)">
+    <description>Victory Road</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="VT Tennis (USA)">
+    <description>VT Tennis</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Virtual Toys</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wackylands Boss (USA)">
+    <description>Wackylands Boss</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chillingo</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="War of Sonria (Europe)">
+    <description>War of Sonria</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>PlaygroundSquad</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Where is My Heart (Europe)">
+    <description>Where is my Heart?</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Copenhagen Game Collective</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Who&apos;s That Flying! (USA)">
+    <description>Who&apos;s That Flying!</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mediatonic</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Widgets Odyssey (USA)">
+    <description>Widget&apos;s Odyssey</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Frima Studio</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Widgets Odyssey 2 (USA)">
+    <description>Widget&apos;s Odyssey 2</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Frima Studio</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wizorb (USA)">
+    <description>Wizorb</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tribute Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Ping Pong Championship (Europe)">
+    <description>World Ping Pong Championship</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gameshastra Inc.</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yeti Sports - Pingu Throw (USA)">
+    <description>Yeti Sports: Pingu Throw</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Xendex</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Young Thor (USA)">
+    <description>Young Thor</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Frima Studio</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yummy Yummy Cooking Jam (USA)">
+    <description>Yummy Yummy Cooking Jam</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Virtual Toys</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zenonia (USA)">
+    <description>Zenonia</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gamevil</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zombie Racers (USA)">
+    <description>Zombie Racers</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Big Head Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zombie Tycoon (USA)">
+    <description>Zombie Tycoon</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Frima Studio</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

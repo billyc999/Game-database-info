@@ -1,0 +1,639 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>MUGEN</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Bastard">
+    <description>Bastard</description>
+    <year>2004</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Tony World</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Big Bang Beat 1st Impression">
+    <description>Big Bang Beat 1st Impression</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Fabien Q</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bleach Mugen">
+    <description>Bleach M.U.G.E.N</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ristar87</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Capcom Fighting Evolution Max">
+    <description>Capcom Fighting Evolution Max</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen Station 360</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cartoon Fighters 2010">
+    <description>Cartoon Fighters 2010</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Voodoo</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CMS Mugen Elite">
+    <description>CMS Mugen Elite</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen Comunity</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Coruscation Mugen">
+    <description>Coruscation Mugen</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Coruscation</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="DC vs Capcom vs Marvel">
+    <description>DC vs Capcom vs Marvel</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Alex Lexus</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dragon Ball AF">
+    <description>Dragon Ball AF</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ristar87 &amp; DBZSupakid</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dragon Ball M.U.G.E.N Edition 2010">
+    <description>Dragon Ball M.U.G.E.N. Edition 2010</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ristar87 &amp; Xedarts</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="DBZ Saiyan Fury 09">
+    <description>Dragon Ball Z Saiyan Fury 09</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Xedarts</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fatal Fury - Mark of the Wolves">
+    <description>Fatal Fury - Mark of the Wolves</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ristar87</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Guilty Gear XX Mugen">
+    <description>Guilty Gear XX Mugen</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Solitaio</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hi-Res Mugen">
+    <description>Hi-Res Mugen</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen9s</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hokuto no Ken">
+    <description>Hokuto no Ken</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Hokuto Project</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kenshin Mugen">
+    <description>Kenshin Mugen</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ralfab</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="King Of Fighters Infinite">
+    <description>King Of Fighters Infinite</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Amit Dabydeen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="King Of Fighters Shining">
+    <description>King Of Fighters Shining</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Miracle Create</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="King of Fighters Zillion">
+    <description>King of Fighters Zillion</description>
+    <year>2007</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen China</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Marvel vs Capcom 3 - Last Rise of Heroes">
+    <description>Marvel vs Capcom 3 - Last Rise of Heroes</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Infinity Mugen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Megaman Battle - Robot Master Mayhem">
+    <description>Megaman Battle - Robot Master Mayhem</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Infinity Mugen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mortal Kombat 1">
+    <description>Mortal Kombat 1</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Indrid Cold</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mortal Kombat Anthology">
+    <description>Mortal Kombat Anthology</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Indrid Cold</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mortal Kombat Project 4.8">
+    <description>Mortal Kombat Project 4.8</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>MK-Team</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mortal Kombat Trilogy">
+    <description>Mortal Kombat Trilogy</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Indrid Cold &amp; Simpliband</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mortal Kombat vs Street Fighter">
+    <description>Mortal Kombat vs Street Fighter</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen9s</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mugen Tournament 3">
+    <description>Mugen Tournament 3</description>
+    <year>2007</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>NoYoN9s</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Namco X Capcom Brawlers">
+    <description>Namco X Capcom Brawlers</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Wounami</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Neo Geo Battle Coliseum">
+    <description>Neo Geo Battle Coliseum</description>
+    <year>2007</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Amit Dabydeen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Fighter">
+    <description>Pocket Fighter</description>
+    <year>2003</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Cute Mugen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shades of Manhattan">
+    <description>Shades of Manhattan</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>SHADEs Team</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SNK vs Capcom Ultimate Mugen 3rd Battle Edition v2.0">
+    <description>SNK vs Capcom Ultimate 3rd Battle Edition 2007</description>
+    <year>2007</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Roberto Bernardo Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SNK vs Capcom Ultimate Mugen 3rd Battle Edition v3.0">
+    <description>SNK vs Capcom Ultimate 3rd Battle Edition 2008(Unofficial)</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Roberto Bernardo Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Street Fighter 1 - Champion Edition">
+    <description>Street Fighter 1 - Champion Edition</description>
+    <year>2006</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Falchion22</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Street Fighter Legends">
+    <description>Street Fighter Legends</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Amit Dabydeen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Street Fighter Mugen">
+    <description>Street Fighter Mugen</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen9s</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Heroes Mugen">
+    <description>Super Heroes Mugen</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Ristar87</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Marvel vs Capcom Eternity of Heroes">
+    <description>Super Marvel vs Capcom Eternity of Heroes</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Infinity Mugen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Smash Bros. Brawl All Stars">
+    <description>Super Smash Bros. Brawl All Stars</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Wounami</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Street Fighter 2 Turbo HD Remix">
+    <description>Super Street Fighter 2 Turbo HD Remix</description>
+    <year>2010</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Amit Dabydeen</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TMHT Tournament Fighters">
+    <description>Teenage Mutant Hero Turtles Tournament Fighters</description>
+    <year>2001</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Pioupiou</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ultimate Mugen 2009">
+    <description>Ultimate Mugen 2009</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>0414setsuna</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Heroes">
+    <description>World Heroes</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen9s</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Warrior Tournament 2">
+    <description>World Warrior Tournament 2</description>
+    <year>2009</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Darkwork Production</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Warriors X">
+    <description>World Warriors X</description>
+    <year>2008</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Mugen9s</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

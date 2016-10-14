@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Taito Type X</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Battle Fantasia">
+    <description>Battle Fantasia</description>
+    <year>2007</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Arc System Works</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Battle Gear 4 Tuned">
+    <description>Battle Gear 4 Tuned</description>
+    <year>2006</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BlazBlue Calamity Trigger">
+    <description>BlazBlue Calamity Trigger</description>
+    <year>2008</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Arc System Works</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BlazBlue Continuum Shift">
+    <description>BlazBlue Continuum Shift</description>
+    <year>2009</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Arc System Works</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chaos Breaker">
+    <description>Chaos Breaker</description>
+    <year>2004</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Eolith</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Giga Wing Generations">
+    <description>Giga Wing Generations</description>
+    <year>2004</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Takumi Corporation</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Goketsuji Ichizoku - Matsuri Senzo Kuyou">
+    <description>Goketsuji Ichizoku - Matsuri Senzo Kuyou</description>
+    <year>2009</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Atlus</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Half-Life 2 - Survivor Ver. 2.0">
+    <description>Half-Life 2 - Survivor Ver. 2.0</description>
+    <year>2007</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Valve</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Homura">
+    <description>Homura</description>
+    <year>2005</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Skonec</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="King of Fighters 98, The - The Ultimate Match">
+    <description>King of Fighters &apos;98, The - Ultimate Match</description>
+    <year>2008</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>SNK</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="King of Fighters XII, The">
+    <description>King of Fighters XII, The</description>
+    <year>2009</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="King of Fighters XIII, The">
+    <description>King of Fighters XIII, The</description>
+    <year>2010</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="KOF - Maximum Impact Regulation A">
+    <description>KOF - Maximum Impact Regulation A</description>
+    <year>2007</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Raiden III">
+    <description>Raiden III</description>
+    <year>2005</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Moss</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Raiden IV">
+    <description>Raiden IV</description>
+    <year>2007</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Moss</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Samurai Shodown - Edge of Destiny">
+    <description>Samurai Shodown - Edge of Destiny</description>
+    <year>2008</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer> SNK Playmore</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shikigami no Shiro III">
+    <description>Shikigami no Shiro III</description>
+    <year>2006</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Alfa System / Skonec</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spica Adventure">
+    <description>Spica Adventure</description>
+    <year>2005</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Arc</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Street Fighter IV">
+    <description>Street Fighter IV</description>
+    <year>2008</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Dimps / Capcom</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Street Fighter IV Arcade Edition">
+    <description>Super Street Fighter IV Arcade Edition</description>
+    <year>2010</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Dimps / Capcom</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Street Fighter IV Arcade Edition (Version 2012)">
+    <description>Super Street Fighter IV Arcade Edition (Version 2012)</description>
+    <year>2012</year>
+    <rating>AAMA - Yellow (Animated Violence Mild)</rating>
+    <manufacturer>Dimps / Capcom</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Taisen Hot Gimmick 5">
+    <description>Taisen Hot Gimmick 5</description>
+    <year>2005</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>XNauts</manufacturer>
+    <dev></dev>
+    <genre>Mahjong</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris The Grand Master 3 - Terror Instinct">
+    <description>Tetris The Grand Master 3 - Terror Instinct</description>
+    <year>2005</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Arika</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Trouble Witches AC">
+    <description>Trouble Witches AC</description>
+    <year>2008</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Studio Siesta / Bouken</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wacky Races">
+    <description>Wacky Races</description>
+    <year>2008</year>
+    <rating>AAMA - Green (Suitable For All Ages)</rating>
+    <manufacturer>Banpresto/Taito</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

@@ -1,0 +1,1983 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Mattel Intellivision</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="4-TRIS (World)">
+    <description>4-TRIS (World)</description>
+    <year>2000</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Joseph Zbiciak</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ABPA Backgammon (World)">
+    <description>ABPA Backgammon (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Advanced Dungeons &amp; Dragons (World)">
+    <description>Advanced Dungeons &amp; Dragons (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Advanced Dungeons &amp; Dragons - Treasure of Tarmin (World)">
+    <description>Advanced Dungeons &amp; Dragons - Treasure of Tarmin (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Armor Battle (World)">
+    <description>Armor Battle (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astrosmash (World)">
+    <description>Astrosmash (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Atlantis (World)">
+    <description>Atlantis (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Auto Racing (World)">
+    <description>Auto Racing (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="B-17 Bomber (World)">
+    <description>B-17 Bomber (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BeamRider (World)">
+    <description>BeamRider (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beauty and the Beast (World)">
+    <description>Beauty and the Beast (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blockade Runner (World)">
+    <description>Blockade Runner (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Interphase</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Body Slam - Super Pro Wrestling (World)">
+    <description>Body Slam - Super Pro Wrestling (World)</description>
+    <year>1988</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bomb Squad (World)">
+    <description>Bomb Squad (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Boxing (World)">
+    <description>Boxing (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bump &apos;N&apos; Jump (World)">
+    <description>Bump \&apos;N\&apos; Jump (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BurgerTime (World)">
+    <description>BurgerTime (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Buzz Bombers (World)">
+    <description>Buzz Bombers (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carnival (World)">
+    <description>Carnival (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco-CBS</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Centipede (World)">
+    <description>Centipede (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Atarisoft</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Championship Tennis (World)">
+    <description>Championship Tennis (World)</description>
+    <year>1985</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Nice Ideas</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Checkers (World)">
+    <description>Checkers (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chip Shot - Super Pro Golf (World)">
+    <description>Chip Shot - Super Pro Golf (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Commando (World)">
+    <description>Commando (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Congo Bongo (World)">
+    <description>Congo Bongo (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Deep Pockets - Super Pro Pool and Billiards (World)">
+    <description>Deep Pockets - Super Pro Pool and Billiards (World)</description>
+    <year>1990</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Realtime/Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Pool and Dart</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Defender (World)">
+    <description>Defender (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Atarisoft</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Demon Attack (World)">
+    <description>Demon Attack (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dig Dug (World)">
+    <description>Dig Dug (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Diner (World)">
+    <description>Diner (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Donkey Kong (World)">
+    <description>Donkey Kong (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Donkey Kong Jr (World)">
+    <description>Donkey Kong Jr (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dracula (World)">
+    <description>Dracula (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dragonfire (World)">
+    <description>Dragonfire (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dreadnaught Factor, The (World)">
+    <description>Dreadnaught Factor, The (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Duncan&apos;s Thin Ice (World)">
+    <description>Duncan\&apos;s Thin Ice (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Electric Company - Math Fun (World)">
+    <description>Electric Company - Math Fun (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>CTW/Mattel</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Electric Company - Word Fun (World)">
+    <description>Electric Company - Word Fun (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>CTW/Mattel</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fathom (World)">
+    <description>Fathom (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frog Bog (World)">
+    <description>Frog Bog (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger (World)">
+    <description>Frogger (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Parker Bros</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Game Factory (World)">
+    <description>Game Factory (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Grid Shock (World)">
+    <description>Grid Shock (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Happy Trails (World)">
+    <description>Happy Trails (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hard Hat (World)">
+    <description>Hard Hat (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Horse Racing (World)">
+    <description>Horse Racing (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Horse Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hover Force (World)">
+    <description>Hover Force (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ice Trek (World)">
+    <description>Ice Trek (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jetsons, The - Ways With Words (World)">
+    <description>Jetsons, The - Ways With Words (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kool-Aid Man (World)">
+    <description>Kool-Aid Man (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lady Bug (World)">
+    <description>Lady Bug (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Land Battle (World)">
+    <description>Land Battle (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Las Vegas Blackjack and Poker (World)">
+    <description>Las Vegas Blackjack and Poker (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Las Vegas Roulette (World)">
+    <description>Las Vegas Roulette (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="League of Light (World)">
+    <description>League of Light (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Learning Fun I - Math Master Factor Fun (World)">
+    <description>Learning Fun I - Math Master Factor Fun (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Learning Fun II - Word Wizard Memory Fun (World)">
+    <description>Learning Fun II - Word Wizard Memory Fun (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lock &apos;N&apos; Chase (World)">
+    <description>Lock \&apos;N\&apos; Chase (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Loco-Motion (World)">
+    <description>Loco-Motion (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magic Carousel (World)">
+    <description>Magic Carousel (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Major League Baseball (World)">
+    <description>Major League Baseball (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Masters of the Universe - The Power of He-Man! (World)">
+    <description>Masters of the Universe - The Power of He-Man! (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Melody Blaster (World)">
+    <description>Melody Blaster (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Meteor (World)">
+    <description>Meteor (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Microsurgeon (World)">
+    <description>Microsurgeon (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mind Strike! (World)">
+    <description>Mind Strike! (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mine Hunter (World)">
+    <description>Mine Hunter (World)</description>
+    <year>2004</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>IntelligentVision</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mission X (World)">
+    <description>Mission X (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moto-Cross (World)">
+    <description>Moto-Cross (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mountain Madness - Super Pro Skiing (World)">
+    <description>Mountain Madness - Super Pro Skiing (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mouse Trap (World)">
+    <description>Mouse Trap (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mr. Basic Meets Bits &apos;N Bytes (World)">
+    <description>Mr. Basic Meets Bits \&apos;N Bytes (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="NASL Soccer (World)">
+    <description>NASL Soccer (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="NBA Basketball (World)">
+    <description>NBA Basketball (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="NFL Football (World)">
+    <description>NFL Football (World)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="NHL Hockey (World)">
+    <description>NHL Hockey (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Hockey</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Night Stalker (World)">
+    <description>Night Stalker (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nova Blast (World)">
+    <description>Nova Blast (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Number Jumble (World)">
+    <description>Number Jumble (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pac-Man (World)">
+    <description>Pac-Man (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Atarisoft</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PBA Bowling (World)">
+    <description>PBA Bowling (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Bowling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PGA Golf (World)">
+    <description>PGA Golf (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinball (World)">
+    <description>Pinball (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pitfall! (World)">
+    <description>Pitfall! (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pole Position (World)">
+    <description>Pole Position (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Popeye (World)">
+    <description>Popeye (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Parker Bros</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Q-bert (World)">
+    <description>Q-bert (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Parker Bros</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Reversi (World)">
+    <description>Reversi (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="River Raid (World)">
+    <description>River Raid (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robot Rubble (World)">
+    <description>Robot Rubble (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Royal Dealer (World)">
+    <description>Royal Dealer (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Safecracker (World)">
+    <description>Safecracker (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Same Game &amp; Robots (World)">
+    <description>Same Game &amp; Robots (World)</description>
+    <year>2005</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>IntelligentVision</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Scooby Doo&apos;s Maze Chase (World)">
+    <description>Scooby Doo\&apos;s Maze Chase (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sea Battle (World)">
+    <description>Sea Battle (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sewer Sam (World)">
+    <description>Sewer Sam (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Interphase</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shark! Shark! (World)">
+    <description>Shark! Shark! (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sharp Shot (World)">
+    <description>Sharp Shot (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Slam Dunk - Super Pro Basketball (World)">
+    <description>Slam Dunk - Super Pro Basketball (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Slap Shot - Super Pro Hockey (World)">
+    <description>Slap Shot - Super Pro Hockey (World)</description>
+    <year>1987</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Hockey</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snafu (World)">
+    <description>Snafu (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Armada (World)">
+    <description>Space Armada (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Battle (World)">
+    <description>Space Battle (World)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Cadet (World)">
+    <description>Space Cadet (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Hawk (World)">
+    <description>Space Hawk (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Spartans (World)">
+    <description>Space Spartans (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spiker! - Super Pro Volleyball (World)">
+    <description>Spiker! - Super Pro Volleyball (World)</description>
+    <year>1988</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Volleyball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stadium Mud Buggies (World)">
+    <description>Stadium Mud Buggies (World)</description>
+    <year>1988</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stampede (World)">
+    <description>Stampede (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Star Strike (World)">
+    <description>Star Strike (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Star Wars - The Empire Strikes Back (World)">
+    <description>Star Wars - The Empire Strikes Back (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Parker Bros</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stonix (World)">
+    <description>Stonix (World)</description>
+    <year>2004</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>IntelligentVision</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sub Hunt (World)">
+    <description>Sub Hunt (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Cobra (World)">
+    <description>Super Cobra (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Pro Decathlon (World)">
+    <description>Super Pro Decathlon (World)</description>
+    <year>1988</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Track &amp; Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Pro Football (World)">
+    <description>Super Pro Football (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Swords &amp; Serpents (World)">
+    <description>Swords &amp; Serpents (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Takeover (World)">
+    <description>Takeover (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tennis (World)">
+    <description>Tennis (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Thunder Castle (World)">
+    <description>Thunder Castle (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tower of Doom (World)">
+    <description>Tower of Doom (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Action (World)">
+    <description>Triple Action (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Challenge (World)">
+    <description>Triple Challenge (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TRON - Deadly Discs (World)">
+    <description>TRON - Deadly Discs (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TRON - Maze-A-Tron (World)">
+    <description>TRON - Maze-A-Tron (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TRON - Solar Sailer (World)">
+    <description>TRON - Solar Sailer (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tropical Trouble (World)">
+    <description>Tropical Trouble (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Truckin&apos; (World)">
+    <description>Truckin\&apos; (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Turbo (World)">
+    <description>Turbo (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tutankham (World)">
+    <description>Tutankham (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Parker Bros</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="U.S. Ski Team Skiing (World)">
+    <description>U.S. Ski Team Skiing (World)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Skiing/Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="USCF Chess (World)">
+    <description>USCF Chess (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utopia (World)">
+    <description>Utopia (World)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Vectron (World)">
+    <description>Vectron (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Venture (World)">
+    <description>Venture (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="White Water! (World)">
+    <description>White Water! (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Imagic</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Championship Baseball (World)">
+    <description>World Championship Baseball (World)</description>
+    <year>1986</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Intv Corp</manufacturer>
+    <dev></dev>
+    <genre>Baseball/Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Cup Soccer (World)">
+    <description>World Cup Soccer (World)</description>
+    <year>1985</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Nice Ideas</manufacturer>
+    <dev></dev>
+    <genre>Soccer/Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Series Major League Baseball (World)">
+    <description>World Series Major League Baseball (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Mattel</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Worm Whomper (World)">
+    <description>Worm Whomper (World)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Activision</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zaxxon (World)">
+    <description>Zaxxon (World)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Coleco</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>
