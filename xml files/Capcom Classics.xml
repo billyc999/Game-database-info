@@ -7,7 +7,7 @@
     <exporterversion></exporterversion>
   </header>
   <game name="1941j">
-    <description>1941: Counter Attack (Japan)</description>
+    <description>1941- Counter Attack (Japan)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -21,7 +21,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1941u">
-    <description>1941: Counter Attack (USA 900227)</description>
+    <description>1941- Counter Attack (USA 900227)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -35,7 +35,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1941">
-    <description>1941: Counter Attack (World 900227)</description>
+    <description>1941- Counter Attack (World 900227)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -49,7 +49,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1941r1">
-    <description>1941: Counter Attack (World)</description>
+    <description>1941- Counter Attack (World)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -133,7 +133,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943kai">
-    <description>1943 Kai: Midway Kaisen (Japan)</description>
+    <description>1943 Kai- Midway Kaisen (Japan)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -147,7 +147,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943ja">
-    <description>1943: Midway Kaisen (Japan)</description>
+    <description>1943- Midway Kaisen (Japan)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -161,7 +161,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943j">
-    <description>1943: Midway Kaisen (Japan, Rev B)</description>
+    <description>1943- Midway Kaisen (Japan, Rev B)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -175,7 +175,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943">
-    <description>1943: The Battle of Midway (Euro)</description>
+    <description>1943- The Battle of Midway (Euro)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -189,7 +189,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943u">
-    <description>1943: The Battle of Midway (US, Rev C)</description>
+    <description>1943- The Battle of Midway (US, Rev C)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -203,7 +203,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xxa">
-    <description>19XX: The War Against Destiny (Asia 951207)</description>
+    <description>19XX- The War Against Destiny (Asia 951207)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -217,7 +217,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xxb">
-    <description>19XX: The War Against Destiny (Brazil 951218)</description>
+    <description>19XX- The War Against Destiny (Brazil 951218)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -231,7 +231,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xxh">
-    <description>19XX: The War Against Destiny (Hispanic 951218)</description>
+    <description>19XX- The War Against Destiny (Hispanic 951218)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -245,7 +245,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xxjr2">
-    <description>19XX: The War Against Destiny (Japan 951207)</description>
+    <description>19XX- The War Against Destiny (Japan 951207)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -259,7 +259,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xxjr1">
-    <description>19XX: The War Against Destiny (Japan 951225)</description>
+    <description>19XX- The War Against Destiny (Japan 951225)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -273,7 +273,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xxj">
-    <description>19XX: The War Against Destiny (Japan 960104, yellow case)</description>
+    <description>19XX- The War Against Destiny (Japan 960104, yellow case)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -287,7 +287,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xx">
-    <description>19XX: The War Against Destiny (USA 951207)</description>
+    <description>19XX- The War Against Destiny (USA 951207)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -749,7 +749,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dinoj">
-    <description>Cadillacs: Kyouryuu Shin Seiki (Japan 930201)</description>
+    <description>Cadillacs- Kyouryuu Shin Seiki (Japan 930201)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1057,7 +1057,7 @@
     <cloneof></cloneof>
   </game>
   <game name="pc_rrngr">
-    <description>Chip&apos;n Dale: Rescue Rangers (PlayChoice-10)</description>
+    <description>Chip&apos;n Dale- Rescue Rangers (PlayChoice-10)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom USA (Nintendo of America license)</manufacturer>
@@ -1127,7 +1127,7 @@
     <cloneof></cloneof>
   </game>
   <game name="cybots">
-    <description>Cyberbots: Fullmetal Madness (Euro 950424)</description>
+    <description>Cyberbots- Fullmetal Madness (Euro 950424)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1141,7 +1141,7 @@
     <cloneof></cloneof>
   </game>
   <game name="cybotsj">
-    <description>Cyberbots: Fullmetal Madness (Japan 950420)</description>
+    <description>Cyberbots- Fullmetal Madness (Japan 950420)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1155,7 +1155,7 @@
     <cloneof></cloneof>
   </game>
   <game name="cybotsu">
-    <description>Cyberbots: Fullmetal Madness (USA 950424)</description>
+    <description>Cyberbots- Fullmetal Madness (USA 950424)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1197,7 +1197,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dstlka">
-    <description>Darkstalkers: The Night Warriors (Asia 940705)</description>
+    <description>Darkstalkers- The Night Warriors (Asia 940705)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1211,7 +1211,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dstlk">
-    <description>Darkstalkers: The Night Warriors (Euro 940705)</description>
+    <description>Darkstalkers- The Night Warriors (Euro 940705)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1225,7 +1225,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dstlkh">
-    <description>Darkstalkers: The Night Warriors (Hispanic 940818)</description>
+    <description>Darkstalkers- The Night Warriors (Hispanic 940818)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1239,7 +1239,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dstlkur1">
-    <description>Darkstalkers: The Night Warriors (USA 940705)</description>
+    <description>Darkstalkers- The Night Warriors (USA 940705)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1253,7 +1253,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dstlku">
-    <description>Darkstalkers: The Night Warriors (USA 940818)</description>
+    <description>Darkstalkers- The Night Warriors (USA 940818)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1281,7 +1281,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsoma">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Asia 960619)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Asia 960619)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1295,7 +1295,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomb">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Brazil 960223)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Brazil 960223)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1309,7 +1309,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomr3">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960208)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Euro 960208)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1323,7 +1323,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomr2">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960209)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Euro 960209)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1337,7 +1337,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomr1">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960223)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Euro 960223)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1351,7 +1351,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsom">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960619)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Euro 960619)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1365,7 +1365,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomh">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Hispanic 960223)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Hispanic 960223)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1379,7 +1379,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomjr1">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Japan 960206)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Japan 960206)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1393,7 +1393,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomj">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Japan 960619)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Japan 960619)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1407,7 +1407,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomur1">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960209)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (USA 960209)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1421,7 +1421,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomu">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960619)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (USA 960619)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1435,7 +1435,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodar1">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Asia 940113)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Asia 940113)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1449,7 +1449,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtoda">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Asia 940412)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Asia 940412)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1463,7 +1463,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodr1">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Euro 940113)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Euro 940113)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1477,7 +1477,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtod">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Euro 940412)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Euro 940412)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1491,7 +1491,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodhr2">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940113)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Hispanic 940113)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1505,7 +1505,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodhr1">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940125)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Hispanic 940125)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1519,7 +1519,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodh">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Hispanic 940412)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Hispanic 940412)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1533,7 +1533,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodjr2">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Japan 940113)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Japan 940113)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1547,7 +1547,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodjr1">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Japan 940125)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Japan 940125)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1561,7 +1561,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodj">
-    <description>Dungeons &amp; Dragons: Tower of Doom (Japan 940412)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (Japan 940412)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1575,7 +1575,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodur1">
-    <description>Dungeons &amp; Dragons: Tower of Doom (USA 940113)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (USA 940113)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1589,7 +1589,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodu">
-    <description>Dungeons &amp; Dragons: Tower of Doom (USA 940125)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (USA 940125)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2135,7 +2135,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2a">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (Asia 040202)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (Asia 040202)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2149,7 +2149,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2j">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (Japan 031222)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (Japan 031222)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2163,7 +2163,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (USA 040202)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (USA 040202)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2219,7 +2219,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojobanr1">
-    <description>JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913, NO CD)</description>
+    <description>JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990913, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2233,7 +2233,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojoba">
-    <description>JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)</description>
+    <description>JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990927)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2247,7 +2247,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojoban">
-    <description>JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)</description>
+    <description>JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990927, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2345,7 +2345,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jyangoku">
-    <description>Jyangokushi: Haoh no Saihai (Japan 990527)</description>
+    <description>Jyangokushi- Haoh no Saihai (Japan 990527)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2569,7 +2569,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mswordj">
-    <description>Magic Sword: Heroic Fantasy (Japan 900623)</description>
+    <description>Magic Sword- Heroic Fantasy (Japan 900623)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2583,7 +2583,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mswordu">
-    <description>Magic Sword: Heroic Fantasy (USA 900725)</description>
+    <description>Magic Sword- Heroic Fantasy (USA 900725)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2597,7 +2597,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mswordr1">
-    <description>Magic Sword: Heroic Fantasy (World 900623)</description>
+    <description>Magic Sword- Heroic Fantasy (World 900623)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2611,7 +2611,7 @@
     <cloneof></cloneof>
   </game>
   <game name="msword">
-    <description>Magic Sword: Heroic Fantasy (World 900725)</description>
+    <description>Magic Sword- Heroic Fantasy (World 900725)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2919,7 +2919,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscar1">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Asia 980112)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Asia 980112)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2933,7 +2933,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvsca">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Asia 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Asia 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2947,7 +2947,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscb">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Brazil 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Brazil 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2961,7 +2961,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscr1">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Euro 980112)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Euro 980112)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2975,7 +2975,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvsc">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Euro 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Euro 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -2989,7 +2989,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvsch">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Hispanic 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Hispanic 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3003,7 +3003,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscjr1">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Japan 980112)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Japan 980112)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3017,7 +3017,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscj">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Japan 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3031,7 +3031,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscjsing">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (Japan 980123) (Single PCB)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (Japan 980123) (Single PCB)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3045,7 +3045,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscur1">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (USA 971222)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (USA 971222)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3059,7 +3059,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscu">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (USA 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3073,7 +3073,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megaman2a">
-    <description>Mega Man 2: The Power Fighters (Asia 960708)</description>
+    <description>Mega Man 2- The Power Fighters (Asia 960708)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3087,7 +3087,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megaman2h">
-    <description>Mega Man 2: The Power Fighters (Hispanic 960712)</description>
+    <description>Mega Man 2- The Power Fighters (Hispanic 960712)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3101,7 +3101,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megaman2">
-    <description>Mega Man 2: The Power Fighters (USA 960708)</description>
+    <description>Mega Man 2- The Power Fighters (USA 960708)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3129,7 +3129,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megamana">
-    <description>Mega Man: The Power Battle (CPS1, Asia 951006)</description>
+    <description>Mega Man- The Power Battle (CPS1, Asia 951006)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3143,7 +3143,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megaman">
-    <description>Mega Man: The Power Battle (CPS1, USA 951006)</description>
+    <description>Mega Man- The Power Battle (CPS1, USA 951006)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3157,7 +3157,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mmancp2u">
-    <description>Mega Man: The Power Battle (CPS2, USA 951006, SAMPLE Version)</description>
+    <description>Mega Man- The Power Battle (CPS2, USA 951006, SAMPLE Version)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3227,7 +3227,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mbombrdj">
-    <description>Muscle Bomber Duo: Heat Up Warriors (Japan 931206)</description>
+    <description>Muscle Bomber Duo- Heat Up Warriors (Japan 931206)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3241,7 +3241,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mbombrd">
-    <description>Muscle Bomber Duo: Ultimate Team Battle (World 931206)</description>
+    <description>Muscle Bomber Duo- Ultimate Team Battle (World 931206)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3255,7 +3255,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mbomberj">
-    <description>Muscle Bomber: The Body Explosion (Japan 930713)</description>
+    <description>Muscle Bomber- The Body Explosion (Japan 930713)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3297,7 +3297,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nwarra">
-    <description>Night Warriors: Darkstalkers&apos; Revenge (Asia 950302)</description>
+    <description>Night Warriors- Darkstalkers&apos; Revenge (Asia 950302)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3311,7 +3311,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nwarrb">
-    <description>Night Warriors: Darkstalkers&apos; Revenge (Brazil 950403)</description>
+    <description>Night Warriors- Darkstalkers&apos; Revenge (Brazil 950403)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3325,7 +3325,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nwarr">
-    <description>Night Warriors: Darkstalkers&apos; Revenge (Euro 950316)</description>
+    <description>Night Warriors- Darkstalkers&apos; Revenge (Euro 950316)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3339,7 +3339,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nwarrh">
-    <description>Night Warriors: Darkstalkers&apos; Revenge (Hispanic 950403)</description>
+    <description>Night Warriors- Darkstalkers&apos; Revenge (Hispanic 950403)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3353,7 +3353,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nwarru">
-    <description>Night Warriors: Darkstalkers&apos; Revenge (USA 950406)</description>
+    <description>Night Warriors- Darkstalkers&apos; Revenge (USA 950406)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3381,7 +3381,7 @@
     <cloneof></cloneof>
   </game>
   <game name="plsmaswda">
-    <description>Plasma Sword: Nightmare of Bilstein (Asia 980316)</description>
+    <description>Plasma Sword- Nightmare of Bilstein (Asia 980316)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3395,7 +3395,7 @@
     <cloneof></cloneof>
   </game>
   <game name="plsmaswd">
-    <description>Plasma Sword: Nightmare of Bilstein (USA 980316)</description>
+    <description>Plasma Sword- Nightmare of Bilstein (USA 980316)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3423,7 +3423,7 @@
     <cloneof></cloneof>
   </game>
   <game name="pgearr1">
-    <description>Powered Gear: Strategic Variant Armor Equipment (Japan 940916)</description>
+    <description>Powered Gear- Strategic Variant Armor Equipment (Japan 940916)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3437,7 +3437,7 @@
     <cloneof></cloneof>
   </game>
   <game name="pgear">
-    <description>Powered Gear: Strategic Variant Armor Equipment (Japan 941024)</description>
+    <description>Powered Gear- Strategic Variant Armor Equipment (Japan 941024)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3451,7 +3451,7 @@
     <cloneof></cloneof>
   </game>
   <game name="qad">
-    <description>Quiz &amp; Dragons: Capcom Quiz Game (USA 920701)</description>
+    <description>Quiz &amp; Dragons- Capcom Quiz Game (USA 920701)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3479,7 +3479,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ringdesta">
-    <description>Ring of Destruction: Slammasters II (Asia 940831)</description>
+    <description>Ring of Destruction- Slammasters II (Asia 940831)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3493,7 +3493,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ringdest">
-    <description>Ring of Destruction: Slammasters II (Euro 940902)</description>
+    <description>Ring of Destruction- Slammasters II (Euro 940902)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3507,7 +3507,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rvschoola">
-    <description>Rival Schools: United By Fate (Asia 971117)</description>
+    <description>Rival Schools- United By Fate (Asia 971117)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3521,7 +3521,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rvschool">
-    <description>Rival Schools: United By Fate (Euro 971117)</description>
+    <description>Rival Schools- United By Fate (Euro 971117)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3535,7 +3535,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rvschoolu">
-    <description>Rival Schools: United By Fate (USA 971117)</description>
+    <description>Rival Schools- United By Fate (USA 971117)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3549,7 +3549,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rockman2j">
-    <description>Rockman 2: The Power Fighters (Japan 960708)</description>
+    <description>Rockman 2- The Power Fighters (Japan 960708)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3563,7 +3563,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rockmanj">
-    <description>Rockman: The Power Battle (CPS1, Japan 950922)</description>
+    <description>Rockman- The Power Battle (CPS1, Japan 950922)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3577,7 +3577,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rmancp2j">
-    <description>Rockman: The Power Battle (CPS2, Japan 950922)</description>
+    <description>Rockman- The Power Battle (CPS2, Japan 950922)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3717,7 +3717,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jgakuen">
-    <description>Shiritsu Justice Gakuen: Legion of Heroes (Japan 971117)</description>
+    <description>Shiritsu Justice Gakuen- Legion of Heroes (Japan 971117)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3843,7 +3843,7 @@
     <cloneof></cloneof>
   </game>
   <game name="stargld2">
-    <description>Star Gladiator 2: Nightmare of Bilstein (Japan 980316)</description>
+    <description>Star Gladiator 2- Nightmare of Bilstein (Japan 980316)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3857,7 +3857,7 @@
     <cloneof></cloneof>
   </game>
   <game name="stargladj">
-    <description>Star Gladiator Episode I: Final Crusade (Japan 960627)</description>
+    <description>Star Gladiator Episode I- Final Crusade (Japan 960627)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -3871,7 +3871,7 @@
     <cloneof></cloneof>
   </game>
   <game name="starglad">
-    <description>Star Gladiator Episode I: Final Crusade (USA 960627)</description>
+    <description>Star Gladiator Episode I- Final Crusade (USA 960627)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4095,7 +4095,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfar3">
-    <description>Street Fighter Alpha: Warriors&apos; Dreams (Euro 950605)</description>
+    <description>Street Fighter Alpha- Warriors&apos; Dreams (Euro 950605)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4109,7 +4109,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfar2">
-    <description>Street Fighter Alpha: Warriors&apos; Dreams (Euro 950627)</description>
+    <description>Street Fighter Alpha- Warriors&apos; Dreams (Euro 950627)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4123,7 +4123,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfar1">
-    <description>Street Fighter Alpha: Warriors&apos; Dreams (Euro 950718)</description>
+    <description>Street Fighter Alpha- Warriors&apos; Dreams (Euro 950718)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4137,7 +4137,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfa">
-    <description>Street Fighter Alpha: Warriors&apos; Dreams (Euro 950727)</description>
+    <description>Street Fighter Alpha- Warriors&apos; Dreams (Euro 950727)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4151,7 +4151,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfau">
-    <description>Street Fighter Alpha: Warriors&apos; Dreams (USA 950627)</description>
+    <description>Street Fighter Alpha- Warriors&apos; Dreams (USA 950627)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4389,7 +4389,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2hfj">
-    <description>Street Fighter II&apos; Turbo: Hyper Fighting (Japan 921209)</description>
+    <description>Street Fighter II&apos; Turbo- Hyper Fighting (Japan 921209)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4403,7 +4403,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ceja">
-    <description>Street Fighter II&apos;: Champion Edition (Japan 920322)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Japan 920322)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4417,7 +4417,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2cejb">
-    <description>Street Fighter II&apos;: Champion Edition (Japan 920513)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Japan 920513)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4431,7 +4431,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2cejc">
-    <description>Street Fighter II&apos;: Champion Edition (Japan 920803)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Japan 920803)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4445,7 +4445,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ceua">
-    <description>Street Fighter II&apos;: Champion Edition (USA 920313)</description>
+    <description>Street Fighter II&apos;- Champion Edition (USA 920313)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4459,7 +4459,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ceub">
-    <description>Street Fighter II&apos;: Champion Edition (USA 920513)</description>
+    <description>Street Fighter II&apos;- Champion Edition (USA 920513)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4473,7 +4473,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ceuc">
-    <description>Street Fighter II&apos;: Champion Edition (USA 920803)</description>
+    <description>Street Fighter II&apos;- Champion Edition (USA 920803)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4487,7 +4487,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ceea">
-    <description>Street Fighter II&apos;: Champion Edition (World 920313)</description>
+    <description>Street Fighter II&apos;- Champion Edition (World 920313)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4501,7 +4501,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ce">
-    <description>Street Fighter II&apos;: Champion Edition (World 920513)</description>
+    <description>Street Fighter II&apos;- Champion Edition (World 920513)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4515,7 +4515,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2hfu">
-    <description>Street Fighter II&apos;: Hyper Fighting (USA 921209)</description>
+    <description>Street Fighter II&apos;- Hyper Fighting (USA 921209)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4529,7 +4529,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2hf">
-    <description>Street Fighter II&apos;: Hyper Fighting (World 921209)</description>
+    <description>Street Fighter II&apos;- Hyper Fighting (World 921209)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4543,7 +4543,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ja">
-    <description>Street Fighter II: The World Warrior (Japan 910214)</description>
+    <description>Street Fighter II- The World Warrior (Japan 910214)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4557,7 +4557,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2jc">
-    <description>Street Fighter II: The World Warrior (Japan 910306)</description>
+    <description>Street Fighter II- The World Warrior (Japan 910306)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4571,7 +4571,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2jf">
-    <description>Street Fighter II: The World Warrior (Japan 910411)</description>
+    <description>Street Fighter II- The World Warrior (Japan 910411)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4585,7 +4585,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2jh">
-    <description>Street Fighter II: The World Warrior (Japan 910522)</description>
+    <description>Street Fighter II- The World Warrior (Japan 910522)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4599,7 +4599,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2j">
-    <description>Street Fighter II: The World Warrior (Japan 911210)</description>
+    <description>Street Fighter II- The World Warrior (Japan 911210)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4613,7 +4613,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2jl">
-    <description>Street Fighter II: The World Warrior (Japan 920312)</description>
+    <description>Street Fighter II- The World Warrior (Japan 920312)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4627,7 +4627,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ua">
-    <description>Street Fighter II: The World Warrior (USA 910206)</description>
+    <description>Street Fighter II- The World Warrior (USA 910206)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4641,7 +4641,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ub">
-    <description>Street Fighter II: The World Warrior (USA 910214)</description>
+    <description>Street Fighter II- The World Warrior (USA 910214)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4655,7 +4655,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ue">
-    <description>Street Fighter II: The World Warrior (USA 910228)</description>
+    <description>Street Fighter II- The World Warrior (USA 910228)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4669,7 +4669,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2uc">
-    <description>Street Fighter II: The World Warrior (USA 910306)</description>
+    <description>Street Fighter II- The World Warrior (USA 910306)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4683,7 +4683,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ud">
-    <description>Street Fighter II: The World Warrior (USA 910318)</description>
+    <description>Street Fighter II- The World Warrior (USA 910318)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4697,7 +4697,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2uf">
-    <description>Street Fighter II: The World Warrior (USA 910411)</description>
+    <description>Street Fighter II- The World Warrior (USA 910411)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4711,7 +4711,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ug">
-    <description>Street Fighter II: The World Warrior (USA 910522, Rev. G)</description>
+    <description>Street Fighter II- The World Warrior (USA 910522, Rev. G)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4725,7 +4725,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ui">
-    <description>Street Fighter II: The World Warrior (USA 910522, Rev. I)</description>
+    <description>Street Fighter II- The World Warrior (USA 910522, Rev. I)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4739,7 +4739,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2uk">
-    <description>Street Fighter II: The World Warrior (USA 911101)</description>
+    <description>Street Fighter II- The World Warrior (USA 911101)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4753,7 +4753,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2eb">
-    <description>Street Fighter II: The World Warrior (World 910214)</description>
+    <description>Street Fighter II- The World Warrior (World 910214)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4767,7 +4767,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ee">
-    <description>Street Fighter II: The World Warrior (World 910228)</description>
+    <description>Street Fighter II- The World Warrior (World 910228)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4781,7 +4781,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ed">
-    <description>Street Fighter II: The World Warrior (World 910318)</description>
+    <description>Street Fighter II- The World Warrior (World 910318)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4795,7 +4795,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2">
-    <description>Street Fighter II: The World Warrior (World 910522)</description>
+    <description>Street Fighter II- The World Warrior (World 910522)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4809,7 +4809,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii2n">
-    <description>Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)</description>
+    <description>Street Fighter III 2nd Impact- Giant Attack (Asia 970930, NO CD)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4823,7 +4823,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii2j">
-    <description>Street Fighter III 2nd Impact: Giant Attack (Japan 970930)</description>
+    <description>Street Fighter III 2nd Impact- Giant Attack (Japan 970930)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4837,7 +4837,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii2">
-    <description>Street Fighter III 2nd Impact: Giant Attack (USA 970930)</description>
+    <description>Street Fighter III 2nd Impact- Giant Attack (USA 970930)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4851,7 +4851,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Euro 990608)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4865,7 +4865,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3nr1">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Japan 990512, NO CD)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Japan 990512, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4879,7 +4879,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3n">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Japan 990608, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4893,7 +4893,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3ur1">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (USA 990512)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (USA 990512)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4907,7 +4907,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3u">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (USA 990608)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (USA 990608)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4921,7 +4921,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiia">
-    <description>Street Fighter III: New Generation (Asia 970204)</description>
+    <description>Street Fighter III- New Generation (Asia 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4935,7 +4935,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiin">
-    <description>Street Fighter III: New Generation (Asia 970204, NO CD, bios set 1)</description>
+    <description>Street Fighter III- New Generation (Asia 970204, NO CD, bios set 1)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4949,7 +4949,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiina">
-    <description>Street Fighter III: New Generation (Asia 970204, NO CD, bios set 2)</description>
+    <description>Street Fighter III- New Generation (Asia 970204, NO CD, bios set 2)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4963,7 +4963,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii">
-    <description>Street Fighter III: New Generation (Euro 970204)</description>
+    <description>Street Fighter III- New Generation (Euro 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4977,7 +4977,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiih">
-    <description>Street Fighter III: New Generation (Hispanic 970204)</description>
+    <description>Street Fighter III- New Generation (Hispanic 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4991,7 +4991,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiij">
-    <description>Street Fighter III: New Generation (Japan 970204)</description>
+    <description>Street Fighter III- New Generation (Japan 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5005,7 +5005,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiiu">
-    <description>Street Fighter III: New Generation (USA 970204)</description>
+    <description>Street Fighter III- New Generation (USA 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5369,7 +5369,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sftm110">
-    <description>Street Fighter: The Movie (v1.10)</description>
+    <description>Street Fighter- The Movie (v1.10)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom / Incredible Technologies</manufacturer>
@@ -5383,7 +5383,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sftm111">
-    <description>Street Fighter: The Movie (v1.11)</description>
+    <description>Street Fighter- The Movie (v1.11)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom / Incredible Technologies</manufacturer>
@@ -5397,7 +5397,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sftm">
-    <description>Street Fighter: The Movie (v1.12)</description>
+    <description>Street Fighter- The Movie (v1.12)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom / Incredible Technologies</manufacturer>
@@ -5411,7 +5411,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sftmj">
-    <description>Street Fighter: The Movie (v1.12N, Japan)</description>
+    <description>Street Fighter- The Movie (v1.12N, Japan)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom / Incredible Technologies</manufacturer>
@@ -5537,7 +5537,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sgemfa">
-    <description>Super Gem Fighter: Mini Mix (Asia 970904)</description>
+    <description>Super Gem Fighter- Mini Mix (Asia 970904)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5551,7 +5551,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sgemfh">
-    <description>Super Gem Fighter: Mini Mix (Hispanic 970904)</description>
+    <description>Super Gem Fighter- Mini Mix (Hispanic 970904)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5565,7 +5565,7 @@
     <cloneof></cloneof>
   </game>
   <game name="smbombr1">
-    <description>Super Muscle Bomber: The International Blowout (Japan 940808)</description>
+    <description>Super Muscle Bomber- The International Blowout (Japan 940808)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5579,7 +5579,7 @@
     <cloneof></cloneof>
   </game>
   <game name="smbomb">
-    <description>Super Muscle Bomber: The International Blowout (Japan 940831)</description>
+    <description>Super Muscle Bomber- The International Blowout (Japan 940831)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5705,7 +5705,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2xjr">
-    <description>Super Street Fighter II X: Grand Master Challenge (Japan 940223 rent version)</description>
+    <description>Super Street Fighter II X- Grand Master Challenge (Japan 940223 rent version)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5719,7 +5719,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2xj">
-    <description>Super Street Fighter II X: Grand Master Challenge (Japan 940223)</description>
+    <description>Super Street Fighter II X- Grand Master Challenge (Japan 940223)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5733,7 +5733,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2ar1">
-    <description>Super Street Fighter II: The New Challengers (Asia 930914)</description>
+    <description>Super Street Fighter II- The New Challengers (Asia 930914)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5747,7 +5747,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2a">
-    <description>Super Street Fighter II: The New Challengers (Asia 931005)</description>
+    <description>Super Street Fighter II- The New Challengers (Asia 931005)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5761,7 +5761,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2h">
-    <description>Super Street Fighter II: The New Challengers (Hispanic 930911)</description>
+    <description>Super Street Fighter II- The New Challengers (Hispanic 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5775,7 +5775,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2jr2">
-    <description>Super Street Fighter II: The New Challengers (Japan 930910)</description>
+    <description>Super Street Fighter II- The New Challengers (Japan 930910)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5789,7 +5789,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2jr1">
-    <description>Super Street Fighter II: The New Challengers (Japan 930911)</description>
+    <description>Super Street Fighter II- The New Challengers (Japan 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5803,7 +5803,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2j">
-    <description>Super Street Fighter II: The New Challengers (Japan 931005)</description>
+    <description>Super Street Fighter II- The New Challengers (Japan 931005)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5817,7 +5817,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2u">
-    <description>Super Street Fighter II: The New Challengers (USA 930911)</description>
+    <description>Super Street Fighter II- The New Challengers (USA 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5831,7 +5831,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2">
-    <description>Super Street Fighter II: The New Challengers (World 930911)</description>
+    <description>Super Street Fighter II- The New Challengers (World 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5845,7 +5845,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2tbh">
-    <description>Super Street Fighter II: The Tournament Battle (Hispanic 931005)</description>
+    <description>Super Street Fighter II- The Tournament Battle (Hispanic 931005)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5859,7 +5859,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2tbj">
-    <description>Super Street Fighter II: The Tournament Battle (Japan 930911)</description>
+    <description>Super Street Fighter II- The Tournament Battle (Japan 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5873,7 +5873,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2tbr1">
-    <description>Super Street Fighter II: The Tournament Battle (World 930911)</description>
+    <description>Super Street Fighter II- The Tournament Battle (World 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5887,7 +5887,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2tb">
-    <description>Super Street Fighter II: The Tournament Battle (World 931119)</description>
+    <description>Super Street Fighter II- The Tournament Battle (World 931119)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -5971,7 +5971,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofj">
-    <description>Tenchi wo Kurau II: Sekiheki no Tatakai (Japan 921031)</description>
+    <description>Tenchi wo Kurau II- Sekiheki no Tatakai (Japan 921031)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6335,7 +6335,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhunt2r1">
-    <description>Vampire Hunter 2: Darkstalkers Revenge (Japan 970913)</description>
+    <description>Vampire Hunter 2- Darkstalkers Revenge (Japan 970913)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6349,7 +6349,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhunt2">
-    <description>Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)</description>
+    <description>Vampire Hunter 2- Darkstalkers Revenge (Japan 970929)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6363,7 +6363,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhuntjr2">
-    <description>Vampire Hunter: Darkstalkers&apos; Revenge (Japan 950302)</description>
+    <description>Vampire Hunter- Darkstalkers&apos; Revenge (Japan 950302)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6377,7 +6377,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhuntjr1s">
-    <description>Vampire Hunter: Darkstalkers&apos; Revenge (Japan 950307 stop version)</description>
+    <description>Vampire Hunter- Darkstalkers&apos; Revenge (Japan 950307 stop version)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6391,7 +6391,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhuntjr1">
-    <description>Vampire Hunter: Darkstalkers&apos; Revenge (Japan 950307)</description>
+    <description>Vampire Hunter- Darkstalkers&apos; Revenge (Japan 950307)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6405,7 +6405,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhuntj">
-    <description>Vampire Hunter: Darkstalkers&apos; Revenge (Japan 950316)</description>
+    <description>Vampire Hunter- Darkstalkers&apos; Revenge (Japan 950316)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6419,7 +6419,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsav2">
-    <description>Vampire Savior 2: The Lord of Vampire (Japan 970913)</description>
+    <description>Vampire Savior 2- The Lord of Vampire (Japan 970913)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6433,7 +6433,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsava">
-    <description>Vampire Savior: The Lord of Vampire (Asia 970519)</description>
+    <description>Vampire Savior- The Lord of Vampire (Asia 970519)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6447,7 +6447,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsav">
-    <description>Vampire Savior: The Lord of Vampire (Euro 970519)</description>
+    <description>Vampire Savior- The Lord of Vampire (Euro 970519)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6461,7 +6461,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsavh">
-    <description>Vampire Savior: The Lord of Vampire (Hispanic 970519)</description>
+    <description>Vampire Savior- The Lord of Vampire (Hispanic 970519)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6475,7 +6475,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsavj">
-    <description>Vampire Savior: The Lord of Vampire (Japan 970519)</description>
+    <description>Vampire Savior- The Lord of Vampire (Japan 970519)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6489,7 +6489,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsavu">
-    <description>Vampire Savior: The Lord of Vampire (USA 970519)</description>
+    <description>Vampire Savior- The Lord of Vampire (USA 970519)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6503,7 +6503,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vampjr1">
-    <description>Vampire: The Night Warriors (Japan 940630)</description>
+    <description>Vampire- The Night Warriors (Japan 940630)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6517,7 +6517,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vampja">
-    <description>Vampire: The Night Warriors (Japan 940705 alt)</description>
+    <description>Vampire- The Night Warriors (Japan 940705 alt)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6531,7 +6531,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vampj">
-    <description>Vampire: The Night Warriors (Japan 940705)</description>
+    <description>Vampire- The Night Warriors (Japan 940705)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6545,7 +6545,7 @@
     <cloneof></cloneof>
   </game>
   <game name="varthj">
-    <description>Varth: Operation Thunderstorm (Japan 920714)</description>
+    <description>Varth- Operation Thunderstorm (Japan 920714)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6559,7 +6559,7 @@
     <cloneof></cloneof>
   </game>
   <game name="varthu">
-    <description>Varth: Operation Thunderstorm (USA 920612)</description>
+    <description>Varth- Operation Thunderstorm (USA 920612)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom (Romstar license)</manufacturer>
@@ -6573,7 +6573,7 @@
     <cloneof></cloneof>
   </game>
   <game name="varthr1">
-    <description>Varth: Operation Thunderstorm (World 920612)</description>
+    <description>Varth- Operation Thunderstorm (World 920612)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6587,7 +6587,7 @@
     <cloneof></cloneof>
   </game>
   <game name="varth">
-    <description>Varth: Operation Thunderstorm (World 920714)</description>
+    <description>Varth- Operation Thunderstorm (World 920714)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6951,7 +6951,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotaar1">
-    <description>X-Men: Children of the Atom (Asia 941217)</description>
+    <description>X-Men- Children of the Atom (Asia 941217)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6965,7 +6965,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotaa">
-    <description>X-Men: Children of the Atom (Asia 950105)</description>
+    <description>X-Men- Children of the Atom (Asia 950105)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6979,7 +6979,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotar1">
-    <description>X-Men: Children of the Atom (Euro 950105)</description>
+    <description>X-Men- Children of the Atom (Euro 950105)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -6993,7 +6993,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcota">
-    <description>X-Men: Children of the Atom (Euro 950331)</description>
+    <description>X-Men- Children of the Atom (Euro 950331)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7007,7 +7007,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotahr1">
-    <description>X-Men: Children of the Atom (Hispanic 950105)</description>
+    <description>X-Men- Children of the Atom (Hispanic 950105)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7021,7 +7021,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotah">
-    <description>X-Men: Children of the Atom (Hispanic 950331)</description>
+    <description>X-Men- Children of the Atom (Hispanic 950331)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7035,7 +7035,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotajr">
-    <description>X-Men: Children of the Atom (Japan 941208 rent version)</description>
+    <description>X-Men- Children of the Atom (Japan 941208 rent version)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7049,7 +7049,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotaj3">
-    <description>X-Men: Children of the Atom (Japan 941217)</description>
+    <description>X-Men- Children of the Atom (Japan 941217)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7063,7 +7063,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotaj2">
-    <description>X-Men: Children of the Atom (Japan 941219)</description>
+    <description>X-Men- Children of the Atom (Japan 941219)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7077,7 +7077,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotaj1">
-    <description>X-Men: Children of the Atom (Japan 941222)</description>
+    <description>X-Men- Children of the Atom (Japan 941222)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7091,7 +7091,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotaj">
-    <description>X-Men: Children of the Atom (Japan 950105)</description>
+    <description>X-Men- Children of the Atom (Japan 950105)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -7105,7 +7105,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotau">
-    <description>X-Men: Children of the Atom (USA 950105)</description>
+    <description>X-Men- Children of the Atom (USA 950105)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>

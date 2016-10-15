@@ -259,7 +259,7 @@
     <cloneof></cloneof>
   </game>
   <game name="clubkrte">
-    <description>Club Kart: European Session 2001</description>
+    <description>Club Kart- European Session 2001</description>
     <year>2002</year>
     <rating>AAMA - Green (Suitable For All Ages)</rating>
     <manufacturer>Sega</manufacturer>
@@ -273,7 +273,7 @@
     <cloneof></cloneof>
   </game>
   <game name="clubkrtd">
-    <description>Club Kart: European Session 2002 (Rev. D)</description>
+    <description>Club Kart- European Session 2002 (Rev. D)</description>
     <year>2002</year>
     <rating>AAMA - Green (Suitable For All Ages)</rating>
     <manufacturer>Sega</manufacturer>
@@ -287,7 +287,7 @@
     <cloneof></cloneof>
   </game>
   <game name="clubk2k3">
-    <description>Club Kart: European Session 2003</description>
+    <description>Club Kart- European Session 2003</description>
     <year>2003</year>
     <rating>AAMA - Green (Suitable For All Ages)</rating>
     <manufacturer>Sega</manufacturer>
@@ -721,7 +721,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gunsur2">
-    <description>Gun Survivor 2: Bio Hazard Code Veronica</description>
+    <description>Gun Survivor 2- Bio Hazard Code Veronica</description>
     <year>2001</year>
     <rating>AAMA - Red (Animated Violence Strong)</rating>
     <manufacturer>Capcom / Namco</manufacturer>
@@ -917,7 +917,7 @@
     <cloneof></cloneof>
   </game>
   <game name="initdexp">
-    <description>Initial D: Arcade Stage (Export) (GDS-0025)</description>
+    <description>Initial D- Arcade Stage (Export) (GDS-0025)</description>
     <year>2002</year>
     <rating>AAMA - Green (Suitable For All Ages)</rating>
     <manufacturer>Sega</manufacturer>
@@ -931,7 +931,7 @@
     <cloneof></cloneof>
   </game>
   <game name="initd">
-    <description>Initial D: Arcade Stage (Rev B) (JPN) (GDS-0020B)</description>
+    <description>Initial D- Arcade Stage (Rev B) (JPN) (GDS-0020B)</description>
     <year>2002</year>
     <rating>AAMA - Green (Suitable For All Ages)</rating>
     <manufacturer>Sega</manufacturer>
@@ -1197,7 +1197,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gundmct">
-    <description>Mobile Suit Gundam: Federation vs. Zeon (2001-02-08)</description>
+    <description>Mobile Suit Gundam- Federation vs. Zeon (2001-02-08)</description>
     <year>2001</year>
     <rating>AAMA - Green (Suitable For All Ages)</rating>
     <manufacturer>Banpresto</manufacturer>
@@ -1211,7 +1211,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gundmgd">
-    <description>Mobile Suit Gundam: Federation Vs. Zeon (GDL-0001)</description>
+    <description>Mobile Suit Gundam- Federation Vs. Zeon (GDL-0001)</description>
     <year>2001</year>
     <rating>AAMA - Yellow (Animated Violence Mild)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1225,7 +1225,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gundmxgd">
-    <description>Mobile Suit Gundam: Federation Vs. Zeon DX (GDL-0006)</description>
+    <description>Mobile Suit Gundam- Federation Vs. Zeon DX (GDL-0006)</description>
     <year>2001</year>
     <rating>AAMA - Yellow (Animated Violence Mild)</rating>
     <manufacturer>Capcom</manufacturer>

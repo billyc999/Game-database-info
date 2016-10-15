@@ -833,7 +833,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jb_10b">
-    <description>Jack*Bot (1.0B) (Belgium/Canada)</description>
+    <description>Jack Bot (1.0B) (Belgium/Canada)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -847,7 +847,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jb_10r">
-    <description>Jack*Bot (1.0R)</description>
+    <description>Jack Bot (1.0R)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1295,7 +1295,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nf_10">
-    <description>No Fear: Dangerous Sports (1.0)</description>
+    <description>No Fear- Dangerous Sports (1.0)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1309,7 +1309,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nf_20">
-    <description>No Fear: Dangerous Sports (2.0)</description>
+    <description>No Fear- Dangerous Sports (2.0)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1323,7 +1323,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nf_22">
-    <description>No Fear: Dangerous Sports (2.2)</description>
+    <description>No Fear- Dangerous Sports (2.2)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1337,7 +1337,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nf_23">
-    <description>No Fear: Dangerous Sports (2.3)</description>
+    <description>No Fear- Dangerous Sports (2.3)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1351,7 +1351,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nf_23f">
-    <description>No Fear: Dangerous Sports (2.3F)</description>
+    <description>No Fear- Dangerous Sports (2.3F)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1365,7 +1365,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nf_23x">
-    <description>No Fear: Dangerous Sports (2.3X)</description>
+    <description>No Fear- Dangerous Sports (2.3X)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1603,7 +1603,7 @@
     <cloneof></cloneof>
   </game>
   <game name="robotron">
-    <description>Robotron: 2084 (Solid Blue label)</description>
+    <description>Robotron- 2084 (Solid Blue label)</description>
     <year>1982</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams / Vid Kidz</manufacturer>
@@ -1617,7 +1617,7 @@
     <cloneof></cloneof>
   </game>
   <game name="robotronyo">
-    <description>Robotron: 2084 (Yellow/Orange label)</description>
+    <description>Robotron- 2084 (Yellow/Orange label)</description>
     <year>1982</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams / Vid Kidz</manufacturer>
@@ -1855,7 +1855,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_g7">
-    <description>Star Trek: The Next Generation (LG-7)</description>
+    <description>Star Trek- The Next Generation (LG-7)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1869,7 +1869,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_l1">
-    <description>Star Trek: The Next Generation (LX-1)</description>
+    <description>Star Trek- The Next Generation (LX-1)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1883,7 +1883,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_l2">
-    <description>Star Trek: The Next Generation (LX-2)</description>
+    <description>Star Trek- The Next Generation (LX-2)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1897,7 +1897,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_l3">
-    <description>Star Trek: The Next Generation (LX-3)</description>
+    <description>Star Trek- The Next Generation (LX-3)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1911,7 +1911,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_x7">
-    <description>Star Trek: The Next Generation (LX-7 Special)</description>
+    <description>Star Trek- The Next Generation (LX-7 Special)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1925,7 +1925,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_l7">
-    <description>Star Trek: The Next Generation (LX-7)</description>
+    <description>Star Trek- The Next Generation (LX-7)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1939,7 +1939,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_s7">
-    <description>Star Trek: The Next Generation (LX-7) SP1</description>
+    <description>Star Trek- The Next Generation (LX-7) SP1</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1953,7 +1953,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_p4">
-    <description>Star Trek: The Next Generation (P-4)</description>
+    <description>Star Trek- The Next Generation (P-4)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1967,7 +1967,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_p5">
-    <description>Star Trek: The Next Generation (P-5)</description>
+    <description>Star Trek- The Next Generation (P-5)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>
@@ -1981,7 +1981,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sttng_p8">
-    <description>Star Trek: The Next Generation (P-8)</description>
+    <description>Star Trek- The Next Generation (P-8)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Williams</manufacturer>

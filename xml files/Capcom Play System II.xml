@@ -7,7 +7,7 @@
     <exporterversion></exporterversion>
   </header>
   <game name="1944">
-    <description>1944: The Loop Master (USA 000620)</description>
+    <description>1944- The Loop Master (USA 000620)</description>
     <year>2000</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Eighting / Raizing (Capcom license)</manufacturer>
@@ -21,7 +21,7 @@
     <cloneof></cloneof>
   </game>
   <game name="19xx">
-    <description>19XX: The War Against Destiny (USA 951207)</description>
+    <description>19XX- The War Against Destiny (USA 951207)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -91,7 +91,7 @@
     <cloneof></cloneof>
   </game>
   <game name="cybotsu">
-    <description>Cyberbots: Fullmetal Madness (USA 950424)</description>
+    <description>Cyberbots- Fullmetal Madness (USA 950424)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -105,7 +105,7 @@
     <cloneof></cloneof>
   </game>
   <game name="dstlku">
-    <description>Darkstalkers: The Night Warriors (USA 940818)</description>
+    <description>Darkstalkers- The Night Warriors (USA 940818)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -133,7 +133,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomu">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (USA 960619)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (USA 960619)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -147,7 +147,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddtodu">
-    <description>Dungeons &amp; Dragons: Tower of Doom (USA 940125)</description>
+    <description>Dungeons &amp; Dragons- Tower of Doom (USA 940125)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -189,7 +189,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (USA 040202)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (USA 040202)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -217,7 +217,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jyangoku">
-    <description>Jyangokushi: Haoh no Saihai (Japan 990527)</description>
+    <description>Jyangokushi- Haoh no Saihai (Japan 990527)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -231,7 +231,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mmatrix">
-    <description>Mars Matrix: Hyper Solid Shooting (USA 000412)</description>
+    <description>Mars Matrix- Hyper Solid Shooting (USA 000412)</description>
     <year>2000</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Takumi (Capcom license)</manufacturer>
@@ -273,7 +273,7 @@
     <cloneof></cloneof>
   </game>
   <game name="mvscu">
-    <description>Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)</description>
+    <description>Marvel Vs. Capcom- Clash of Super Heroes (USA 980123)</description>
     <year>1998</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -301,7 +301,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megaman2">
-    <description>Mega Man 2: The Power Fighters (USA 960708)</description>
+    <description>Mega Man 2- The Power Fighters (USA 960708)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -329,7 +329,7 @@
     <cloneof></cloneof>
   </game>
   <game name="nwarru">
-    <description>Night Warriors: Darkstalkers&apos; Revenge (USA 950406)</description>
+    <description>Night Warriors- Darkstalkers&apos; Revenge (USA 950406)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -371,7 +371,7 @@
     <cloneof></cloneof>
   </game>
   <game name="qndream">
-    <description>Quiz Nanairo Dreams: Nijiirochou no Kiseki (Japan 960826)</description>
+    <description>Quiz Nanairo Dreams- Nijiirochou no Kiseki (Japan 960826)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -385,7 +385,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ringdest">
-    <description>Ring of Destruction: Slammasters II (Euro 940902)</description>
+    <description>Ring of Destruction- Slammasters II (Euro 940902)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -427,7 +427,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfau">
-    <description>Street Fighter Alpha: Warriors&apos; Dreams (USA 950627)</description>
+    <description>Street Fighter Alpha- Warriors&apos; Dreams (USA 950627)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -497,7 +497,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ssf2">
-    <description>Super Street Fighter II: The New Challengers (World 930911)</description>
+    <description>Super Street Fighter II- The New Challengers (World 930911)</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -511,7 +511,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vhunt2">
-    <description>Vampire Hunter 2: Darkstalkers Revenge (Japan 970929)</description>
+    <description>Vampire Hunter 2- Darkstalkers Revenge (Japan 970929)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -525,7 +525,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsav2">
-    <description>Vampire Savior 2: The Lord of Vampire (Japan 970913)</description>
+    <description>Vampire Savior 2- The Lord of Vampire (Japan 970913)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -539,7 +539,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vsavu">
-    <description>Vampire Savior: The Lord of Vampire (USA 970519)</description>
+    <description>Vampire Savior- The Lord of Vampire (USA 970519)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -567,7 +567,7 @@
     <cloneof></cloneof>
   </game>
   <game name="xmcotau">
-    <description>X-Men: Children of the Atom (USA 950105)</description>
+    <description>X-Men- Children of the Atom (USA 950105)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>

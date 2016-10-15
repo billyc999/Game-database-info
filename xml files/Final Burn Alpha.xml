@@ -21,7 +21,7 @@
     <cloneof></cloneof>
   </game>
   <game name="99lstwar">
-    <description>99: The Last War</description>
+    <description>99- The Last War</description>
     <year>1985</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Proma</manufacturer>
@@ -35,7 +35,7 @@
     <cloneof></cloneof>
   </game>
   <game name="99lstwara">
-    <description>99: The Last War (alternate)</description>
+    <description>99- The Last War (alternate)</description>
     <year>1985</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Proma</manufacturer>
@@ -49,7 +49,7 @@
     <cloneof></cloneof>
   </game>
   <game name="99lstwark">
-    <description>99: The Last War (Kyugo)</description>
+    <description>99- The Last War (Kyugo)</description>
     <year>1985</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kyugo</manufacturer>
@@ -63,7 +63,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gtmra">
-    <description>1000 Miglia: Great 1000 Miles Rally (94/06/13)</description>
+    <description>1000 Miglia- Great 1000 Miles Rally (94/06/13)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -77,7 +77,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gtmr">
-    <description>1000 Miglia: Great 1000 Miles Rally (94/07/18)</description>
+    <description>1000 Miglia- Great 1000 Miles Rally (94/07/18)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -287,7 +287,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943kai">
-    <description>1943 Kai: Midway Kaisen (Japan)</description>
+    <description>1943 Kai- Midway Kaisen (Japan)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -301,7 +301,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943ja">
-    <description>1943: Midway Kaisen (Japan)</description>
+    <description>1943- Midway Kaisen (Japan)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -315,7 +315,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943j">
-    <description>1943: Midway Kaisen (Japan, Rev B)</description>
+    <description>1943- Midway Kaisen (Japan, Rev B)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -329,7 +329,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943b">
-    <description>1943: The Battle of Midway (bootleg set 1, hack of Japan set) [Bootleg]</description>
+    <description>1943- The Battle of Midway (bootleg set 1, hack of Japan set) [Bootleg]</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -343,7 +343,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943b2">
-    <description>1943: The Battle of Midway (bootleg set 2, hack of Japan set) [Bootleg]</description>
+    <description>1943- The Battle of Midway (bootleg set 2, hack of Japan set) [Bootleg]</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -357,7 +357,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943">
-    <description>1943: The Battle of Midway (Euro)</description>
+    <description>1943- The Battle of Midway (Euro)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -371,7 +371,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943u">
-    <description>1943: The Battle of Midway (US)</description>
+    <description>1943- The Battle of Midway (US)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -1253,7 +1253,7 @@
     <cloneof></cloneof>
   </game>
   <game name="aeroblst">
-    <description>Aero Blasters: Trouble Specialty Raid Unit (Jpn)</description>
+    <description>Aero Blasters- Trouble Specialty Raid Unit (Jpn)</description>
     <year>1991</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -1603,7 +1603,7 @@
     <cloneof></cloneof>
   </game>
   <game name="airbustrb">
-    <description>Air Buster: Trouble Specialty Raid Unit (bootleg) [Bootleg]</description>
+    <description>Air Buster- Trouble Specialty Raid Unit (bootleg) [Bootleg]</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -1617,7 +1617,7 @@
     <cloneof></cloneof>
   </game>
   <game name="airbustrj">
-    <description>Air Buster: Trouble Specialty Raid Unit (Japan)</description>
+    <description>Air Buster- Trouble Specialty Raid Unit (Japan)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko (Namco license)</manufacturer>
@@ -1631,7 +1631,7 @@
     <cloneof></cloneof>
   </game>
   <game name="airbustr">
-    <description>Air Buster: Trouble Specialty Raid Unit (World)</description>
+    <description>Air Buster- Trouble Specialty Raid Unit (World)</description>
     <year>1990</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko (Namco license)</manufacturer>
@@ -1981,7 +1981,7 @@
     <cloneof></cloneof>
   </game>
   <game name="alexkidd1">
-    <description>Alex Kidd: The Lost Stars (set 1, FD1089A 317-unknown)</description>
+    <description>Alex Kidd- The Lost Stars (set 1, FD1089A 317-unknown)</description>
     <year>1986</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Sega</manufacturer>
@@ -1995,7 +1995,7 @@
     <cloneof></cloneof>
   </game>
   <game name="alexkidd">
-    <description>Alex Kidd: The Lost Stars (set 2, unprotected)</description>
+    <description>Alex Kidd- The Lost Stars (set 2, unprotected)</description>
     <year>1986</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Sega</manufacturer>
@@ -24367,7 +24367,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gangonta">
-    <description>Ganbare! Gonta!! 2 / Party Time: Gonta the Diver II (Japan Release)</description>
+    <description>Ganbare! Gonta!! 2 / Party Time- Gonta the Diver II (Japan Release)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Mitchell</manufacturer>
@@ -25697,7 +25697,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gigaman2">
-    <description>Gigaman 2: The Power Fighters (bootleg) [Bootleg, No Sound (MCU not dumped)]</description>
+    <description>Gigaman 2- The Power Fighters (bootleg) [Bootleg, No Sound (MCU not dumped)]</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -26397,7 +26397,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gtmre">
-    <description>Great 1000 Miles Rally: Evolution Model!!! (94/09/06)</description>
+    <description>Great 1000 Miles Rally- Evolution Model!!! (94/09/06)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -26411,7 +26411,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gtmrusa">
-    <description>Great 1000 Miles Rally: U.S.A Version! (94/09/06)</description>
+    <description>Great 1000 Miles Rally- U.S.A Version! (94/09/06)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -28679,7 +28679,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2j">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (031222 Japan)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (031222 Japan)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -28693,7 +28693,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2d">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (040202 Asia Phoenix Edition) [Bootleg]</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (040202 Asia Phoenix Edition) [Bootleg]</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -28707,7 +28707,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2da">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (040202 Asia Phoenix Edition, alt) [Bootleg]</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (040202 Asia Phoenix Edition, alt) [Bootleg]</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -28721,7 +28721,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2a">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (040202 Asia)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (040202 Asia)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -28735,7 +28735,7 @@
     <cloneof></cloneof>
   </game>
   <game name="hsf2">
-    <description>Hyper Street Fighter 2: The Anniversary Edition (040202 USA)</description>
+    <description>Hyper Street Fighter 2- The Anniversary Edition (040202 USA)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -30191,7 +30191,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojobaner1">
-    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990913, NO CD)</description>
+    <description>JoJo&apos;s Bizarre Adventure- Heritage for the Future / JoJo no Kimyou na Bouken- Mirai e no Isan (Euro 990913, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -30205,7 +30205,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojobane">
-    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Euro 990927, NO CD)</description>
+    <description>JoJo&apos;s Bizarre Adventure- Heritage for the Future / JoJo no Kimyou na Bouken- Mirai e no Isan (Euro 990927, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -30219,7 +30219,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojobar1">
-    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913)</description>
+    <description>JoJo&apos;s Bizarre Adventure- Heritage for the Future / JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990913)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -30233,7 +30233,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojobanr1">
-    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990913, NO CD)</description>
+    <description>JoJo&apos;s Bizarre Adventure- Heritage for the Future / JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990913, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -30247,7 +30247,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojoba">
-    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927)</description>
+    <description>JoJo&apos;s Bizarre Adventure- Heritage for the Future / JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990927)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -30261,7 +30261,7 @@
     <cloneof></cloneof>
   </game>
   <game name="jojoban">
-    <description>JoJo&apos;s Bizarre Adventure: Heritage for the Future / JoJo no Kimyou na Bouken: Mirai e no Isan (Japan 990927, NO CD)</description>
+    <description>JoJo&apos;s Bizarre Adventure- Heritage for the Future / JoJo no Kimyou na Bouken- Mirai e no Isan (Japan 990927, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -32431,7 +32431,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovshxas">
-    <description>Knights of Valour: Ao Shi San Guo / Sangoku Senki: Ao shi San Guo (ver. 202CN) [Bootleg, Imperfect Protection Emulation]</description>
+    <description>Knights of Valour- Ao Shi San Guo / Sangoku Senki- Ao shi San Guo (ver. 202CN) [Bootleg, Imperfect Protection Emulation]</description>
     <year>2008</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32445,7 +32445,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovqhsgsa">
-    <description>Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (alt ver. 303CN) [Bootleg]</description>
+    <description>Knights of Valour- Quan Huang San Guo Special / Sangoku Senki- Quan Huang San Guo Special (alt ver. 303CN) [Bootleg]</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32459,7 +32459,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovqhsgs">
-    <description>Knights of Valour: Quan Huang San Guo Special / Sangoku Senki: Quan Huang San Guo Special (ver. 303CN) [Bootleg]</description>
+    <description>Knights of Valour- Quan Huang San Guo Special / Sangoku Senki- Quan Huang San Guo Special (ver. 303CN) [Bootleg]</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32473,7 +32473,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovsgqyz">
-    <description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 1)</description>
+    <description>Knights of Valour- SanGuo QunYingZhuan / Sangoku Senki- SanGuo QunYingZhuan (set 1)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32487,7 +32487,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovsgqyza">
-    <description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 2)</description>
+    <description>Knights of Valour- SanGuo QunYingZhuan / Sangoku Senki- SanGuo QunYingZhuan (set 2)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32501,7 +32501,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovsgqyzb">
-    <description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 3)</description>
+    <description>Knights of Valour- SanGuo QunYingZhuan / Sangoku Senki- SanGuo QunYingZhuan (set 3)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32515,7 +32515,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovsgqyzc">
-    <description>Knights of Valour: SanGuo QunYingZhuan / Sangoku Senki: SanGuo QunYingZhuan (set 4)</description>
+    <description>Knights of Valour- SanGuo QunYingZhuan / Sangoku Senki- SanGuo QunYingZhuan (set 4)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -32529,7 +32529,7 @@
     <cloneof></cloneof>
   </game>
   <game name="kovytzy">
-    <description>Knights of Valour: Yi Tong Zhong Yuan / Sangoku Senki: Yi Tong Zhong Yuan (ver. 201, China) [Imperfect Protection Emulation]</description>
+    <description>Knights of Valour- Yi Tong Zhong Yuan / Sangoku Senki- Yi Tong Zhong Yuan (ver. 201, China) [Imperfect Protection Emulation]</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>IGS</manufacturer>
@@ -33470,7 +33470,7 @@
     <description>Last Hope CD Beta (Neo CD conversion) [Hack, Imperfect graphics]</description>
     <year>2007</year>
     <rating>Other - NR (Not Rated)</rating>
-    <manufacturer>NG:Dev.Team</manufacturer>
+    <manufacturer>NG-Dev.Team</manufacturer>
     <dev></dev>
     <genre></genre>
     <score></score>
@@ -38745,7 +38745,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gtmr2a">
-    <description>Mille Miglia 2: Great 1000 Miles Rally (95/04/04)</description>
+    <description>Mille Miglia 2- Great 1000 Miles Rally (95/04/04)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -38759,7 +38759,7 @@
     <cloneof></cloneof>
   </game>
   <game name="gtmr2">
-    <description>Mille Miglia 2: Great 1000 Miles Rally (95/05/24)</description>
+    <description>Mille Miglia 2- Great 1000 Miles Rally (95/05/24)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Kaneko</manufacturer>
@@ -45479,7 +45479,7 @@
     <cloneof></cloneof>
   </game>
   <game name="pang3j">
-    <description>Pang! 3: Kaitou Tachi no Karei na Gogo (950511 Japan)</description>
+    <description>Pang! 3- Kaitou Tachi no Karei na Gogo (950511 Japan)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Mitchell</manufacturer>
@@ -45703,7 +45703,7 @@
     <cloneof></cloneof>
   </game>
   <game name="prtytime">
-    <description>Party Time: Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)</description>
+    <description>Party Time- Gonta the Diver II / Ganbare! Gonta!! 2 (World Release)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Mitchell</manufacturer>
@@ -50603,7 +50603,7 @@
     <cloneof></cloneof>
   </game>
   <game name="radicasf">
-    <description>Radica: Street Fighter Pack (Euro)</description>
+    <description>Radica- Street Fighter Pack (Euro)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Radica Games ~ Capcom</manufacturer>
@@ -50617,7 +50617,7 @@
     <cloneof></cloneof>
   </game>
   <game name="radicav1">
-    <description>Radica: Volume 1 (USA)</description>
+    <description>Radica- Volume 1 (USA)</description>
     <year>2004</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Radica Games ~ Sega</manufacturer>
@@ -52689,7 +52689,7 @@
     <cloneof></cloneof>
   </game>
   <game name="rmancp2j">
-    <description>Rockman: The Power Battle (950922 Japan)</description>
+    <description>Rockman- The Power Battle (950922 Japan)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -53753,7 +53753,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofhfh">
-    <description>Sangokushi II: Huo Fenghuang (Chinese bootleg, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- Huo Fenghuang (Chinese bootleg, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53767,7 +53767,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wof3js">
-    <description>Sangokushi II: San Jian Sheng (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- San Jian Sheng (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53781,7 +53781,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wof3jsa">
-    <description>Sangokushi II: San Jian Sheng (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- San Jian Sheng (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53795,7 +53795,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wof3sj">
-    <description>Sangokushi II: San Sheng Jian (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- San Sheng Jian (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53809,7 +53809,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wof3sja">
-    <description>Sangokushi II: San Sheng Jian (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- San Sheng Jian (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53823,7 +53823,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofh">
-    <description>Sangokushi II: Sanguo Yingxiong Zhuan (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- Sanguo Yingxiong Zhuan (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53837,7 +53837,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofha">
-    <description>Sangokushi II: Sanguo Yingxiong Zhuan (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- Sanguo Yingxiong Zhuan (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53851,7 +53851,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sgyxz">
-    <description>Sangokushi II: Sanguo Yingxiong Zhuan (Chinese bootleg set 3, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- Sanguo Yingxiong Zhuan (Chinese bootleg set 3, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53865,7 +53865,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofsj">
-    <description>Sangokushi II: Sheng Jian Sanguo (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- Sheng Jian Sanguo (Chinese bootleg set 1, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53879,7 +53879,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofsja">
-    <description>Sangokushi II: Sheng Jian Sanguo (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
+    <description>Sangokushi II- Sheng Jian Sanguo (Chinese bootleg set 2, 921005 Asia) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -53893,7 +53893,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofsjb">
-    <description>Sangokushi II: Sheng Jian Sanguo (Chinese bootleg set 3, 921005 Asia) [Bootleg, No sound]</description>
+    <description>Sangokushi II- Sheng Jian Sanguo (Chinese bootleg set 3, 921005 Asia) [Bootleg, No sound]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -61747,7 +61747,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2dongb">
-    <description>Street Fighter II&apos;: Champion Edition (Dongfang Bubai protection bootleg, etc 920313) [Bootleg]</description>
+    <description>Street Fighter II&apos;- Champion Edition (Dongfang Bubai protection bootleg, etc 920313) [Bootleg]</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -61761,7 +61761,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii2n">
-    <description>Street Fighter III 2nd Impact: Giant Attack (Asia 970930, NO CD)</description>
+    <description>Street Fighter III 2nd Impact- Giant Attack (Asia 970930, NO CD)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61775,7 +61775,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii2j">
-    <description>Street Fighter III 2nd Impact: Giant Attack (Japan 970930)</description>
+    <description>Street Fighter III 2nd Impact- Giant Attack (Japan 970930)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61789,7 +61789,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii2">
-    <description>Street Fighter III 2nd Impact: Giant Attack (USA 970930)</description>
+    <description>Street Fighter III 2nd Impact- Giant Attack (USA 970930)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61803,7 +61803,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3r1">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Euro 990512)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Euro 990512)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61817,7 +61817,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Euro 990608)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Euro 990608)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61831,7 +61831,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3nr1">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Japan 990512, NO CD)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Japan 990512, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61845,7 +61845,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3n">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (Japan 990608, NO CD)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (Japan 990608, NO CD)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61859,7 +61859,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3ur1">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (USA 990512)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (USA 990512)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61873,7 +61873,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii3u">
-    <description>Street Fighter III 3rd Strike: Fight for the Future (USA 990608)</description>
+    <description>Street Fighter III 3rd Strike- Fight for the Future (USA 990608)</description>
     <year>1999</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61887,7 +61887,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiia">
-    <description>Street Fighter III: New Generation (Asia 970204)</description>
+    <description>Street Fighter III- New Generation (Asia 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61901,7 +61901,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiin">
-    <description>Street Fighter III: New Generation (Asia 970204, NO CD, bios set 1)</description>
+    <description>Street Fighter III- New Generation (Asia 970204, NO CD, bios set 1)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61915,7 +61915,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiina">
-    <description>Street Fighter III: New Generation (Asia 970204, NO CD, bios set 2)</description>
+    <description>Street Fighter III- New Generation (Asia 970204, NO CD, bios set 2)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61929,7 +61929,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiii">
-    <description>Street Fighter III: New Generation (Euro 970204)</description>
+    <description>Street Fighter III- New Generation (Euro 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61943,7 +61943,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiih">
-    <description>Street Fighter III: New Generation (Hispanic 970204)</description>
+    <description>Street Fighter III- New Generation (Hispanic 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61957,7 +61957,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiij">
-    <description>Street Fighter III: New Generation (Japan 970204)</description>
+    <description>Street Fighter III- New Generation (Japan 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -61971,7 +61971,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sfiiiu">
-    <description>Street Fighter III: New Generation (USA 970204)</description>
+    <description>Street Fighter III- New Generation (USA 970204)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -68621,7 +68621,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wintchal1">
-    <description>The Games: Winter Challenge (Euro, USA)</description>
+    <description>The Games- Winter Challenge (Euro, USA)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Ballistic</manufacturer>
@@ -74235,7 +74235,7 @@
     <cloneof></cloneof>
   </game>
   <game name="earthjkr">
-    <description>U.N. Defense Force: Earth Joker</description>
+    <description>U.N. Defense Force- Earth Joker</description>
     <year>1993</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Visco</manufacturer>

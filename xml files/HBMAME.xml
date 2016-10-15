@@ -21,7 +21,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943">
-    <description>1943: The Battle of Midway (Euro)</description>
+    <description>1943- The Battle of Midway (Euro)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -35,7 +35,7 @@
     <cloneof></cloneof>
   </game>
   <game name="1943h">
-    <description>1943: The Battle of Midway (US, Rev C) (hacked)</description>
+    <description>1943- The Battle of Midway (US, Rev C) (hacked)</description>
     <year>1987</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -91,7 +91,7 @@
     <cloneof></cloneof>
   </game>
   <game name="711qbert">
-    <description>7-11 Q*bert</description>
+    <description>7-11 Q bert</description>
     <year>1982</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Hack</manufacturer>
@@ -1001,7 +1001,7 @@
     <cloneof></cloneof>
   </game>
   <game name="bublcave10">
-    <description>Bubble Bobble: Lost Cave V1.0</description>
+    <description>Bubble Bobble- Lost Cave V1.0</description>
     <year>2012</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Bisboch and Aladar</manufacturer>
@@ -1015,7 +1015,7 @@
     <cloneof></cloneof>
   </game>
   <game name="bublcave11">
-    <description>Bubble Bobble: Lost Cave V1.1</description>
+    <description>Bubble Bobble- Lost Cave V1.1</description>
     <year>2012</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Bisboch and Aladar</manufacturer>
@@ -1029,7 +1029,7 @@
     <cloneof></cloneof>
   </game>
   <game name="bublcave">
-    <description>Bubble Bobble: Lost Cave V1.2</description>
+    <description>Bubble Bobble- Lost Cave V1.2</description>
     <year>2013</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Bisboch and Aladar</manufacturer>
@@ -2191,7 +2191,7 @@
     <cloneof></cloneof>
   </game>
   <game name="pauline">
-    <description>Donkey Kong: Pauline Edition Rev 5 (2013-04-22)</description>
+    <description>Donkey Kong- Pauline Edition Rev 5 (2013-04-22)</description>
     <year>2013</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Clay Cowgill and Mike Mika</manufacturer>
@@ -2317,7 +2317,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsomchs">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (chinese)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (chinese)</description>
     <year>2014</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>hack</manufacturer>
@@ -2331,7 +2331,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ddsom">
-    <description>Dungeons &amp; Dragons: Shadow over Mystara (Euro 960619)</description>
+    <description>Dungeons &amp; Dragons- Shadow over Mystara (Euro 960619)</description>
     <year>1996</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -4319,7 +4319,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ket">
-    <description>Ketsui: Kizuna Jigoku Tachi (2003/01/01. Master Ver.)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2003/01/01. Master Ver.)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Cave (AMI license)</manufacturer>
@@ -4333,7 +4333,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarr">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/04/17 ARRANGE VER (v1.0))</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/04/17 ARRANGE VER (v1.0))</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4347,7 +4347,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarrb">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/04/17 BACK. VER)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/04/17 BACK. VER)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4361,7 +4361,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarrf">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/04/17 FAST. VER)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/04/17 FAST. VER)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4375,7 +4375,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarr15">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/06/26 ARRANGE 1.5 VER)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/06/26 ARRANGE 1.5 VER)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4389,7 +4389,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarr151">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/06/26 ARRANGE 1.51 VER)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/06/26 ARRANGE 1.51 VER)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4403,7 +4403,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarrs15">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/06/27 MR.STOIC 1.5 VER)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/06/27 MR.STOIC 1.5 VER)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4417,7 +4417,7 @@
     <cloneof></cloneof>
   </game>
   <game name="ketarrs151">
-    <description>Ketsui: Kizuna Jigoku Tachi (2012/06/27 MR.STOIC 1.51 VER)</description>
+    <description>Ketsui- Kizuna Jigoku Tachi (2012/06/27 MR.STOIC 1.51 VER)</description>
     <year>2002</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>trap15</manufacturer>
@@ -4896,7 +4896,7 @@
     <description>Last Hope CD Beta</description>
     <year>2007</year>
     <rating>Other - NR (Not Rated)</rating>
-    <manufacturer>NG:Dev.Team</manufacturer>
+    <manufacturer>NG-Dev.Team</manufacturer>
     <dev></dev>
     <genre></genre>
     <score></score>
@@ -5201,7 +5201,7 @@
     <cloneof></cloneof>
   </game>
   <game name="megaman">
-    <description>Mega Man: The Power Battle (CPS1, USA 951006)</description>
+    <description>Mega Man- The Power Battle (CPS1, USA 951006)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -8547,7 +8547,7 @@
     <cloneof></cloneof>
   </game>
   <game name="pbert">
-    <description>P*bert</description>
+    <description>P bert</description>
     <year>2003</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Grand Master Peter</manufacturer>
@@ -10535,7 +10535,7 @@
     <cloneof></cloneof>
   </game>
   <game name="qbertb">
-    <description>Q*bert</description>
+    <description>Q bert</description>
     <year>1982</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -10549,7 +10549,7 @@
     <cloneof></cloneof>
   </game>
   <game name="qbert">
-    <description>Q*bert (US set 1)</description>
+    <description>Q bert (US set 1)</description>
     <year>1982</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Gottlieb</manufacturer>
@@ -11711,7 +11711,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wof3js">
-    <description>Sangokushi II: San Jian Sheng (Chinese bootleg)</description>
+    <description>Sangokushi II- San Jian Sheng (Chinese bootleg)</description>
     <year>1997</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -11725,7 +11725,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofsjb">
-    <description>Sangokushi II: Sheng Jian Sanguo (set 3, Chinese bootleg)</description>
+    <description>Sangokushi II- Sheng Jian Sanguo (set 3, Chinese bootleg)</description>
     <year>1995</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>bootleg</manufacturer>
@@ -12355,7 +12355,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2koryuh">
-    <description>Street Fighter II&apos;: Champion Edition (Hack by TT)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Hack by TT)</description>
     <year>2013</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>TT</manufacturer>
@@ -12369,7 +12369,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ceda">
-    <description>Street Fighter II&apos;: Champion Edition (Hack)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Hack)</description>
     <year>2012</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Drakon</manufacturer>
@@ -12383,7 +12383,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2pun">
-    <description>Street Fighter II&apos;: Champion Edition (Punishment Edition v1 Final)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Punishment Edition v1 Final)</description>
     <year>2012</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Drakon</manufacturer>
@@ -12397,7 +12397,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ced">
-    <description>Street Fighter II&apos;: Champion Edition (Sheng Long Hack v7.1)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Sheng Long Hack v7.1)</description>
     <year>2012</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Drakon</manufacturer>
@@ -12411,7 +12411,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2sl73a">
-    <description>Street Fighter II&apos;: Champion Edition (Sheng Long v7.3a)</description>
+    <description>Street Fighter II&apos;- Champion Edition (Sheng Long v7.3a)</description>
     <year>2013</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Drakon</manufacturer>
@@ -12425,7 +12425,7 @@
     <cloneof></cloneof>
   </game>
   <game name="sf2ce">
-    <description>Street Fighter II&apos;: Champion Edition (World 920513)</description>
+    <description>Street Fighter II&apos;- Champion Edition (World 920513)</description>
     <year>1992</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -13209,7 +13209,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofch">
-    <description>Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031)</description>
+    <description>Tenchi wo Kurau II- Sekiheki no Tatakai (CPS Changer, Japan 921031)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -13223,7 +13223,7 @@
     <cloneof></cloneof>
   </game>
   <game name="wofch_v3">
-    <description>Tenchi wo Kurau II: Sekiheki no Tatakai (CPS Changer, Japan 921031) (Set 2)</description>
+    <description>Tenchi wo Kurau II- Sekiheki no Tatakai (CPS Changer, Japan 921031) (Set 2)</description>
     <year>1994</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Capcom</manufacturer>
@@ -19173,7 +19173,7 @@
     <cloneof></cloneof>
   </game>
   <game name="vbert">
-    <description>V*bert</description>
+    <description>V bert</description>
     <year>2003</year>
     <rating>Other - NR (Not Rated)</rating>
     <manufacturer>Grand Master Peter</manufacturer>
