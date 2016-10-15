@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Sega Triforce</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="F-Zero AX">
+    <description>F-Zero AX</description>
+    <year>2003</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Amusement Vision</manufacturer>
+    <dev></dev>
+    <genre>Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Kart Arcade GP">
+    <description>Mario Kart Arcade GP</description>
+    <year>2005</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Kart Arcade GP 2">
+    <description>Mario Kart Arcade GP 2</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco Bandai Games</manufacturer>
+    <dev></dev>
+    <genre>Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

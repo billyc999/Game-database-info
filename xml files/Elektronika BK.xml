@@ -1,0 +1,947 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Elektronika BK</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Alt Pro (1996)(-)">
+    <description>Alt Pro</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Andos v3.30 (19xx)(-)">
+    <description>Andos v3.30</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aniram Zipper v1.0 (1995)(Screw)">
+    <description>Aniram Zipper v1.0</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aniram-Miriada (1994)(Screw)">
+    <description>Aniram-Miriada</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos (19xx)(-)">
+    <description>AO-Dos</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Best #1 (19xx)(-)">
+    <description>AO-Dos Best #1</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Best #2 (19xx)(-)">
+    <description>AO-Dos Best #2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Best #3 (19xx)(-)">
+    <description>AO-Dos Best #3</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Best #4 (19xx)(-)">
+    <description>AO-Dos Best #4</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Best #5 (19xx)(-)">
+    <description>AO-Dos Best #5</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 01 (199x)(-)">
+    <description>AO-Dos Collection - Disk 01</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 02 (199x)(-)">
+    <description>AO-Dos Collection - Disk 02</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 03 (199x)(-)">
+    <description>AO-Dos Collection - Disk 03</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 04 (199x)(-)">
+    <description>AO-Dos Collection - Disk 04</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 05 (199x)(-)">
+    <description>AO-Dos Collection - Disk 05</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 06 (199x)(-)">
+    <description>AO-Dos Collection - Disk 06</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 07 (199x)(-)">
+    <description>AO-Dos Collection - Disk 07</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 08 (199x)(-)">
+    <description>AO-Dos Collection - Disk 08</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 09 (199x)(-)">
+    <description>AO-Dos Collection - Disk 09</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 10 (199x)(-)">
+    <description>AO-Dos Collection - Disk 10</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 11 (199x)(-)">
+    <description>AO-Dos Collection - Disk 11</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 12 (199x)(-)">
+    <description>AO-Dos Collection - Disk 12</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 14 (199x)(-)">
+    <description>AO-Dos Collection - Disk 14</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 15 (199x)(-)">
+    <description>AO-Dos Collection - Disk 15</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 16 (199x)(-)">
+    <description>AO-Dos Collection - Disk 16</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 17 (199x)(-)">
+    <description>AO-Dos Collection - Disk 17</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 18 (199x)(-)">
+    <description>AO-Dos Collection - Disk 18</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-Dos Collection - Disk 19 (199x)(-)">
+    <description>AO-Dos Collection - Disk 19</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AO-DOS v2.10+ (19xx)(-)">
+    <description>AO-DOS v2.10+</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Backup System v1.1 (1992)(Screw)">
+    <description>Backup System v1.1</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Backup System v5.0 (1994)(Screw)[Backup]">
+    <description>Backup System v5.0</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BigUnTED (1992)(Screw)[Untedbig]">
+    <description>BigUnTED</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BK Pack v1.5 (1992)(MKT Corporation)[Bkpack2]">
+    <description>BK Pack v1.5</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BK Tools - GraPrint D100 (1992)(Screw)">
+    <description>BK Tools - GraPrint D100</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crazy Points INTRO (1996)(-)">
+    <description>Crazy Points INTRO</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSI Demos (1996)(Caroline Software Inc)">
+    <description>CSI Demos</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSIDOS v3.2 (1995)(Carline Software Inc.)">
+    <description>CSIDOS v3.2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSIDOS v3.2 (1995)(Carline Software Inc.)[a]">
+    <description>CSIDOS v3.2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)">
+    <description>CSIDOS v3.30</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a2]">
+    <description>CSIDOS v3.30</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a3]">
+    <description>CSIDOS v3.30</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CSIDOS v3.30 (1994)(Caroline Software Inc.)[a]">
+    <description>CSIDOS v3.30</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Disco Club T.Dreams Mega Demo (1997)(MBS Inc - Maxi G.C)">
+    <description>Disco Club T.Dreams Mega Demo</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="File DezASM (1993)(Screw)[Fdezasm]">
+    <description>File DezASM</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Film Demo (1992)(Screw)">
+    <description>Film Demo</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fokal to Text Converter v1.0 (1994)(Screw)[Foktxt]">
+    <description>Fokal to Text Converter v1.0</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Compilation (19xx)(-)">
+    <description>Games Compilation</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Insult Gigademo (19xx)(-)">
+    <description>Insult Gigademo</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kode Information (199x)(Screw)[Kodinf]">
+    <description>Kode Information</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Link Post Processor (1992)(Screw)">
+    <description>Link Post Processor</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magician (1994)(IMS Corp - Magic Bytes)">
+    <description>Magician</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magician 2 (1994)(IMS Corp - Magic Bytes)">
+    <description>Magician 2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MKDos v3.15 (1995)(Michael Korolev)">
+    <description>MKDos v3.15</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Music Decomp v1.0 (1994)(Screw)">
+    <description>Music Decomp v1.0</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Office (1993)(Screw)">
+    <description>Office</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Only Move v1.0 (1996)(Golden Fox &amp; DEPsoft)">
+    <description>Only Move v1.0</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Only Move v1.0 (1996)(Golden Fox &amp; DEPsoft)[a]">
+    <description>Only Move v1.0</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="OS-B11 v4.1 (19xx)(Alex Savelev)">
+    <description>OS-B11 v4.1</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pigame (1995)(-)">
+    <description>Pigame</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rescue Ranger (1991)(Screw)">
+    <description>Rescue Ranger</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Samara (1996)(-)(Disk 1 of 2)">
+    <description>Samara</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Samara (1996)(-)(Disk 2 of 2)">
+    <description>Samara</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Superhelp (1992)(Screw)">
+    <description>Superhelp</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="UnPaint (199x)(Screw)[Unpaint]">
+    <description>UnPaint</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ZZZ-UNK-DEBU&amp;ASM (1990)(-)">
+    <description>ZZZ-UNK-DEBU&amp;ASM</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ZZZ-UNK-EXIST (19xx)(-)(">
+    <description>ZZZ-UNK-EXIST</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ZZZ-UNK-PJANIC">
+    <description>ZZZ-UNK-PJANIC</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

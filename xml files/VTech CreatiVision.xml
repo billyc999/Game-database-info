@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>VTech CreatiVision</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Air Sea Attack (Asia, Europe)">
+    <description>Air Sea Attack (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astro Pinball (Asia, Europe)">
+    <description>Astro Pinball (Asia, Europe)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Auto Chase (Asia, Europe)">
+    <description>Auto Chase (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chopper Rescue (Asia, Europe)">
+    <description>Chopper Rescue (Asia, Europe)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crazy Chicky (Asia, Europe)">
+    <description>Crazy Chicky (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crazy Pucker (Asia, Europe)">
+    <description>Crazy Pucker (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Deep Sea Adventure (Asia, Europe)">
+    <description>Deep Sea Adventure (Asia, Europe)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Locomotive (Asia, Europe)">
+    <description>Locomotive (Asia, Europe)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mouse Puzzle (Asia, Europe)">
+    <description>Mouse Puzzle (Asia, Europe)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Music Maker (Asia, Europe)">
+    <description>Music Maker (Asia, Europe)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Planet Defender (Asia, Europe)">
+    <description>Planet Defender (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Police Jump (Asia, Europe)">
+    <description>Police Jump (Asia, Europe)</description>
+    <year>1982</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Soccer (Asia, Europe)">
+    <description>Soccer (Asia, Europe)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Soccer/Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sonic Invader (Asia, Europe)">
+    <description>Sonic Invader (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Stone Age (Asia, Europe)">
+    <description>Stone Age (Asia, Europe)</description>
+    <year>1984</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tank Attack (Asia, Europe)">
+    <description>Tank Attack (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tennis (Asia, Europe)">
+    <description>Tennis (Asia, Europe)</description>
+    <year>1981</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>V-Tech</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

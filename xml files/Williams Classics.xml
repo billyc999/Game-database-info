@@ -1,0 +1,2333 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Williams Classics</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="afv_l4">
+    <description>Addams Family Values (Coin Dropper L-4)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Coin pusher</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="algar_l1">
+    <description>Algar (L-1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpok_l2">
+    <description>Alien Poker (L-2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpok_f6">
+    <description>Alien Poker (L-6 French speech)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpok_l6">
+    <description>Alien Poker (L-6)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bk_l3">
+    <description>Black Knight (L-3)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bk_l4">
+    <description>Black Knight (L-4)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bk_f4">
+    <description>Black Knight (L-4, French speech)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blkou_l1">
+    <description>Blackout (L-1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blkou_f1">
+    <description>Blackout (L-1, French Speech)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blkou_t1">
+    <description>Blackout (T-1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blaster">
+    <description>Blaster</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams / Vid Kidz</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying (chase view)</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blasterkit">
+    <description>Blaster (conversion kit)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams / Vid Kidz</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying (chase view)</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blastero">
+    <description>Blaster (location test)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams / Vid Kidz</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying (chase view)</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bubbles">
+    <description>Bubbles</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bubblesp">
+    <description>Bubbles (prototype version)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bubblesr">
+    <description>Bubbles (Solid Red label)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="comet_l4">
+    <description>Comet (L-4)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="comet_l5">
+    <description>Comet (L-5)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="congo_11">
+    <description>Congo (1.1)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="congo_13">
+    <description>Congo (1.3)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="congo_20">
+    <description>Congo (2.0)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="congo_21">
+    <description>Congo (2.1)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cntct_l1">
+    <description>Contact (L-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csmic_l1">
+    <description>Cosmic Gunfight (L-1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="defenderb">
+    <description>Defender (Blue label)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying Horizontal</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="defenderg">
+    <description>Defender (Green label)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying Horizontal</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dfndr_l4">
+    <description>Defender (L-4)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="defender">
+    <description>Defender (Red label)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying Horizontal</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="defenderw">
+    <description>Defender (White label)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying Horizontal</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_h5">
+    <description>Demolition Man (H-5)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_h6">
+    <description>Demolition Man (H-6)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_la1">
+    <description>Demolition Man (LA-1)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_lx3">
+    <description>Demolition Man (LX-3)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_lx4">
+    <description>Demolition Man (LX-4)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_pa2">
+    <description>Demolition Man (PA-2)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dm_px5">
+    <description>Demolition Man (PX-5)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dh_lx2">
+    <description>Dirty Harry (LX-2)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="disco_l1">
+    <description>Disco Fever (L-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fpwr2_l2">
+    <description>Firepower II (L-2)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flash_l1">
+    <description>Flash (L-1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flash_l2">
+    <description>Flash (L-2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flash_t1">
+    <description>Flash (T-1) Ted Estes</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="grgar_l1">
+    <description>Gorgar (L-1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="grgar_t1">
+    <description>Gorgar (T-1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hiimpactp">
+    <description>High Impact Football (prototype, rev 8.6 12/09/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Amer. Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hiimpact1">
+    <description>High Impact Football (rev LA1 12/16/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Amer. Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hiimpact2">
+    <description>High Impact Football (rev LA2 12/26/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Amer. Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hiimpact3">
+    <description>High Impact Football (rev LA3 12/27/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Amer. Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hiimpact4">
+    <description>High Impact Football (rev LA4 02/04/91)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Amer. Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hiimpact">
+    <description>High Impact Football (rev LA5 02/15/91)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Amer. Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="httip_l1">
+    <description>Hot Tip (L-1)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ij_l3">
+    <description>Indiana Jones (L-3)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ij_l4">
+    <description>Indiana Jones (L-4)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ij_l5">
+    <description>Indiana Jones (L-5)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ij_l6">
+    <description>Indiana Jones (L-6)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ij_l7">
+    <description>Indiana Jones (L-7)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ij_lg7">
+    <description>Indiana Jones (LG-7)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="inferno">
+    <description>Inferno (Williams)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Maze / Shooter Small</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jb_10b">
+    <description>Jack Bot (1.0B) (Belgium/Canada)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jb_10r">
+    <description>Jack Bot (1.0R)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jm_05r">
+    <description>Johnny Mnemonic (0.5R)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jm_12b">
+    <description>Johnny Mnemonic (1.2B) Belgium</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jm_12r">
+    <description>Johnny Mnemonic (1.2R)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="joustr">
+    <description>Joust (Solid Red label)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Run Jump</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="joust">
+    <description>Joust (White/Green label)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Run Jump</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="joustwr">
+    <description>Joust (White/Red label)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Run Jump</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="joust2r1">
+    <description>Joust 2 - Survival of the Fittest (revision 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Run Jump</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="joust2">
+    <description>Joust 2 - Survival of the Fittest (revision 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Run Jump</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jngld_l1">
+    <description>Jungle Lord (L-1)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jngld_l2">
+    <description>Jungle Lord (L-2)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jy_03">
+    <description>Junk Yard (0.3)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jy_11">
+    <description>Junk Yard (1.1)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jy_12">
+    <description>Junk Yard (1.2)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lzbal_l2">
+    <description>Laser Ball (L-2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lzbal_t2">
+    <description>Laser Ball (T-2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lsrcu_l2">
+    <description>Laser Cue (L-2)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lucky_l1">
+    <description>Lucky Seven (L-1)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mm_05">
+    <description>Medieval Madness (0.50)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mm_10u">
+    <description>Medieval Madness (1.0 Ultrapin)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mm_10">
+    <description>Medieval Madness (1.0)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mm_109">
+    <description>Medieval Madness (1.09)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mm_109b">
+    <description>Medieval Madness (1.09B)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mm_109c">
+    <description>Medieval Madness (1.09C Profanity)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mb_10">
+    <description>Monster Bash (1.0)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mb_106">
+    <description>Monster Bash (1.06)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mb_106b">
+    <description>Monster Bash (1.06b)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mysticm">
+    <description>Mystic Marathon</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Track &amp; Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mysticmp">
+    <description>Mystic Marathon (prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Track &amp; Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="narc2">
+    <description>Narc (rev 2.00)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Shooter Scrolling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="narc3">
+    <description>Narc (rev 3.20)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Shooter Scrolling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="narc">
+    <description>Narc (rev 7.00)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Platform / Shooter Scrolling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nf_10">
+    <description>No Fear- Dangerous Sports (1.0)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nf_20">
+    <description>No Fear- Dangerous Sports (2.0)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nf_22">
+    <description>No Fear- Dangerous Sports (2.2)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nf_23">
+    <description>No Fear- Dangerous Sports (2.3)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nf_23f">
+    <description>No Fear- Dangerous Sports (2.3F)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nf_23x">
+    <description>No Fear- Dangerous Sports (2.3X)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ngg_10">
+    <description>No Good Gofers (1.0)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ngg_13">
+    <description>No Good Gofers (1.3)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ngg_p06">
+    <description>No Good Gofers (p0.6)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pfevr_l2">
+    <description>Pennant Fever (L-2)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pfevr_p3">
+    <description>Pennant Fever (P-3)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pharo_l2">
+    <description>Pharaoh (L-2)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="phnix_l1">
+    <description>Phoenix (L-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="playball">
+    <description>PlayBall! (prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pkrno_l1">
+    <description>Pokerino (L-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_l6">
+    <description>Red and Ted&apos;s Road Show (L-6)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_la4">
+    <description>Red and Ted&apos;s Road Show (La-4)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_la5">
+    <description>Red and Ted&apos;s Road Show (La-5)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_lx2">
+    <description>Red and Ted&apos;s Road Show (Lx-2)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_lx3">
+    <description>Red and Ted&apos;s Road Show (Lx-3)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_lx4">
+    <description>Red and Ted&apos;s Road Show (Lx-4)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rs_lx5">
+    <description>Red and Ted&apos;s Road Show (Lx-5)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="robotron">
+    <description>Robotron- 2084 (Solid Blue label)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams / Vid Kidz</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="robotronyo">
+    <description>Robotron- 2084 (Yellow/Orange label)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams / Vid Kidz</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="scrpn_l1">
+    <description>Scorpion (L-1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="scrpn_t1">
+    <description>Scorpion (T-1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sinistar1">
+    <description>Sinistar (prototype version)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sinistar2">
+    <description>Sinistar (revision 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sinistar">
+    <description>Sinistar (revision 3)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smashtv3">
+    <description>Smash T.V. (rev 3.01)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smashtv4">
+    <description>Smash T.V. (rev 4.00)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smashtv5">
+    <description>Smash T.V. (rev 5.00)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smashtv6">
+    <description>Smash T.V. (rev 6.00)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smashtv">
+    <description>Smash T.V. (rev 8.00)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sorcr_l1">
+    <description>Sorcerer (L-1)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sorcr_l2">
+    <description>Sorcerer (L-2)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sshtl_l7">
+    <description>Space Shuttle (L-7)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spdball">
+    <description>Speed Ball - Contest at Neonworld (prototype)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Sports / Misc.</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="splat">
+    <description>Splat!</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="strlt_l1">
+    <description>Star Light (L-1)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_g7">
+    <description>Star Trek- The Next Generation (LG-7)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_l1">
+    <description>Star Trek- The Next Generation (LX-1)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_l2">
+    <description>Star Trek- The Next Generation (LX-2)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_l3">
+    <description>Star Trek- The Next Generation (LX-3)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_x7">
+    <description>Star Trek- The Next Generation (LX-7 Special)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_l7">
+    <description>Star Trek- The Next Generation (LX-7)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_s7">
+    <description>Star Trek- The Next Generation (LX-7) SP1</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_p4">
+    <description>Star Trek- The Next Generation (P-4)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_p5">
+    <description>Star Trek- The Next Generation (P-5)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sttng_p8">
+    <description>Star Trek- The Next Generation (P-8)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stargate">
+    <description>Stargate</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams / Vid Kidz</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stlwr_l2">
+    <description>Stellar Wars (L-2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="scrzy_l1">
+    <description>Still Crazy</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="totan_04">
+    <description>Tales Of The Arabian Nights (0.4)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="totan_12">
+    <description>Tales Of The Arabian Nights (1.2)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="totan_13">
+    <description>Tales Of The Arabian Nights (1.3)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="totan_14">
+    <description>Tales Of The Arabian Nights (1.4)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fs_lx2">
+    <description>The Flintstones (LX-2)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fs_lx4">
+    <description>The Flintstones (LX-4)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fs_lx5">
+    <description>The Flintstones (LX-5)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fs_sp2">
+    <description>The Flintstones (SP-2)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thund_p1">
+    <description>Thunderball (P-1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thund_p2">
+    <description>Thunderball (P-2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thund_p3">
+    <description>Thunderball (P-3)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ttt_10">
+    <description>Ticket Tac Toe (1.0)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmfnt_l5">
+    <description>Time Fantasy (L-5)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmwrp_l2">
+    <description>Time Warp (L-2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmwrp_t2">
+    <description>Time Warp (T-2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trizn_l1">
+    <description>Tri Zone (L-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trizn_t1">
+    <description>Tri Zone (T-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tshoot">
+    <description>Turkey Shoot</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Shooter / Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vrkon_l1">
+    <description>Varkon (L-1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wrlok_l3">
+    <description>Warlok (L-3)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wldcp_l1">
+    <description>World Cup Soccer (L-1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Williams</manufacturer>
+    <dev></dev>
+    <genre>Electromechanical / Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

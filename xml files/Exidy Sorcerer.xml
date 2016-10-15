@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Exidy Sorcerer</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Amazing Maze">
+    <description>Amazing Maze</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Breakout">
+    <description>Breakout</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chess">
+    <description>Chess</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chomp">
+    <description>Chomp</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Galaxian">
+    <description>Galaxian</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Invaders">
+    <description>Invaders</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kilopede">
+    <description>Kilopede</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snake">
+    <description>Snake</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

@@ -1,0 +1,611 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Watara Supervision</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="2 in 1 - Hash Blocks + Eagle Plan (USA, Europe)">
+    <description>2 in 1 - Hash Blocks + Eagle Plan</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien (USA, Europe)">
+    <description>Alien</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Balloon Fight (USA, Europe)">
+    <description>Balloon Fight</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Block Buster (USA, Europe)">
+    <description>Block Buster</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brain Power (USA, Europe)">
+    <description>Brain Power</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Carrier (USA, Europe)">
+    <description>Carrier</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cave Wonders (USA, Europe)">
+    <description>Cave Wonders</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Challenger Tank (USA, Europe)">
+    <description>Challenger Tank</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chimera (USA, Europe)">
+    <description>Chimera</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Crystball (USA, Europe)">
+    <description>Crystball</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Delta Hero (USA, Europe)">
+    <description>Delta Hero</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eagle Plan (USA, Europe)">
+    <description>Eagle Plan</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Earth Defender (USA, Europe)">
+    <description>Earth Defender</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fatal Craft (USA, Europe)">
+    <description>Fatal Craft</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Final Combat (USA, Europe)">
+    <description>Final Combat</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Galactic Crusader (USA, Europe)">
+    <description>Galactic Crusader</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Galaxy Fighter (USA, Europe)">
+    <description>Galaxy Fighter</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Grand Prix (USA, Europe)">
+    <description>Grand Prix</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Happy Pairs (USA, Europe)">
+    <description>Happy Pairs</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hash Blocks (USA, Europe)">
+    <description>Hash Blocks</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hero Kid (USA, Europe)">
+    <description>Hero Kid</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Honey Bee (USA, Europe)">
+    <description>Honey Bee</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jacky Lucky (USA, Europe)">
+    <description>Jacky Lucky</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jaguar Bomber (USA, Europe)">
+    <description>Jaguar Bomber</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="John Adventure (USA, Europe)">
+    <description>John Adventure</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Juggler (USA, Europe)">
+    <description>Juggler</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kabi Island - Gold in Island (USA, Europe)">
+    <description>Kabi Island - Gold in Island</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Linear Racing (USA, Europe)">
+    <description>Linear Racing</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magincross (USA, Europe)">
+    <description>Magincross</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Matta Blatta (USA, Europe)">
+    <description>Matta Blatta</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Olympic Trials (USA, Europe)">
+    <description>Olympic Trials</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="P-52 Sea Battle (USA, Europe)">
+    <description>P-52 Sea Battle</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PacBoy &amp; Mouse (USA, Europe)">
+    <description>PacBoy &amp; Mouse</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Penguin Hideout (USA, Europe)">
+    <description>Penguin Hideout</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Police Bust (USA, Europe)">
+    <description>Police Bust</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pyramid (USA, Europe)">
+    <description>Pyramid</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Soccer Champion (USA, Europe)">
+    <description>Soccer Champion</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SSSnake (USA, Europe)">
+    <description>SSSnake</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Block (USA, Europe)">
+    <description>Super Block</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Kong (USA, Europe)">
+    <description>Super Kong</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tasac 2010 (USA, Europe)">
+    <description>Tasac 2010</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tennis Pro &apos;92 (USA, Europe)">
+    <description>Tennis Pro &apos;92</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Treasure Hunter (USA, Europe)">
+    <description>Treasure Hunter</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

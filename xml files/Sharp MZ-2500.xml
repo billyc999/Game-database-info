@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Sharp MZ-2500</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Arion">
+    <description>Arion</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Back to the Future">
+    <description>Back to the Future</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eiyuu Densetsu Saga-a">
+    <description>Eiyuu Densetsu Saga-a</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eiyuu Densetsu Saga-b">
+    <description>Eiyuu Densetsu Saga-b</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excite Bike">
+    <description>Excite Bike</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gomokuna">
+    <description>Gomokuna</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hover Attack">
+    <description>Hover Attack</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hurry Fox">
+    <description>Hurry Fox</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kitahei">
+    <description>Kitahei</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="LayDock">
+    <description>LayDock</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mahjong">
+    <description>Mahjong</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mappy">
+    <description>Mappy</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Marchen Veil I">
+    <description>Marchen Veil I</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moon Child">
+    <description>Moon Child</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mugen">
+    <description>Mugen</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nobo">
+    <description>Nobo</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nobunaga no Yabou">
+    <description>Nobunaga no Yabou</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Penguin Kun Wars">
+    <description>Penguin Kun Wars</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Relics">
+    <description>Relics</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simulation War Game 1">
+    <description>Simulation War Game 1</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Simulation War Game 2">
+    <description>Simulation War Game 2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sound Gal">
+    <description>Sound Gal</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="The Black Onyx">
+    <description>The Black Onyx</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="The Fire Crystal">
+    <description>The Fire Crystal</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="The Tower of Druaga">
+    <description>The Tower of Druaga</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tritorn">
+    <description>Tritorn</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Xevious">
+    <description>Xevious</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ys3">
+    <description>Ys3</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

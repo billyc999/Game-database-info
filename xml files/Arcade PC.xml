@@ -1,0 +1,247 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Arcade PC</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Beatmania IIDX 17 - Sirius">
+    <description>Beatmania IIDX 17 - Sirius</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beatmania IIDX 18 - Resort Anthem">
+    <description>Beatmania IIDX 18 - Resort Anthem</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beatmania IIDX 19 - Lincle">
+    <description>Beatmania IIDX 19 - Lincle</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beatmania IIDX 20 - Tricoro">
+    <description>Beatmania IIDX 20 - Tricoro</description>
+    <year>2012</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bishi Bashi, The">
+    <description>Bishi Bashi, The</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Contra - Evolution Revolution">
+    <description>Contra - Evolution Revolution</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Deathsmiles II - Makai no Merry Christmas">
+    <description>Deathsmiles II - Makai no Merry Christmas</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Cave</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nicktoons Racing">
+    <description>Nicktoons Racing</description>
+    <year>2003</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Chicago Gaming Company Inc</manufacturer>
+    <dev></dev>
+    <genre>Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Otomedius">
+    <description>Otomedius</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Paradise Lost">
+    <description>Paradise Lost</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Global VR</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop&apos;n Music 15 - ADVENTURE">
+    <description>Pop&apos;n Music 15 - ADVENTURE</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop&apos;n Music 16 - Party">
+    <description>Pop&apos;n Music 16 - Party</description>
+    <year>2008</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop&apos;n Music 17 - THE MOVIE">
+    <description>Pop&apos;n Music 17 - THE MOVIE</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop&apos;n Music 18 - Sengoku Retsuden">
+    <description>Pop&apos;n Music 18 - Sengoku Retsuden</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop&apos;n Music 19 - TUNE STREET">
+    <description>Pop&apos;n Music 19 - TUNE STREET</description>
+    <year>2010</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop&apos;n Music 20 - fantasia">
+    <description>Pop&apos;n Music 20 - fantasia</description>
+    <year>2011</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Silent Hill - The Arcade">
+    <description>Silent Hill - The Arcade</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

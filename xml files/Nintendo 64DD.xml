@@ -1,0 +1,177 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Nintendo 64DD</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Dezaemon DD (Japan) (Proto)">
+    <description>Dezaemon DD (Japan) (Proto)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Athena</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doshin the Giant (Japan)">
+    <description>Doshin the Giant (Japan)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doshin the Giant (Japan) (Demo)">
+    <description>Doshin the Giant (Japan) (Demo)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doshin the Giant Tinkling Toddler Liberation Front! Assemble (Japan)">
+    <description>Doshin the Giant Tinkling Toddler Liberation Front! Assemble (Japan)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="F-Zero X Expansion Kit (Japan) (Translated En)">
+    <description>F-Zero X Expansion Kit (Japan) (Translated En)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Japan Pro Golf Tour 64 (Japan)">
+    <description>Japan Pro Golf Tour 64 (Japan)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Seta</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Artist Communication Kit (Japan)">
+    <description>Mario Artist Communication Kit (Japan)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Multimedia</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Artist Paint Studio (Japan)">
+    <description>Mario Artist Paint Studio (Japan)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Multimedia</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Artist Polygon Studio (Japan)">
+    <description>Mario Artist Polygon Studio (Japan)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Multimedia</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Artist Talent Studio (Japan)">
+    <description>Mario Artist Talent Studio (Japan)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Multimedia</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sim City 64 (Japan)">
+    <description>Sim City 64 (Japan)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Mario 64 (Japan) (Proto)">
+    <description>Super Mario 64 (Japan) (Proto)</description>
+    <year>19??</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

@@ -1,0 +1,6099 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Namco Classics</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="30test">
+    <description>30 Test (Remake)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="500gp">
+    <description>500 GP (5GP3 Ver. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="acedrvrw">
+    <description>Ace Driver- Racing Evolution (Rev. AD2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="victlapw">
+    <description>Ace Driver- Victory Lap (Rev. ADV2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aircombj">
+    <description>Air Combat (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aircomb">
+    <description>Air Combat (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="airco22b">
+    <description>Air Combat 22 (Rev. ACS1 Ver.B, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensec">
+    <description>Alien Sector</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinerc">
+    <description>Alpine Racer (Rev. AR2 Ver.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinerd">
+    <description>Alpine Racer (Rev. AR2 Ver.D)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinr2a">
+    <description>Alpine Racer 2 (Rev. ARS2 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinr2b">
+    <description>Alpine Racer 2 (Rev. ARS2 Ver.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinesa">
+    <description>Alpine Surfer (Rev. AF2 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aking">
+    <description>Angler King (AG1 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aquajet">
+    <description>Aqua Jet (Rev. AJ2 Ver.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aquarush">
+    <description>Aqua Rush (Japan, AQ1/VER.A1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="adillor">
+    <description>Armadillo Racing (Rev. AM1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="assaultj">
+    <description>Assault (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="assault">
+    <description>Assault (Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="assaultp">
+    <description>Assault Plus (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bkrtmaq">
+    <description>Bakuretsu Quiz Ma-Q Dai Bouken (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bakutotu">
+    <description>Bakutotsu Kijuutei</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="baraduke">
+    <description>Baraduke</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="berabohmb">
+    <description>Beraboh Man (Japan, Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="berabohm">
+    <description>Beraboh Man (Japan, Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blastoff">
+    <description>Blast Off (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blazer">
+    <description>Blazer (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bombbee">
+    <description>Bomb Bee</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boscomd">
+    <description>Bosconian (Midway, new version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boscomdo">
+    <description>Bosconian (Midway, old version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bosco">
+    <description>Bosconian (new version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boscoo">
+    <description>Bosconian (old version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boscoo2">
+    <description>Bosconian (older version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boxyboy">
+    <description>Boxy Boy (SB?)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bubbletr">
+    <description>Bubble Trouble (Japan, Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="burnforc">
+    <description>Burning Force (Japan, new version (Rev C))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="burnforco">
+    <description>Burning Force (Japan, old version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cgangpzlj">
+    <description>Cosmo Gang the Puzzle (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cgangpzl">
+    <description>Cosmo Gang the Puzzle (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cosmogngj">
+    <description>Cosmo Gang the Video (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cosmogng">
+    <description>Cosmo Gang the Video (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crszonev2a">
+    <description>Crisis Zone (CSZO2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crszonev3a">
+    <description>Crisis Zone (CSZO3 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crszonev3b">
+    <description>Crisis Zone (CSZO3 Ver. B, set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crszonev3b2">
+    <description>Crisis Zone (CSZO3 Ver. B, set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crszonev4a">
+    <description>Crisis Zone (CSZO4 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crszone">
+    <description>Crisis Zone (CSZO4 Ver. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cutieq">
+    <description>Cutie Q</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cybrcomm">
+    <description>Cyber Commando (Rev. CY1, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cybrcycc">
+    <description>Cyber Cycles (Rev. CB2 Ver.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cybsledj">
+    <description>Cyber Sled (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cybsled">
+    <description>Cyber Sled (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="danceyesj">
+    <description>Dancing Eyes (Japan, DC1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="danceyes">
+    <description>Dancing Eyes (US, DC3/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dangseed">
+    <description>Dangerous Seed (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdugat1">
+    <description>Dig Dug (Atari, rev 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdugat">
+    <description>Dig Dug (Atari, rev 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digsid">
+    <description>Dig Dug (manufactured by Sidam)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdug1">
+    <description>Dig Dug (rev 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdug">
+    <description>Dig Dug (rev 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdug2">
+    <description>Dig Dug II (New Ver.)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdug2o">
+    <description>Dig Dug II (Old Ver.)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dirtdash">
+    <description>Dirt Dash (Rev. DT2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dirtfoxj">
+    <description>Dirt Fox (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="downhill">
+    <description>Downhill Bikers (DH3 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="drgnbstr">
+    <description>Dragon Buster</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dragchrn">
+    <description>Dragon Chronicles (DC001 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dsaber">
+    <description>Dragon Saber</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dsaberj">
+    <description>Dragon Saber (Japan, Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dspirit2">
+    <description>Dragon Spirit (DS2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dspirit">
+    <description>Dragon Spirit (new version (DS3))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dspirit1">
+    <description>Dragon Spirit (old version (DS1))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="driveyes">
+    <description>Driver&apos;s Eyes (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dunkmnia">
+    <description>Dunk Mania (Asia, DM2/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dunkmniajc">
+    <description>Dunk Mania (Japan, DM1/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="emeraldaj">
+    <description>Emeraldia (Japan Version B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="emeraldaja">
+    <description>Emeraldia (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="emeralda">
+    <description>Emeraldia (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="exvaniaj">
+    <description>Exvania (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="exvania">
+    <description>Exvania (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fa">
+    <description>F/A (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="faceoff">
+    <description>Face Off (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fghtatck">
+    <description>Fighter &amp; Attacker (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finfurl">
+    <description>Final Furlong (FF2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finfurl2j">
+    <description>Final Furlong 2 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finfurl2">
+    <description>Final Furlong 2 (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finallapjb">
+    <description>Final Lap (Japan, Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finallapjc">
+    <description>Final Lap (Japan, Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finallapc">
+    <description>Final Lap (Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finallapd">
+    <description>Final Lap (Rev D)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finallap">
+    <description>Final Lap (Rev E)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap2">
+    <description>Final Lap 2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap2j">
+    <description>Final Lap 2 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap3bl">
+    <description>Final Lap 3 (bootleg)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap3jc">
+    <description>Final Lap 3 (Japan - Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap3j">
+    <description>Final Lap 3 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap3">
+    <description>Final Lap 3 (World, set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalap3a">
+    <description>Final Lap 3 (World, set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalapro">
+    <description>Final Lap R</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalaprj">
+    <description>Final Lap R (Japan Rev. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finalapr">
+    <description>Final Lap R (Rev. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="finehour">
+    <description>Finest Hour (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fourtrax">
+    <description>Four Trax</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="funcube">
+    <description>Funcube (v1.5)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="funcube2">
+    <description>Funcube 2 (v1.1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="funcube3">
+    <description>Funcube 3 (v1.1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="funcube4">
+    <description>Funcube 4 (v1.0)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="funcube5">
+    <description>Funcube 5 (v1.0)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga88">
+    <description>Galaga &apos;88</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga88j">
+    <description>Galaga &apos;88 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galagamf">
+    <description>Galaga (Midway set 1 with fast shoot hack)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galagamw">
+    <description>Galaga (Midway set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galagamk">
+    <description>Galaga (Midway set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga">
+    <description>Galaga (Namco rev. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galagao">
+    <description>Galaga (Namco)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga3a">
+    <description>Galaga 3 (GP3 rev. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga3">
+    <description>Galaga 3 (GP3 rev. D)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga3b">
+    <description>Galaga 3 (GP3)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga3c">
+    <description>Galaga 3 (set 4)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaga3m">
+    <description>Galaga 3 (set 5)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaxianm">
+    <description>Galaxian (Midway set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaxianmo">
+    <description>Galaxian (Midway set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaxian">
+    <description>Galaxian (Namco set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaxiana">
+    <description>Galaxian (Namco set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="galaxiant">
+    <description>Galaxian (Taito)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gal3">
+    <description>Galaxian 3 - Theater 6 - Project Dragoon</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaplusd">
+    <description>Gaplus (GP2 rev D, alternate hardware)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaplus">
+    <description>Gaplus (GP2 rev. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaplusa">
+    <description>Gaplus (GP2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="geebeeb">
+    <description>Gee Bee (Europe)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="geebee">
+    <description>Gee Bee (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="geebeeg">
+    <description>Gee Bee (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gjspace">
+    <description>Gekitoride-Jong Space (10011 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="genpeitd">
+    <description>Genpei ToumaDen</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gollygho">
+    <description>Golly! Ghost!</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gslgr94u">
+    <description>Great Sluggers &apos;94</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gslgr94j">
+    <description>Great Sluggers &apos;94 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gslugrsj">
+    <description>Great Sluggers (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="grobda">
+    <description>Grobda (New Ver.)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="grobda2">
+    <description>Grobda (Old Ver. set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="grobda3">
+    <description>Grobda (Old Ver. set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunbuletj">
+    <description>Gun Bullet (Japan, GN1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunbuletw">
+    <description>Gun Bullet (World, GN3 Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunbalina">
+    <description>Gunbalina (Japan, GNN1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunbarl">
+    <description>Gunbarl (Japan, GNB4/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunwarsa">
+    <description>Gunmen Wars (GM1 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunwars">
+    <description>Gunmen Wars (GM1 Ver. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hopmappy">
+    <description>Hopping Mappy</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vshoot">
+    <description>J-League Soccer V-Shoot (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kaiunqz">
+    <description>Kaiun Quiz (Japan, KW1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kartduel">
+    <description>Kart Duel (Japan, KTD1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kingballj">
+    <description>King &amp; Balloon (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kingball">
+    <description>King &amp; Balloon (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kinniku">
+    <description>Kinnikuman Muscle Grand Prix (KN1 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="knckheadj">
+    <description>Knuckle Heads (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="knckheadjp">
+    <description>Knuckle Heads (Japan, Prototype?)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="knckhead">
+    <description>Knuckle Heads (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="knpuzzle">
+    <description>Kotoba no Puzzle Mojipittan (Japan, KPM1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kungfur">
+    <description>Kung-Fu Roushi</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kyukaidk">
+    <description>Kyuukai Douchuuki (Japan, new version (Rev B))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kyukaidko">
+    <description>Kyuukai Douchuuki (Japan, old version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="liblrabl">
+    <description>Libble Rabble</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lbgrande">
+    <description>Libero Grande (Asia, LG2/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lbgrandeja">
+    <description>Libero Grande (Japan, LG1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="luckywld">
+    <description>Lucky &amp; Wild</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="luckywldj">
+    <description>Lucky &amp; Wild (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="machbrkr">
+    <description>Mach Breakers - Numan Athletics 2 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mappyj">
+    <description>Mappy (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mappy">
+    <description>Mappy (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mmaze">
+    <description>Marchen Maze (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkartagp">
+    <description>Mario Kart Arcade GP (MKA2 Ver.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marvlandj">
+    <description>Marvel Land (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marvland">
+    <description>Marvel Land (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="metlhawkj">
+    <description>Metal Hawk (Japan, Rev F)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="metlhawk">
+    <description>Metal Hawk (Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="metrocrs">
+    <description>Metro-Cross (set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="metrocrsa">
+    <description>Metro-Cross (set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mirninja">
+    <description>Mirai Ninja (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="moonaln">
+    <description>Moon Alien</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="moonal2">
+    <description>Moon Alien Part 2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="moonal2b">
+    <description>Moon Alien Part 2 (older version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="motoxgov1a">
+    <description>Motocross Go! (MG1 Ver. A, set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="motoxgov1a2">
+    <description>Motocross Go! (MG1 Ver. A, set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="motoxgov2a">
+    <description>Motocross Go! (MG2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="motoxgo">
+    <description>Motocross Go! (MG3 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="motos">
+    <description>Motos</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrdrillrj">
+    <description>Mr. Driller (Japan, DRI1/VER.A2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrdrillr">
+    <description>Mr. Driller (US, DRI3/VER.A2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrdrlr2a">
+    <description>Mr. Driller 2 (Asia, DR22 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrdrilr2">
+    <description>Mr. Driller 2 (Japan, DR21 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrdrilrg">
+    <description>Mr. Driller G (Japan, DRG1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrdrilrga">
+    <description>Mr. Driller G ALT (Japan, DRG1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20pacgalr0">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.00)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20pacgalr1">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.01)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20pacgalr2">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.02)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20pacgalr3">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.03)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20pacgalr4">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.04)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="20pacgal">
+    <description>Ms. Pac-Man/Galaga - 20th Anniversary Class of 1981 Reunion (V1.08)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ncv1">
+    <description>Namco Classic Collection Vol.1</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ncv1j">
+    <description>Namco Classic Collection Vol.1 (Japan, v1.00)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ncv1j2">
+    <description>Namco Classic Collection Vol.1 (Japan, v1.03)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ncv2">
+    <description>Namco Classic Collection Vol.2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ncv2j">
+    <description>Namco Classic Collection Vol.2 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="namcostr">
+    <description>Namco Stars</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="navarone">
+    <description>Navarone</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nebulrayj">
+    <description>Nebulas Ray (Japan, NR1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nebulray">
+    <description>Nebulas Ray (World, NR2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="netchu02">
+    <description>Netchuu Pro Yakyuu 2002 (NPY1 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quiztou">
+    <description>Nettou! Gekitou! Quiztou!! (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nrallyx">
+    <description>New Rally X</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nrallyxb">
+    <description>New Rally X (bootleg?)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nflclsfb">
+    <description>NFL Classic Football (US, NCF3 Ver.A.)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="numanathj">
+    <description>Numan Athletics (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="numanath">
+    <description>Numan Athletics (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ordynej">
+    <description>Ordyne (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ordyne">
+    <description>Ordyne (Japan, English Version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacnpal">
+    <description>Pac &amp; Pal</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacnpal2">
+    <description>Pac &amp; Pal (older)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paclandj">
+    <description>Pac-Land (Japan new)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paclandjo">
+    <description>Pac-Land (Japan old)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paclandjo2">
+    <description>Pac-Land (Japan older)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paclandm">
+    <description>Pac-Land (Midway)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paclandp">
+    <description>Pac-Land (United Amusements PC Engine)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacland">
+    <description>Pac-Land (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacnchmp">
+    <description>Pac-Man &amp; Chomp Chomp</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacman">
+    <description>Pac-Man (Midway)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacmod">
+    <description>Pac-Man (Midway, harder)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="25pacmano">
+    <description>Pac-Man - 25th Anniversary Edition (Rev 2.00)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="25pacman">
+    <description>Pac-Man - 25th Anniversary Edition (Rev 3.00)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacplus">
+    <description>Pac-Man Plus</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacmania">
+    <description>Pac-Mania</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacmaniaj">
+    <description>Pac-Mania (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pacslot">
+    <description>Pac-Slot</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="panicprkj">
+    <description>Panic Park (PNP1 Ver. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="panicprk">
+    <description>Panic Park (PNP2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="panikuru">
+    <description>Panicuru Panekuru (Japan, PPA1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="phelios">
+    <description>Phelios (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="phozon">
+    <description>Phozon (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pistoldm">
+    <description>Pistol Daimyo no Bouken (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pocketrc">
+    <description>Pocket Racer (Japan, PKR1/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ptblank">
+    <description>Point Blank (World, GN2 Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ptblank2">
+    <description>Point Blank 2 (GNB5/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ptblank2ua">
+    <description>Point Blank 2 (US, GNB3/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ptblank3">
+    <description>Point Blank 3 (Asia, GNN2 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poleposa1">
+    <description>Pole Position (Atari version 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poleposa2">
+    <description>Pole Position (Atari version 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poleposj">
+    <description>Pole Position (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="polepos">
+    <description>Pole Position (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="polepos2a">
+    <description>Pole Position II (Atari)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="polepos2">
+    <description>Pole Position II (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="primglex">
+    <description>Prime Goal EX (Japan, PG1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="propcycl">
+    <description>Prop Cycle (Rev. PR2 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="puckman">
+    <description>Puck Man (Japan set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="puckmod">
+    <description>Puck Man (Japan set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="puzlclub">
+    <description>Puzzle Club (Japan prototype)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quester">
+    <description>Quester (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="questers">
+    <description>Quester Special Edition (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sukuinuf">
+    <description>Quiz and Variety Suku Suku Inufuku 2 (IN2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raceon">
+    <description>Race On! (RO2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rallyxa">
+    <description>Rally X</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rallyx">
+    <description>Rally X (32k Ver.?)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rallyxm">
+    <description>Rally X (Midway)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rapidrvrp">
+    <description>Rapid River (prototype)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rapidrvrv2c">
+    <description>Rapid River (RD2 Ver. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rapidrvr">
+    <description>Rapid River (RD3 Ver. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raveracj">
+    <description>Rave Racer (Rev. RV1 Ver.B, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raveracja">
+    <description>Rave Racer (Rev. RV1, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raveracw">
+    <description>Rave Racer (Rev. RV2, World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgeracj">
+    <description>Ridge Racer (Rev. RR1, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgerac3">
+    <description>Ridge Racer (Rev. RR2 Ver.B, World, 3-screen?)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgeracb">
+    <description>Ridge Racer (Rev. RR2, World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgerac">
+    <description>Ridge Racer (Rev. RR3, World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgera2j">
+    <description>Ridge Racer 2 (Rev. RRS1 Ver.B, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgera2ja">
+    <description>Ridge Racer 2 (Rev. RRS1, Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgera2">
+    <description>Ridge Racer 2 (Rev. RRS2, World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgeracf">
+    <description>Ridge Racer Full Scale (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rrvac">
+    <description>Ridge Racer V Arcade Battle (RRV3 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rthunder1">
+    <description>Rolling Thunder (rev 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rthunder2">
+    <description>Rolling Thunder (rev 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rthunder">
+    <description>Rolling Thunder (rev 3)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rthun2">
+    <description>Rolling Thunder 2</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rthun2j">
+    <description>Rolling Thunder 2 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rompers">
+    <description>Rompers (Japan, new version (Rev B))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="romperso">
+    <description>Rompers (Japan, old version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shadowld">
+    <description>Shadowland (YD3)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toukon3">
+    <description>Shin Nihon Pro Wrestling Toukon Retsuden 3 Arcade Edition (Japan, TR1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skykidd">
+    <description>Sky Kid (CUS60 version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skykid">
+    <description>Sky Kid (new version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skykido">
+    <description>Sky Kid (old version)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skykids">
+    <description>Sky Kid (Sipem)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skykiddx">
+    <description>Sky Kid Deluxe (set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skykiddxo">
+    <description>Sky Kid Deluxe (set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="scptour">
+    <description>Smash Court Pro Tournament (SCP1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="solvalou">
+    <description>Solvalou (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sos">
+    <description>SOS</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soukobdx">
+    <description>Souko Ban Deluxe (Japan, SB1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbrja">
+    <description>Soul Calibur (Japan, SOC11/VER.A2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbrjb">
+    <description>Soul Calibur (Japan, SOC11/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbrjc">
+    <description>Soul Calibur (Japan, SOC11/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbrub">
+    <description>Soul Calibur (US, SOC13/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbruc">
+    <description>Soul Calibur (US, SOC13/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbrwb">
+    <description>Soul Calibur (World, SOC14/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclbr">
+    <description>Soul Calibur (World, SOC14/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulcl2b">
+    <description>Soul Calibur II (SC21 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulcl2a">
+    <description>Soul Calibur II (SC22 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclb2">
+    <description>Soul Calibur II (SC23 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclb3">
+    <description>Soul Calibur III (SC31001-NA-A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soulclb3a">
+    <description>Soul Calibur III (SC31002-NA-A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="souledgeaa">
+    <description>Soul Edge (Asia, SO2/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="souledgeja">
+    <description>Soul Edge (Japan, SO1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="souledgeua">
+    <description>Soul Edge (US, SO3/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="souledgeuc">
+    <description>Soul Edge Ver. II (US, SO3/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="souledge">
+    <description>Soul Edge Ver. II (World, SO4/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="speedrcr">
+    <description>Speed Racer</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="splatterj">
+    <description>Splatter House (Japan, SH1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="splatter">
+    <description>Splatter House (World, new version (SH3))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="splatter2">
+    <description>Splatter House (World, old version (SH2))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="startrgn">
+    <description>Star Trigon (Japan, STT1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starbladj">
+    <description>Starblade (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starblad">
+    <description>Starblade (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sgunnerj">
+    <description>Steel Gunner (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sgunner">
+    <description>Steel Gunner (Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sgunner2j">
+    <description>Steel Gunner 2 (Japan, Rev A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sgunner2">
+    <description>Steel Gunner 2 (US)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="supergx">
+    <description>Super GX</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="superpac">
+    <description>Super Pac-Man</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="superpacm">
+    <description>Super Pac-Man (Midway)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="swcourtj">
+    <description>Super World Court (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="swcourt">
+    <description>Super World Court (World)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws92">
+    <description>Super World Stadium &apos;92 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws92g">
+    <description>Super World Stadium &apos;92 Gekitouban (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws93">
+    <description>Super World Stadium &apos;93 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws95">
+    <description>Super World Stadium &apos;95 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws96">
+    <description>Super World Stadium &apos;96 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws97">
+    <description>Super World Stadium &apos;97 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws98">
+    <description>Super World Stadium &apos;98 (Japan, SS81/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws99">
+    <description>Super World Stadium &apos;99 (Japan, SS91/VER.A3)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws">
+    <description>Super World Stadium (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws2000">
+    <description>Super World Stadium 2000 (Japan, SS01/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sws2001">
+    <description>Super World Stadium 2001 (Japan, SS11/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sxevious">
+    <description>Super Xevious</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sxeviousj">
+    <description>Super Xevious (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suzuka8hj">
+    <description>Suzuka 8 Hours (Japan, Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suzuka8h">
+    <description>Suzuka 8 Hours (World, Rev C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suzuk8h2j">
+    <description>Suzuka 8 Hours 2 (Japan, Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suzuk8h2">
+    <description>Suzuka 8 Hours 2 (World, Rev B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sys246">
+    <description>System 246 BIOS</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sys256">
+    <description>System 256 BIOS</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="taiko10">
+    <description>Taiko No Tatsujin 10 (T101001-NA-A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="taiko9">
+    <description>Taiko No Tatsujin 9 (TK91001-NA-A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tankbatt">
+    <description>Tank Battalion</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tankfrcej">
+    <description>Tank Force (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tankfrce">
+    <description>Tank Force (US, 2 Player)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tankfrce4">
+    <description>Tank Force (US, 4 Player)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekkenab">
+    <description>Tekken (Asia, TE2/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekkenac">
+    <description>Tekken (Asia, TE2/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekkenjb">
+    <description>Tekken (Japan, TE1/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken">
+    <description>Tekken (World, TE4/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken2aa">
+    <description>Tekken 2 (Asia, TES2/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken2ab">
+    <description>Tekken 2 Ver.B (Asia, TES2/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken2jb">
+    <description>Tekken 2 Ver.B (Japan, TES1/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken2jc">
+    <description>Tekken 2 Ver.B (Japan, TES1/VER.C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken2ub">
+    <description>Tekken 2 Ver.B (US, TES3/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken2">
+    <description>Tekken 2 Ver.B (US, TES3/VER.D)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3aa">
+    <description>Tekken 3 (Asia, TET2/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3ab">
+    <description>Tekken 3 (Asia, TET2/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3ae">
+    <description>Tekken 3 (Asia, TET2/VER.E1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3ja">
+    <description>Tekken 3 (Japan, TET1/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3">
+    <description>Tekken 3 (Japan, TET1/VER.E1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3ua">
+    <description>Tekken 3 (US, TET3/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken3ud">
+    <description>Tekken 3 (US, TET3/VER.D)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken4b">
+    <description>Tekken 4 (TEF1 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken4c">
+    <description>Tekken 4 (TEF1 Ver. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken4a">
+    <description>Tekken 4 (TEF2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken4">
+    <description>Tekken 4 (TEF3 Ver. C)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tekken51">
+    <description>Tekken 5.1 (TE51 Ver. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagtac">
+    <description>Tekken Tag Tournament (Asia, TEG2/VER.C1, set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagtac1">
+    <description>Tekken Tag Tournament (Asia, TEG2/VER.C1, set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagtja">
+    <description>Tekken Tag Tournament (Japan, TEG1/VER.A3)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagtjb">
+    <description>Tekken Tag Tournament (Japan, TEG1/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagtjc1">
+    <description>Tekken Tag Tournament (Japan, TEG1/VER.C1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagtub">
+    <description>Tekken Tag Tournament (US, TEG3/VER.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tektagt">
+    <description>Tekken Tag Tournament (US, TEG3/VER.C1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tenkomor">
+    <description>Tenkomori Shooting (Asia, TKM2/VER.A1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tenkomorja">
+    <description>Tenkomori Shooting (Japan, TKM1/VER.A1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outfxiesj">
+    <description>The Outfoxies (Japan, OU1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outfxies">
+    <description>The Outfoxies (World, OU2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roishtar">
+    <description>The Return of Ishtar</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="todruaga">
+    <description>The Tower of Druaga (New Ver.)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="todruagao">
+    <description>The Tower of Druaga (Old Ver.)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tceptor">
+    <description>Thunder Ceptor</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tceptor2">
+    <description>Thunder Ceptor II</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrisa">
+    <description>Time Crisis (Rev. TS2 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecris">
+    <description>Time Crisis (Rev. TS2 Ver.B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrs3">
+    <description>Time Crisis 3 (TST1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrs3e">
+    <description>Time Crisis 3 (TST2 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrs2v2b">
+    <description>Time Crisis II (TSS2 Ver. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrs2">
+    <description>Time Crisis II (TSS3 Ver. B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrs2v4a">
+    <description>Time Crisis II (TSS4 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tinklpit">
+    <description>Tinkle Pit (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tjumpman">
+    <description>Tobikose! Jumpman</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tokyowar">
+    <description>Tokyo Wars (Rev. TW2 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toypop">
+    <description>Toypop</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="chocovdr">
+    <description>Uchuu Daisakusen- Chocovader Contactee (Japan, CVC1 Ver.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="valkyrie">
+    <description>Valkyrie No Densetsu (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rbibb">
+    <description>Vs. Atari R.B.I. Baseball (set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rbibba">
+    <description>Vs. Atari R.B.I. Baseball (set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="btlecity">
+    <description>Vs. Battle City</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starlstr">
+    <description>Vs. Star Luster</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vsskykid">
+    <description>Vs. Super SkyKid</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="supxevs">
+    <description>Vs. Super Xevious</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tkoboxng">
+    <description>Vs. T.K.O. Boxing</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wanganmd">
+    <description>Wangan Midnight (WMN1 Ver. A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wangmid">
+    <description>Wangan Midnight Maximum Tune (Export) (Rev B) (GDX-0009B)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wangmid2">
+    <description>Wangan Midnight Maximum Tune 2 (Export) (GDX-0015)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wangmd2b">
+    <description>Wangan Midnight Maximum Tune 2 (Japan) (Rev A) (GDX-0016A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="warpwarp">
+    <description>Warp &amp; Warp</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="warpwarpr">
+    <description>Warp Warp (Rock-Ola set 1)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="warpwarpr2">
+    <description>Warp Warp (Rock-Ola set 2)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="winrun">
+    <description>Winning Run</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="winrun91">
+    <description>Winning Run &apos;91 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="winrungp">
+    <description>Winning Run Suzuka Grand Prix (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wndrmomo">
+    <description>Wonder Momo</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wldcourt">
+    <description>World Court (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ws89">
+    <description>World Stadium &apos;89 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ws90">
+    <description>World Stadium &apos;90 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ws">
+    <description>World Stadium (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xday2">
+    <description>X-Day 2 (Japan)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xeviousb">
+    <description>Xevious (Atari)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xeviousa">
+    <description>Xevious (Atari, harder)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xeviousc">
+    <description>Xevious (Atari, Namco PCB)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xevious">
+    <description>Xevious (Namco)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xevi3dg">
+    <description>Xevious 3D/G (Japan, XV31/VER.A)</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="youkaidk2">
+    <description>Yokai Douchuuki (Japan, new version (YD2, Rev B))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="youkaidk1">
+    <description>Yokai Douchuuki (Japan, old version (YD1))</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

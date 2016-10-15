@@ -1,0 +1,1241 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Nintendo Satellaview</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Arkanoid - Doh It Again (Japan)">
+    <description>Arkanoid- Doh It Again (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bokujou Monogatari - Dai-2-wa (Japan)">
+    <description>Bokujou Monogatari Week 2 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Pack-In-Video</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bokujou Monogatari - Dai-4-wa (Japan)">
+    <description>Bokujou Monogatari Week 4 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Pack-In-Video</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS F-Zero Grand Prix 2 - Practice (Japan)">
+    <description>BS F-Zero Grand Prix 2- Practice (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS F-Zero Grand Prix - Dai-1-shuu - Knight League (Japan)">
+    <description>BS F-Zero Grand Prix Week 1- Knight League (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS F-Zero Grand Prix - Dai-2-shuu - Queen League (Japan)">
+    <description>BS F-Zero Grand Prix Week 2- Queen League (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS F-Zero Grand Prix - Dai-3-shuu - King League (Japan)">
+    <description>BS F-Zero Grand Prix Week 3- King League (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS F-Zero Grand Prix - Dai-4-shuu - Ace League (Japan)">
+    <description>BS F-Zero Grand Prix Week 4- Ace League (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Fire Emblem - Akaneia Senki Hen - Dai-1-wa - Palace Kanraku (Japan)">
+    <description>BS Fire Emblem- Akaneia Senki Hen Week 1- Palace Kanraku (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Fire Emblem - Akaneia Senki Hen - Dai-2-wa - Akai Ryuu Kishi (Japan)">
+    <description>BS Fire Emblem- Akaneia Senki Hen Week 2- Akai Ryuu Kishi (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Fire Emblem - Akaneia Senki Hen - Dai-3-wa - Seigi no Touzokudan (Japan)">
+    <description>BS Fire Emblem- Akaneia Senki Hen Week 3- Seigi no Touzokudan (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Fire Emblem - Akaneia Senki Hen - Dai-4-wa - Hajimari no Toki (Japan)">
+    <description>BS Fire Emblem- Akaneia Senki Hen Week 4- Hajimari no Toki (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Legend of Zelda, The (Japan) (Translated En)">
+    <description>BS Legend of Zelda, The (Japan) (Translated En)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Legend of Zelda, The - Ancient Stone Tablets - Week 1 (Japan) (Translated En)">
+    <description>BS Legend of Zelda, The- Ancient Stone Tablets Week 1 (Japan) (Translated En)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Legend of Zelda, The - Ancient Stone Tablets - Week 2 (Japan) (Translated En)">
+    <description>BS Legend of Zelda, The- Ancient Stone Tablets Week 2 (Japan) (Translated En)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Legend of Zelda, The - Ancient Stone Tablets - Week 3 (Japan) (Translated En)">
+    <description>BS Legend of Zelda, The- Ancient Stone Tablets Week 3 (Japan) (Translated En)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Legend of Zelda, The - Ancient Stone Tablets - Week 4 (Japan) (Translated En)">
+    <description>BS Legend of Zelda, The- Ancient Stone Tablets Week 4 (Japan) (Translated En)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Legend of Zelda, The - Map 2 (Japan) (Translated En)">
+    <description>BS Legend of Zelda, The- Map 2 (Japan) (Translated En)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Camp Arnold Course - Dai-1-shuu (Japan)">
+    <description>BS Marvelous- Camp Arnold Course Week 1 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Camp Arnold Course - Dai-2-shuu (Japan)">
+    <description>BS Marvelous- Camp Arnold Course Week 2 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Camp Arnold Course - Dai-3-shuu (Japan)">
+    <description>BS Marvelous- Camp Arnold Course Week 3 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Camp Arnold Course - Dai-4-shuu (Japan)">
+    <description>BS Marvelous- Camp Arnold Course Week 4 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Time Athletic Course - Dai-1-shuu (Japan)">
+    <description>BS Marvelous- Time Athletic Course Week 1 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Time Athletic Course - Dai-2-shuu (Japan)">
+    <description>BS Marvelous- Time Athletic Course Week 2</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Time Athletic Course - Dai-3-shuu (Japan)">
+    <description>BS Marvelous- Time Athletic Course Week 3 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Marvelous - Time Athletic Course - Dai-4-shuu (Japan)">
+    <description>BS Marvelous- Time Athletic Course Week 4 (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Super Mario Collection - Dai-2-shuu (Japan)">
+    <description>BS Super Mario Collection- Week 2 (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Super Mario Collection - Dai-3-shuu (Japan)">
+    <description>BS Super Mario Collection- Week 3 (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Super Mario USA - Power Challenge - Week 1 (Japan) (Translated En)">
+    <description>BS Super Mario USA- Power Challenge Week 1 (Japan) (Translated En)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Super Mario USA - Power Challenge - Week 2 (Japan) (Translated En)">
+    <description>BS Super Mario USA- Power Challenge Week 2 (Japan) (Translated En)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Super Mario USA - Power Challenge - Week 3 (Japan) (Translated En)">
+    <description>BS Super Mario USA- Power Challenge Week 3 (Japan) (Translated En)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BS Super Mario USA - Power Challenge - Week 4 (Japan) (Translated En)">
+    <description>BS Super Mario USA- Power Challenge Week 4 (Japan) (Translated En)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chrono Trigger - Jet Bike Special (Japan)">
+    <description>Chrono Trigger- Jet Bike Special (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cu-On-Pa SFC (Japan)">
+    <description>Cu-On-Pa SFC (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>T&amp;E Soft</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Darius Force (Japan)">
+    <description>Darius Force (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dezaemon BSX Version - BS-X Shooting (Japan)">
+    <description>Dezaemon BSX Version- BS-X Shooting (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Athena</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dr. Mario (Japan)">
+    <description>Dr. Mario (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excitebike - Bunbun Mario Battle - Stadium 1 (Japan)">
+    <description>Excitebike- Bunbun Mario Battle Stadium 1 (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excitebike - Bunbun Mario Battle - Stadium 2 (Japan)">
+    <description>Excitebike- Bunbun Mario Battle Stadium 2 (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excitebike - Bunbun Mario Battle - Stadium 3 (Japan)">
+    <description>Excitebike- Bunbun Mario Battle Stadium 3 (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excitebike - Bunbun Mario Battle - Stadium 4 (Japan)">
+    <description>Excitebike- Bunbun Mario Battle Stadium 4 (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="F-Zero (Japan)">
+    <description>F-Zero (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Firemen, The (Japan)">
+    <description>Firemen, The (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Human Corporation</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Golf Daisuki! O.B. Club (Japan)">
+    <description>Golf Daisuki! O.B. Club (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nippon Computer Systems Corp</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ikari no Yousai (Japan)">
+    <description>Ikari no Yousai (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Jaleco</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kaizou Chounin Shubibinman Zero (Japan)">
+    <description>Kaizou Chounin Shubibinman Zero (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nippon Computer Systems Corp</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kid Klown no Crazy Chase (Japan)">
+    <description>Kid Klown no Crazy Chase (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Kemco</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kikikai-kai - Nazo no Kuro Manteau (Japan)">
+    <description>Kikikai-kai- Nazo no Kuro Manteau (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kirby no Omochabako - Baseball (Japan)">
+    <description>Kirby no Omochabako- Baseball (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kirby no Omochabako - Guruguru Ball (Japan)">
+    <description>Kirby no Omochabako- Guruguru Ball (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kirby no Omochabako - Hoshi Kuzushi (Japan)">
+    <description>Kirby no Omochabako- Hoshi Kuzushi (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kirby no Omochabako - Pinball (Japan)">
+    <description>Kirby no Omochabako- Pinball (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Konae-chan no Dokidoki Penguin Kazoku (Japan)">
+    <description>Konae-chan no Dokidoki Penguin Kazoku (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Pax Softnica</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lemmings (Japan)">
+    <description>Lemmings (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Psygnosis</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mario Paint - Yuushou Naizou Ban (Japan)">
+    <description>Mario Paint- Yuushou Naizou Ban (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="New 3D Golf Simulation - Waialae no Kiseki (Japan)">
+    <description>New 3D Golf Simulation- Waialae no Kiseki (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>T&amp;E Soft</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="New Yatterman - Nandai Kandai Yajirobee (Japan)">
+    <description>New Yatterman- Nandai Kandai Yajirobee (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Yutaka</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Panel de Pon - Event &apos;98 (Japan)">
+    <description>Panel de Pon- Event &apos;98 (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Intelligent Systems</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Satella Walker 2 - Dai-1-wa - Mokumoku Kemuri Panic (Japan)">
+    <description>Satella Walker 2 Week 1- Mokumoku Kemuri Panic (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Satella Walker - Sate Bou o Sukuidase! (Japan)">
+    <description>Satella Walker- Sate Bou o Sukuidase! (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shanghai - Banri no Choujou (Japan)">
+    <description>Shanghai- Banri no Choujou (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sunsoft</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sonic Blast Man (Japan)">
+    <description>Sonic Blast Man (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Special Tee Shot (Japan)">
+    <description>Special Tee Shot (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Aleste (Japan) (Translated En)">
+    <description>Super Aleste (Japan) (Translated En)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Toho</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Bomber Man (Japan)">
+    <description>Super Bomber Man (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Bomber Man 2 (Japan)">
+    <description>Super Bomber Man 2 (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hudson Soft</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super E.D.F. (Japan)">
+    <description>Super E.D.F. (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Jaleco</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Famicom Wars - BS Ban - Tsukinowa-jima (Japan)">
+    <description>Super Famicom Wars BS Ban- Tsukinowa-jima (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Fire Pro Wrestling (Japan)">
+    <description>Super Fire Pro Wrestling (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Human Entertainment</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Nazo Puyo Tsuu - Rulue no Tetsuwan Hanjouki (Japan)">
+    <description>Super Nazo Puyo Tsuu- Rulue no Tetsuwan Hanjouki (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Banpresto</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Nazo Puyo - Rulue no Roux (Japan)">
+    <description>Super Nazo Puyo- Rulue no Roux (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Banpresto</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Ninja-kun (Japan)">
+    <description>Super Ninja-kun (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Jaleco</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Puyo Puyo (Japan)">
+    <description>Super Puyo Puyo (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Puyo Puyo Tsuu BS Ban (Japan)">
+    <description>Super Puyo Puyo Tsuu BS Ban (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Puyo Puyo Tsuu Remix (Japan)">
+    <description>Super Puyo Puyo Tsuu Remix (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Volley II (Japan)">
+    <description>Super Volley II (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Video System Company</manufacturer>
+    <dev></dev>
+    <genre>Sports/Volleyball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sutte Hakkun - 98 Fuyu Event Version (Japan)">
+    <description>Sutte Hakkun- 98 Fuyu Event Version (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sutte Hakkun - BS Version 2 (Japan)">
+    <description>Sutte Hakkun- BS Version 2 (Japan)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sutte Hakkun - Event Version (Japan)">
+    <description>Sutte Hakkun- Event Version (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tamori no Picross (6-13) (Japan)">
+    <description>Tamori no Picross (6-13) (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tamori no Picross (6-26) (Japan)">
+    <description>Tamori no Picross (6-26) (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tamori no Picross (8-13) (Japan)">
+    <description>Tamori no Picross (8-13) (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Treasure Conflix (Japan)">
+    <description>Treasure Conflix (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Undake 30 Same Game Daisakusen - Mario Version (Japan)">
+    <description>Undake 30 Same Game Daisakusen- Mario Version (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Waiwai Check 3-21 Saihousou + Yuki no Waiwai Kids 3-16 Ban (Japan)">
+    <description>Waiwai Check 3-21 Saihousou + Yuki no Waiwai Kids 3-16 Ban (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hori Soft</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Waiwai Check 3-7 Gou (Japan)">
+    <description>Waiwai Check 3-7 Gou (Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Hori Soft</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wario no Mori - Futatabi (Japan)">
+    <description>Wario no Mori- Futatabi (Japan)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yoshi no Panepon - BS Ban (Japan)">
+    <description>Yoshi no Panepon- BS Ban (Japan)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nintendo</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

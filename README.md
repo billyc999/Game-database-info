@@ -16,52 +16,66 @@ convcsv2xml()
 {
 file_in="$1.tmp"
 file_out="${1%%.*}.xml"
+echo "********************************************"
 echo "System:""${1%%.*}"
 file_in_csv="$1.tmp.csv"
-
 cp "$1" "$file_in"
 cp "$1" "$file_in_csv"
-echo clean csv
-#clean uo csv
+
+echo "**Cleaning *.csv:"
+#clean up csv
 #echo 4stars
 #sed -i 's~\*\*\*\*~ ~g' "$file_in_csv"
 # ** with space
 #echo 2stars
 #sed -i 's~\*\*~ ~g' "$file_in_csv"
 # trailing spaces
-echo trailing space
+echo "Trailing Space"
 sed -i 's~ >~>~g' "$file_in_csv"
-echo trailing space
+echo "Trailing Space"
 sed -i 's~ >~>~g' "$file_in_csv"
 
-echo clean xml
+echo "**Cleaning *.xml:"
 # & with &amp;
-echo amp
+echo "&"
 sed -i 's~\&~\&amp;~g' "$file_in"
 # ' with &apos;
-echo apos
+echo "'"
 sed -i "s~'~\&apos;~g" "$file_in"
-#  with 
-echo quotes
+#  delete "
+echo '"'
+# : with -
+echo ":"
+sed -i 's~\:~\-~g' "$file_in"
 sed -i 's~"~~g' "$file_in"
-# <br><br> with space
-#echo br br
-#sed -i 's~\<br\>\<br\>~ ~g' "$file_in"
-# <br> with space
-#echo br
-#sed -i 's~\<br\>~ ~g' "$file_in"
-# **** with space
-echo 4stars
-sed -i 's~\*\*\*\*~ ~g' "$file_in"
-# ** with space
-echo 2stars
-sed -i 's~\*\*~ ~g' "$file_in"
-# trailing spaces
-echo trailing space
-sed -i 's~ >~>~g' "$file_in"
-echo trailing space
 
-echo convert csv to xml
+# <br><br> with space
+echo "<br><br>"
+sed -i 's~\<br\>\<br\>~ ~g' "$file_in"
+# <br> with space
+echo "<br>"
+#sed -i 's~\<br\>~ ~g' "$file_in"
+# ***** with space
+echo "5 stars"
+sed -i 's~\*\*\*\*\*~ ~g' "$file_in"
+# **** with space
+echo "4 stars"
+sed -i 's~\*\*\*\*~ ~g' "$file_in"
+# *** with space
+echo "3 stars"
+sed -i 's~\*\*\*~ ~g' "$file_in"
+# ** with space
+echo "2 stars"
+sed -i 's~\*\*~ ~g' "$file_in"
+# * with space
+echo "1 stars"
+sed -i 's~\*~ ~g' "$file_in"
+# trailing spaces
+echo "Trailing space"
+sed -i 's~ >~>~g' "$file_in"
+echo "Trailing space"
+
+echo "**Convert *.csv to *.xml"
 
 echo '<?xml version="1.0"?>' > "$file_out"
 echo '<menu>' >> "$file_out"
@@ -101,4 +115,10 @@ else
 		convcsv2xml "$file"
 	done
 fi
+echo "**Moving files"
+mkdir -p ./xml\ files
+mkdir -p ./tmp
+mv *.tmp.csv ./tmp/
+mv *.xml ./xml\ files/
+
 ```

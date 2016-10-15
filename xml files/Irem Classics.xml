@@ -1,0 +1,1857 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Irem Classics</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="10yard85">
+    <description>10-Yard Fight &apos;85 (US, Taito license)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Taito license)</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="10yardj">
+    <description>10-Yard Fight (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="10yard">
+    <description>10-Yard Fight (World, set 1)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="airass">
+    <description>Air Assault (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="airduel">
+    <description>Air Duel (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atomboya">
+    <description>Atomic Boy (revision A)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Memetron license)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atomboy">
+    <description>Atomic Boy (revision B)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Memetron license)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atompunk">
+    <description>Atomic Punk (US)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America (licensed from Hudson Soft)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bchopper">
+    <description>Battle Chopper</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bmaster">
+    <description>Blade Master (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bombrman">
+    <description>Bomber Man (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Hudson Soft)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bbmanwj">
+    <description>Bomber Man World (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bbmanwja">
+    <description>Bomber Man World (Japan, revised sound hardware)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bbmanw">
+    <description>Bomber Man World / New Dyna Blaster - Global Quest</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cosmccop">
+    <description>Cosmic Cop (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crossbld">
+    <description>Cross Blades! (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dkgensanm72">
+    <description>Daiku no Gensan (Japan, M72)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dkgensan">
+    <description>Daiku no Gensan (Japan, M82)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dbreedm72">
+    <description>Dragon Breed (M72 PCB version)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dbreed">
+    <description>Dragon Breed (M81 PCB version)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dsoccr94j">
+    <description>Dream Soccer &apos;94 (Japan, M92 hardware)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dsoccr94">
+    <description>Dream Soccer &apos;94 (World, M107 hardware)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Data East Corporation license)</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dynablst">
+    <description>Dynablaster / Bomber Man</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Hudson Soft)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="firebarr">
+    <description>Fire Barrel (Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gallop">
+    <description>Gallop - Armed Police Unit (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="geostorm">
+    <description>Geo Storm (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gteikoku">
+    <description>Gingateikoku No Gyakushu</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunforc2">
+    <description>Gun Force II (US)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunforcej">
+    <description>Gunforce - Battle Fire Engulfed Terror Island (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunforceu">
+    <description>Gunforce - Battle Fire Engulfed Terror Island (US)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunforce">
+    <description>Gunforce - Battle Fire Engulfed Terror Island (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gussun">
+    <description>Gussun Oyoyo (Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hharryu">
+    <description>Hammerin&apos; Harry (US)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hharry">
+    <description>Hammerin&apos; Harry (World)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hasamu">
+    <description>Hasamu (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="headoni">
+    <description>Head On (Irem, M-15 Hardware)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hookj">
+    <description>Hook (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hooku">
+    <description>Hook (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hook">
+    <description>Hook (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="horizon">
+    <description>Horizon (Irem)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="imgfightj">
+    <description>Image Fight (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="imgfight">
+    <description>Image Fight (World, revision A)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="inthuntu">
+    <description>In The Hunt (US)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="inthunt">
+    <description>In The Hunt (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="yanchamr">
+    <description>Kaiketsu Yanchamaru (Japan)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kaiteids">
+    <description>Kaitei Daisensou (Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kengo">
+    <description>Ken-Go</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kidnikiu">
+    <description>Kid Niki - Radical Ninja (US)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Data East USA license)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kidniki">
+    <description>Kid Niki - Radical Ninja (World)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pc_kngfu">
+    <description>Kung Fu (PlayChoice-10)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Nintendo license)</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kungfumd">
+    <description>Kung-Fu Master (US)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Data East USA license)</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kungfum">
+    <description>Kung-Fu Master (World)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="loht">
+    <description>Legend of Hero Tonma</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lohtj">
+    <description>Legend of Hero Tonma (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lethalth">
+    <description>Lethal Thunder (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ldrun">
+    <description>Lode Runner (set 1)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ldruna">
+    <description>Lode Runner (set 2)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ldrun2">
+    <description>Lode Runner II - The Bungeling Strikes Back</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ldrun3j">
+    <description>Lode Runner III - Majin No Fukkatsu</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ldrun3">
+    <description>Lode Runner III - The Golden Labyrinth</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ldrun4">
+    <description>Lode Runner IV - Teikoku Karano Dasshutsu</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lotlot">
+    <description>Lot Lot</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Tokuma Shoten)</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunhohki">
+    <description>Mahou Keibitai Gun Hohki (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="majtitlej">
+    <description>Major Title (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="majtitle">
+    <description>Major Title (World)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="majtitl2j">
+    <description>Major Title 2 (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="majtitl2">
+    <description>Major Title 2 (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kikcubic">
+    <description>Meikyu Jima (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mpatrol">
+    <description>Moon Patrol</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mpatrolw">
+    <description>Moon Patrol (Williams)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Williams license)</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="motorace">
+    <description>MotoRace USA</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Williams license)</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mototour">
+    <description>MotoTour / Zippy Race (Tecfri license)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Tecfri license)</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrheli">
+    <description>Mr. HELI no Daibouken</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mysticrib">
+    <description>Mystic Riders (bootleg?)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mysticri">
+    <description>Mystic Riders (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="newapunk">
+    <description>New Atomic Punk - Global Quest (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="newtangl">
+    <description>New Tropical Angel</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbbatmanu">
+    <description>Ninja Baseball Bat Man (US)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbbatman">
+    <description>Ninja Baseball Bat Man (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nspirit">
+    <description>Ninja Spirit</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="olibochu">
+    <description>Oli-Boo-Chu</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem / GDI</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="panther">
+    <description>Panther</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="psoldier">
+    <description>Perfect Soldiers (Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poundforj">
+    <description>Pound for Pound (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poundforu">
+    <description>Pound for Pound (US)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poundfor">
+    <description>Pound for Pound (World)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ptrmj">
+    <description>PT Reach Mahjong (Japan)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Mahjong</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtypejp">
+    <description>R-Type (Japan prototype)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtypej">
+    <description>R-Type (Japan)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtypeu">
+    <description>R-Type (US)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Nintendo of America license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtype">
+    <description>R-Type (World)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtype2">
+    <description>R-Type II</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtype2j">
+    <description>R-Type II (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtype2jc">
+    <description>R-Type II (Japan, revision C)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtypeleoj">
+    <description>R-Type Leo (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rtypeleo">
+    <description>R-Type Leo (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="redalert">
+    <description>Red Alert</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (GDI license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="riskchal">
+    <description>Risky Challenge</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nspiritj">
+    <description>Saigo no Nindou (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nss_skin">
+    <description>Skins Game (Nintendo Super System)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skychut">
+    <description>Sky Chuter</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacbeam">
+    <description>Space Beam</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spartanx">
+    <description>Spartan X (Japan)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spelunkr">
+    <description>Spelunker</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spelunkrj">
+    <description>Spelunker (Japan)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spelunk2">
+    <description>Spelunker II</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (licensed from Broderbund)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssoldier">
+    <description>Superior Soldiers (US)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="battroad">
+    <description>The Battle-Road</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skingame">
+    <description>The Irem Skins Game (US set 1)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skingame2">
+    <description>The Irem Skins Game (US set 2)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem America</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thndblst">
+    <description>Thunder Blaster (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="travrusa">
+    <description>Traverse USA / Zippy Race</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="troangel">
+    <description>Tropical Angel</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="uccopsj">
+    <description>Undercover Cops (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="uccopsu">
+    <description>Undercover Cops (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="uccops">
+    <description>Undercover Cops (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="uccopsar">
+    <description>Undercover Cops - Alpha Renewal Version</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="uniwars">
+    <description>UniWar S</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vigilantj">
+    <description>Vigilante (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vigilantu">
+    <description>Vigilante (US)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Data East USA license)</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vigilantu2">
+    <description>Vigilante (US) - Rev. G</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Data East USA license)</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vigilant">
+    <description>Vigilante (World, set 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vigilant1">
+    <description>Vigilante (World, set 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vs10yardj">
+    <description>Vs 10-Yard Fight (Japan)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vs10yardu">
+    <description>Vs 10-Yard Fight (US, Taito license)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem (Taito license)</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vs10yard">
+    <description>Vs 10-Yard Fight (World, 11/05/84)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wilytowr">
+    <description>Wily Tower</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ww3">
+    <description>WW III</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xmultiplm72">
+    <description>X Multiply (Japan, M72)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xmultipl">
+    <description>X Multiply (World, M81)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="leaguemn">
+    <description>Yakyuu Kakutou League-Man (Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="youjyudn">
+    <description>Youjyuden (Japan)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Irem</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>
