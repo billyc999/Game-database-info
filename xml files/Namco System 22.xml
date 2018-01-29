@@ -1,0 +1,401 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Namco System 22</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="acedrvrw">
+    <description>Ace Driver- Racing Evolution (Rev. AD2)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="victlapw">
+    <description>Ace Driver- Victory Lap (Rev. ADV2)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="airco22b">
+    <description>Air Combat 22 (Rev. ACS1 Ver.B, Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinerc">
+    <description>Alpine Racer (Rev. AR2 Ver.C)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinerd">
+    <description>Alpine Racer (Rev. AR2 Ver.D)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinr2a">
+    <description>Alpine Racer 2 (Rev. ARS2 Ver.A)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinr2b">
+    <description>Alpine Racer 2 (Rev. ARS2 Ver.B)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alpinesa">
+    <description>Alpine Surfer (Rev. AF2 Ver.A)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aquajet">
+    <description>Aqua Jet (Rev. AJ2 Ver.B)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="adillor">
+    <description>Armadillo Racing (Rev. AM1 Ver.A)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cybrcomm">
+    <description>Cyber Commando (Rev. CY1, Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cybrcycc">
+    <description>Cyber Cycles (Rev. CB2 Ver.C)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dirtdash">
+    <description>Dirt Dash (Rev. DT2)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="propcycl">
+    <description>Prop Cycle (Rev. PR2 Ver.A)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raveracj">
+    <description>Rave Racer (Rev. RV1 Ver.B, Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raveracja">
+    <description>Rave Racer (Rev. RV1, Japan)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="raveracw">
+    <description>Rave Racer (Rev. RV2, World)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgeracj">
+    <description>Ridge Racer (Rev. RR1, Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgerac3">
+    <description>Ridge Racer (Rev. RR2 Ver.B, World, 3-screen?)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgeracb">
+    <description>Ridge Racer (Rev. RR2, World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgerac">
+    <description>Ridge Racer (Rev. RR3, World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgera2j">
+    <description>Ridge Racer 2 (Rev. RRS1 Ver.B, Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgera2ja">
+    <description>Ridge Racer 2 (Rev. RRS1, Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgera2">
+    <description>Ridge Racer 2 (Rev. RRS2, World)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridgeracf">
+    <description>Ridge Racer Full Scale (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecrisa">
+    <description>Time Crisis (Rev. TS2 Ver.A)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timecris">
+    <description>Time Crisis (Rev. TS2 Ver.B)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tokyowar">
+    <description>Tokyo Wars (Rev. TW2 Ver.A)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

@@ -1,0 +1,191 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Casio PV-1000</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Amidar (Japan)">
+    <description>Amidar (Japan)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dig Dug (Japan)">
+    <description>Dig Dug (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dirty Chameleon (Japan)">
+    <description>Dirty Chameleon (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excite Mahjong (Japan)">
+    <description>Excite Mahjong (Japan)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Mahjong</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fighting Bug (Japan)">
+    <description>Fighting Bug (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Naughty Boy (Japan)">
+    <description>Naughty Boy (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pachinko-UFO (Japan)">
+    <description>Pachinko-UFO (Japan)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pooyan (Japan)">
+    <description>Pooyan (Japan)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Panic (Japan)">
+    <description>Space Panic (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Cobra (Japan)">
+    <description>Super Cobra (Japan)</description>
+    <year>1983</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Turpin (Japan)">
+    <description>Turpin (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tutankham (Japan)">
+    <description>Tutankham (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Warp &amp; Warp (Japan)">
+    <description>Warp &amp; Warp (Japan)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Casio</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

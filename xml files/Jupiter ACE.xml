@@ -1,0 +1,3229 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Jupiter ACE</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="3D Maze (2007-05)(Lopes, Ricardo Fernandes)(PD)[19K]">
+    <description>3D Maze (2007-05)(Lopes, Ricardo Fernandes)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Avoider (1984-07)(Personal Computer World)(GB)[3K]">
+    <description>Ace Avoider (1984-07)(Personal Computer World)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Case (1984-03)(Personal Computer World)(GB)[3K]">
+    <description>Ace Case (1984-03)(Personal Computer World)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 1 of 5)[banner][3K]">
+    <description>Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 1 of 5)[banner][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 2 of 5)[lunar lander][3K]">
+    <description>Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 2 of 5)[lunar lander][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 3 of 5)[music][3K]">
+    <description>Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 3 of 5)[music][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 4 of 5)[stack demonstration][3K]">
+    <description>Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 4 of 5)[stack demonstration][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 5 of 5)[worms][3K]">
+    <description>Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)(File 5 of 5)[worms][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)[3K]">
+    <description>Ace Demonstration Tape (1983)(Jupiter Cantab)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K]">
+    <description>Ace Graphics (1983-09)(Personal Computer World)(GB)[large][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K]">
+    <description>Ace Graphics (1983-09)(Personal Computer World)(GB)[small][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Invaders (1982)(Hi-Tech Microsoft)(GB)[3K]">
+    <description>Ace Invaders (1982)(Hi-Tech Microsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Invaders (1983)(Forth Dimension)[1K]">
+    <description>Ace Invaders (1983)(Forth Dimension)[1K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 11 (2007)(Lopes, Ricardo Fernandes)(PD)[mice][3K]">
+    <description>Ace Manual Code Examples - Chapter 11 (2007)(Lopes, Ricardo Fernandes)(PD)[mice][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[chars][3K]">
+    <description>Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[chars][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[gr][3K]">
+    <description>Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[gr][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[tab][3K]">
+    <description>Ace Manual Code Examples - Chapter 12 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[tab][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[draw][3K]">
+    <description>Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[draw][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[random][3K]">
+    <description>Ace Manual Code Examples - Chapter 13 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[random][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[2cells][3K]">
+    <description>Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[2cells][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sqrt][3K]">
+    <description>Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sqrt][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[trig][3K]">
+    <description>Ace Manual Code Examples - Chapter 15 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[trig][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 6)[count][3K]">
+    <description>Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 6)[count][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 6)[input][3K]">
+    <description>Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 6)[input][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 6)[integer][3K]">
+    <description>Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 6)[integer][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 4 of 6)[key][3K]">
+    <description>Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 4 of 6)[key][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 5 of 6)[wait][3K]">
+    <description>Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 5 of 6)[wait][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 6 of 6)[y-n][3K]">
+    <description>Ace Manual Code Examples - Chapter 16 (2007)(Lopes, Ricardo Fernandes)(PD)(File 6 of 6)[y-n][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 17 (2007)(Lopes, Ricardo Fernandes)(PD)[hex][3K]">
+    <description>Ace Manual Code Examples - Chapter 17 (2007)(Lopes, Ricardo Fernandes)(PD)[hex][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[d][3K]">
+    <description>Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[d][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[money][3K]">
+    <description>Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[money][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]">
+    <description>Ace Manual Code Examples - Chapter 19 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[stringcomma][3K]">
+    <description>Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[stringcomma][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[tick][3K]">
+    <description>Ace Manual Code Examples - Chapter 20 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[tick][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[2-d][3K]">
+    <description>Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[2-d][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[string][3K]">
+    <description>Ace Manual Code Examples - Chapter 21 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[string][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 23 (2007)(Lopes, Ricardo Fernandes)(PD)[2literal][3K]">
+    <description>Ace Manual Code Examples - Chapter 23 (2007)(Lopes, Ricardo Fernandes)(PD)[2literal][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[dots][3K]">
+    <description>Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[dots][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sysvars][3K]">
+    <description>Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[sysvars][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]">
+    <description>Ace Manual Code Examples - Chapter 24 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[time][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[code][3K]">
+    <description>Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[code][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[pause][3K]">
+    <description>Ace Manual Code Examples - Chapter 25 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[pause][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[noise][3K]">
+    <description>Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 3)[noise][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[runlights][3K]">
+    <description>Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 3)[runlights][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[switches][3K]">
+    <description>Ace Manual Code Examples - Chapter 26 (2007)(Lopes, Ricardo Fernandes)(PD)(File 3 of 3)[switches][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[plusstore][3K]">
+    <description>Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 1 of 2)[plusstore][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[queryvar][3K]">
+    <description>Ace Manual Code Examples - Chapter 8 (2007)(Lopes, Ricardo Fernandes)(PD)(File 2 of 2)[queryvar][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Mines (2004)(Lopes, Ricardo Fernandes)[19K]">
+    <description>Ace Mines (2004)(Lopes, Ricardo Fernandes)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Star (2010)(Jupiter Ace Archive Team)(GB)(PD)[19K]">
+    <description>Ace Star (2010)(Jupiter Ace Archive Team)(GB)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K]">
+    <description>Ace Vocab Select (1983-04)(Personal Computer World)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Acevaders (1983)(Micro Marketing)(GB)[3K]">
+    <description>Acevaders (1983)(Micro Marketing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Adventure A - Planet of Death (1981)(Artic Computing)(PD)[19K]">
+    <description>Adventure A - Planet of Death (1981)(Artic Computing)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Adventure A - Planet of Death (2008)(Jupiter Ace Archive Team)(GB)(PD)[19K]">
+    <description>Adventure A - Planet of Death (2008)(Jupiter Ace Archive Team)(GB)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien Defender (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Alien Defender (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Alien Swarm (1983-01-20)(Popular Computing Weekly)(GB)[3K]">
+    <description>Alien Swarm (1983-01-20)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Amazing Maze (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Amazing Maze (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K]">
+    <description>AMI Sound Toolkit (2007)(Jupiter Ace Archive Team)(GB)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Assembler &amp; Dis-assembler (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Assembler &amp; Dis-assembler (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Assembler &amp; Dis-assembler (1984)(Boldfield Computing)(GB)[a loaded examples][19K]">
+    <description>Assembler &amp; Dis-assembler (1984)(Boldfield Computing)(GB)[a loaded examples][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astrian Descent (1983-08)(Bates, Brian)[unreleased][19K]">
+    <description>Astrian Descent (1983-08)(Bates, Brian)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Atic Raid (1984)(Boldfield Computing)(GB)(PD)[19K]">
+    <description>Atic Raid (1984)(Boldfield Computing)(GB)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Black Island Adventure (1984)(Boldfield Computing)(GB)(Part 1 of 4)[19K]">
+    <description>Black Island Adventure (1984)(Boldfield Computing)(GB)(Part 1 of 4)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Black Island Adventure (1984)(Boldfield Computing)(GB)(Side A)[19K]">
+    <description>Black Island Adventure (1984)(Boldfield Computing)(GB)(Side A)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Black Island Adventure (1984)(Boldfield Computing)(GB)(Side B)[19K]">
+    <description>Black Island Adventure (1984)(Boldfield Computing)(GB)(Side B)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Black Island Adventure (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Black Island Adventure (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bomber (1997)(Robson, Paul)(PD)[3K]">
+    <description>Bomber (1997)(Robson, Paul)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Breakout (1983-03-17)(Popular Computing Weekly)(GB)[3K]">
+    <description>Breakout (1983-03-17)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K]">
+    <description>Calendar (2007)(Lopes, Ricardo Fernandes)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Callisto (1983)(ACS Software)[16K]">
+    <description>Callisto (1983)(ACS Software)[16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cargen (1983)(ERE)(FR)[3K]">
+    <description>Cargen (1983)(ERE)(FR)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Casse Briques (1983)(ERE)(FR)[3K]">
+    <description>Casse Briques (1983)(ERE)(FR)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cavern Attack (1983)(Hi-Tech Microsoft)(GB)[3K]">
+    <description>Cavern Attack (1983)(Hi-Tech Microsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cenipede (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Cenipede (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Champs De Mines (1983)(ERE)(FR)[3K]">
+    <description>Champs De Mines (1983)(ERE)(FR)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side A)[champs de mines][3K]">
+    <description>Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side A)[champs de mines][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side B)[casse briques][3K]">
+    <description>Champs De Mines + Casse Briques (1983)(ERE)(FR)(Side B)[casse briques][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Character-Forming Exercises (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]">
+    <description>Character-Forming Exercises (1983-02)(Your Computer)(File 1 of 2)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Character-Forming Exercises (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]">
+    <description>Character-Forming Exercises (1983-02)(Your Computer)(File 2 of 2)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chase (1983-01-27)(Popular Computing Weekly)(GB)[3K]">
+    <description>Chase (1983-01-27)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chess (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Chess (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chords (1983-04)(Your Computer)(GB)[3K]">
+    <description>Chords (1983-04)(Your Computer)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cygnus (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Cygnus (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Database (1985)(Boldfield Computing)(GB)(Side A)[19K]">
+    <description>Database (1985)(Boldfield Computing)(GB)(Side A)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Database (1985)(Boldfield Computing)(GB)[19K]">
+    <description>Database (1985)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dessin (1983)(ERE)(FR)[3K]">
+    <description>Dessin (1983)(ERE)(FR)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dessin + Cargen (1983)(ERE)(FR)(Side A)[dessin][3K]">
+    <description>Dessin + Cargen (1983)(ERE)(FR)(Side A)[dessin][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dessin + Cargen (1983)(ERE)(FR)(Side B)[cargen][3K]">
+    <description>Dessin + Cargen (1983)(ERE)(FR)(Side B)[cargen][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K]">
+    <description>DIVN (2007)(Lopes, Ricardo Fernandes)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dodge (1983-07)(Bates, Brian)[unreleased][19K]">
+    <description>Dodge (1983-07)(Bates, Brian)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dot Man (1983)(Micro Marketing)(GB)[3K]">
+    <description>Dot Man (1983)(Micro Marketing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Duckshoot (1983)(Micro Marketing)(GB)[3K]">
+    <description>Duckshoot (1983)(Micro Marketing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Duckshoot, Minefield &amp; Zapem (1983)(Micro Marketing)(GB)[3K]">
+    <description>Duckshoot, Minefield &amp; Zapem (1983)(Micro Marketing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K]">
+    <description>Factorials (2008)(Lopes, Ricardo Fernandes)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Faster Ace (1983)(Your Computer)(GB)[3K]">
+    <description>Faster Ace (1983)(Your Computer)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Firebird (1983)(Voyager Software)(GB)[19K]">
+    <description>Firebird (1983)(Voyager Software)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fish &amp; Flutterer (1983)(Jupiter Cantab)(GB)[3K]">
+    <description>Fish &amp; Flutterer (1983)(Jupiter Cantab)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K]">
+    <description>Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 1 of 2)[fish][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K]">
+    <description>Fish + Flutterer (1983)(Jupiter Cantab)(GB)(File 2 of 2)[flutterer][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Five Compact Games (1983)(Remsoft)(GB)[3K]">
+    <description>Five Compact Games (1983)(Remsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K]">
+    <description>Floating Point Dictionary (1983-05)(Computing ToDay)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K]">
+    <description>FontEd v1.0 (2007-02)(Lopes, Ricardo Fernandes)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K]">
+    <description>FontEd v2.0 (2007-10)(Lopes, Ricardo Fernandes)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Forth Draw (1983-02)(Your Computer)(GB)[3K]">
+    <description>Forth Draw (1983-02)(Your Computer)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Forth Surround (1983-06)(Your Computer)(GB)[3K]">
+    <description>Forth Surround (1983-06)(Your Computer)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger (1984)(Boldfield Computing)(GB)(PD)[16K]">
+    <description>Frogger (1984)(Boldfield Computing)(GB)(PD)[16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Frogger (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fungle Monster (1983)(Voyager Software)(GB)[unreleased][19K]">
+    <description>Fungle Monster (1983)(Voyager Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 1 of 6)[aceteroids][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 1 of 6)[aceteroids][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 1 of 6)[program-a][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 1 of 6)[program-a][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 2 of 6)[demolition][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 2 of 6)[demolition][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 2 of 6)[program-d][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 2 of 6)[program-d][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 3 of 6)[duckinvaders][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 3 of 6)[duckinvaders][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 3 of 6)[program-g][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 3 of 6)[program-g][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 4 of 6)[golfgrid][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 4 of 6)[golfgrid][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 4 of 6)[program-m][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 4 of 6)[program-m][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 5 of 6)[moneymatrix][3k]">
+    <description>Games No. 1 (1983)(Jovian)(File 5 of 6)[moneymatrix][3k]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 5 of 6)[program-s][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 5 of 6)[program-s][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 6 of 6)[program-w][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 6 of 6)[program-w][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games No. 1 (1983)(Jovian)(File 6 of 6)[udgsaver][3K]">
+    <description>Games No. 1 (1983)(Jovian)(File 6 of 6)[udgsaver][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K]">
+    <description>Games Tape One (1983)(Voyager Software)(GB)(File 1 of 3)[asteroids][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K]">
+    <description>Games Tape One (1983)(Voyager Software)(GB)(File 2 of 3)[brickcatcher][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K]">
+    <description>Games Tape One (1983)(Voyager Software)(GB)(File 3 of 3)[streetrace][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K]">
+    <description>Games Tape Three (1983)(Voyager Software)(GB)(File 1 of 2)[bomber][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K]">
+    <description>Games Tape Three (1983)(Voyager Software)(GB)(File 2 of 2)[jackpot][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Games Tape Three (1983)(Voyager Software)(GB)[3K]">
+    <description>Games Tape Three (1983)(Voyager Software)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gobbledegook (1983)(Jupiter Cantab)(GB)[19K]">
+    <description>Gobbledegook (1983)(Jupiter Cantab)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Grandprix (1983)(Plasma Software)(GB)(alpha)[unreleased][19K]">
+    <description>Grandprix (1983)(Plasma Software)(GB)(alpha)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Graphic Exercises (1983-05-12)(Popular Computing Weekly)(GB)[3K]">
+    <description>Graphic Exercises (1983-05-12)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K]">
+    <description>Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 1 of 2)[greedy gobbler][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K]">
+    <description>Greedy Gobbler + Blowing up the World (1983)(Jupiter Cantab)(GB)(File 2 of 2)[blowing up the world][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Green X Frog (1982)(Hi-Tech Microsoft)(GB)[3K]">
+    <description>Green X Frog (1982)(Hi-Tech Microsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Guessing Game (1983-05)(Practical Computing)(GB)[3K]">
+    <description>Guessing Game (1983-05)(Practical Computing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="HDRmon (2007)(Blink, Edwin)(PD)[3K]">
+    <description>HDRmon (2007)(Blink, Edwin)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Invaders (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Invaders (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jumpman (1984)(Callisto Software)[32K]">
+    <description>Jumpman (1984)(Callisto Software)[32K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Krazy Kong (19xx)(Voyager Software)(GB)[unreleased][19K]">
+    <description>Krazy Kong (19xx)(Voyager Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Life (2006)(Skidmore, Julian)(PD)[19K]">
+    <description>Life (2006)(Skidmore, Julian)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Life v2 (1985)(de Lacerda, Dutra)[1K]">
+    <description>Life v2 (1985)(de Lacerda, Dutra)[1K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Life v3 (1985)(de Lacerda, Dutra)[1K]">
+    <description>Life v3 (1985)(de Lacerda, Dutra)[1K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Life v3 (1985)(de Lacerda, Dutra)[m patched][1K]">
+    <description>Life v3 (1985)(de Lacerda, Dutra)[m patched][1K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Light Racer (1983-10)(Bates, Brian)[unreleased][19K]">
+    <description>Light Racer (1983-10)(Bates, Brian)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K]">
+    <description>Loader (1983-03-01)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lunar Lander (1983-04-21)(Popular Computing Weekly)(GB)[3K]">
+    <description>Lunar Lander (1983-04-21)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mathematical &amp; Trigonometrical Functions (1983)(Remsoft)(GB)[tape 21][19K]">
+    <description>Mathematical &amp; Trigonometrical Functions (1983)(Remsoft)(GB)[tape 21][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Memory Stars (1982)(Hi-Tech Microsoft)(GB)[3K]">
+    <description>Memory Stars (1982)(Hi-Tech Microsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Meteor (1983-03-24)(Popular Computing Weekly)(GB)[3K]">
+    <description>Meteor (1983-03-24)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Meteor Racer (1983)(Forth Dimension)[1K]">
+    <description>Meteor Racer (1983)(Forth Dimension)[1K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Meteors (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Meteors (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 1 of 3)[3K]">
+    <description>Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 1 of 3)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 2 of 3)[3K]">
+    <description>Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 2 of 3)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 3 of 3)[3K]">
+    <description>Micro Maze (1982)(Hi-Tech Microsoft)(GB)(File 3 of 3)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Micro Maze (1982)(Hi-Tech Microsoft)(GB)[3K]">
+    <description>Micro Maze (1982)(Hi-Tech Microsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Millipede (1983-04)(Your Computer)(GB)[3K]">
+    <description>Millipede (1983-04)(Your Computer)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Minefield (1983)(Micro Marketing)(GB)[3K]">
+    <description>Minefield (1983)(Micro Marketing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K]">
+    <description>Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 1 of 2)[missile man][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K]">
+    <description>Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)(File 2 of 2)[space fighter pilot][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)[3K]">
+    <description>Missle Man + Space Fighter Pilot (1983)(Jupiter Cantab)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monitor (1983)(Jupiter Cantab)(GB)[3K]">
+    <description>Monitor (1983)(Jupiter Cantab)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K]">
+    <description>Monitor (1983-10-20)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K]">
+    <description>Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 1 of 2)[moo][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K]">
+    <description>Moo + Hangman (1983)(Jupiter Cantab)(GB)(File 2 of 2)[hangman][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moo + Hangman (1983)(Jupiter Cantab)(GB)[3K]">
+    <description>Moo + Hangman (1983)(Jupiter Cantab)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Moon Buggy (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Moon Buggy (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Morse Code Tutor (19xx)(-)(File 1 of 4)[19K]">
+    <description>Morse Code Tutor (19xx)(-)(File 1 of 4)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Morse Code Tutor (19xx)(-)(File 2 of 4)[19K]">
+    <description>Morse Code Tutor (19xx)(-)(File 2 of 4)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Morse Code Tutor (19xx)(-)(File 3 of 4)[19K]">
+    <description>Morse Code Tutor (19xx)(-)(File 3 of 4)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Morse Code Tutor (19xx)(-)(File 4 of 4)[19K]">
+    <description>Morse Code Tutor (19xx)(-)(File 4 of 4)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Morse Code Tutor (19xx)(-)[19K]">
+    <description>Morse Code Tutor (19xx)(-)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Multi Key Press Demo (2009)(Jupiter Ace Archive Team)(GB)[3K]">
+    <description>Multi Key Press Demo (2009)(Jupiter Ace Archive Team)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Music (1983)(Popular Computing Weekly)(GB)[3K]">
+    <description>Music (1983)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Othello (1983)(Jupiter Cantab)(GB)[19K]">
+    <description>Othello (1983)(Jupiter Cantab)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k]">
+    <description>Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 1 of 2)[overtaker][3k]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k]">
+    <description>Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)(File 2 of 2)[brands hatch][3k]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)[3k]">
+    <description>Overtaker + Brands Hatch (1983)(Jupiter Cantab)(GB)[3k]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Owler (1984)(Callisto Software)[32K]">
+    <description>Owler (1984)(Callisto Software)[32K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pacman (1983-03)(Your Computer)(GB)[3K]">
+    <description>Pacman (1983-03)(Your Computer)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K]">
+    <description>Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 1 of 2)[puzzle][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K]">
+    <description>Puzzle - Bombs (1984)(Boldfield Computing)(GB)(File 2 of 2)[bombs][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Puzzle - Bombs (1984)(Boldfield Computing)(GB)[3K]">
+    <description>Puzzle - Bombs (1984)(Boldfield Computing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Quick-Draw (1983-11)(Bates, Brian)[unreleased][19K]">
+    <description>Quick-Draw (1983-11)(Bates, Brian)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Quick-Draw Practice (1983-11)(Bates, Brian)[unreleased][19K]">
+    <description>Quick-Draw Practice (1983-11)(Bates, Brian)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robohench (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Robohench (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robohunt (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Robohunt (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sallors&apos; Hornpipe (1982-12-16)(Popular Computing Weekly)(GB)[3K]">
+    <description>Sallors&apos; Hornpipe (1982-12-16)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sam and the Time Bombs (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Sam and the Time Bombs (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Scrambler (1982-05)(Electronics &amp; Computing)(GB)[3K]">
+    <description>Scrambler (1982-05)(Electronics &amp; Computing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Security (1982-09-01)(Popular Computing Weekly)(GB)[3K]">
+    <description>Security (1982-09-01)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sine Wave Generator (1984-03)(Personal Computer World)(GB)[3K]">
+    <description>Sine Wave Generator (1984-03)(Personal Computer World)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K]">
+    <description>Snake + Superbat+ (1985)(Waylandsoft)(Side A)[snake][16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K]">
+    <description>Snake + Superbat+ (1985)(Waylandsoft)(Side A)[superbat][16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SokoACE (2006)(Lopes, Ricardo Fernandes)(PD)[19K]">
+    <description>SokoACE (2006)(Lopes, Ricardo Fernandes)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K]">
+    <description>SokoACE Map Editor (2006)(Lopes, Ricardo Fernandes)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Battle (1982)(Hi-Tech Microsoft)(GB)[3K]">
+    <description>Space Battle (1982)(Hi-Tech Microsoft)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spreadsheet (1984)(Boldfield Computing)(GB)[19K]">
+    <description>Spreadsheet (1984)(Boldfield Computing)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Star Trek (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Star Trek (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sudoku (2007)(Lopes, Ricardo Fernandes)(PD)[19K]">
+    <description>Sudoku (2007)(Lopes, Ricardo Fernandes)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Superchess II (1983)(CP Software)[19K]">
+    <description>Superchess II (1983)(CP Software)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tank Battle (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Tank Battle (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Teach Yourself Forth on the Jupiter Ace (1982)(Viscount)[3K]">
+    <description>Teach Yourself Forth on the Jupiter Ace (1982)(Viscount)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]">
+    <description>Tetris (2009)(Jupiter Ace Archive Team)(GB)(PD)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K]">
+    <description>Titan Defender + Dual Duel (1985)(Stusoft)(Side A)[titan defender][16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K]">
+    <description>Titan Defender + Dual Duel (1985)(Stusoft)(Side B)[dual duel][16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Towers of Hanoi (2006)(Lopes, Ricardo Fernandes)(PD)[3K]">
+    <description>Towers of Hanoi (2006)(Lopes, Ricardo Fernandes)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K]">
+    <description>Triple Pack (1984)(Boldfield Computing)(GB)(File 1 of 3)[balloon pilot][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K]">
+    <description>Triple Pack (1984)(Boldfield Computing)(GB)(File 2 of 3)[shuttlecock][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Pack (1984)(Boldfield Computing)(GB)(File 3 of 3)[computer weaving][3K]">
+    <description>Triple Pack (1984)(Boldfield Computing)(GB)(File 3 of 3)[computer weaving][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Triple Pack (1984)(Boldfield Computing)(GB)[3K]">
+    <description>Triple Pack (1984)(Boldfield Computing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Turbo (1984)(Plasma Software)(GB)[unreleased][19K]">
+    <description>Turbo (1984)(Plasma Software)(GB)[unreleased][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 01 of 15)(GB)[turtle][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 01 of 15)(GB)[turtle][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 02 of 15)(GB)[copy][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 02 of 15)(GB)[copy][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 03 of 15)(GB)[lprint][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 03 of 15)(GB)[lprint][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 04 of 15)(GB)[invert][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 04 of 15)(GB)[invert][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 06 of 15)(GB)[wordace][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 06 of 15)(GB)[wordace][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 07 of 15)(GB)[printline][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 07 of 15)(GB)[printline][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 08 of 15)(GB)[ace-logo][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 08 of 15)(GB)[ace-logo][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[b][charset][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[b][charset][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[charset][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 09 of 15)(GB)[charset][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 10 of 15)(GB)[printscan][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 10 of 15)(GB)[printscan][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 11 of 15)(GB)[lprint-42][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 11 of 15)(GB)[lprint-42][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[b][centronics][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[b][centronics][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[centronics][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 12 of 15)(GB)[centronics][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 13 of 15)(GB)[rs232][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 13 of 15)(GB)[rs232][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 14 of 15)(GB)[soundbox][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 14 of 15)(GB)[soundbox][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Utilities (1985)(Boldfield Computing)(File 15 of 15)(GB)[bagpipes][19K]">
+    <description>Utilities (1985)(Boldfield Computing)(File 15 of 15)(GB)[bagpipes][19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K]">
+    <description>Valkyr + Life (1985)(Colinsoft)(File 1 of 2)[unreleased][valkyr][16K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Words (1983-10-27)(Popular Computing Weekly)(GB)[3K]">
+    <description>Words (1983-10-27)(Popular Computing Weekly)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="WRD (2006)(Lopes, Ricardo Fernandes)(PD)[3K]">
+    <description>WRD (2006)(Lopes, Ricardo Fernandes)(PD)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zapem (1983)(Micro Marketing)(GB)[3K]">
+    <description>Zapem (1983)(Micro Marketing)(GB)[3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zombies &amp; Potholes (1983)(Jupiter Cantab)(GB)[19K]">
+    <description>Zombies &amp; Potholes (1983)(Jupiter Cantab)(GB)[19K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ZX Printer Driver (1983)(Remsoft)(GB)[tape 11][3K]">
+    <description>ZX Printer Driver (1983)(Remsoft)(GB)[tape 11][3K]</description>
+    <year></year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre></genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

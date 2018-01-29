@@ -1,0 +1,2235 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Midway Classics</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="openice">
+    <description>2 On 2 Open Ice Challenge (rev 1.21)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Hockey</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="280zzzap">
+    <description>280-ZZZAP</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="maze">
+    <description>Amazing Maze</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="biofreak">
+    <description>BioFreaks (prototype)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blueshrk">
+    <description>Blue Shark</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boothill">
+    <description>Boot Hill</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bowler">
+    <description>Bowling Alley</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Bowling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="carnevil">
+    <description>CarnEvil (v1.0.3)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="checkmat">
+    <description>Checkmate</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="clowns1">
+    <description>Clowns (rev. 1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="clowns">
+    <description>Clowns (rev. 2)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnusa21">
+    <description>Cruis&apos;n USA (rev L2.1)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnusa40">
+    <description>Cruis&apos;n USA (rev L4.0)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnusa">
+    <description>Cruis&apos;n USA (rev L4.1)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld13">
+    <description>Cruis&apos;n World (rev L1.3)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld17">
+    <description>Cruis&apos;n World (rev L1.7)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld19">
+    <description>Cruis&apos;n World (rev L1.9)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld20">
+    <description>Cruis&apos;n World (rev L2.0)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld23">
+    <description>Cruis&apos;n World (rev L2.3)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld24">
+    <description>Cruis&apos;n World (rev L2.4)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crusnwld">
+    <description>Cruis&apos;n World (rev L2.5)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="desertgu">
+    <description>Desert Gun</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dogpatch">
+    <description>Dog Patch</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dplay">
+    <description>Double Play</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ebases">
+    <description>Extra Bases</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="einning">
+    <description>Extra Inning / Ball Park II</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway / Taito</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntdl">
+    <description>Gauntlet Dark Legacy (version DL 2.52)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gorf">
+    <description>Gorf</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gorfpgm1">
+    <description>Gorf (program 1)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gorfpgm1g">
+    <description>Gorf (program 1, with German Language ROM)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gmissile">
+    <description>Guided Missile</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunfight">
+    <description>Gun Fight (set 1)</description>
+    <year>1975</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gunfighto">
+    <description>Gun Fight (set 2)</description>
+    <year>1975</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hyprdriv">
+    <description>Hyperdrive</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invasnab3">
+    <description>Invasion - The Abductors (version 3.0)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invasnab4">
+    <description>Invasion - The Abductors (version 4.0)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invasnab">
+    <description>Invasion - The Abductors (version 5.0)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jdreddp">
+    <description>Judge Dredd (rev LA1, prototype)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kickc">
+    <description>Kick (cocktail)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kick">
+    <description>Kick (upright)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kickman">
+    <description>Kickman (upright)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lagunar">
+    <description>Laguna Racer</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="m4">
+    <description>M-4</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkprot4">
+    <description>Mortal Kombat (prototype, rev 4.0 07/14/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkprot8">
+    <description>Mortal Kombat (prototype, rev 8.0 07/21/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkprot9">
+    <description>Mortal Kombat (prototype, rev 9.0 07/28/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkla1">
+    <description>Mortal Kombat (rev 1.0 08/09/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkla2">
+    <description>Mortal Kombat (rev 2.0 08/18/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkla3">
+    <description>Mortal Kombat (rev 3.0 08/31/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkla4">
+    <description>Mortal Kombat (rev 4.0 09/28/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mkr4">
+    <description>Mortal Kombat (rev 4.0 T-Unit 02/11/93)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk">
+    <description>Mortal Kombat (rev 5.0 T-Unit 03/19/93)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk3mdb">
+    <description>Mortal Kombat 3 (bootleg of Megadrive version)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>bootleg / Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk3p40">
+    <description>Mortal Kombat 3 (rev 1 chip label p4.0)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk3r10">
+    <description>Mortal Kombat 3 (rev 1.0)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk3r20">
+    <description>Mortal Kombat 3 (rev 2.0)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk3">
+    <description>Mortal Kombat 3 (rev 2.1)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk4b">
+    <description>Mortal Kombat 4 (version 1.0)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk4a">
+    <description>Mortal Kombat 4 (version 2.1)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk4">
+    <description>Mortal Kombat 4 (version 3.0)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r11">
+    <description>Mortal Kombat II (rev L1.1)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r14">
+    <description>Mortal Kombat II (rev L1.4)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r20">
+    <description>Mortal Kombat II (rev L2.0)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r21">
+    <description>Mortal Kombat II (rev L2.1)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r30">
+    <description>Mortal Kombat II (rev L3.0)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r31e">
+    <description>Mortal Kombat II (rev L3.1 (European))</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2">
+    <description>Mortal Kombat II (rev L3.1)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mk2r32e">
+    <description>Mortal Kombat II (rev L3.2 (European))</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mspacman">
+    <description>Ms. Pac-Man</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway / General Computer Corporation</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbahangt">
+    <description>NBA Hangtime (rev L1.1 04/16/96)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajamr2">
+    <description>NBA Jam (rev 2.00 02/10/93)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajam">
+    <description>NBA Jam (rev 3.01 04/07/93)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajamten">
+    <description>NBA Jam T.E. Nani Edition (rev 5.2 8/11/95, prototype)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajamte1">
+    <description>NBA Jam TE (rev 1.0 01/17/94)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajamte2">
+    <description>NBA Jam TE (rev 2.0 01/28/94)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajamte3">
+    <description>NBA Jam TE (rev 3.0 03/04/94)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbajamte">
+    <description>NBA Jam TE (rev 4.0 03/23/94)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbamht1">
+    <description>NBA Maximum Hangtime (rev 1.0 11/08/96)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nbamht">
+    <description>NBA Maximum Hangtime (rev 1.03 06/09/97)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blitz99">
+    <description>NFL Blitz &apos;99</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blitz11">
+    <description>NFL Blitz (boot ROM 1.1)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blitz">
+    <description>NFL Blitz (boot ROM 1.2)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blitz2k">
+    <description>NFL Blitz 2000 Gold Edition</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offroadc1">
+    <description>Off Road Challenge (v1.10)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offroadc3">
+    <description>Off Road Challenge (v1.30)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offroadc4">
+    <description>Off Road Challenge (v1.40)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offroadc5">
+    <description>Off Road Challenge (v1.50)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offroadc">
+    <description>Off Road Challenge (v1.63)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="omegrace">
+    <description>Omega Race (set 1)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="omegrace2">
+    <description>Omega Race (set 2)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="phantom2">
+    <description>Phantom II</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pigskinb">
+    <description>Pigskin 621AD (rev 1.1 6/05/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Rugby</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pigskin">
+    <description>Pigskin 621AD (rev 1.1K 8/01/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Rugby</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pigskina">
+    <description>Pigskin 621AD (rev 2.0 7/06/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Rugby</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rmpgwt11">
+    <description>Rampage- World Tour (rev 1.1)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rmpgwt">
+    <description>Rampage- World Tour (rev 1.3)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="revx">
+    <description>Revolution X (Rev. 1.0 6/16/94)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadrunm">
+    <description>Road Runner (Midway)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="seawolf">
+    <description>Sea Wolf (set 1)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="seawolfo">
+    <description>Sea Wolf (set 2)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="seawolf2">
+    <description>Sea Wolf II</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shuffle">
+    <description>Shuffleboard</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spcenctr">
+    <description>Space Encounters</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invaders">
+    <description>Space Invaders / Space Invaders M</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito / Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invad2ct">
+    <description>Space Invaders II (Midway, cocktail)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacwalk">
+    <description>Space Walk</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacezap">
+    <description>Space Zap</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="strkforc">
+    <description>Strike Force (rev 1 02/25/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shimpactp4">
+    <description>Super High Impact (prototype, rev 4.0 09/10/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shimpactp5">
+    <description>Super High Impact (prototype, rev 5.0 09/15/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shimpactp6">
+    <description>Super High Impact (prototype, rev 6.0 09/23/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shimpact">
+    <description>Super High Impact (rev LA1 09/30/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspeedr">
+    <description>Super Speed Race</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="term2la1">
+    <description>Terminator 2 - Judgment Day (rev LA1 11/01/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="term2la2">
+    <description>Terminator 2 - Judgment Day (rev LA2 12/09/91)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="term2la3">
+    <description>Terminator 2 - Judgment Day (rev LA3 03/27/92)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="term2">
+    <description>Terminator 2 - Judgment Day (rev LA4 08/03/92)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tornbase">
+    <description>Tornado Baseball / Ball Park</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway / Taito</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="totcarnp">
+    <description>Total Carnage (prototype, rev 1.0 01/25/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="totcarn">
+    <description>Total Carnage (rev LA1 03/10/92)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmdo">
+    <description>Touchmaster (v2.2-01 Standard)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm">
+    <description>Touchmaster (v3.00 Euro)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc. / CES Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm2kb">
+    <description>Touchmaster 2000 (v4.00 Standard)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm2ka">
+    <description>Touchmaster 2000 (v4.02 Standard)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm2k">
+    <description>Touchmaster 2000 Plus (v4.63 Standard)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm3ka">
+    <description>Touchmaster 3000 (v5.01 Standard)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm3k">
+    <description>Touchmaster 3000 (v5.02 Standard)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm4kmn">
+    <description>Touchmaster 4000 (v6.01 Minnesota)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm4kb">
+    <description>Touchmaster 4000 (v6.01 Standard)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm4kca">
+    <description>Touchmaster 4000 (v6.02 California)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm4ka">
+    <description>Touchmaster 4000 (v6.02 Standard)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm4knj">
+    <description>Touchmaster 4000 (v6.03 New Jersey)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm4k">
+    <description>Touchmaster 4000 (v6.03 Standard)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm5ka">
+    <description>Touchmaster 5000 (v7.01 Standard)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm5kca">
+    <description>Touchmaster 5000 (v7.10 California)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm5kmn">
+    <description>Touchmaster 5000 (v7.10 Minnesota)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm5k">
+    <description>Touchmaster 5000 (v7.10 Standard)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm7kmna">
+    <description>Touchmaster 7000 (v8.00 Minnesota)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm7ka">
+    <description>Touchmaster 7000 (v8.00 Standard)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm7kmn">
+    <description>Touchmaster 7000 (v8.04 Minnesota)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm7k">
+    <description>Touchmaster 7000 (v8.04 Standard)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm7knj">
+    <description>Touchmaster 7000 (v8.05 New Jersey)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm7keval">
+    <description>Touchmaster 7000 (v8.1X Evaluation)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm8k902">
+    <description>Touchmaster 8000 (v9.02 Standard)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tm8k">
+    <description>Touchmaster 8000 (v9.04 Standard)</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway Games Inc.</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trogpa4">
+    <description>Trog (prototype, rev 4.00 07/27/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trogpa6">
+    <description>Trog (prototype, rev PA6-PAC 09/09/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trog3">
+    <description>Trog (rev LA3 02/14/91)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trog4">
+    <description>Trog (rev LA4 03/11/91)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="trog">
+    <description>Trog (rev LA5 03/29/91)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="umk3r10">
+    <description>Ultimate Mortal Kombat 3 (rev 1.0)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="umk3r11">
+    <description>Ultimate Mortal Kombat 3 (rev 1.1)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="umk3">
+    <description>Ultimate Mortal Kombat 3 (rev 1.2)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wargods">
+    <description>War Gods (HD 10/09/1996 - Dual Resolution)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wow">
+    <description>Wizard of Wor</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wowg">
+    <description>Wizard of Wor (with German Language ROM)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Dave Nutting Associates / Midway</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wwfmaniac">
+    <description>WWF- Wrestlemania (rev 1.1 07/11/95)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wwfmaniab">
+    <description>WWF- Wrestlemania (rev 1.20 08/02/95)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wwfmania">
+    <description>WWF- Wrestlemania (rev 1.30 08/10/95)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

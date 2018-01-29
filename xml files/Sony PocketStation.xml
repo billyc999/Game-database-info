@@ -1,0 +1,1423 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Sony PocketStation</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="15 Puzzle (19xx)(Nissie)">
+    <description>15 Puzzle</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Nissie</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aliens (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Aliens</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ana-Digi Clock (19xx)(Mets)">
+    <description>Ana-Digi Clock</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mets</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Apple v0.2 (19xx)(Kami)">
+    <description>Apple v0.2</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Kami</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Astro Fighter (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Astro Fighter</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Beat Timer v0.02 (19xx)(-)">
+    <description>Beat Timer v0.02</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Black Jack (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Black Jack</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Block Out 1 (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Block Out 1</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Block Out 2 (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Block Out 2</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Block Out 3 (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Block Out 3</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Brightis (1999)(SCEI)(JP)[Brightis]">
+    <description>Brightis</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Calculator (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Calculator</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cars (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Cars</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chaku v0.02t (19xx)(-)">
+    <description>Chaku v0.02t</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chivas 1-2-3 (1999)(Jaleco)[SeaBass 1-2-3]">
+    <description>Chivas 1-2-3</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Jaleco</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chocobo Stallion (1999)(Square)[Chocobo Stallion]">
+    <description>Chocobo Stallion</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chocobo World (1999)(Square)[Final Fantasy 8]">
+    <description>Chocobo World</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chocobo World Enhanced (1999)(Square)[Final Fantasy 8]">
+    <description>Chocobo World Enhanced</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Copy Dance (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Copy Dance</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Curling (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Curling</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dance Dance Revolution 2nd Mix (2000)(Konami)(JP)[Dance Dance Revolution 2nd Mix]">
+    <description>Dance Dance Revolution 2nd Mix</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Rhythm</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Darts (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Darts</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Pool and Dart</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Denki (19xx)(-)">
+    <description>Denki</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Doreamon 3 (2000)(Epoch)(JP)[Doraemon 3 - Makai no Dungeon]">
+    <description>Doreamon 3</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Epoch</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drive 2000 (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Drive 2000</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drop Ball (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Drop Ball</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drop Zone (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Drop Zone</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="DTMF Hack Beta 2 (19xx)(Error)">
+    <description>DTMF Hack Beta 2</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Error</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Durama (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Durama</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="EnPKclock v1.4 (19xx)(-)(JP)">
+    <description>EnPKclock v1.4</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fishing (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Fishing</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Fishing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fishing 2 (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Fishing 2</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Fishing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Go Go Digger (2000)(Square)[Saga Frontier 2]">
+    <description>Go Go Digger</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Golf (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Golf</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hammer (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Hammer</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Harvest Moon (2001)(Natsume)[Harvest Moon]">
+    <description>Harvest Moon</description>
+    <year>2001</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Natsume</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hata v0.02 (19xx)(-)">
+    <description>Hata v0.02</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hit &amp; Blow (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Hit &amp; Blow</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hit And Blow v0.81 (19xx)(P. Katsu)">
+    <description>Hit And Blow v0.81</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>P. Katsu</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hitman (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Hitman</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Integral v0.02 (19xx)(-)">
+    <description>Integral v0.02</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Japanese Quiz (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Japanese Quiz</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jet De Go! (2000)(Taito)(JP)[Jet De Go!]">
+    <description>Jet De Go!</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kobun No Tokkun Zanmai (1999)(Capcom)(JP)[Tron ni Kobun]">
+    <description>Kobun No Tokkun Zanmai</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lights Out (19xx)(-)">
+    <description>Lights Out</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Line Art v0.01t (19xx)(-)">
+    <description>Line Art v0.01t</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Math Quiz (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Math Quiz</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Maze Game (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Maze Game</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MGS Integral (1999)(Konami)[Metal Gear Solid Integral]">
+    <description>MGS Integral</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mimique (1999)(K-Comm)">
+    <description>Mimique</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>K-Comm</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mine Sweeper (19xx)(P. Katsu)(PD)">
+    <description>Mine Sweeper</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>P. Katsu</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MoGuuRu Dabas (1999)(SCEI)(JP)[Legend Of Dragoon]">
+    <description>MoGuuRu Dabas</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monkey See Monkey Do (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Monkey See Monkey Do</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Number (19xx)(-)">
+    <description>Number</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Odetake Chocobo (1999)(Square)[Final Fantasy 8]">
+    <description>Odetake Chocobo</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pairs (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Pairs</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Parumui Parumui (19xx)(-)[Parumui Parumui]">
+    <description>Parumui Parumui</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PDA Calculator (1998)(SCEI)">
+    <description>PDA Calculator</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PDA Remote 1 (1998)(SCEI)(JP)">
+    <description>PDA Remote 1</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PDA Remote 2 (1998)(SCEI)(JP)">
+    <description>PDA Remote 2</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PDA Timer (1998)(SCEI)">
+    <description>PDA Timer</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Phone Book (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Phone Book</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinball (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Pinball</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pockeler (1999)(Atlus)(JP)[Pockeler]">
+    <description>Pockeler</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atlus</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Digimon World - Agumon (2000)(Bandai)[Pocket Digimon World]">
+    <description>Pocket Digimon World - Agumon</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bandai</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Digimon World - Biyomon (2000)(Bandai)[Pocket Digimon World]">
+    <description>Pocket Digimon World - Biyomon</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bandai</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Fighter Alpha 3 - Part 1 (1999)(Capcom)[Street Fighter Alpha 3]">
+    <description>Pocket Fighter Alpha 3 - Part 1</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Fighter Alpha 3 - Part 2 (1999)(Capcom)[Street Fighter Alpha 3]">
+    <description>Pocket Fighter Alpha 3 - Part 2</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Fighter Zero 3 (1998)(Capcom)(JP)[Street Fighter Alpha 3]">
+    <description>Pocket Fighter Zero 3</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Ray (2000)(Taito)[RayCrisis]">
+    <description>Pocket Ray</description>
+    <year>2000</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Taito</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Sokoban (19xx)(Mets)">
+    <description>Pocket Sokoban</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Mets</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pocket Timer v1.11 (19xx)(-)">
+    <description>Pocket Timer v1.11</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Utlity</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PokeHito (1999)(SCEI)(JP)[PokeHito - Grey]">
+    <description>PokeHito</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Poketro v1.1 (2001)(Credo)">
+    <description>Poketro v1.1</description>
+    <year>2001</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Credo</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pop n Music 2 (1999)(Konami)(JP)[Pop n Music 2]">
+    <description>Pop n Music 2</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pumping Crash (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Pumping Crash</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Punch Block (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Punch Block</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Push (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Push</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Push Battle (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Push Battle</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pyramid (19xx)(P. Katsu)(JP)">
+    <description>Pyramid</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>P. Katsu</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="R4 Pocketstation (1998)(Namco)[R4 Ridge Racer Type 4]">
+    <description>R4 Pocketstation</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rewrite ID (1999)(K-Comm)">
+    <description>Rewrite ID</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>K-Comm</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ring Ring Land (1999)(Square)(JP)[Seiken Densetsu - Legend of Mana]">
+    <description>Ring Ring Land</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Square</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rocket (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Rocket</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rockman 2 (1999)(Capcom)(JP)[Rockman 2]">
+    <description>Rockman 2</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rockman 3 - Part 1 (1999)(Capcom)(JP)[Rockman 3]">
+    <description>Rockman 3 - Part 1</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rockman 3 - Part 2 (1999)(Capcom)(JP)[Rockman 3]">
+    <description>Rockman 3 - Part 2</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rockman 4 (1999)(Capcom)(JP)[Rockman 4]">
+    <description>Rockman 4</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rockman 5 (1999)(Capcom)(JP)[Rockman 5]">
+    <description>Rockman 5</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="RPG Dungeon (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>RPG Dungeon</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rubato v0.03 (1999)(K-Comm)">
+    <description>Rubato v0.03</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>K-Comm</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ski Escape (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Ski Escape</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Slot Machine (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Slot Machine</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Smash Game (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Smash Game</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tank (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>Tank</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tasumania (19xx)(-)">
+    <description>Tasumania</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris (19xx)(-)">
+    <description>Tetris</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tic-Tac-Toe v1.00 (19xx)(-)">
+    <description>Tic-Tac-Toe v1.00</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="World Time (1999)(SCEI)(JP)[Pocket MuuMuu]">
+    <description>World Time</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>SCEI</manufacturer>
+    <dev></dev>
+    <genre>Utility</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wose (19xx)(-)(JP)">
+    <description>Wose</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Unknown</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yubi v0.60 (19xx)(P. Katsu)(JP)">
+    <description>Yubi v0.60</description>
+    <year>19xx</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>P. Katsu</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

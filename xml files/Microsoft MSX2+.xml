@@ -1,0 +1,919 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Microsoft MSX2+</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Arc (Netherlands)">
+    <description>Arc (Netherlands)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Parallax / Checkmark</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aura Battle Dunbine (Japan)(Disk 1 of 6)">
+    <description>Aura Battle Dunbine (Japan)(Disk 1 of 6)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aura Battle Dunbine (Japan)(Disk 2 of 6)">
+    <description>Aura Battle Dunbine (Japan)(Disk 2 of 6)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aura Battle Dunbine (Japan)(Disk 3 of 6)">
+    <description>Aura Battle Dunbine (Japan)(Disk 3 of 6)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aura Battle Dunbine (Japan)(Disk 4 of 6)">
+    <description>Aura Battle Dunbine (Japan)(Disk 4 of 6)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aura Battle Dunbine (Japan)(Disk 5 of 6)">
+    <description>Aura Battle Dunbine (Japan)(Disk 5 of 6)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Aura Battle Dunbine (Japan)(Disk 6 of 6)">
+    <description>Aura Battle Dunbine (Japan)(Disk 6 of 6)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Barunba (Japan)">
+    <description>Barunba (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="D.C. Connection (Japan)(Disk 1 of 3)">
+    <description>D.C. Connection (Japan)(Disk 1 of 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Riverhill Soft Inc</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="D.C. Connection (Japan)(Disk 2 of 3)">
+    <description>D.C. Connection (Japan)(Disk 2 of 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Riverhill Soft Inc</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="D.C. Connection (Japan)(Disk 3 of 3)">
+    <description>D.C. Connection (Japan)(Disk 3 of 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Riverhill Soft Inc</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="DIX (Netherlands)">
+    <description>DIX (Netherlands)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MSX-Engine</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="F-1 Spirit 3D Special (Japan)(Disk 1 of 3)">
+    <description>F-1 Spirit 3D Special (Japan)(Disk 1 of 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="F-1 Spirit 3D Special (Japan)(Disk 2 of 3)">
+    <description>F-1 Spirit 3D Special (Japan)(Disk 2 of 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="F-1 Spirit 3D Special (Japan)(Disk 3 of 3)">
+    <description>F-1 Spirit 3D Special (Japan)(Disk 3 of 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Stadium Pro Baseball - Homerun Contest (Japan)">
+    <description>Family Stadium Pro Baseball - Homerun Contest (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile / Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Family Stadium Professional Baseball (Japan)">
+    <description>Family Stadium Professional Baseball (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile / Namco</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gladius (Germany)">
+    <description>Gladius (Germany)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MP</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Golvellius II (Japan)">
+    <description>Golvellius II (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Gradius III Legends (Spain)">
+    <description>Gradius III Legends (Spain)</description>
+    <year>2001</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Imanok</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Laydock 2 - Last Attack (Japan)(Disk 1 of 2)">
+    <description>Laydock 2 - Last Attack (Japan)(Disk 1 of 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TE Soft</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Laydock 2 - Last Attack (Japan)(Disk 2 of 2)">
+    <description>Laydock 2 - Last Attack (Japan)(Disk 2 of 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TE Soft</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lubeck (Japan)">
+    <description>Lubeck (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MSX Magazine</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Manbow 2 (Netherlands)">
+    <description>Manbow 2 (Netherlands)</description>
+    <year>2007</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Manbow 2 Team / Sunrise</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Megadoom (Netherlands)(Disc 1 of 2)">
+    <description>Megadoom (Netherlands)(Disc 1 of 2)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>First Class Software</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Megadoom (Netherlands)(Disc 2 of 2)">
+    <description>Megadoom (Netherlands)(Disc 2 of 2)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>First Class Software</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mid-Garts Dual Side (Japan)(Disk 1 of 6)">
+    <description>Mid-Garts Dual Side (Japan)(Disk 1 of 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Wolfteam</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mid-Garts Dual Side (Japan)(Disk 2 of 6)">
+    <description>Mid-Garts Dual Side (Japan)(Disk 2 of 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Wolfteam</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mid-Garts Dual Side (Japan)(Disk 3 of 6)">
+    <description>Mid-Garts Dual Side (Japan)(Disk 3 of 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Wolfteam</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mid-Garts Dual Side (Japan)(Disk 4 of 6)">
+    <description>Mid-Garts Dual Side (Japan)(Disk 4 of 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Wolfteam</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mid-Garts Dual Side (Japan)(Disk 5 of 6)">
+    <description>Mid-Garts Dual Side (Japan)(Disk 5 of 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Wolfteam</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mid-Garts Dual Side (Japan)(Disk 6 of 6)">
+    <description>Mid-Garts Dual Side (Japan)(Disk 6 of 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Wolfteam</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nagoya-flavor silly edition of Laydock (Japan)">
+    <description>Nagoya-flavor silly edition of Laydock (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>TE Soft</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="New Legendly Nine Gems - Shinku (Japan)(Disk 1 of 2)">
+    <description>New Legendly Nine Gems - Shinku (Japan)(Disk 1 of 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tecnosoft</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="New Legendly Nine Gems - Shinku (Japan)(Disk 2 of 2)">
+    <description>New Legendly Nine Gems - Shinku (Japan)(Disk 2 of 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Technosoft</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Nyancle Racing (Japan)">
+    <description>Nyancle Racing (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Panasoft /BIT2</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pachipro Densetsu (Japan)">
+    <description>Pachipro Densetsu (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>HAL Laboratory</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Playball 3 (Japan)">
+    <description>Playball 3 (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sony</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Playboy Strippoker (Netherlands)">
+    <description>Playboy Strippoker (Netherlands)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>First Class Software</manufacturer>
+    <dev></dev>
+    <genre>Card Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 1 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 1 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 2 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 2 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 3 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 3 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 4 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 4 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 5 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 5 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 6 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 6 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Princess Maker (Japan)(Translated En)(Disk 7 of 7)">
+    <description>Princess Maker (Japan)(Translated En)(Disk 7 of 7)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Quinpl (Japan)">
+    <description>Quinpl (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bit2</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sea Sardine (Japan)">
+    <description>Sea Sardine (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>ASCII / MSX Magazine</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sony HB-F1XV Story Disk (Japan)">
+    <description>Sony HB-F1XV Story Disk (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sony</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sonyc (Spain)">
+    <description>Sonyc (Spain)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Analogy</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space Manbow (Japan)">
+    <description>Space Manbow (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Starship Rendezvous (Japan)(Disk 1 of 2)">
+    <description>Starship Rendezvous (Japan)(Disk 1 of 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Scaptrust</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Starship Rendezvous (Japan)(Disk 2 of 2)">
+    <description>Starship Rendezvous (Japan)(Disk 2 of 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Scaptrust</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Cooks (Japan)">
+    <description>Super Cooks (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Compile</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="The Goonies &apos;R&apos; Good Enough (Spain)">
+    <description>The Goonies &apos;R&apos; Good Enough (Spain)</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer> Kralizec / MSX Cartridge Shop</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Turtle Mania (Japan)">
+    <description>Turtle Mania (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MSX Studio</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Twinkle Star (Japan)">
+    <description>Twinkle Star (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MSX Magazine</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Twinkle Star II (Japan)">
+    <description>Twinkle Star II (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MSX Magazine</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wig, The (Japan)">
+    <description>Wig, The (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Witch Iz, The (Japan)">
+    <description>Witch Iz, The (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer></manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Xak III - The Tower of Gazzel (Japan)(Disc 1 of 4)">
+    <description>Xak III - The Tower of Gazzel (Japan)(Disc 1 of 4)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Xak III - The Tower of Gazzel (Japan)(Disc 2 of 4)">
+    <description>Xak III - The Tower of Gazzel (Japan)(Disc 2 of 4)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Xak III - The Tower of Gazzel (Japan)(Disc 3 of 4)">
+    <description>Xak III - The Tower of Gazzel (Japan)(Disc 3 of 4)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Xak III - The Tower of Gazzel (Japan)(Disc 4 of 4)">
+    <description>Xak III - The Tower of Gazzel (Japan)(Disc 4 of 4)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Micro Cabin</manufacturer>
+    <dev></dev>
+    <genre>Role-Playing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yoshida Kensetsu (Japan)">
+    <description>Yoshida Kensetsu (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>MSX Magazine</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

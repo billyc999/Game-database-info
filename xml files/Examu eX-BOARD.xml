@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Examu eX-BOARD</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Arcana Heart 2">
+    <description>Arcana Heart 2</description>
+    <year>2008</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Examu</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Arcana Heart 3">
+    <description>Arcana Heart 3</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Examu</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Daemon Bride">
+    <description>Daemon Bride</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Examu</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Suggoi! Arcana Heart 2">
+    <description>Suggoi! Arcana Heart 2</description>
+    <year>2008</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Examu</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

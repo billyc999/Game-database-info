@@ -1,0 +1,5777 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Atari Classics</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="720gr1">
+    <description>720 Degrees (German, rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skateboarding</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="720g">
+    <description>720 Degrees (German, rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skateboarding</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="720r1">
+    <description>720 Degrees (rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skateboarding</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="720r2">
+    <description>720 Degrees (rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skateboarding</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="720r3">
+    <description>720 Degrees (rev 3)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skateboarding</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="720">
+    <description>720 Degrees (rev 4)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skateboarding</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="agentx1">
+    <description>Agent X (prototype, rev 1)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="agentx2">
+    <description>Agent X (prototype, rev 2)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="agentx3">
+    <description>Agent X (prototype, rev 3)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="agentx4">
+    <description>Agent X (prototype, rev 4)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="airrace">
+    <description>Air Race (prototype)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alphaone">
+    <description>Alpha One (prototype, 3 lives)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alphaonea">
+    <description>Alpha One (prototype, 5 lives)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apbf">
+    <description>APB - All Points Bulletin (French)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apbg">
+    <description>APB - All Points Bulletin (German)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb1">
+    <description>APB - All Points Bulletin (rev 1)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb2">
+    <description>APB - All Points Bulletin (rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb3">
+    <description>APB - All Points Bulletin (rev 3)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb4">
+    <description>APB - All Points Bulletin (rev 4)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb5">
+    <description>APB - All Points Bulletin (rev 5)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb6">
+    <description>APB - All Points Bulletin (rev 6)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="apb">
+    <description>APB - All Points Bulletin (rev 7)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="arabiana">
+    <description>Arabian (Atari)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sun Electronics (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="arcadecl">
+    <description>Arcade Classics (prototype)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="area51a">
+    <description>Area 51 (Atari Games license, Oct 25, 1995)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="area51">
+    <description>Area 51 (R3000)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="area51ta">
+    <description>Area 51 (Time Warner license, Nov 15, 1995)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games (Time Warner license)</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="area51t">
+    <description>Area 51 (Time Warner license, Oct 17, 1996)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games (Time Warner license)</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="a51mxr3k">
+    <description>Area 51 / Maximum Force Duo (R3000)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="area51mx">
+    <description>Area 51 / Maximum Force Duo v2.0</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="asteroid1">
+    <description>Asteroids (rev 1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="asteroid2">
+    <description>Asteroids (rev 2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="asteroid">
+    <description>Asteroids (rev 4)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astdelux1">
+    <description>Asteroids Deluxe (rev 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astdelux2">
+    <description>Asteroids Deluxe (rev 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astdelux">
+    <description>Asteroids Deluxe (rev 3)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="abaseb">
+    <description>Atari Baseball (set 1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="abaseb2">
+    <description>Atari Baseball (set 2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atarifb4">
+    <description>Atari Football (4 players)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atarifb1">
+    <description>Atari Football (revision 1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atarifb">
+    <description>Atari Football (revision 2)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atarifb2">
+    <description>Atari Football II</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mgolf">
+    <description>Atari Mini Golf (prototype)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="soccer">
+    <description>Atari Soccer</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="avalnche">
+    <description>Avalanche</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="badlands">
+    <description>Bad Lands</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bsktball">
+    <description>Basketball</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="batman">
+    <description>Batman</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bzonec">
+    <description>Battle Zone (cocktail)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bzonea">
+    <description>Battle Zone (rev 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bzone">
+    <description>Battle Zone (rev 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="beathead">
+    <description>BeatHead (prototype)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bwidow">
+    <description>Black Widow</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blstroidg">
+    <description>Blasteroids (German, rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blstroid2">
+    <description>Blasteroids (rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blstroid3">
+    <description>Blasteroids (rev 3)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blstroid">
+    <description>Blasteroids (rev 4)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blstroidh">
+    <description>Blasteroids (with heads)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="boxer">
+    <description>Boxer (prototype)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bradley">
+    <description>Bradley Trainer</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="calspeeda">
+    <description>California Speed (Version 1.0r7a 3/4/98)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="calspeed">
+    <description>California Speed (Version 2.1a, 4/17/98)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cball">
+    <description>Cannonball (Atari, prototype)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="canyon">
+    <description>Canyon Bomber</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="canyonp">
+    <description>Canyon Bomber (prototype)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="catchp">
+    <description>Catch (prototype)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="centiped1">
+    <description>Centipede (revision 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="centiped2">
+    <description>Centipede (revision 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="centiped3">
+    <description>Centipede (revision 3)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="centiped">
+    <description>Centipede (revision 4)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprintf">
+    <description>Championship Sprint (French)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprintg1">
+    <description>Championship Sprint (German, rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprintg">
+    <description>Championship Sprint (German, rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprint1">
+    <description>Championship Sprint (rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprint2">
+    <description>Championship Sprint (rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprint">
+    <description>Championship Sprint (rev 3)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprints1">
+    <description>Championship Sprint (Spanish, rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="csprints">
+    <description>Championship Sprint (Spanish, rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cloakfr">
+    <description>Cloak &amp; Dagger (French)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cloakgr">
+    <description>Cloak &amp; Dagger (German)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cloak">
+    <description>Cloak &amp; Dagger (rev 5)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cloaksp">
+    <description>Cloak &amp; Dagger (Spanish)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cloud9">
+    <description>Cloud 9 (prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="copsnrob">
+    <description>Cops&apos;n Robbers</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastlesj">
+    <description>Crystal Castles (joystick version)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastles1">
+    <description>Crystal Castles (version 1)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastles2">
+    <description>Crystal Castles (version 2)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastles3">
+    <description>Crystal Castles (version 3)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastlesf">
+    <description>Crystal Castles (version 3, French)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastlesg">
+    <description>Crystal Castles (version 3, German)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastlesp">
+    <description>Crystal Castles (version 3, Spanish)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ccastles">
+    <description>Crystal Castles (version 4)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbalp">
+    <description>Cyberball (prototype)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbal2">
+    <description>Cyberball (rev 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbal">
+    <description>Cyberball (rev 4)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbal2p1">
+    <description>Cyberball 2072 (2 player, rev 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbal2p2">
+    <description>Cyberball 2072 (2 player, rev 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbal2p3">
+    <description>Cyberball 2072 (2 player, rev 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbal2p">
+    <description>Cyberball 2072 (2 player, rev 4)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="destroyr1">
+    <description>Destroyer (version O1)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="destroyr">
+    <description>Destroyer (version O2)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdugat1">
+    <description>Dig Dug (Atari, rev 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digdugat">
+    <description>Dig Dug (Atari, rev 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dominos">
+    <description>Dominos</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dominos4">
+    <description>Dominos 4 (Cocktail)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dragrace">
+    <description>Drag Race</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="eprom">
+    <description>Escape from the Planet of the Robot Monsters (set 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="eprom2">
+    <description>Escape from the Planet of the Robot Monsters (set 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fastfred">
+    <description>Fast Freddie</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Kaneko (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="firefox">
+    <description>Fire Fox (set 1)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="firefoxa">
+    <description>Fire Fox (set 2)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="firetrk">
+    <description>Fire Truck / Smokey Joe</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="firebeas">
+    <description>Firebeast (prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flyball1">
+    <description>Flyball (rev 1)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flyball">
+    <description>Flyball (rev 2)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="foodfc">
+    <description>Food Fight (cocktail)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="foodf1">
+    <description>Food Fight (rev 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="foodf2">
+    <description>Food Fight (rev 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="foodf">
+    <description>Food Fight (rev 3)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeat6">
+    <description>Freeze (Atari) (prototype, 96/09/07, Jamma-96)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeat5">
+    <description>Freeze (Atari) (prototype, 96/09/20, AMOA-96)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeat4">
+    <description>Freeze (Atari) (prototype, 96/10/03)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeat3">
+    <description>Freeze (Atari) (prototype, 96/10/07)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeat2">
+    <description>Freeze (Atari) (prototype, 96/10/18)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeat">
+    <description>Freeze (Atari) (prototype, English voice, 96/10/25)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="freezeatjp">
+    <description>Freeze (Atari) (prototype, Japanese voice, 96/10/25)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet2pg1">
+    <description>Gauntlet (2 Players, German, rev 1)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet2pg">
+    <description>Gauntlet (2 Players, German, rev 4)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet2pj2">
+    <description>Gauntlet (2 Players, Japanese, rev 2)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet2pj">
+    <description>Gauntlet (2 Players, Japanese, rev 5)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet2pr3">
+    <description>Gauntlet (2 Players, rev 3)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet2p">
+    <description>Gauntlet (2 Players, rev 6)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletg">
+    <description>Gauntlet (German, rev 10)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletgr3">
+    <description>Gauntlet (German, rev 3)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletgr6">
+    <description>Gauntlet (German, rev 6)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletgr8">
+    <description>Gauntlet (German, rev 8)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletj12">
+    <description>Gauntlet (Japanese, rev 12)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletj">
+    <description>Gauntlet (Japanese, rev 13)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pc_gntlt">
+    <description>Gauntlet (PlayChoice-10)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari / Tengen (Nintendo of America license)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletr1">
+    <description>Gauntlet (rev 1)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlet">
+    <description>Gauntlet (rev 14)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletr2">
+    <description>Gauntlet (rev 2)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletr4">
+    <description>Gauntlet (rev 4)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletr5">
+    <description>Gauntlet (rev 5)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletr7">
+    <description>Gauntlet (rev 7)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntletr9">
+    <description>Gauntlet (rev 9)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntlets">
+    <description>Gauntlet (Spanish, rev 15)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaunt2">
+    <description>Gauntlet II</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaunt22pg">
+    <description>Gauntlet II (2 Players, German)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaunt22p1">
+    <description>Gauntlet II (2 Players, rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaunt22p">
+    <description>Gauntlet II (2 Players, rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaunt2g">
+    <description>Gauntlet II (German)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntleg12">
+    <description>Gauntlet Legends (version 1.2)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gauntleg">
+    <description>Gauntlet Legends (version 1.6)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gravitar1">
+    <description>Gravitar (version 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gravitar2">
+    <description>Gravitar (version 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gravitar">
+    <description>Gravitar (version 3)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="guardian">
+    <description>Guardians of the &apos;Hood</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="guts">
+    <description>Guts n&apos; Glory (prototype)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivb5">
+    <description>Hard Drivin&apos; (cockpit, British, rev 5)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivb6">
+    <description>Hard Drivin&apos; (cockpit, British, rev 6)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivb">
+    <description>Hard Drivin&apos; (cockpit, British, rev 7)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivg4">
+    <description>Hard Drivin&apos; (cockpit, German, rev 4)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivg">
+    <description>Hard Drivin&apos; (cockpit, German, rev 7)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivj6">
+    <description>Hard Drivin&apos; (cockpit, Japan, rev 6)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivj">
+    <description>Hard Drivin&apos; (cockpit, Japan, rev 7)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddriv1">
+    <description>Hard Drivin&apos; (cockpit, rev 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddriv2">
+    <description>Hard Drivin&apos; (cockpit, rev 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddriv3">
+    <description>Hard Drivin&apos; (cockpit, rev 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddriv">
+    <description>Hard Drivin&apos; (cockpit, rev 7)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivcb">
+    <description>Hard Drivin&apos; (compact, British, rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivcg">
+    <description>Hard Drivin&apos; (compact, German, rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivc1">
+    <description>Hard Drivin&apos; (compact, rev 1)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddrivc">
+    <description>Hard Drivin&apos; (compact, rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hdrivair">
+    <description>Hard Drivin&apos;s Airborne (prototype)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hydra">
+    <description>Hydra</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hydrap">
+    <description>Hydra (prototype 5/14/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hydrap2">
+    <description>Hydra (prototype 5/25/90)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="irobot">
+    <description>I, Robot</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="indytempc">
+    <description>Indiana Jones and the Temple of Doom (Cocktail)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="indytempd">
+    <description>Indiana Jones and the Temple of Doom (German)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="indytemp">
+    <description>Indiana Jones and the Temple of Doom (set 1)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="indytemp2">
+    <description>Indiana Jones and the Temple of Doom (set 2)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="indytemp3">
+    <description>Indiana Jones and the Temple of Doom (set 3)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="indytemp4">
+    <description>Indiana Jones and the Temple of Doom (set 4)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="kangarooa">
+    <description>Kangaroo (Atari)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sun Electronics (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klaxd">
+    <description>Klax (Germany)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klaxj">
+    <description>Klax (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klaxp1">
+    <description>Klax (prototype set 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klaxp2">
+    <description>Klax (prototype set 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klax">
+    <description>Klax (set 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klax2">
+    <description>Klax (set 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="klax3">
+    <description>Klax (set 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="liberatr">
+    <description>Liberator (set 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="liberatr2">
+    <description>Liberator (set 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lunarba1">
+    <description>Lunar Battle (prototype, earlier)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lunarbat">
+    <description>Lunar Battle (prototype, later)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="llander1">
+    <description>Lunar Lander (rev 1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="llander">
+    <description>Lunar Lander (rev 2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mace">
+    <description>Mace- The Dark Age (boot ROM 1.0ce, HDD 1.0b)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="macea">
+    <description>Mace- The Dark Age (HDD 1.0a)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mhavocp">
+    <description>Major Havoc (prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mhavocrv">
+    <description>Major Havoc (Return to Vax)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari / JMA</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mhavoc2">
+    <description>Major Havoc (rev 2)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mhavoc">
+    <description>Major Havoc (rev 3)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marble">
+    <description>Marble Madness (set 1)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marble2">
+    <description>Marble Madness (set 2)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marble3">
+    <description>Marble Madness (set 3)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marble4">
+    <description>Marble Madness (set 4)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="marble5">
+    <description>Marble Madness (set 5 - LSI Cartridge)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="maxf_ng">
+    <description>Maximum Force (No Gore version)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="maxf_102">
+    <description>Maximum Force v1.02</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="maxforce">
+    <description>Maximum Force v1.05</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mazeinv">
+    <description>Maze Invaders (prototype)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="milliped">
+    <description>Millipede</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="missile1">
+    <description>Missile Command (rev 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="missile2">
+    <description>Missile Command (rev 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="missile">
+    <description>Missile Command (rev 3)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="montecar">
+    <description>Monte Carlo</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nitedrvr">
+    <description>Night Driver</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offtwallc">
+    <description>Off the Wall (2-player cocktail)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="offtwall">
+    <description>Off the Wall (2/3-player upright)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="orbit">
+    <description>Orbit</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paperboyr1">
+    <description>Paperboy (rev 1)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paperboyr2">
+    <description>Paperboy (rev 2)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="paperboy">
+    <description>Paperboy (rev 3)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="peterpak">
+    <description>Peter Pack-Rat</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfightj">
+    <description>Pit Fighter (Japan, 2 players)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfight3">
+    <description>Pit Fighter (rev 3)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfight4">
+    <description>Pit Fighter (rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfight5">
+    <description>Pit Fighter (rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfight6">
+    <description>Pit Fighter (rev 6)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfight7">
+    <description>Pit Fighter (rev 7)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfight">
+    <description>Pit Fighter (rev 9)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poleposa1">
+    <description>Pole Position (Atari version 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poleposa2">
+    <description>Pole Position (Atari version 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="polepos2a">
+    <description>Pole Position II (Atari)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pong">
+    <description>Pong (Rev E) external [TTL]</description>
+    <year>1972</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Ball &amp; Paddle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="poolshrk">
+    <description>Poolshark</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports/Pool and Dart</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="primrage20">
+    <description>Primal Rage (version 2.0)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="primrage">
+    <description>Primal Rage (version 2.3)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quantump">
+    <description>Quantum (prototype)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quantum1">
+    <description>Quantum (rev 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quantum">
+    <description>Quantum (rev 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>General Computer Corporation (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="qwak">
+    <description>Qwak (prototype)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivb1">
+    <description>Race Drivin&apos; (cockpit, British, rev 1)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivb4">
+    <description>Race Drivin&apos; (cockpit, British, rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivb">
+    <description>Race Drivin&apos; (cockpit, British, rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivg1">
+    <description>Race Drivin&apos; (cockpit, German, rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivg4">
+    <description>Race Drivin&apos; (cockpit, German, rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivg">
+    <description>Race Drivin&apos; (cockpit, German, rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedriv1">
+    <description>Race Drivin&apos; (cockpit, rev 1)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedriv2">
+    <description>Race Drivin&apos; (cockpit, rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedriv3">
+    <description>Race Drivin&apos; (cockpit, rev 3)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedriv4">
+    <description>Race Drivin&apos; (cockpit, rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedriv">
+    <description>Race Drivin&apos; (cockpit, rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivcb4">
+    <description>Race Drivin&apos; (compact, British, rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivcb">
+    <description>Race Drivin&apos; (compact, British, rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivcg4">
+    <description>Race Drivin&apos; (compact, German, rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivcg">
+    <description>Race Drivin&apos; (compact, German, rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivc1">
+    <description>Race Drivin&apos; (compact, rev 1)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivc2">
+    <description>Race Drivin&apos; (compact, rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivc4">
+    <description>Race Drivin&apos; (compact, rev 4)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="racedrivc">
+    <description>Race Drivin&apos; (compact, rev 5)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="radikalba">
+    <description>Radikal Bikers (Version 2.02, Atari license)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gaelco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rampartj">
+    <description>Rampart (Japan, Joystick)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rampart2p">
+    <description>Rampart (Joystick)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rampart">
+    <description>Rampart (Trackball)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="redbarona">
+    <description>Red Baron</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="redbaron">
+    <description>Red Baron (Revised Hardware)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="relief">
+    <description>Relief Pitcher (set 1, 07 Jun 1992 / 28 May 1992)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="relief2">
+    <description>Relief Pitcher (set 2, 26 Apr 1992 / 08 Apr 1992)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="relief3">
+    <description>Relief Pitcher (set 3, 10 Apr 1992 / 08 Apr 1992)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jedi">
+    <description>Return of the Jedi</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblstcg">
+    <description>Road Blasters (cockpit, German, rev 1)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblstc1">
+    <description>Road Blasters (cockpit, rev 1)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblstc">
+    <description>Road Blasters (cockpit, rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblstg1">
+    <description>Road Blasters (upright, German, rev 1)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblstg2">
+    <description>Road Blasters (upright, German, rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblstg">
+    <description>Road Blasters (upright, German, rev 3)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblst1">
+    <description>Road Blasters (upright, rev 1)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblst2">
+    <description>Road Blasters (upright, rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblst3">
+    <description>Road Blasters (upright, rev 3)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadblst">
+    <description>Road Blasters (upright, rev 4)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadriot">
+    <description>Road Riot 4WD (set 1, 13 Nov 1991)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadrioto">
+    <description>Road Riot 4WD (set 2, 04 Jun 1991)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadrunn1">
+    <description>Road Runner (rev 1)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadrunn2">
+    <description>Road Runner (rev 1+)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roadrunn">
+    <description>Road Runner (rev 2)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="runaway">
+    <description>Runaway (prototype)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun0">
+    <description>S.T.U.N. Runner (rev 0)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun2">
+    <description>S.T.U.N. Runner (rev 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun2e">
+    <description>S.T.U.N. Runner (rev 2, Europe)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun3">
+    <description>S.T.U.N. Runner (rev 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun3e">
+    <description>S.T.U.N. Runner (rev 3, Europe)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun4">
+    <description>S.T.U.N. Runner (rev 4)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun5">
+    <description>S.T.U.N. Runner (rev 5)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrune">
+    <description>S.T.U.N. Runner (rev 5, Europe)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrun">
+    <description>S.T.U.N. Runner (rev 6)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrunj">
+    <description>S.T.U.N. Runner (rev 7, Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stunrunp">
+    <description>S.T.U.N. Runner (upright prototype)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sfrush">
+    <description>San Francisco Rush</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shuuz2">
+    <description>Shuuz (version 7.1)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shuuz">
+    <description>Shuuz (version 8.0)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skullxbo1">
+    <description>Skull &amp; Crossbones (rev 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skullxbo2">
+    <description>Skull &amp; Crossbones (rev 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skullxbo3">
+    <description>Skull &amp; Crossbones (rev 3)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skullxbo4">
+    <description>Skull &amp; Crossbones (rev 4)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skullxbo">
+    <description>Skull &amp; Crossbones (rev 5)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skydiver">
+    <description>Sky Diver</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="skyraid">
+    <description>Sky Raider</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="solarwar">
+    <description>Solar War</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacduel0">
+    <description>Space Duel (prototype)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacduel1">
+    <description>Space Duel (version 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacduel">
+    <description>Space Duel (version 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sparkz">
+    <description>Sparkz (prototype)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint1">
+    <description>Sprint 1</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint2">
+    <description>Sprint 2 (set 1)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint2a">
+    <description>Sprint 2 (set 2)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint4">
+    <description>Sprint 4 (set 1)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint4a">
+    <description>Sprint 4 (set 2)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint8">
+    <description>Sprint 8</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sprint8a">
+    <description>Sprint 8 (play tag &amp; chase)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starwars">
+    <description>Star Wars (set 1)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starwars1">
+    <description>Star Wars (set 2)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starwarso">
+    <description>Star Wars (set 3)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starshp1">
+    <description>Starship 1</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starshpp">
+    <description>Starship 1 (prototype?)</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="steeltalg">
+    <description>Steel Talons (German, rev 2)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="steeltal1">
+    <description>Steel Talons (rev 1)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="steeltal">
+    <description>Steel Talons (rev 2)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="strtdriv">
+    <description>Street Drivin&apos; (prototype)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="subs">
+    <description>Subs</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sbrkoutc">
+    <description>Super Breakout (Canyon and Vertical Breakout, prototype)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sbrkoutct">
+    <description>Super Breakout (Cocktail, prototype)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sbrkout3">
+    <description>Super Breakout (rev 03)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sbrkout">
+    <description>Super Breakout (rev 04)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="superbug">
+    <description>Super Bug</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suprmatk">
+    <description>Super Missile Attack (for rev 1)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari / General Computer Corporation</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suprmatkd">
+    <description>Super Missile Attack (not encrypted)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari / General Computer Corporation</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprintf">
+    <description>Super Sprint (French)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprintg1">
+    <description>Super Sprint (German, rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprintg">
+    <description>Super Sprint (German, rev 2)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprint1">
+    <description>Super Sprint (rev 1)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprint3">
+    <description>Super Sprint (rev 3)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprint">
+    <description>Super Sprint (rev 4)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssprints">
+    <description>Super Sprint (Spanish)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmek20">
+    <description>T-MEK (v2.0, prototype)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmek44">
+    <description>T-MEK (v4.4)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmek45">
+    <description>T-MEK (v4.5)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmek51p">
+    <description>T-MEK (v5.1, prototype)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tmek">
+    <description>T-MEK (v5.1, The Warlords)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tank8">
+    <description>Tank 8 (set 1)</description>
+    <year>1976</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tempest1">
+    <description>Tempest (rev 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tempest1r">
+    <description>Tempest (rev 1, Revised Hardware)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tempest2">
+    <description>Tempest (rev 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tempest3">
+    <description>Tempest (rev 3)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tempest">
+    <description>Tempest (rev 3, Revised Hardware)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tenthdeg">
+    <description>Tenth Degree (prototype)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atetrisc">
+    <description>Tetris (cocktail set 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atetrisc2">
+    <description>Tetris (cocktail set 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atetris">
+    <description>Tetris (set 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="atetrisa">
+    <description>Tetris (set 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="esb">
+    <description>The Empire Strikes Back</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="laststar">
+    <description>The Last Starfighter (prototype)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thunderja">
+    <description>ThunderJaws (rev 2)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thunderj">
+    <description>ThunderJaws (rev 3)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timeplta">
+    <description>Time Pilot (Atari)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tomcat">
+    <description>TomCat (prototype)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tomcatsw">
+    <description>TomCat (Star Wars hardware, prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toobin2e">
+    <description>Toobin&apos; (Europe, rev 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toobine">
+    <description>Toobin&apos; (Europe, rev 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toobing">
+    <description>Toobin&apos; (German, rev 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toobin1">
+    <description>Toobin&apos; (rev 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toobin2">
+    <description>Toobin&apos; (rev 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toobin">
+    <description>Toobin&apos; (rev 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbalt1">
+    <description>Tournament Cyberball 2072 (rev 1)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cyberbalt">
+    <description>Tournament Cyberball 2072 (rev 2)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tourtabl">
+    <description>Tournament Table (set 1)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tourtab2">
+    <description>Tournament Table (set 2)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="triplhnt">
+    <description>Triple Hunt</description>
+    <year>1977</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tunhunt">
+    <description>Tunnel Hunt</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tunhuntc">
+    <description>Tunnel Hunt (Centuri)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Centuri license)</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tx1">
+    <description>TX-1 (World)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tatsumi (Atari/Namco/Taito license)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ultratnk">
+    <description>Ultra Tank</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari (Kee Games)</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vaportrx">
+    <description>Vapor TRX</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vaportrxp">
+    <description>Vapor TRX (prototype)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vcircle">
+    <description>Vicious Circle (prototype)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="videopin">
+    <description>Video Pinball</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictre3">
+    <description>Vindicators (Europe, rev 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictre4">
+    <description>Vindicators (Europe, rev 4)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictre">
+    <description>Vindicators (Europe, rev 5)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictrg">
+    <description>Vindicators (German, rev 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictr1">
+    <description>Vindicators (rev 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictr2">
+    <description>Vindicators (rev 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictr4">
+    <description>Vindicators (rev 4)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindictr">
+    <description>Vindicators (rev 5)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindctr2r1">
+    <description>Vindicators Part II (rev 1)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindctr2r2">
+    <description>Vindicators Part II (rev 2)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vindctr2">
+    <description>Vindicators Part II (rev 3)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="warlords">
+    <description>Warlords</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wg3dh">
+    <description>Wayne Gretzky&apos;s 3D Hockey</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Sports/Hockey</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wolfpack">
+    <description>Wolf Pack (prototype)</description>
+    <year>1978</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wrallyb">
+    <description>World Rally (US, 930217)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Gaelco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xeviousb">
+    <description>Xevious (Atari)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xeviousa">
+    <description>Xevious (Atari, harder)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xeviousc">
+    <description>Xevious (Atari, Namco PCB)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco (Atari license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xybotsf">
+    <description>Xybots (French, rev 3)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xybotsg">
+    <description>Xybots (German, rev 3)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xybots0">
+    <description>Xybots (rev 0)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xybots1">
+    <description>Xybots (rev 1)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="xybots">
+    <description>Xybots (rev 2)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Atari Games</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

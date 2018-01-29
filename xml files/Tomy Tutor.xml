@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Tomy Tutor</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Athletic Land (Japan)">
+    <description>Athletic Land</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Walt Disney Productions</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bombman (Japan)">
+    <description>Bombman</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Car-azy Racer (USA)">
+    <description>Car-azy Racer</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy/Wordwright</manufacturer>
+    <dev></dev>
+    <genre>educational</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Cave Crawlers (USA)">
+    <description>Cave Crawlers</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Deep Six (USA)">
+    <description>Deep Six</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Disney TRON (Japan)">
+    <description>Disney TRON</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Walt Disney Productions</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Don Pan (Japan)">
+    <description>Don Pan</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger (Japan)">
+    <description>Frogger</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hyperspace (USA)">
+    <description>Hyperspace</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jungler (USA)">
+    <description>Jungler</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy/Konami</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Loco-motion (USA)">
+    <description>Loco-motion</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy/Konami</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mission Attack (Japan)">
+    <description>Mission Attack</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monster Inn (Japan)">
+    <description>Monster Inn</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mr Do (Japan)">
+    <description>Mr. Do!</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Universal</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mystery Gold (Japan)">
+    <description>Mystery Gold</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="NightFlight (Japan)">
+    <description>NightFlight</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pooyan (USA)">
+    <description>Pooyan</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy/Konami</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Saurusland (Japan)">
+    <description>Saurusland</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Scramble (USA)">
+    <description>Scramble</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SuperBike (Japan)">
+    <description>SuperBike</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>motercycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Torpedo Terror (USA)">
+    <description>Torpedo Terror</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Traffic Jam (USA)">
+    <description>Traffic Jam</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Turpin (Japan)">
+    <description>Turpin</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Yonnin Majan (Japan)">
+    <description>Yonnin Majan</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Tomy</manufacturer>
+    <dev></dev>
+    <genre>majan</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

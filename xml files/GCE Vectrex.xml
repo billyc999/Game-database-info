@@ -85,7 +85,7 @@
     <genre>Action</genre>
     <score>3.8</score>
     <player>1 Player</player>
-    <story>In Cosmic Chasm, the player&apos;s mission is to penetrate an alien planet underground maze and destroy the planet&apos;s power structure in the central cavern. It can be played by one or two players taking turns.The maze consists of several caverns connected by tunnels. The player is shown an overview map before entering each cavern. They have to choose the shortest route towards the centre. Each cavern contains several drones that should be destroyed. Exits to caverns deeper in the system are blocked and must be opened with a drill first. In the middle of each cavern is a trap that slowly expands, the player must avoid touching it at all costs. The further the player penetrates into the system, the faster the drones are moving. After placing the bomb in the centre cavern, the player has 15 seconds to escape the maze, preferably using the way they came in.The game uses three buttons: one for thrust, one for a shield to defend against the drones and one for firing. Points are awarded for destroying the central structure, successfully escaping and drilling through walls.</story>
+    <story>In Cosmic Chasm, the player&apos;s mission is to penetrate an alien planet underground maze and destroy the planet&apos;s power structure in the central cavern. It can be played by one or two players taking turns.The maze consists of several caverns connected by tunnels. The player is shown an overview map before entering each cavern. They have to choose the shortest route towards the centre. Each cavern contains several drones that should be destroyed. Exits to caverns deeper in the system are blocked and must be opened with a drill first. In the middle of each cavern is a trap that slowly expands, the player must avoid touching it at all costs. The further the player penetrates into the system, the faster the drones are moving. After placing the bomb in the centre cavern, the player has 15 seconds to escape the maze, preferably using the way they came in.The game uses three buttons- one for thrust, one for a shield to defend against the drones and one for firing. Points are awarded for destroying the central structure, successfully escaping and drilling through walls.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -141,7 +141,7 @@
     <genre>Shooter</genre>
     <score>4.0</score>
     <player>1 Player</player>
-    <story>An alien force is laying mines through out the intergalactic lanes of travel! You are going to destroy those mines before they can harm innocents. You will be pitted against the following mines: Floating Mines: Simple mines that drift through space in the hope of colliding with ships. Fireball Mines: Not Surprisingly these hurl fire, which can be avoided or dispersed with a shot from your ship Magnetic Mines: These have a nasty tendency of following ships. Magnetic-Fireball Mines: These both follow and shoot at you! The game itself plays much like Classic Asteroids</story>
+    <story>An alien force is laying mines through out the intergalactic lanes of travel! You are going to destroy those mines before they can harm innocents. You will be pitted against the following mines- Floating Mines- Simple mines that drift through space in the hope of colliding with ships. Fireball Mines- Not Surprisingly these hurl fire, which can be avoided or dispersed with a shot from your ship Magnetic Mines- These have a nasty tendency of following ships. Magnetic-Fireball Mines- These both follow and shoot at you! The game itself plays much like Classic Asteroids</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -155,7 +155,7 @@
     <genre>Shooter</genre>
     <score>4.0</score>
     <player>1 Player</player>
-    <story>Minestorm II Gameplay is similar to the arcade game Asteroids. The player moves around the screen shooting at star-shaped Mines of various sizes that have various mannerisms. All the dots on a screen can potentially turn into Mines; once a Mine is shot, two dots on the screen will turn into medium-sized Mines, which will then turn into two small Mines when shot (note: for the most part; sometimes, perhaps due to a glitch, a medium-sized Mine will just hatch one small Mine). When all dots have been turned into Mines on a screen, the Minelayer will come out, laying Mines in its wake until the player destroys it.Making contact with anything will destroy the player&apos;s ship and the game will end once there are no more reserve ships left. The Escape function acts as Hyperspace, which moves the player&apos;s ship to a random area on the screen.</story>
+    <story>Minestorm II Gameplay is similar to the arcade game Asteroids. The player moves around the screen shooting at star-shaped Mines of various sizes that have various mannerisms. All the dots on a screen can potentially turn into Mines; once a Mine is shot, two dots on the screen will turn into medium-sized Mines, which will then turn into two small Mines when shot (note- for the most part; sometimes, perhaps due to a glitch, a medium-sized Mine will just hatch one small Mine). When all dots have been turned into Mines on a screen, the Minelayer will come out, laying Mines in its wake until the player destroys it.Making contact with anything will destroy the player&apos;s ship and the game will end once there are no more reserve ships left. The Escape function acts as Hyperspace, which moves the player&apos;s ship to a random area on the screen.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -239,7 +239,7 @@
     <genre>Action</genre>
     <score>4.0</score>
     <player>1 Player</player>
-    <story>Space Wars is an action game where two space ships battle each other. The game control is similar to Asteroids: you move by thrusting and rotating your ship left or right, you can fire in the direction you&apos;re facing, or enter hyperspace to randomly relocate your ship on the screen. If you can successfully destroy your opponent, a point is earned and the first player to reach 10 points wins the game. Besides the two ships, other obstacles are on the screen: a meteorite floats about randomly and in the center of the screen is a sun, both of which can destroy your ship. Two players can battle each other, or one player can battle the computer and several skill levels are available.</story>
+    <story>Space Wars is an action game where two space ships battle each other. The game control is similar to Asteroids- you move by thrusting and rotating your ship left or right, you can fire in the direction you&apos;re facing, or enter hyperspace to randomly relocate your ship on the screen. If you can successfully destroy your opponent, a point is earned and the first player to reach 10 points wins the game. Besides the two ships, other obstacles are on the screen- a meteorite floats about randomly and in the center of the screen is a sun, both of which can destroy your ship. Two players can battle each other, or one player can battle the computer and several skill levels are available.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -295,7 +295,7 @@
     <genre>Action</genre>
     <score>3.4</score>
     <player>1 Player</player>
-    <story>Star Trek: The Motion Picture is a first-person shooter set in the Star Trek universe. The player controls a ship equipped with photon torpedoes, trying to eliminate as many enemy ships as possible. After destroying a sufficient amount of enemies, the player advances to the next level.The screen has two status bars, one for the amount of torpedoes left, and one for the remaining shield. The shield is used to repel the star-shaped projectiles fired by enemy ships. Both bars can be replenished by docking with the space station that comes into view from time to time. It is also possible to warp into a black hole, where the player has to take on a Klingon mothership.</story>
+    <story>Star Trek- The Motion Picture is a first-person shooter set in the Star Trek universe. The player controls a ship equipped with photon torpedoes, trying to eliminate as many enemy ships as possible. After destroying a sufficient amount of enemies, the player advances to the next level.The screen has two status bars, one for the amount of torpedoes left, and one for the remaining shield. The shield is used to repel the star-shaped projectiles fired by enemy ships. Both bars can be replenished by docking with the space station that comes into view from time to time. It is also possible to warp into a black hole, where the player has to take on a Klingon mothership.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>

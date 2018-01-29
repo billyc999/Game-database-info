@@ -1,0 +1,6519 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Sega Classics</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="5">
+    <description>5</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="abcopj">
+    <description>A.B. Cop (Japan, FD1094 317-0169b)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="abcop">
+    <description>A.B. Cop (World, FD1094 317-0169b)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aceattaca">
+    <description>Ace Attacker (Japan, System 16A, FD1094 317-0060)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Volleyball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="afighter">
+    <description>Action Fighter (FD1089A 317-0018)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aburner">
+    <description>After Burner</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_aftrb">
+    <description>After Burner (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aburner2">
+    <description>After Burner II</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aburner2g">
+    <description>After Burner II (German)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="arescue">
+    <description>Air Rescue</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alexkidd1">
+    <description>Alex Kidd- The Lost Stars (set 1, FD1089A 317-0021)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alexkidd">
+    <description>Alex Kidd- The Lost Stars (set 2, unprotected)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alibaba">
+    <description>Ali Baba and 40 Thieves</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astormj">
+    <description>Alien Storm (Japan, 2 Players, FD1094 317-0146)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_astrm">
+    <description>Alien Storm (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astormu">
+    <description>Alien Storm (US, 3 Players, FD1094 317-0147)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astorm">
+    <description>Alien Storm (World, 2 Players, FD1094 317-0154)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astorm3">
+    <description>Alien Storm (World, 3 Players, FD1094 317-0148)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_asyn">
+    <description>Alien Syndrome (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensynjo">
+    <description>Alien Syndrome (set 1, Japan, old, System 16A, FD1089A 317-0033)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensyn2">
+    <description>Alien Syndrome (set 2, System 16A, FD1089A 317-0033)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensyn3">
+    <description>Alien Syndrome (set 3, System 16B, FD1089A 317-0033)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensyn">
+    <description>Alien Syndrome (set 4, System 16B, unprotected)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensyn5">
+    <description>Alien Syndrome (set 5, System 16A, FD1089B 317-0037)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensynj">
+    <description>Alien Syndrome (set 6, Japan, new, System 16B, FD1089A 317-0033)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aliensyn7">
+    <description>Alien Syndrome (set 7, System 16B, MC-8123B 317-00xx)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alien3u">
+    <description>Alien3- The Gun (US)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="alien3">
+    <description>Alien3- The Gun (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_beast">
+    <description>Altered Beast (Mega-Tech)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeast2">
+    <description>Altered Beast (set 2, MC-8123B 317-0066)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeast4">
+    <description>Altered Beast (set 4, MC-8123B 317-0066)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeast5">
+    <description>Altered Beast (set 5, FD1094 317-0069)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeast6">
+    <description>Altered Beast (set 6, 8751 317-0076)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeast">
+    <description>Altered Beast (set 8, 8751 317-0078)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="angelkds">
+    <description>Angel Kids (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Nasco?</manufacturer>
+    <dev></dev>
+    <genre>Climbing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="arabfgtj">
+    <description>Arabian Fight (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="arabfgtu">
+    <description>Arabian Fight (US)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="arabfgt">
+    <description>Arabian Fight (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_tgolf">
+    <description>Arnold Palmer Tournament Golf (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_arrow">
+    <description>Arrow Flash (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astrobg">
+    <description>Astro Blaster (German)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astrob2">
+    <description>Astro Blaster (version 2)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astrob2a">
+    <description>Astro Blaster (version 2a)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astrob">
+    <description>Astro Blaster (version 3)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="astrofl">
+    <description>Astro Flash (Japan)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_astro">
+    <description>Astro Warrior (Mega-Tech, SMS based)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aurailj">
+    <description>Aurail (set 1, Japan, FD1089A 317-0167)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aurail1">
+    <description>Aurail (set 2, World, FD1089B 317-0168)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="aurail">
+    <description>Aurail (set 3, US, unprotected)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bakubaku">
+    <description>Baku Baku Animal (J 950407 V1.000)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_bio">
+    <description>Bio-hazard Battle (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="blockgal">
+    <description>Block Gal (MC-8123B, 317-0029)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Vic Tokai</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bloxeed">
+    <description>Bloxeed (Japan, FD1094 317-0139)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bloxeedu">
+    <description>Bloxeed (US, C System)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Elorg</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bloxeedc">
+    <description>Bloxeed (World, C System)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Elorg</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bodyslam">
+    <description>Body Slam (8751 317-0015)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bnzabrosj">
+    <description>Bonanza Bros (Japan, Floppy DS3-5000-07b Based)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bnzabros">
+    <description>Bonanza Bros (US, Floppy DS3-5000-07d? Based)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_bbros">
+    <description>Bonanza Bros. (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="brdrline">
+    <description>Borderline</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="brdrlinet">
+    <description>Borderline (Tranquilizer Gun conversion)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="borench">
+    <description>Borench</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="buckrog">
+    <description>Buck Rogers- Planet of Zoom</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="buckrogn">
+    <description>Buck Rogers- Planet of Zoom (not encrypted, set 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="buckrogn2">
+    <description>Buck Rogers- Planet of Zoom (not encrypted, set 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="bullet">
+    <description>Bullet (FD1094 317-0041)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="brivalj">
+    <description>Burning Rival (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="brival">
+    <description>Burning Rival (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_calga">
+    <description>California Games (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="calorie">
+    <description>Calorie Kun vs Moguranian</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="carnivalc">
+    <description>Carnival (cocktail)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="carnivalh">
+    <description>Carnival (Head On hardware, set 1)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="carnivalha">
+    <description>Carnival (Head On hardware, set 2)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="carnival">
+    <description>Carnival (upright)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="chboxing">
+    <description>Champion Boxing</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="chwrestl">
+    <description>Champion Pro Wrestling</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="choplift">
+    <description>Choplifter (8751 315-5151)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="chopliftu">
+    <description>Choplifter (unprotected)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cltchitrj">
+    <description>Clutch Hitter (Japan, FD1094 317-0175)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="cltchitr">
+    <description>Clutch Hitter (US, FD1094 317-0176)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="colmns97">
+    <description>Columns &apos;97 (JET 961209 V1.000)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="columnsj">
+    <description>Columns (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_cols">
+    <description>Columns (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="columnsu">
+    <description>Columns (US, cocktail)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="columns">
+    <description>Columns (World)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="column2j">
+    <description>Columns II- The Voyage Through Time (Japan)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="columns2">
+    <description>Columns II- The Voyage Through Time (World)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_col3">
+    <description>Columns III (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="commsega">
+    <description>Commando (Sega)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="congo">
+    <description>Congo Bongo (Rev C, 2 board stack)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="congoa">
+    <description>Congo Bongo (Rev C, 3 board stack)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="coolridr">
+    <description>Cool Riders</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crkdownj">
+    <description>Crack Down (Japan, Floppy Based, FD1094 317-0058-04b Rev A)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_crack">
+    <description>Crack Down (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crkdownu">
+    <description>Crack Down (US, Floppy Based, FD1094 317-0058-04d)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="crkdown">
+    <description>Crack Down (World, Floppy Based, FD1094 317-0058-04c)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="critcrsh">
+    <description>Critter Crusher (EA 951204 V1.000)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_eswat">
+    <description>Cyber Police ESWAT- Enhanced Special Weapons and Tactics (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddcrewj2">
+    <description>D. D. Crew (Japan, 2 Players, FD1094 317-0182)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddcrewj">
+    <description>D. D. Crew (Japan, 4 Players, FD1094 317-0185)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddcrewu">
+    <description>D. D. Crew (US, 4 Players, FD1094 317-0186)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddcrew2">
+    <description>D. D. Crew (World, 2 Players, FD1094 317-0184)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddcrew">
+    <description>D. D. Crew (World, 3 Players, FD1094 317-0190)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddcrew1">
+    <description>D. D. Crew (World, 4 Players, FD1094 317-0187)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sanjeon">
+    <description>DaeJeon! SanJeon SuJeon (AJTUE 990412 V1.000)</description>
+    <year>1999</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Deniam</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="darkedgej">
+    <description>Dark Edge (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="darkedge">
+    <description>Dark Edge (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="defense">
+    <description>Defense (System 16B, FD1089A 317-0028)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="desertbrj">
+    <description>Desert Breaker (Japan, FD1094 317-0194)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="desertbr">
+    <description>Desert Breaker (World, FD1094 317-0196)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="diehard">
+    <description>Die Hard Arcade (UET 960515 V1.000)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="digger">
+    <description>Digger</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dokidoki">
+    <description>Doki Doki Penguin Land</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dotrikun">
+    <description>Dottori Kun (new version)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dotrikun2">
+    <description>Dottori Kun (old version)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dbzvrvs">
+    <description>Dragon Ball Z V.R.V.S. (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Banpresto</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dumpmtmt">
+    <description>Dump Matsumoto (Japan, 8751 317-0011a)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dunkshot">
+    <description>Dunk Shot (FD1089A 317-0022)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dcclubj">
+    <description>Dynamic Country Club (Japan, ROM Based)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dcclubfd">
+    <description>Dynamic Country Club (US, Floppy Based, FD1094 317-0058-09d)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dcclub">
+    <description>Dynamic Country Club (World, ROM Based)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dnmtdeka">
+    <description>Dynamite Deka (J 960515 V1.000)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddux1">
+    <description>Dynamite Dux (set 1, 8751 317-0095)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="dduxj">
+    <description>Dynamite Dux (set 2, Japan, FD1094 317-0094)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ddux">
+    <description>Dynamite Dux (set 3, World, FD1094 317-0096)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="eswatj1">
+    <description>E-Swat - Cyber Police (set 1, Japan, FD1094 317-0131)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="eswatj">
+    <description>E-Swat - Cyber Police (set 2, Japan, FD1094 317-0128)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="eswatu">
+    <description>E-Swat - Cyber Police (set 3, US, FD1094 317-0129)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="eswat">
+    <description>E-Swat - Cyber Police (set 4, World, FD1094 317-0130)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ejihon">
+    <description>Ejihon Tantei Jimusyo (J 950613 V1.000)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="enduror">
+    <description>Enduro Racer (YM2151, FD1089B 317-0013A)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="enduror1">
+    <description>Enduro Racer (YM2203, FD1089B 317-0013A)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="exctleag">
+    <description>Excite League (FD1094 317-0079)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="f1en">
+    <description>F1 Exhaust Note</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="f1lapj">
+    <description>F1 Super Lap (Japan)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="f1lap">
+    <description>F1 Super Lap (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzonep">
+    <description>Fantasy Zone (317-5000)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_fz">
+    <description>Fantasy Zone (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzonepr">
+    <description>Fantasy Zone (prototype)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzone">
+    <description>Fantasy Zone (Rev A, unprotected)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzone1">
+    <description>Fantasy Zone (unprotected)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzn2">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (MC-8123, 317-0057)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzn2x">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (System 16C version)</description>
+    <year>2008</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / M2</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fantzn2xp">
+    <description>Fantasy Zone II - The Tears of Opa-Opa (System 16C version, prototype)</description>
+    <year>2008</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / M2</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fpoint1">
+    <description>Flash Point (set 1, Japan, FD1094 317-0127A)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fpoint">
+    <description>Flash Point (set 2, Japan, FD1094 317-0127A)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flicky">
+    <description>Flicky (128k Version, System 2, 315-5051)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flickys2">
+    <description>Flicky (128k Version, System 2, not encrypted)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flickyo">
+    <description>Flicky (64k Version, System 1, 315-5051, set 1)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="flickys1">
+    <description>Flicky (64k Version, System 1, 315-5051, set 2)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_fwrld">
+    <description>Forgotten Worlds (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="fhboxers">
+    <description>Funky Head Boxers (JUETBKAL 951218 V1.000)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="futspy">
+    <description>Future Spy (315-5061)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gloc">
+    <description>G-LOC Air Battle (US)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="glocr360">
+    <description>G-LOC R360</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ggroundj">
+    <description>Gain Ground (Japan, 2 Players, Floppy Based, FD1094 317-0058-03b)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gground">
+    <description>Gain Ground (World, 3 Players, Floppy Based, FD1094 317-0058-03d Rev A)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gforce2">
+    <description>Galaxy Force 2</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gforce2j">
+    <description>Galaxy Force 2 (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gforce2ja">
+    <description>Galaxy Force 2 (Japan, Rev A)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_gaxe">
+    <description>Golden Axe (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="goldnaxe1">
+    <description>Golden Axe (set 1, World, FD1094 317-0110)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="goldnaxe2">
+    <description>Golden Axe (set 2, US, 8751 317-0112)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="goldnaxe3">
+    <description>Golden Axe (set 3, World, FD1094 317-0120)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="goldnaxej">
+    <description>Golden Axe (set 4, Japan, FD1094 317-0121)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="goldnaxeu">
+    <description>Golden Axe (set 5, US, FD1094 317-0122)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="goldnaxe">
+    <description>Golden Axe (set 6, US, 8751 317-123A)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gaxeduel">
+    <description>Golden Axe - The Duel (JUETL 950117 V1.000)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_gaxe2">
+    <description>Golden Axe II (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_gaxe2">
+    <description>Golden Axe II (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ga2j">
+    <description>Golden Axe- The Revenge of Death Adder (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ga2u">
+    <description>Golden Axe- The Revenge of Death Adder (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ga2">
+    <description>Golden Axe- The Revenge of Death Adder (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gpriderj">
+    <description>GP Rider (Japan, FD1094 317-0161)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gprideru">
+    <description>GP Rider (US, FD1094 317-0162)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="gprider">
+    <description>GP Rider (World, FD1094 317-0163)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_gslam">
+    <description>Grand Slam (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_gfoot">
+    <description>Great Football (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_ggolf">
+    <description>Great Golf (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_gsocr">
+    <description>Great Soccer (Mega-Tech, SMS based)</description>
+    <year>0</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hangon1">
+    <description>Hang-On</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hangon">
+    <description>Hang-On (Rev A)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hangon2">
+    <description>Hang-On (ride-on)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hangonjr">
+    <description>Hang-On Jr.</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddunkj">
+    <description>Hard Dunk (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="harddunk">
+    <description>Hard Dunk (World)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="headon2">
+    <description>Head On 2</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hvymetal">
+    <description>Heavy Metal (315-5135)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hwchamp">
+    <description>Heavyweight Champ</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hwchampj">
+    <description>Heavyweight Champ (Japan, FD1094 317-0046)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="holo">
+    <description>Holosseum (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hopprobo">
+    <description>Hopper Robo</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hotrodj">
+    <description>Hot Rod (Japan, 4 Players, Floppy Based)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hotrod">
+    <description>Hot Rod (World, 3 Players, Turbo set 1, Floppy Based)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hotroda">
+    <description>Hot Rod (World, 3 Players, Turbo set 2, Floppy Based)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invinco">
+    <description>Invinco</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invds">
+    <description>Invinco / Deep Scan</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="invho2">
+    <description>Invinco / Head On 2</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ixion">
+    <description>Ixion (prototype)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_stf">
+    <description>Joe Montana II- Sports Talk Football (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sgmastj">
+    <description>Jumbo Ozaki Super Masters Golf (Japan, Floppy Based, FD1094 317-0058-05b)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sgmastc">
+    <description>Jumbo Ozaki Super Masters Golf (World, Floppy Based, FD1094 317-0058-05c)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Golf</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jparkja">
+    <description>Jurassic Park (Japan, Deluxe)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jparkjc">
+    <description>Jurassic Park (Japan, Rev A, Conversion)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jparkj">
+    <description>Jurassic Park (Japan, Rev A, Deluxe)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jpark">
+    <description>Jurassic Park (World)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeastj3">
+    <description>Juuouki (set 3, Japan, FD1094 317-0068)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="altbeastj">
+    <description>Juuouki (set 7, Japan, 8751 317-0077)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_kcham">
+    <description>Kid Chameleon (Mega-Tech)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lghostu">
+    <description>Laser Ghost (US, FD1094 317-0165)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lghost">
+    <description>Laser Ghost (World, FD1094 317-0166)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_lastb">
+    <description>Last Battle (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="lastsurv">
+    <description>Last Survivor (Japan, FD1094 317-0083)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shangonle">
+    <description>Limited Edition Hang-On</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="loffirej">
+    <description>Line of Fire / Bakudan Yarou (Japan, FD1094 317-0134)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="loffireu">
+    <description>Line of Fire / Bakudan Yarou (US, FD1094 317-0135)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="loffire">
+    <description>Line of Fire / Bakudan Yarou (World, FD1094 317-0136)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mjleague">
+    <description>Major League</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_mlh">
+    <description>Mario Lemieux Hockey (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Hockey</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="maruchan">
+    <description>Maru-Chan de Goo! (J 971216 V1.000)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Toyosuisan</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_mazin">
+    <description>Mazin Wars / Mazin Saga (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mwalkj">
+    <description>Michael Jackson&apos;s Moonwalker (Japan, FD1094/8751 317-0157)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_mwalk">
+    <description>Michael Jackson&apos;s Moonwalker (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mwalku">
+    <description>Michael Jackson&apos;s Moonwalker (US, FD1094/8751 317-0158)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mwalk">
+    <description>Michael Jackson&apos;s Moonwalker (World, FD1094/8751 317-0159)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrviking">
+    <description>Mister Viking (315-5041)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mrvikingj">
+    <description>Mister Viking (315-5041, Japan)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="monsterb">
+    <description>Monster Bash</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="monsterb2">
+    <description>Monster Bash (2 board version)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mvpj">
+    <description>MVP (set 1, Japan, FD1094 317-0142)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mvp">
+    <description>MVP (set 2, US, FD1094 317-0143)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_mystd">
+    <description>Mystic Defender (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nsub">
+    <description>N-Sub (upright)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ninja">
+    <description>Ninja (315-5102)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nprinceso">
+    <description>Ninja Princess (315-5098, 128k Ver.)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="nprincesu">
+    <description>Ninja Princess (64k Ver. not encrypted)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="opaopa">
+    <description>Opa Opa (MC-8123, 317-0042)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outrundxa">
+    <description>Out Run (deluxe sitdown earlier version)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outrundx">
+    <description>Out Run (deluxe sitdown)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outrundxj">
+    <description>Out Run (Japan, deluxe sitdown, FD1089A 317-0019)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_orun">
+    <description>Out Run (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outrunra">
+    <description>Out Run (sitdown/upright, Rev A)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="outrun">
+    <description>Out Run (sitdown/upright, Rev B)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="orunnersj">
+    <description>OutRunners (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="orunnersu">
+    <description>OutRunners (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="orunners">
+    <description>OutRunners (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_parlg">
+    <description>Parlour Games (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="passshtj">
+    <description>Passing Shot (Japan, 4 Players, FD1094 317-0070)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="passsht16a">
+    <description>Passing Shot (Japan, 4 Players, System 16A, FD1094 317-0071)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="passsht">
+    <description>Passing Shot (World, 2 Players, FD1094 317-0080)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="passshta">
+    <description>Passing Shot (World, 4 Players, FD1094 317-0074)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pengo">
+    <description>Pengo (set 1 rev c)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pengo2u">
+    <description>Pengo (set 2 not encrypted)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pengo2">
+    <description>Pengo (set 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pengo3u">
+    <description>Pengo (set 3 not encrypted)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pengo4">
+    <description>Pengo (set 4)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pignewta">
+    <description>Pig Newton (version A)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pignewt">
+    <description>Pig Newton (version C)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfall2">
+    <description>Pitfall II (315-5093)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfall2a">
+    <description>Pitfall II (315-5093, Flicky Conversion)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pitfall2u">
+    <description>Pitfall II (not encrypted)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="potopoto">
+    <description>Poto Poto (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pdriftj">
+    <description>Power Drift (Japan)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pdrifta">
+    <description>Power Drift (World)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pdrifte">
+    <description>Power Drift (World, Earlier)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pdrift">
+    <description>Power Drift (World, Rev A)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="pulsar">
+    <description>Pulsar</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thuntk">
+    <description>Puzzle &amp; Action- BoMulEul Chajara (JUET 970125 V2.00K)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Deniam</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ichirj">
+    <description>Puzzle &amp; Action- Ichidant-R (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ichirk">
+    <description>Puzzle &amp; Action- Ichidant-R (Korea)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ichir">
+    <description>Puzzle &amp; Action- Ichidant-R (World)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sandor">
+    <description>Puzzle &amp; Action- Sando-R (J 951114 V1.000)</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tantr">
+    <description>Puzzle &amp; Action- Tant-R (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tantrkor">
+    <description>Puzzle &amp; Action- Tant-R (Korea)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thunt">
+    <description>Puzzle &amp; Action- Treasure Hunt (JUET 970901 V2.00E)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quarteta">
+    <description>Quartet (8751 315-5194)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quartet">
+    <description>Quartet (Rev A, 8751 315-5194)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quartet2">
+    <description>Quartet 2 (8751 317-0010)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="quartet2a">
+    <description>Quartet 2 (unprotected)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rachero">
+    <description>Racing Hero (FD1094 317-0144)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="radmu">
+    <description>Rad Mobile (US)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="radm">
+    <description>Rad Mobile (World)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="radrj">
+    <description>Rad Rally (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="radru">
+    <description>Rad Rally (US)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="radr">
+    <description>Rad Rally (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rchasej">
+    <description>Rail Chase (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="rchase">
+    <description>Rail Chase (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="razmataz">
+    <description>Razzmatazz</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="reguluso">
+    <description>Regulus (315-5033)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="regulus">
+    <description>Regulus (315-5033, Rev A.)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="regulusu">
+    <description>Regulus (not encrypted)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ribbit">
+    <description>Ribbit!</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ridleofp">
+    <description>Riddle of Pythagoras (Japan)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Nasco</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="riotcity">
+    <description>Riot City (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="roughrac">
+    <description>Rough Racer (Japan, Floppy Based, FD1094 317-0058-06b)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="hanagumi">
+    <description>Sakura Taisen - Hanagumi Taisen Columns (J 971007 V1.010)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="samurai">
+    <description>Samurai</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ssanchan">
+    <description>Sanrin San Chan (Japan)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspiritj">
+    <description>Scramble Spirits (Japan, Floppy DS3-5000-02-REV-A Based)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspirits">
+    <description>Scramble Spirits (World, Floppy Based)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sdi">
+    <description>SDI - Strategic Defense Initiative (Japan, old, System 16A, FD1089B 317-0027)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sdib">
+    <description>SDI - Strategic Defense Initiative (System 16B, FD1089A 317-0028)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="seganinj">
+    <description>Sega Ninja (315-5102)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="seganinju">
+    <description>Sega Ninja (not encrypted)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sonicp">
+    <description>SegaSonic The Hedgehog (Japan, prototype)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sonic">
+    <description>SegaSonic The Hedgehog (Japan, rev. C)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shdancerj">
+    <description>Shadow Dancer (Japan)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_shado">
+    <description>Shadow Dancer (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shdancer1">
+    <description>Shadow Dancer (US)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shdancer">
+    <description>Shadow Dancer (World)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_shnbi">
+    <description>Shinobi (Mega-Tech, SMS based)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shinobi1">
+    <description>Shinobi (set 1, System 16A, FD1094 317-0050)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shinobi2">
+    <description>Shinobi (set 2, System 16B, FD1094 317-0049)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shinobi3">
+    <description>Shinobi (set 3, System 16B, MC-8123B 317-0054)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shinobi4">
+    <description>Shinobi (set 4, System 16B, MC-8123B 317-0054)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shinobi5">
+    <description>Shinobi (set 5, System 16B, unprotected)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shinobi">
+    <description>Shinobi (set 6, System 16A, unprotected)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_shnb3">
+    <description>Shinobi III (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shtngmste">
+    <description>Shooting Master (EVG, 8751 315-5159a)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / EVG</manufacturer>
+    <dev></dev>
+    <genre>Gun</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sindbadm">
+    <description>Sindbad Mystery</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sonicbom">
+    <description>Sonic Boom (FD1094 317-0053)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_sonic">
+    <description>Sonic The Hedgehog (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_sonic">
+    <description>Sonic The Hedgehog (Mega-Tech, set 1)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_sonia">
+    <description>Sonic The Hedgehog (Mega-Tech, set 2)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_soni2">
+    <description>Sonic The Hedgehog 2 (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_soni2">
+    <description>Sonic The Hedgehog 2 (Mega-Tech)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspaceatc">
+    <description>Space Attack (cocktail)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspaceat">
+    <description>Space Attack (upright set 1)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspaceat2">
+    <description>Space Attack (upright set 2)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspaceat3">
+    <description>Space Attack (upright set 3)</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sspacaho">
+    <description>Space Attack / Head On</description>
+    <year>1979</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Compilation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacfurya">
+    <description>Space Fury (revision A)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacfuryb">
+    <description>Space Fury (revision B)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacfury">
+    <description>Space Fury (revision C)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sharrier1">
+    <description>Space Harrier (8751 315-5163)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sharrier">
+    <description>Space Harrier (Rev A, 8751 315-5163A)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_shar2">
+    <description>Space Harrier II (Mega-Tech)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spaceod2">
+    <description>Space Odyssey (version 1)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spaceod">
+    <description>Space Odyssey (version 2)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spcpostn">
+    <description>Space Position (Japan)</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Nasco</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stactics">
+    <description>Space Tactics</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacetrkc">
+    <description>Space Trek (cocktail)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spacetrk">
+    <description>Space Trek (upright)</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spatter">
+    <description>Spatter</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spidmanj">
+    <description>Spider-Man- The Videogame (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spidmanu">
+    <description>Spider-Man- The Videogame (US)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="spidman">
+    <description>Spider-Man- The Videogame (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stkclmnsj">
+    <description>Stack Columns (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="stkclmns">
+    <description>Stack Columns (World)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="scrossu">
+    <description>Stadium Cross (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="scross">
+    <description>Stadium Cross (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starjack">
+    <description>Star Jacker (Sega)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starjacks">
+    <description>Star Jacker (Stern Electronics)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega (Stern Electronics license)</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="starrkr">
+    <description>Star Raker</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="startrek">
+    <description>Star Trek</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="swa">
+    <description>Star Wars Arcade</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_srage">
+    <description>Streets of Rage (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_sor2">
+    <description>Streets of Rage II (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="strkfgtrj">
+    <description>Strike Fighter (Japan)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="strkfgtr">
+    <description>Strike Fighter (World)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="subroc3d">
+    <description>Subroc-3D</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_shang">
+    <description>Super Hang-On (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shangon2">
+    <description>Super Hang-On (mini ride-on, Rev A, FD1089B 317-0034)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shangonro">
+    <description>Super Hang-On (ride-on, Japan, FD1094 317-0038)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shangon3">
+    <description>Super Hang-On (sitdown/upright, FD1089B 317-0034)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="shangon">
+    <description>Super Hang-On (sitdown/upright, unprotected)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Motorcycle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suprleag">
+    <description>Super League (FD1094 317-0045)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suprlocoo">
+    <description>Super Locomotive</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="suprloco">
+    <description>Super Locomotive (Rev.A)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgpja">
+    <description>Super Monaco GP (Japan, Rev A, FD1094 317-0124a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgpj">
+    <description>Super Monaco GP (Japan, Rev B, FD1094 317-0124a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_smgp">
+    <description>Super Monaco GP (Mega-Tech)</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgpu2">
+    <description>Super Monaco GP (US, Rev A, FD1094 317-0125a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgpu1">
+    <description>Super Monaco GP (US, Rev B, FD1094 317-0125a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgpu">
+    <description>Super Monaco GP (US, Rev C, FD1094 317-0125a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgp5">
+    <description>Super Monaco GP (World, FD1094 317-0126)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgp6">
+    <description>Super Monaco GP (World, Rev A, FD1094 317-0126a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="smgp">
+    <description>Super Monaco GP (World, Rev B, FD1094 317-0126a)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_srbb">
+    <description>Super Real Basketball (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Basketball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_stbld">
+    <description>Super Thunder Blade (Mega-Tech)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="svf">
+    <description>Super Visual Football- European Sega Cup</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="svs">
+    <description>Super Visual Soccer- Sega Cup (US)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="szaxxon">
+    <description>Super Zaxxon (315-5013)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tacscan">
+    <description>Tac/Scan</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="sasissu">
+    <description>Taisen Tanto-R Sashissu!! (J 980216 V1.000)</description>
+    <year>1998</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mp_twc">
+    <description>Tecmo World Cup (Mega Play)</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="teddybb">
+    <description>TeddyBoy Blues (315-5115, New Ver.)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="teddybbo">
+    <description>TeddyBoy Blues (315-5115, Old Ver.)</description>
+    <year>1985</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetrisse">
+    <description>Tetris (Japan, System E)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetrista">
+    <description>Tetris (Japan, Taito B-System, Master of Weapon Conversion Kit)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetrist">
+    <description>Tetris (Japan, Taito B-System, Nastar Conversion Kit)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetristh">
+    <description>Tetris (Japan, Taito H-System)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_tetri">
+    <description>Tetris (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetris1">
+    <description>Tetris (set 1, Japan, System 16B, FD1094 317-0091)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetris2">
+    <description>Tetris (set 2, Japan, System 16B, FD1094 317-0092)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetris3">
+    <description>Tetris (set 3, Japan, System 16A, FD1094 317-0093a)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tetris">
+    <description>Tetris (set 4, Japan, System 16A, FD1094 317-0093)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="jleague">
+    <description>The J.League 1994 (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_revsh">
+    <description>The Revenge of Shinobi (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thndrbld1">
+    <description>Thunder Blade (deluxe/standing, unprotected)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="thndrbld">
+    <description>Thunder Blade (upright, FD1094 317-0056)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timescan1">
+    <description>Time Scanner (set 1, System 16A, FD1089B 317-0024)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="timescan">
+    <description>Time Scanner (set 2, System 16B)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tiptop">
+    <description>Tip Top (3 board stack)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="titlefj">
+    <description>Title Fight (Japan)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="titlefu">
+    <description>Title Fight (US)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="titlef">
+    <description>Title Fight (World)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tokisens">
+    <description>Toki no Senshi - Chrono Soldier</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mahmajn">
+    <description>Tokoro San no MahMahjan (Japan, ROM Based)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mahjong</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mahmajn2">
+    <description>Tokoro San no MahMahjan 2 (Japan, ROM Based)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mahjong</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_tlbba">
+    <description>Tommy Lasorda Baseball (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toryumon">
+    <description>Toryumon</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tturfu">
+    <description>Tough Turf (set 1, US, 8751 317-0099)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Sunsoft</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tturf">
+    <description>Tough Turf (set 2, Japan, 8751 317-0104)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Sunsoft</manufacturer>
+    <dev></dev>
+    <genre>Beat-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="tranqgun">
+    <description>Tranquilizer Gun</description>
+    <year>1980</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="transfrm">
+    <description>Transformer</description>
+    <year>1986</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="turbo">
+    <description>Turbo</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="turboa">
+    <description>Turbo (encrypted set 1)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="turbob">
+    <description>Turbo (encrypted set 2)</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toutrun2">
+    <description>Turbo Out Run (cockpit, FD1094 317-0106)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toutrun3">
+    <description>Turbo Out Run (cockpit, FD1094 317-0107)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toutrun1">
+    <description>Turbo Out Run (deluxe cockpit, FD1094 317-0109)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toutrunj">
+    <description>Turbo Out Run (Japan, Out Run upgrade, FD1094 317-0117)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="toutrun">
+    <description>Turbo Out Run (Out Run upgrade, FD1094 317-0118)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_tout">
+    <description>Turbo Outrun (Mega-Tech)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="twinsqua">
+    <description>Twin Squash</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Breakout</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="ufosensi">
+    <description>Ufo Senshi Yohko Chan (MC-8123, 317-0064)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="upndown">
+    <description>Up&apos;n Down (315-5030)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="upndownu">
+    <description>Up&apos;n Down (not encrypted)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vf">
+    <description>Virtua Fighter</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vfkids">
+    <description>Virtua Fighter Kids (JUET 960319 V0.000)</description>
+    <year>1996</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vformula">
+    <description>Virtua Formula</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="vr">
+    <description>Virtua Racing</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wwallyja">
+    <description>Wally wo Sagase! (rev A, Japan, FD1094 317-0197A)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wwallyj">
+    <description>Wally wo Sagase! (rev B, Japan, FD1094 317-0197B)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Mini-Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wmatch">
+    <description>Water Match (315-5064)</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Track &amp; Field</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wingwarj">
+    <description>Wing War (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wingwaru">
+    <description>Wing War (US)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wingwar">
+    <description>Wing War (World)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="winterht">
+    <description>Winter Heat (JUET 971012 V1.000)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Skiing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="witchs">
+    <description>Witch (Sega License)</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Vic Tokai</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wb31">
+    <description>Wonder Boy III - Monster Lair (set 1, Japan, System 16A, FD1094 317-0084)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wb32">
+    <description>Wonder Boy III - Monster Lair (set 2, Japan, System 16B, FD1094 317-0085)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wb33">
+    <description>Wonder Boy III - Monster Lair (set 3, World, System 16B, FD1094 317-0089)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wb34">
+    <description>Wonder Boy III - Monster Lair (set 4, Japan, System 16B, FD1094 317-0087)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wb35">
+    <description>Wonder Boy III - Monster Lair (set 5, Japan, System 16A, FD1089A 317-0086)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wb3">
+    <description>Wonder Boy III - Monster Lair (set 6, World, System 16B, 8751 317-0098)</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wbmlvc">
+    <description>Wonder Boy in Monster Land (English, Virtual Console)</description>
+    <year>2009</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wbml">
+    <description>Wonder Boy in Monster Land (Japan New Ver., MC-8123, 317-0043)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wbmljo">
+    <description>Wonder Boy in Monster Land (Japan Old Ver., MC-8123, 317-0043)</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega / Westone</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_wcsoc">
+    <description>World Championship Soccer (Mega-Tech)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Soccer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="mt_wwar">
+    <description>Wrestle War (Mega-Tech)</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wrestwar1">
+    <description>Wrestle War (set 1, Japan, FD1094 317-0090)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wrestwar2">
+    <description>Wrestle War (set 2, World, FD1094 317-0102)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="wrestwar">
+    <description>Wrestle War (set 3, World, 8751 317-0103)</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="yamato">
+    <description>Yamato (US)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="yamato2">
+    <description>Yamato (World?)</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zaxxonj">
+    <description>Zaxxon (Japan)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zaxxon">
+    <description>Zaxxon (set 1)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zaxxon2">
+    <description>Zaxxon (set 2)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zaxxon3">
+    <description>Zaxxon (set 3)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zektor">
+    <description>Zektor (revision B)</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shoot-&apos;Em-Up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="znpwfv">
+    <description>Zen Nippon Pro-Wrestling Featuring Virtua (J 971123 V1.000)</description>
+    <year>1997</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Sports/Wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zoom909">
+    <description>Zoom 909</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="zunkyou">
+    <description>Zunzunkyou No Yabou (Japan)</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

@@ -1,0 +1,429 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Fairchild Channel F</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Alien Invasion (USA)">
+    <description>Alien Invasion (USA)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Backgammon, Acey-Deucey (USA)">
+    <description>Backgammon, Acey-Deucey (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Card Battle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Baseball (USA)">
+    <description>Baseball (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bowling (USA)">
+    <description>Bowling (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Sports/Bowling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Casino Poker (USA)">
+    <description>Casino Poker (USA)</description>
+    <year>1979</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Checkers (USA)">
+    <description>Checkers (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Desert Fox, Shooting Gallery (USA)">
+    <description>Desert Fox, Shooting Gallery (USA)</description>
+    <year>1976</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dodge It (USA)">
+    <description>Dodge It (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drag Strip (USA)">
+    <description>Drag Strip (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Racing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Galactic Space Wars, Lunar Lander (USA)">
+    <description>Galactic Space Wars, Lunar Lander (USA)</description>
+    <year>1990</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hangman (USA)">
+    <description>Hangman (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Hockey &amp; Tennis (USA)">
+    <description>Hockey &amp; Tennis (USA)</description>
+    <year>1976</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lights Out (USA)">
+    <description>Lights Out (USA)</description>
+    <year>2004</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Sean Riddle</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magic Numbers - Mind Reader + Nim (USA)">
+    <description>Magic Numbers - Mind Reader + Nim (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Math Quiz I - Addition + Subtraction (USA)">
+    <description>Math Quiz I - Addition + Subtraction (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Math Quiz II - Multiplication + Division (USA)">
+    <description>Math Quiz II - Multiplication + Division (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Maze, Jailbreak, Blind-man&apos;s-bluff, Trailblazer (USA)">
+    <description>Maze, Jailbreak, Blind-man&apos;s-bluff, Trailblazer (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Memory Match 1 &amp; 2 (USA)">
+    <description>Memory Match 1 &amp; 2 (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pac-Man (USA)">
+    <description>Pac-Man (USA)</description>
+    <year>2006</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fredrid Blaholtz</manufacturer>
+    <dev></dev>
+    <genre>Maze</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pinball Challenge (USA)">
+    <description>Pinball Challenge (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pro Football (USA)">
+    <description>Pro Football (USA)</description>
+    <year>1990</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Sports/Football</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Robot War, Torpedo Alley (USA)">
+    <description>Robot War, Torpedo Alley (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Slot Machine (USA)">
+    <description>Slot Machine (USA)</description>
+    <year>1980</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Zircon</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sonar Search (USA)">
+    <description>Sonar Search (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Space War (USA)">
+    <description>Space War (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Spitfire (USA)">
+    <description>Spitfire (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tetris (USA)">
+    <description>Tetris (USA)</description>
+    <year>2004</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Peter Trauner</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)">
+    <description>Tic-Tac-Toe, Shooting Gallery, Doodle, Quadra-Doodle (USA)</description>
+    <year>1976</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Video Blackjack (USA)">
+    <description>Video Blackjack (USA)</description>
+    <year>1976</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Video Whizball (USA)">
+    <description>Video Whizball (USA)</description>
+    <year>1978</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Fairchild</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

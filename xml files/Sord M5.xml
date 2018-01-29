@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Sord M5</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Dragon Attack (1983)(Takara)(Jp)">
+    <description>Dragon Attack</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eskimon (1984)(Takara)(Jp)">
+    <description>Eskimoh</description>
+    <year>1984</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fruit Search (1983)(Takara)(Jp)">
+    <description>Fruit Search</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Funny Mouse (1983)(Takara)(Jp)">
+    <description>Funny Mouse</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Heavy Boxing (1983)(Takara)(Jp)">
+    <description>Heavy Boxing</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>boxing</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pooyan (1982)(Konami)(Jp)">
+    <description>Pooyan</description>
+    <year>1982</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Real Tennis (1983)(Takara)(Jp)">
+    <description>Real Tennis</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>tennis</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Step Up (1983)(Takara)(Jp)">
+    <description>Step Up</description>
+    <year>1983</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Takara</manufacturer>
+    <dev></dev>
+    <genre>platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Cobra (1981)(Konami)(Jp)">
+    <description>Super Cobra</description>
+    <year>1981</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Konami</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Word Maze (19xx)(Sord)(Jp)">
+    <description>Word Maze</description>
+    <year>198x</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sord</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zac Banic (19xx)(-)">
+    <description>Zac Banic</description>
+    <year>198x</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sord</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

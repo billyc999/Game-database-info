@@ -1,0 +1,289 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Tiger Game</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Batman &amp; Robin (USA)">
+    <description>Batman &amp; Robin (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Acclaim</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Centipede (USA)">
+    <description>Centipede (USA)</description>
+    <year>1999</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hasbro-Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Duke Nukem 3D (USA)">
+    <description>Duke Nukem 3D (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - M (Mature)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Fighters Megamix (USA)">
+    <description>Fighters Megamix (USA)</description>
+    <year>1998</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Frogger (USA)">
+    <description>Frogger (USA)</description>
+    <year>1999</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hasbro-Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Henry (USA)">
+    <description>Henry (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Indy 500 (USA)">
+    <description>Indy 500 (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jeopardy! (USA)">
+    <description>Jeopardy! (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Jurassic Park - The Lost World (USA)">
+    <description>Jurassic Park - The Lost World (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - T (Teen)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lights Out (USA)">
+    <description>Lights Out (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monopoly (USA)">
+    <description>Monopoly (USA)</description>
+    <year>1999</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mortal Kombat Trilogy (USA)">
+    <description>Mortal Kombat Trilogy (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - M (Mature)</rating>
+    <manufacturer>Midway</manufacturer>
+    <dev></dev>
+    <genre>Fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Quiz Wiz - Cyber Trivia (USA)">
+    <description>Quiz Wiz - Cyber Trivia (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Quiz</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Resident Evil 2 (USA)">
+    <description>Resident Evil 2 (USA)</description>
+    <year>1998</year>
+    <rating>ESRB - M (Mature)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Scrabble (USA)">
+    <description>Scrabble (USA)</description>
+    <year>1999</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Hasbro-Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Board Games</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sonic Jam (USA)">
+    <description>Sonic Jam (USA)</description>
+    <year>1998</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>Platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tiger Casino (USA)">
+    <description>Tiger Casino (USA)</description>
+    <year>1998</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wheel of Fortune (USA)">
+    <description>Wheel of Fortune (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wheel of Fortune 2 (USA)">
+    <description>Wheel of Fortune 2 (USA)</description>
+    <year>1998</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Williams Arcade Classics (USA)">
+    <description>Williams Arcade Classics (USA)</description>
+    <year>1997</year>
+    <rating>ESRB - E (Everyone)</rating>
+    <manufacturer>Tiger Electronics</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

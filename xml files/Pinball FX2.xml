@@ -1,0 +1,961 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Pinball FX2</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="AmericanDad">
+    <description>American Dad!</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Archer">
+    <description>Archer</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BioLab">
+    <description>Biolab</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="BobsBurgers">
+    <description>Bob&apos;s Burgers</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="CastleStorm">
+    <description>CastleStorm</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="EarthDefense">
+    <description>Earth Defense</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Eldorado">
+    <description>El Dorado</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Looter">
+    <description>Epic Quest</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Excalibur">
+    <description>Excalibur</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="FamilyGuy">
+    <description>Family Guy</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_Milan">
+    <description>Football Super League - A.C. Milan</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_Roma">
+    <description>Football Super League - A.S. Roma</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_Arsenal">
+    <description>Football Super League - Arsenal</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_Barcelona">
+    <description>Football Super League - FC Barcelona</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_Juventus">
+    <description>Football Super League - Juventus</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_Liverpool">
+    <description>Football Super League - Liverpool F.C.</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football_RealMadrid">
+    <description>Football Super League - Real Madrid C.F.</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Football">
+    <description>Football Super League - Zen Studios F.C.</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mars">
+    <description>Mars</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Ant-Man">
+    <description>Marvel - Ant-Man</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Blade">
+    <description>Marvel - Blade</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_CaptainAmerica">
+    <description>Marvel - Captain America</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_CivilWar">
+    <description>Marvel - Civil War</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Deadpool">
+    <description>Marvel - Deadpool</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_DrStrange">
+    <description>Marvel - Doctor Strange</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_FantasticFour">
+    <description>Marvel - Fantastic Four</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_FearItSelf">
+    <description>Marvel - Fear Itself</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_GhostRider">
+    <description>Marvel - Ghost Rider</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Guardians">
+    <description>Marvel - Guardians of the Galaxy</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_IronMan">
+    <description>Marvel - Iron Man</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_MoonKnight">
+    <description>Marvel - Moon Knight</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_SpiderMan">
+    <description>Marvel - Spider-Man</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Avengers">
+    <description>Marvel - The Avengers</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Age_of_Ultron">
+    <description>Marvel - The Avengers Age of Ultron</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_InfinityGauntlet">
+    <description>Marvel - The Infinity Gauntlet</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Thor">
+    <description>Marvel - Thor</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Venom">
+    <description>Marvel - Venom</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_Wolverine">
+    <description>Marvel - Wolverine</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_WWH">
+    <description>Marvel - World War Hulk</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="MARVEL_XMen">
+    <description>Marvel - X-Men</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SplosionMan">
+    <description>Ms. Splosion Man</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Paranormal">
+    <description>Paranormal</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pasha">
+    <description>Pasha</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="PlantsVsZombies">
+    <description>Plants vs. Zombies</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Portal">
+    <description>Portal</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rome">
+    <description>Rome</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Atlantis">
+    <description>Secrets of the Deep</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shaman">
+    <description>Shaman</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Citadel">
+    <description>Sorcerer&apos;s Lair</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SouthPark2">
+    <description>South Park - Butters&apos; Very Own Pinball Game</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="SouthPark1">
+    <description>South Park - Super Sweet Pinball</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Episode_4">
+    <description>Star Wars - A New Hope</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Boba_Fett">
+    <description>Star Wars - Boba Fett</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Darth_Vader">
+    <description>Star Wars - Darth Vader</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Droids">
+    <description>Star Wars - Droids</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Han_Solo">
+    <description>Star Wars - Han Solo</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Light_VS_Dark">
+    <description>Star Wars - Masters of the Force</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_MFO">
+    <description>Star Wars - Might of the First Order</description>
+    <year>2016</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Rebels">
+    <description>Star Wars - Rebels</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Episode_6">
+    <description>Star Wars - Return of the Jedi</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_SFA">
+    <description>Star Wars - Starfighter Assault</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_CloneWars">
+    <description>Star Wars - The Clone Wars</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Episode_5">
+    <description>Star Wars - The Empire Strikes Back</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="STARWARS_Episode_7">
+    <description>Star Wars - The Force Awakens</description>
+    <year>2016</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tesla">
+    <description>Tesla</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TheWalkingDead">
+    <description>The Walking Dead</description>
+    <year>2014</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="V12">
+    <description>V12</description>
+    <year>2013</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Western">
+    <description>Wild West Rampage</description>
+    <year>2015</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zen Studios</manufacturer>
+    <dev></dev>
+    <genre>Pinball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

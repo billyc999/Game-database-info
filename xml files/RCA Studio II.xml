@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>RCA Studio II</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="TV Arcade I - Space War (USA)">
+    <description>TV Arcade I - Space War (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>RCA</manufacturer>
+    <dev></dev>
+    <genre>Shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TV Arcade III - Tennis + Squash (USA)">
+    <description>TV Arcade III - Tennis + Squash (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>RCA</manufacturer>
+    <dev></dev>
+    <genre>Sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TV Arcade IV - Baseball (USA)">
+    <description>TV Arcade IV - Baseball (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>RCA</manufacturer>
+    <dev></dev>
+    <genre>Sports/Baseball</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TV Arcade V - Speedway + Tag (USA)">
+    <description>TV Arcade V - Speedway + Tag (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>RCA</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="TV Casino I - Blackjack (USA)">
+    <description>TV Casino I - Blackjack (USA)</description>
+    <year>1977</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>RCA</manufacturer>
+    <dev></dev>
+    <genre>Casino</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

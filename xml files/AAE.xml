@@ -7,7 +7,7 @@
     <exporterversion></exporterversion>
   </header>
   <game name="alienst">
-    <description>Aliens: Tempest Alpha</description>
+    <description>Aliens- Tempest Alpha</description>
     <year>1981</year>
     <rating>ESRB - E (Everyone)</rating>
     <manufacturer>Atari</manufacturer>
@@ -43,7 +43,7 @@
     <genre>Shooter</genre>
     <score>3.2</score>
     <player>1 Player</player>
-    <story>A Deluxe version of Atari&apos;s original Asteroids, Asteroids Deluxe swaps the vector graphics for bitmaps. The basic gameplay is still the same: You fly your triangular ship around a space which wraps around the edges, filled with asteroids. Shooting the asteroids splits them into two smaller ones, until they are small enough to be destroyed. If you collide with an asteroid, you&apos;re dead, unless you activate your forcefield which will bounce the ship off the asteroids. Sometimes, a flying saucer flies through the screen, shooting everywhere. Additional asteroid shapes also show up, such as the blue target-seeking hexagons which split up into smaller triangular missiles.</story>
+    <story>A Deluxe version of Atari&apos;s original Asteroids, Asteroids Deluxe swaps the vector graphics for bitmaps. The basic gameplay is still the same- You fly your triangular ship around a space which wraps around the edges, filled with asteroids. Shooting the asteroids splits them into two smaller ones, until they are small enough to be destroyed. If you collide with an asteroid, you&apos;re dead, unless you activate your forcefield which will bounce the ship off the asteroids. Sometimes, a flying saucer flies through the screen, shooting everywhere. Additional asteroid shapes also show up, such as the blue target-seeking hexagons which split up into smaller triangular missiles.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -141,7 +141,7 @@
     <genre>Shooter</genre>
     <score>3.0</score>
     <player>1-2 Players</player>
-    <story>A top-down space shooter set within a bounded playfield, where the player maneuvers a ship using rotation, thrust and forward-firing controls (much like Asteroids or Space War). Each stage is populated by autmated drone ships (or by competing players), and dominated by the titular enemy: a moving, rotating space fortress surrounded by a lethal force field.This circular force field instantly destroys anything that smacks against it. Shots fired by the player (and the drones) are non-lethal: the target is simply kicked back across the playfield, bouncing off the walls. The exception is the enemy ship hidden inside the Eliminator - it can (and must) be destroyed by sneaking a shot through the structure&apos;s narrow opening. If this isn&apos;t done quickly enough, it will emerge and start pursuing the player with deadly fireballs.</story>
+    <story>A top-down space shooter set within a bounded playfield, where the player maneuvers a ship using rotation, thrust and forward-firing controls (much like Asteroids or Space War). Each stage is populated by autmated drone ships (or by competing players), and dominated by the titular enemy- a moving, rotating space fortress surrounded by a lethal force field.This circular force field instantly destroys anything that smacks against it. Shots fired by the player (and the drones) are non-lethal- the target is simply kicked back across the playfield, bouncing off the walls. The exception is the enemy ship hidden inside the Eliminator - it can (and must) be destroyed by sneaking a shot through the structure&apos;s narrow opening. If this isn&apos;t done quickly enough, it will emerge and start pursuing the player with deadly fireballs.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -183,7 +183,7 @@
     <genre>Shooter</genre>
     <score>3.1</score>
     <player>1 Player</player>
-    <story>Lunar Battle is a prototype of Gravitar: The evil being called Gravitar is out attempting to destroy the universe! With each galaxy he conquers he leaves behind extreme gravitational forces, a powerful, explosive reactor and deadly bunkers. Your job is to stop Gravitar by taking back the twelve solar systems located in four galaxies that are under his control! In each solar system there is a sun, an alien reactor base, and three to four planets. To free the solar system, you have two choices; either visit all of the planets and destroy all enemy bunkers, or activate the reactor at the core of the alien base and escape before it explodes. On each of the planets and the alien base, there will be strong gravitational forces to deal with; make sure you keep your ship in space, since a crash into the ragged landscape will be fatal! After a galaxy has been freed, you then automatically move on to the next galaxy which will be even more difficult to save. The game includes five different skill levels which vary in difficulty by supplying different amounts of ships to begin the game as well as different strengths of gravity</story>
+    <story>Lunar Battle is a prototype of Gravitar- The evil being called Gravitar is out attempting to destroy the universe! With each galaxy he conquers he leaves behind extreme gravitational forces, a powerful, explosive reactor and deadly bunkers. Your job is to stop Gravitar by taking back the twelve solar systems located in four galaxies that are under his control! In each solar system there is a sun, an alien reactor base, and three to four planets. To free the solar system, you have two choices; either visit all of the planets and destroy all enemy bunkers, or activate the reactor at the core of the alien base and escape before it explodes. On each of the planets and the alien base, there will be strong gravitational forces to deal with; make sure you keep your ship in space, since a crash into the ragged landscape will be fatal! After a galaxy has been freed, you then automatically move on to the next galaxy which will be even more difficult to save. The game includes five different skill levels which vary in difficulty by supplying different amounts of ships to begin the game as well as different strengths of gravity</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -197,7 +197,7 @@
     <genre>Shooter</genre>
     <score>4.1</score>
     <player>1 Player</player>
-    <story>Meteorites is a clone of asteroids: Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship&apos;s photon cannon. When all asteroids are destroyed, the player can then move on to the next round. In addition to the asteroids, the player will also face an Alien Robot Saucer which shoots randomly across the screen.</story>
+    <story>Meteorites is a clone of asteroids- Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship&apos;s photon cannon. When all asteroids are destroyed, the player can then move on to the next round. In addition to the asteroids, the player will also face an Alien Robot Saucer which shoots randomly across the screen.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -309,7 +309,7 @@
     <genre>Shooter</genre>
     <score>1.8</score>
     <player>2 Players</player>
-    <story>Space Wars is an action game where two space ships battle each other. The game control is similar to Asteroids: you move by thrusting and rotating your ship left or right, you can fire in the direction you&apos;re facing, or enter hyperspace to randomly relocate your ship on the screen. If you can successfully destroy your opponent, a point is earned and the first player to reach 10 points wins the game. Besides the two ships, other obstacles are on the screen: a meteorite floats about randomly and in the center of the screen is a sun, both of which can destroy your ship. Two players can battle each other, or one player can battle the computer and several skill levels are available.</story>
+    <story>Space Wars is an action game where two space ships battle each other. The game control is similar to Asteroids- you move by thrusting and rotating your ship left or right, you can fire in the direction you&apos;re facing, or enter hyperspace to randomly relocate your ship on the screen. If you can successfully destroy your opponent, a point is earned and the first player to reach 10 points wins the game. Besides the two ships, other obstacles are on the screen- a meteorite floats about randomly and in the center of the screen is a sun, both of which can destroy your ship. Two players can battle each other, or one player can battle the computer and several skill levels are available.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>
@@ -477,9 +477,9 @@
     <genre>Shooter</genre>
     <score>4.3</score>
     <player>1 Player</player>
-    <story>Vortex is a prototype of tempest: Vortex is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</story>
+    <story>Vortex is a prototype of tempest- Vortex is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</story>
     <enabled>Yes</enabled>
-    <crc>Vortex is a prototype of tempest: Tempest is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</crc>
+    <crc>Vortex is a prototype of tempest- Tempest is a shooter using wire-frame graphics. Each Wireway is taken on in turn, and has a network of lines guiding the movement paths of both yourself and the aliens. You remain on the outside and keep shooting as the aliens move towards you. Any that reach the outside are fatal to touch, thus limiting your range of movement greatly if 2 or more achieve this. Some aliens move sideways - in dealing with these, plan ahead allowing for the time your shots to take to travel.</crc>
     <cloneof></cloneof>
   </game>
   <game name="warrior">
@@ -519,7 +519,7 @@
     <genre>Shooter</genre>
     <score>2.6</score>
     <player>1 Player</player>
-    <story>A fixed-screen, overhead shoot &apos;em up featuring a controllable ship with thrust and free rotation capabilities, similar to its predecessor Space Fury (and ultimately to Asteroids/Spacewar!). Your mission: infiltrate and recapture eight cosmic cities, presently held in thrall by a group of eight alien robots. Each of these mechanical antagonists (some male, some female) will taunt you in its synthesized voice as you approach its captured city. Once there, you must power through three waves of defense, consisting of drones and fighters - some enemies may be shielded, requiring multiple laser blasts to take out. Down the screen travel the indestructible Moboids, which come in three flavors (one sends ships into an uncontrollable spin, another bounces them away, and another destroys them on contact); the playfield doesn&apos;t wrap around, and bumping into the surrounding force-field will kick your ship back. Once the defenses are repelled, you will arrive at the city itself, where you&apos;ll face off against its robot conqueror, surrounded by concentric, rotating shields (a-la Star Castle). The robot will lob energy blasts at you as it tries to escape; if you manage to sneak a shot through the openings in its shields, your award is an extra life.</story>
+    <story>A fixed-screen, overhead shoot &apos;em up featuring a controllable ship with thrust and free rotation capabilities, similar to its predecessor Space Fury (and ultimately to Asteroids/Spacewar!). Your mission- infiltrate and recapture eight cosmic cities, presently held in thrall by a group of eight alien robots. Each of these mechanical antagonists (some male, some female) will taunt you in its synthesized voice as you approach its captured city. Once there, you must power through three waves of defense, consisting of drones and fighters - some enemies may be shielded, requiring multiple laser blasts to take out. Down the screen travel the indestructible Moboids, which come in three flavors (one sends ships into an uncontrollable spin, another bounces them away, and another destroys them on contact); the playfield doesn&apos;t wrap around, and bumping into the surrounding force-field will kick your ship back. Once the defenses are repelled, you will arrive at the city itself, where you&apos;ll face off against its robot conqueror, surrounded by concentric, rotating shields (a-la Star Castle). The robot will lob energy blasts at you as it tries to escape; if you manage to sneak a shot through the openings in its shields, your award is an extra life.</story>
     <enabled>Yes</enabled>
     <crc></crc>
     <cloneof></cloneof>

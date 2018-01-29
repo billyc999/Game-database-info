@@ -1,0 +1,891 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Fujitsu FM Towns</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="4D Sports Boxing (1991)(Distinctive Software)(Jp-En)">
+    <description>4D Sports Boxing</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Distinctive Software</manufacturer>
+    <dev></dev>
+    <genre>sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="4D Sports Driving (1992)(Distinctive Software)(Jp-En)">
+    <description>4D Sports Driving</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Distinctive Software</manufacturer>
+    <dev></dev>
+    <genre>driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="AD&amp;D Dragons of Flame (1992)(PonyCanyon)(Jp-En)">
+    <description>AD&amp;D Dragons of Flame</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Pony Canyon</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Advantage Tennis (1992)(Fujitsu)(Jp-En)">
+    <description>Advantage Tennis</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Fujitsu</manufacturer>
+    <dev></dev>
+    <genre>sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Afterburner (1987)(Sega)(Jp-En)">
+    <description>Afterburner</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>flyer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Afterburner 2 (1989)(Sega)(Jp-En)">
+    <description>Afterburner 2</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>flyer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Afterburner 3 (1992)(Sega)(Jp)">
+    <description>Afterburner 3</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>flyer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Blandia (1994)(Ving)(Jp-En)[mp3 source]">
+    <description>Blandia</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Bubble Bobble (1993)(Ving)(Jp-En)">
+    <description>Bubble Bobble</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Castles (1992)(Victor)(Jp-En)">
+    <description>Castles</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Victor</manufacturer>
+    <dev></dev>
+    <genre>strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Chase HQ (1991)(Ving)(Jp-En)">
+    <description>Chase HQ</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Drakkhen (1990)(Fujitsu)(Jp-En)">
+    <description>Drakkhen</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Fujitsu</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dungeon Master (1987)(FTL)(Jp-En)">
+    <description>Dungeon Master</description>
+    <year>1987</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>FTL</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Dungeon Master Chaos Strikes Back (1990)(Victor)(Jp-En)">
+    <description>Dungeon Master Chaos Strikes Back</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Victor</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Evolution (1989)(System Sacom)(Jp-En)">
+    <description>Evolution</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>System Sacom</manufacturer>
+    <dev></dev>
+    <genre>shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Final Blow (1990)(Ving)(Jp-En)">
+    <description>Final Blow</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>sports</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Flying Shark (1993)(Ving)(Jp-En)">
+    <description>Flying Shark</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Galaxy Force II (1990)(CSK)(Jp-En)">
+    <description>Galaxy Force II</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>CSK</manufacturer>
+    <dev></dev>
+    <genre>flying</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Genocide Squared (1993)(Zoom)(Jp-En)">
+    <description>Genocide Squared</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Zoom</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Image Fight (1990)(Ving)(Jp-En)">
+    <description>Image Fight</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Indiana Jones and the Fate of Atlantis (1993)(LucasFilm)(Jp-En)">
+    <description>Indiana Jones and the Fate of Atlantis</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lucas Film</manufacturer>
+    <dev></dev>
+    <genre>adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Indiana Jones and the Last Crusade (1989)(LucasFilm)(Jp-En)">
+    <description>Indiana Jones and the Last Crusade</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lucas Film</manufacturer>
+    <dev></dev>
+    <genre>adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Kyukyoku Tiger (aka Twin Cobra) (1994)(Ving)(Jp-En)[mp3 source]">
+    <description>Kyukyoku Tiger</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Lemmings (1991)(Psygnosis)(Jp-En)">
+    <description>Lemmings</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Psygnosis</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="LibbleRabble (1993)(Namco)(Jp-En)">
+    <description>LibbleRabble</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Namco</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Loom (1991)(LucasFilm)(Jp-En)">
+    <description>Loom</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lucas Film</manufacturer>
+    <dev></dev>
+    <genre>adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mad Stalker (1994)(Family Soft)(Jp-En)">
+    <description>Mad Stalker</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Family Soft</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Marble Madness (1991)(Homedata)(Jp-En)">
+    <description>Marble Madness</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Homedata</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Monkey Island 2 - LeChuck&apos;s Revenge (1991)(LucasFilm)(Jp-En)">
+    <description>Monkey Island 2 - LeChuck&apos;s Revenge</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lucas Film</manufacturer>
+    <dev></dev>
+    <genre>adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Muscle Bomber (1994)(CapCom)">
+    <description>Muscle Bomber</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>wrestling</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="New Zealand Story, The (1989)(Ving)(Jp-En)">
+    <description>New Zealand Story, The</description>
+    <year>1989</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Operation Wolf (1990)(Ving)(Jp-En)[mp3 source]">
+    <description>Operation Wolf</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>shooter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Populous (1990)(Imagineer)(Jp-En)">
+    <description>Populous</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Imagineer</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Power Monger (1992)(Imagineer)(Jp-En)">
+    <description>Power Monger</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Imagineer</manufacturer>
+    <dev></dev>
+    <genre>Strategy</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Prince of Persia (1992)(Riverhill Soft)(Jp)">
+    <description>Prince of Persia</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Riverhill Soft</manufacturer>
+    <dev></dev>
+    <genre>platformer</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pu-Li-Ru-La (1994)(Ving)(Jp-En)">
+    <description>Pu-Li-Ru-La</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>beat-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Puyo Puyo (1994)(CRI)(Jp)">
+    <description>Puyo Puyo</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>CRI</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Queen Of Duellist, The (199x)(Agumix)(Jp-En)">
+    <description>Queen Of Duellist, The</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Aqumix</manufacturer>
+    <dev></dev>
+    <genre>fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="RAC Rally (1995)(Victor)(En)">
+    <description>RAC Rally</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Victor</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Raiden Densetsu (1991)(Kid Corp)(Jp-En)">
+    <description>Raiden Densetsu</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Kid Corp</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rainbow Islands Extra (1992)(Ving)(Jp-En)">
+    <description>Rainbow Islands Extra</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>platform</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Rayxanber (1990)(Datawest)(Jp-En)">
+    <description>Rayxanber</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Datawest</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Samurai Spirits (1995)(Ving)(Jp-En)[mp3 source]">
+    <description>Samurai Spirits</description>
+    <year>1995</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Scavenger 4 (1994)(Psygnosis)(Jp-En)">
+    <description>Scavenger 4</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Psygnosis</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Secret of Monkey Island, The (1992)(LucasFilm)(Jp-En)">
+    <description>Secret of Monkey Island, The</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lucas Film</manufacturer>
+    <dev></dev>
+    <genre>adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Shadow of the Beast (1994)(Psygnosis)(Jp-En)">
+    <description>Shadow of the Beast</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Psygnosis</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sherlock Holmes no Tantei Kouza (1991)(Fujitsu)(Jp-En)">
+    <description>Sherlock Holmes no Tantei Kouza</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Fujitsu</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Sim City (1990)(Maxis)(Jp-En)">
+    <description>Sim City</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Maxis</manufacturer>
+    <dev></dev>
+    <genre>simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Splatterhouse (1992)(Ving)(Jp-En)">
+    <description>Splatterhouse</description>
+    <year>1992</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Strike Commander Plus (1994)(Origin)(Jp-En)">
+    <description>Strike Commander Plus</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Origin</manufacturer>
+    <dev></dev>
+    <genre>simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Shooting Towns (199x)(-)(Jp-En)">
+    <description>Super Shooting Towns</description>
+    <year>199x</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Amorphous</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Super Street Fighter II (1993)(Capcom)(Jp-En)">
+    <description>Super Street Fighter II</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Capcom</manufacturer>
+    <dev></dev>
+    <genre>fighter</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Syndicate (1994)(Bullfrog)(US)">
+    <description>Syndicate</description>
+    <year>1994</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Bullfrog</manufacturer>
+    <dev></dev>
+    <genre>simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Tatsujin Ou (aka Truxton II) (1993)(Ving)(Jp-En)">
+    <description>Tatsujin Ou</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Turbo Outrun (1988)(Sega)(Jp)">
+    <description>Turbo Outrun</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Sega</manufacturer>
+    <dev></dev>
+    <genre>driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ultima Trilogy 1-3 (1990)(Origins)(Jp-En)">
+    <description>Ultima Trilogy 1-3</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Origins</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ultima V - Warriors of Destiny (1988)(Origins)(Jp-En)">
+    <description>Ultima V - Warriors of Destiny</description>
+    <year>1988</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Origins</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Ultima VI - The False Prophet (1990)(Origins)(Jp-En)">
+    <description>Ultima VI - The False Prophet</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Origins</manufacturer>
+    <dev></dev>
+    <genre>rpg</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Viewpoint (1993)(Ving)(Jp-En)[mp3 source]">
+    <description>Viewpoint</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>shoot-em up</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Volfied (1991)(Ving)(Jp-En)">
+    <description>Volfied</description>
+    <year>1991</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Ving</manufacturer>
+    <dev></dev>
+    <genre>puzzle</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Where in the World is Carmen Sandiego (1993)(Fujitsu)(Jp-En)">
+    <description>Where in the World is Carmen Sandiego</description>
+    <year>1993</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Fujitsu</manufacturer>
+    <dev></dev>
+    <genre>Adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Wing Commander+Secret Missions (1990)(Origin)(Jp-En)">
+    <description>Wing Commander+Secret Missions</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Origin</manufacturer>
+    <dev></dev>
+    <genre>simulation</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Zak McKracken and The Alien Mindbenders (1990)(Lucasarts)(Jp-En)">
+    <description>Zak McKracken and The Alien Mindbenders</description>
+    <year>1990</year>
+    <rating>Other - NR (Not Rated)</rating>
+    <manufacturer>Lucasarts</manufacturer>
+    <dev></dev>
+    <genre>adventure</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>

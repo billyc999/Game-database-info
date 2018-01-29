@@ -1,0 +1,135 @@
+<?xml version="1.0"?>
+<menu>
+  <header>
+    <listname>Creatronic Mega Duck</listname>
+    <lastlistupdate></lastlistupdate>
+    <listversion>test</listversion>
+    <exporterversion></exporterversion>
+  </header>
+  <game name="Arctic Zone (Europe)">
+    <description>Arctic Zone (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Commin</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Commin 5 in 1 (Europe)">
+    <description>Commin 5 in 1 (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Commin</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Magical Tower (Europe)">
+    <description>Magical Tower (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Sachen</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Mega Duck 4 in 1 Game (Europe)">
+    <description>Mega Duck 4 in 1 Game (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Sachen</manufacturer>
+    <dev></dev>
+    <genre>Miscellaneous</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Pile Wonder (Europe)">
+    <description>Pile Wonder (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Commin</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Railway (Europe)">
+    <description>Railway (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Sachen</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Street Rider (Europe)">
+    <description>Street Rider (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Commin</manufacturer>
+    <dev></dev>
+    <genre>Driving</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="Suleimans Treasure (Europe)">
+    <description>Suleimans Treasure (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Commin</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+  <game name="The Brick Wall (Europe)">
+    <description>The Brick Wall (Europe)</description>
+    <year>1993</year>
+    <rating>HSRS - GA (General Audience)</rating>
+    <manufacturer>Timlex International</manufacturer>
+    <dev></dev>
+    <genre>Action</genre>
+    <score></score>
+    <player></player>
+    <story></story>
+    <enabled>Yes</enabled>
+    <crc></crc>
+    <cloneof></cloneof>
+  </game>
+</menu>
