@@ -1,1 +1,0 @@
-Goal of the game is to shoot as many enemies as possible (only visible from the side) while avoiding being shot down by flak cannons (which can cause a drop by up to 15 altitude) and to land safely again before the fuel runs out. If more than ten enemies have been shot it is possible to take off again with an ammo equal to the number of enemies being hit.

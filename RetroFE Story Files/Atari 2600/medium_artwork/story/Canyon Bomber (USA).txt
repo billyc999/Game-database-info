@@ -1,5 +1,0 @@
-Two aircraft (yours and your opponent's) fly over a canyon filled with layers of colorful bricks, a la Breakout. Using the fire button on your paddle controller, you earn points by dropping bombs into the canyon and destroying as many blocks as possible. The player with the highest score at the end of the game wins.
-
-This game is extremely limited in that it is played using only the paddle controller's fire button. You do not control the movement of the planes and helicopters, but rather you must time your shots to do the most damage.
-
-The cartridge includes a secondary variation titled "Sea Bomber" that is a little more interactive. In this game, you deploy bombs onto seafaring ships, but this time you can use the paddle controller's knob to determine the depth of the bombs.

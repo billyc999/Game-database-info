@@ -1,3 +1,0 @@
-This is the among the oldest of battles: cat vs. dog.
-
-You are the cat. You are trying to gather up the cat food pellets in a maze. As wonderful as that may be, the pesky canines are determined to catch you. You are chased by three dogs through the maze. Periodically, a green potion will appear. If the cat gets the green potion, it will transform into a dog catcher's truck and can capture the dogs. Any dog captured is sent to the pound at the top of the screen where they remain until the potion wears off, at which time they then start chasing you again. A bag of catnip will appear in the maze. You can grab it for extra points. The goal is to eat all the cat food pellets in the maze without losing all your lives.

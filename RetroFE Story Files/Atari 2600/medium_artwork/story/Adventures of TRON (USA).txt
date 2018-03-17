@@ -1,7 +1,0 @@
-Adventures of Tron is based on the motion picture TRON from Walt Disney Productions.
-
-The game environment consists of 4 floors, each with flying "bits" as well as enemy MCP attackers. The objective of the game is to control TRON (you) in a maze of platforms and elevators while trying to intercept the flying bits (intercepting bits on higher floors are awarded higher points).
-
-Dodge enemy MCP attackers by jumping, using elevators and hitching a ride on the Silver Sailor. Capturing all 7 "bits" will take you to the next level, with added speed and difficulty.
-
-You have a total of 4 lives in play. Make each one count!

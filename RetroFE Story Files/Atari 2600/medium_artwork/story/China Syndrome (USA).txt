@@ -1,5 +1,0 @@
-The Spectra Island reactor provides power for millions of residents. Ordinarily, there is no problem but there has been an earthquake. This has damaged the reactor, causing it to release radioactive particles. You must use the robot arm to retrieve these particles before the radiation builds too much and we have a meltdown.
-
-There are three sections per screen. They are colored, from top to bottom, red, blue and yellow. You start with one particle in each area and you must move the robot arm to intercept these particles, pushing the fire button to grasp them when they get to the robot arm.
-
-If you delay to long, however, the particles will split as they bounce around, causing the radiation level to build. If the radiation builds too much, you lose one robot arm. In later levels, you also must avoid hitting the circulating fans, as this will also destroy the robot arm. The game ends when you clear level nine and save the day or lose your last robot arm and the reactor enters meltdown.

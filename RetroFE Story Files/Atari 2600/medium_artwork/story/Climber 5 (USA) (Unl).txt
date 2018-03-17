@@ -1,3 +1,0 @@
-HOMERUN! NUTS! That's not that great a thing for you as you are the batboy and must climb the structure to retrieve the homerun ball. Be careful not to hit any moving items. This plays out rather like Donkey Kong
-
-You begin in the bottom right or bottom center and must make your way, via ladders, to the top left to retrieve a ball. Avoid moving obstacles however you can. Be careful you do not touch an obstacle or you will lose a life and be returned to your starting point. When you get the ball, you move on to the next level.

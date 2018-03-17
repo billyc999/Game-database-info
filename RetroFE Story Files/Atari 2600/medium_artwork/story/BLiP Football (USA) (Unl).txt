@@ -1,1 +1,0 @@
-This game is an attempt to duplicate, on an Atari 2600, the handheld football games first released in the late nineteen-seventies. Much as in those games, your characters are red dashes on a black background. When you run the ball off the screen, you warp around the other side. The game is played by two players who alternate using the same joystick.

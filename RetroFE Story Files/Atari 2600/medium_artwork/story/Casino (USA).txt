@@ -1,8 +1,0 @@
-This is three card games.
-
-Blackjack
-In game one, you play Blackjack with one or two players and allows for splitting. Game two is also Blackjack but is for one to four players and does not allow splitting. The computer is always the dealer. You place bets by rotating the controller then pressing the button.
-
-Difficulty switches
-Left switch:
-If set to A

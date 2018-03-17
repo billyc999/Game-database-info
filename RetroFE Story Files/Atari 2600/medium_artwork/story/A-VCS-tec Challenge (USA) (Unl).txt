@@ -1,7 +1,0 @@
-This game is based on the first two screens of the Commodore 64 version of Aztec Challenge.
-
-On the first screen, you are running the Gauntlet. Your character runs towards the horizon, from which a pyramid arises as you go, while spears shoot from left or right. You must jump or duck the spears by pushing up or down on the joystick.
-
-After you clear the Gauntlet, you must run up the Stairs of the pyramid while the priests throw stones down at you. You must push left or right to avoid these stones hitting you.
-
-Using the left difficulty switch, you can select to play one level after  another of the Gauntlet or play level one of Gauntlet followed by level one of Stairs then level two and so on. The right difficulty switch selects music or sounds.

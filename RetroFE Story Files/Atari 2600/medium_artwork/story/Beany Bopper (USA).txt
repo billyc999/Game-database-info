@@ -1,9 +1,0 @@
-In this game, you are Bopper.
-
-The object is to stun then capture Beannies. You can also capture Bouncing Orange Eyeballs and various Falling Objects.
-
-If an unstunned Beanny touches you, you lose a life. You don't need to stun the other items to capture them but doing so makes them slow down.
-
-You get a bonus Bopper by shooting four Beannies in a row without losing a Bopper.
-
-There are two game options, one where the Beannies bounce off the walls on screen, the other where they pass through.

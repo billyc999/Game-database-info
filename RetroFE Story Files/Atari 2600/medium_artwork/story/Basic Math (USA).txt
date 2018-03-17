@@ -1,5 +1,0 @@
-A very simple math game for kids.
-
-Each game of Basic Math gives the player a set of ten basic math problems (i.e. simple addition, subtraction, multiplication or division) to solve. The player is presented with two numbers and a function, and inputs the answer by cycling through numbers with the joystick. A timer option is available to ramp up the difficulty.  The game has eight primary game settings - basically two settings for each mathematical function.  Games 1 - 4 allow you to select one of the numbers you will be working with, while 5 - 8 give random questions.   
-
-Hint: For division problems that have a remainder make sure to put a space between the whole number and the remainder, which goes to the right.
