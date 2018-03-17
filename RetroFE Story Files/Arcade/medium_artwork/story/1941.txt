@@ -1,0 +1,1 @@
+A vertically scrolling shoot'em up. Player-1 uses a P-38 Lightning and Player-2 uses a Mosquito Mk IV.

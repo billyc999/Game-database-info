@@ -1,0 +1,1 @@
+Alcon is an early space shoot'em-up on a PCB similar to Tiger-Heli.You start with a rather slow ship with lame weapons and pick up stars that appear where enemies are destroyed. Each star changes the selection to the right in the powerup bar at the bottom of the screen (first star is the speed pickup).

@@ -1,0 +1,1 @@
+A platform game where players must walk around turning over all the squares while eliminating all the enemies in the process.
