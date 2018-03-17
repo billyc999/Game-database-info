@@ -1,0 +1,1 @@
+A horizontally scrolling shoot'em up where you try to shoot all the evil aliens while collecting cute, friendly one-eyed aliens. At the end of each level there is a chance to gain more energy.

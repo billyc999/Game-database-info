@@ -1,0 +1,11 @@
+A hilarious basketball game featuring customizing team names and colours. A full game consists of 4 quarters, with 4 minutes each. Each team has 2 players, and the objective of the game is to outscore the opponent until the final buzzer sounds.
+If the game results in a tie after 4 quarters, a sudden death overtime period is added, in which case the next basket to go in will win the game for the team who scored it. The overtime period is 1 minute long. A player can call for his teammate to pass him the ball or to shoot it.
+There are 8 characters that the player can play as, each with a unique characteristic. They are :
+* Blade : A crowd pleaser.
+* Hammer : Rebound king.
+* Lewis : Top shooter.
+* Mohawk : Tough & mean.
+* Moose : A real champ.
+* Reggie : All-American.
+* Tyrone : Defensive giant.
+* Vinnie : A great player.
