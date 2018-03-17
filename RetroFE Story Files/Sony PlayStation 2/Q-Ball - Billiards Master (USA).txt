@@ -1,0 +1,1 @@
+Q-Ball is a hyperrealistic billiards simulation.  The focus is squarely upon accurate, realistic physics 

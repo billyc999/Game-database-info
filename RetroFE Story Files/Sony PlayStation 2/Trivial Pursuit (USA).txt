@@ -1,0 +1,1 @@
+Trivial Pursuit is based on the general knowledge board game of the same name.  The object of the game is to move around the board answering questions based on what colour tile you land on. The six colours correspond with a subject which are: blue for geography, green for science and nature, yellow for history, orange for sports 

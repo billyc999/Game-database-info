@@ -1,0 +1,1 @@
+Winter Sports (no connection to the 49Games series) is a typical winter sports game, featuring 10 nations competiting in the usual events - downhill, cross country, slalom, ski jump, biathlon and snowboarding.  Game mode include tournament (where the player is in a race for points in all events in sequential order), multiplayer (against up to 4 human opponents) and practice.

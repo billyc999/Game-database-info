@@ -1,0 +1,1 @@
+A basic vehicle combat game. Controlled in the third person with customizable floating cars. Includes the standard deathmatch and last man standing models plus a new game type called Siege. Siege is basically a variant of capture the flag where vehicle try to take a ball around to different goals without being destroyed or having the ball jarred loose.

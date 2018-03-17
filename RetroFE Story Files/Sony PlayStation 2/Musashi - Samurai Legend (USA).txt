@@ -1,0 +1,1 @@
+Mushihimesama is a vertically scrolling shooter; players need to control their character over the constantly scrolling terrain and score points by shooting the various enemies that appear. Each of the five stages ends with a large 

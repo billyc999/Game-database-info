@@ -1,0 +1,1 @@
+This collection is the first release in the Fatal Fury series on the PlayStation 2. It includes:  1. Fatal Fury 2. Fatal Fury 2 3. Fatal Fury 3: Road to the Final Victory! 4. Fatal Fury Special  All games are faithful conversions of the Neo Geo versions. Button remapping per game is supported, as well as sprite palette customization, but no progressive-scan option.

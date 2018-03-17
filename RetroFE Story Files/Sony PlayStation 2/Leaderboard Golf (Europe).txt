@@ -1,0 +1,1 @@
+Leaderboard Golf is a typical golf game with courses inspired by the European and US Tour. Included are four different modes of play: quick round, match play, championship mode and practice Mode. It uses the standard Swingometer for the golf swings, where the power and hook/slice is set by your timing and reaction speed.

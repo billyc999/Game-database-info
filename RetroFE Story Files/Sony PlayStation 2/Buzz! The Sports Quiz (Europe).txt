@@ -1,0 +1,1 @@
+It's a sports trivia game using the USB buzzer of the playstation 2. You can play from 1 to 8 players. There's different game mode: Solo, Multiplayer or Team mode. You can choose the difficulty and the Length of the party. There's a choice of 16 characters to pick up, 3 different dress suit per characters and 24 buzz sound available.

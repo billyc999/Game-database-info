@@ -1,0 +1,1 @@
+Football (soccer - damn yankees!) management simulation, for the PC. Player takes the role of a club manager responsible for the day to day running of a club in one of 26 countries. Duties include buying and selling players, arranging contracts, setting training schedules and organizing match day tactics. An interactive match day football simulation is at the heart of the game.
