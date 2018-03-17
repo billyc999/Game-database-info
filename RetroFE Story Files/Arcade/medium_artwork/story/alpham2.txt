@@ -1,1 +1,0 @@
-A full-screen vertically scrolling shoot'em up game.
