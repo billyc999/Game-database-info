@@ -1,0 +1,10 @@
+You must catch pastries from six conveyor belts before they fall on the floor. Each pastry caught is boxed and put behind you. Sometimes, a knife and fork come down the conveyor belt. If you are hit by the utensils or miss a pastry, the janitor has to clean it up. If he has to clean up too many times, he gets upset and storms out and game over.
+
+You can push the button to stop a conveyor belt for about four seconds but if you stop a second one, the first belt starts right back up. On games with belt speed up, you can push right on the joystick to speed up the belt you are in front of.
+
+At the end of each level, you will have a cup of coffee come down the belt, but not fall off the end. When you grab the cup, you get and extra clean-up (life) and the next level begins.
+
+Difficulty switches
+Set the left switch to A to start at level five. Set to B to start at level one. The right switch is not used.
+
+The are game variations that force the baker to pause when transferring boxes, making it harder, variations that allow belt speedup, variations with fast moving bakers and variations with all gingerbread men.

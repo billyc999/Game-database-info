@@ -1,0 +1,1 @@
+As waves of aliens attack, you must kill them all before you are killed yourself. There are eight different aliens, each with different moves and attacks. Your ship is at the bottom middle of the screen. You do not move. Instead, when you push left or right, the enemies shift to that side.

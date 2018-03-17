@@ -1,0 +1,1 @@
+In Boulder Dash you take on the role of Rockford, who must collect a set number of diamonds in each level before progressing to the next. To do so, Rockford must dig through caves while avoiding falling boulders, contact with creatures that inhabit the caves, and other dangers.

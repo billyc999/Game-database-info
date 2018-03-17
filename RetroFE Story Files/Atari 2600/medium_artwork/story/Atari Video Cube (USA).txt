@@ -1,0 +1,12 @@
+In this game, you control Marvin the Cube Master. You move him around a six-sided cube with nine squares to a side.
+The object is to get all nine sides to be one color each in the least amount of time or fewest moves, depending on the game variation you select.
+
+Marvin changes a space's color by standing on it and you pressing the fire button. Marvin will then exchange the color he is with the space. Marvin cannot move onto a space of the same color as he is.
+
+To rotate the cube, just move to the edge and press the joystick in the direction to rotate.
+
+The game variations allow for normal or fast speed or timed race or fewest moves.
+Other variations cause the cube to show all the spaces as black except when it rotates, so you don't know what color your on.
+Two of the game variations, one a timed race and the other a fewest moves challenge, restrict you rotations to up and right only, but do not black out the spaces.
+
+Eight of the game variations have the computer play the game itself.
