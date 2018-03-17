@@ -1,0 +1,3 @@
+Your character embarks on a quest to find the seven crystals that are hidden throughout the land of Ticondera. There are seven different characters to choose from, each with different beginning stats and specialties.
+
+The game is presented in a 2.5D perspective, but shifts to an over-the-shoulder semi-3D view when combat initiates. Combat is turn-based, depending on which character you choose, your combat will either be almost entirely melee or magic-based. Potential enemies wandering around the world cannot be seen, however a radar map helps indicate enemies as as white dots.

@@ -1,0 +1,7 @@
+A 3D style game inspired by ball-and-paddle games, such as Breakout. Super Glove Ball was designed exclusively for Mattel's Power Glove accessory. (Although it can still be played with a normal controller)
+
+Your shuttle commander has been trapped in a dimensional maze in space, and you must use your glove to throw an energy ball at the walls in order to advance.
+
+The walls in each maze room you encounter are filled with blocks. Using your Power Glove, you have to entirely break down a wall before being allowed to advance to the next room. 
+
+While trying to progress through the maze, your character will be under attack by a range of creature, and a wizard who wants to mess with your work. The object for the player is to find the way out of the maze and rescue the Commander.

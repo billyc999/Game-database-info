@@ -1,0 +1,3 @@
+Disney's Beauty and the Beast is a typical side-scrolling platform game based on the Disney movie of the same name. The player takes on the role of Beast. As Beast the player can walk around, jump and hit enemies with his fists. Beast can also climb against walls.
+
+The levels feature various power-ups that can be collected (such as hearts which earn the player extra life and a magnifying glass which shows the player an upcoming piece of the level) which can be  and on the way the player must watch out for pit traps and various enemies.

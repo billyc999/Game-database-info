@@ -1,0 +1,18 @@
+Ultimate Arcade Games is a collection of 12 arcade-style games, inspired by a variety of popular classics. Each game utilizes core gameplay ideas from classic arcade games, while expanding and improving each game for a new generation of gamers.
+
+The games include:
+
+1. Asteroid Mine
+2. BeeKeeper
+3. ChipBot
+4. FlipSide
+5. Galaxy Hero
+6. Gridlock
+7. Highway 51
+8. Merchant Galactic
+9. Milk Run
+10. Omega Force
+11. Rubes Cubes
+12. Treasure Hunter
+
+Playing each game earns the player coins, which are used at the shop to purchase additional games and challenges. There are 120 challenges available to test the player's skills, and more than 340 medals to be earned. There is a high score board for each game, and players are able to view detailed statistics about time played, games played, medals won, and overall completion percentage.

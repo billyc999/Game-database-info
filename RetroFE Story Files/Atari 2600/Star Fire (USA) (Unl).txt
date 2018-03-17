@@ -1,0 +1,13 @@
+This is a conversion of a 1980 Exidy coin-op game.
+
+It is a time of crisis for the Earth forces. Years of constant assault
+from the EXIDY coalition have left Earth almost totally defenseless.
+
+Intergalactic intelligence has discovered a new threat, several Exidy
+freighters, protected by an armada of smaller vessels, have entered a
+friendly sector of space and are advancing on Earth itself, loaded with
+enough weaponry to completely annihilate the planet.
+
+You are Earth's only hope.
+
+Aim your cross hair onto an enemy ship and press the button to fire. Try to shoot as many enemies as you can. Once you destroy all the enemies in a sector, a warp gate appears. Shoot it to warp to the next sector. Whenever your ship gets a direct hit from enemy fire, your shield loses energy. To restore shield energy look out for, and shoot, energy diamonds.

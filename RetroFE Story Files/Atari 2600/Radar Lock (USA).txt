@@ -1,0 +1,5 @@
+Radar Lock is an arcade style action game. The player is the pilot of a delta-wing fighter and their objective is to destroy the enemy fleet. There are five missions of increasing difficulty, each with a unique variety of enemies to destroy.
+
+The player's jet is equipped with machine guns, guided missiles, and, in later levels, proximity mines, which can be used to destroy the Drones, Interceptors, Patrollers, Bombers, and other enemy fighters that the player will encounter. The jet has a limited amount of fuel, and at the end of each mission players will need to dock with the fuel tanker to replenish their fuel supply.
+
+To help out during gameplay, there is an instrument panel at the bottom of the screen which displays your radar, fuel gauge, and weapons status.

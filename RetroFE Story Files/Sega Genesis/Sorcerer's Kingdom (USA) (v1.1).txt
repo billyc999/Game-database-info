@@ -1,0 +1,3 @@
+Sorcerer's Kingdom is a mix of RPG and strategy game. You play a young adventurer, who is sent out by the king to find out the reason for the increasing number of monsters that threaten the land and restore peace to the kingdom. Starting out as an Adventurer you are eventually given higher titles by the king, as a reward for completing quests. 
+
+The game plays like a typical RPG but the battles are a little unusual. Whenever you are attacked or attack a monster that is within your current range, a turn-based battle starts immediately without taking you to a separate fighting area, and you have to fight all enemies that were visible the moment the battle started.

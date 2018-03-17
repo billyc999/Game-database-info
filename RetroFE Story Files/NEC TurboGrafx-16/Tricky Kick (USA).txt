@@ -1,0 +1,8 @@
+Tricky Kick is a sliding block puzzle game for the TurboGrafix-16.
+
+You have to kick two of the same item together, and they disappear, until you clear the board of pieces. You can 
+bump one item with another unless the way is blocked.
+
+There are also enemies that you have to kick into bumpers to destroy them.
+
+The game has a regular mode and a special mode with 60 puzzles each.  Many of the puzzles are quite difficult even in regular mode.

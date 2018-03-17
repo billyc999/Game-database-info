@@ -1,0 +1,6 @@
+An updated version of the original Double Dribble basketball game. Double Dribble: The Playoff Edition. The Playoff Edition expands dramatically on the original in a number of ways:
+
+1. 16 teams of 12 (fictitious) players each
+2. All players individually rated for various skills (Shooting %, Stamina, etc.)
+3. Three play modes: Exhibition, Playoff (with password feature), and Multiplayer
+4. 8-way multiplayer support with the Sega "Team Player" adapter

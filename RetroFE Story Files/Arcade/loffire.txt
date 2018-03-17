@@ -1,0 +1,3 @@
+A lightgun controlled shoot-em-up for one or two players with setting ranging from enemy bases to thick jungle.
+Two commandos find a special weapon hidden deep within an enemy base. Before the commandos can escape to report their findings, they find themselves surrounded by enemy forces and must blast their way through the enemy lines and escape, using the enemies' own super weapon against them.
+As well as enemy troops, players will have to contend with artillery, tanks and helicopters.

@@ -1,0 +1,3 @@
+An arcade golf game (as opposed to the more strategic-themed golf games that abound for the PC) with intuitive mouse/trackball control.
+
+Based on the incredibly long-lived and popular Golden Tee Golf 3D arcade game.  Features the ability to play through the internet in tournaments and contests, just like the arcade game.

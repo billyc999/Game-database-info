@@ -1,0 +1,1 @@
+Single or doubles tennis against human or computer players. Match is best of 3 sets. Game operates on both single and dual monitor cabinets.

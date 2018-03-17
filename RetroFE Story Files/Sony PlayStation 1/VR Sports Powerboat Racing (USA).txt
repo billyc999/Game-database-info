@@ -1,0 +1,5 @@
+This game represents an arcade-style approach to powerboat racing.  Races take place on enclosed circular waterways in easily recognizable locations around the world. There are several types of races, including the standard championship, time trial, practice, and multiplayer modes.
+
+The boats you can choose to drive vary slightly in type and ability.  You start off with only monohull boats, but you can unlock catamaran boats by winning championships.
+
+The tracks are equipped with shortcuts and lots of animated background objects to enhance the racing action.

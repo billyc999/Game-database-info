@@ -1,0 +1,23 @@
+The handheld versions of Ford Racing 3 allow players to race in a number of Ford-licensed cars, from classics (Model T) to new models (2005 Mustang GT), cars from movies, off-road tracks and even concepts vehicles such as the Mustang GT-R Concept.
+
+From the main driver profile where all statistics are recorded, players can do a quick race of one of the three competitions: Ford Competition, Ford Challenge and Ford Collection. Most of the game's features need to be unlocked first. Next to the regular racing controls there is also a button used for boost. The different competitions offer ten racing types:
+
+1. Standard: race for the first place.
+
+2. Elimination: race five opponents over three laps. After the first and the second lap, the last two cars are knocked out and a duel ensues in the final lap.
+
+3. Duel: a 3-lap race against six challengers in succession. After each won lap, a new one starts.
+
+4. Drafting: stay in the opponent's slipstream to raise a power bar.
+
+5. Driving Skills: race against the time and keep the timer going by passing through gates that award time bonuses.
+
+6. Seconds Out: race against the time while collecting bonuses.
+
+7. Time Attack: a straightforward timed race.
+
+8. Boost: race with two boosts per lap.
+
+9. Relay: transfer a baton three times around the track.
+
+10. Overtake: overtake a number of vehicles before time runs out.

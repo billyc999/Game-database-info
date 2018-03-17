@@ -1,0 +1,5 @@
+This is a Genesis-exclusive game based on the very popular comic hero team.
+
+Professor X's Danger Room is a training facility that can fully re-create environments in which the X-Men can practice their powers.  It's kind of like the holodeck on Star Trek.  One day, the danger room starts to go crazy, and randomly loading up dangerous simulations.  It turns out Magneto has loaded a virus into the Danger Room's computer, and now the X-Men have to stop it.
+
+In this side scrolling action game, you can control one of 4 playable characters:  Gambit, Nightcrawler, Wolverine, or Cyclops.  In addition, you can call upon 4 other X-Men in when necessary.

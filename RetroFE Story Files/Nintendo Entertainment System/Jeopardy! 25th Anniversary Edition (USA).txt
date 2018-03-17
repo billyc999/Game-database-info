@@ -1,0 +1,7 @@
+Based on the television game show of the same name.  The 25th anniversary edition of this quiz show requires you to provide 'questions' in response to the 'answer' clues.  The harder the question the more money it is worth.
+
+You can play with 1-3 players.  If less than 3 players are competing they may choose whether or not to play against the computer.
+
+Three skill levels provide  40, 45 or 50 seconds allowed to key in your answer.
+
+The first part of the "question" (WHO IS...or WHAT IS...or WHAT ARE, etc.) will appear with a number/letter grid (not QWERTY).  You response must be the EXACT spelling and tense that the system is looking for or it will not be accepted as a correct "question".

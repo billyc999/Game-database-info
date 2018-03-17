@@ -1,0 +1,3 @@
+Test Drive 4 is a racing game featuring ten different cars - five modern supercars such as the Jaguar XJ220 and TVR Cerbera, and five vintage muscle cars including three Chevrolet models. Each car has its own realistic physics, with challenging handling.
+
+There are five full circuits, plus a drag strip. You can contest a full world championship, plus single races and ghost-car time trials. The ability to find shortcuts which is featured in the third game in the series is not included here; you must stick to the pre-defined track layout.

@@ -1,0 +1,5 @@
+Barunba is a shooter in comic style. The levels automatically scroll and move in all directions.
+You control a space craft that has a weapons ring around it and therefore can shoot in various directions. Weapons can be upgraded by shooting enemies and picking up the pods they might change in.
+
+Each level has it's own theme and is quite long and has to bosses: a mid-level boss and an end boss. Both bosses have to be defeated before you can continue to finish the level or go to the next.
+A status bar at the bottom of the screen shows the energy bar of your ship and it's Game Over when that bar has depleted.

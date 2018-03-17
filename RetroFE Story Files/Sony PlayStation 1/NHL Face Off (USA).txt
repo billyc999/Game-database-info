@@ -1,0 +1,5 @@
+The first in the NHL FaceOff series.  You'll find one-timers, a wide selection of checks, slap shots, drop passes, every NHL player and team, and statistics.
+
+Also found in FaceOff includes pretty good AI for the time of the game's release. In terms of sound, FaceOff really tries to recreate an in the arena hockey sound, with the announcer's voice echoing combined with organ music and cheering from the crowd.
+
+There are also multiple camera angles that can put you in the middle of the ice.

@@ -1,0 +1,5 @@
+Thunder Truck Rally is a an arcade-style 3d monster truck racing game.  Here you will find all the normal racing game modes:  championship, time trial, practice, and multi-player.  In addition to the standard modes, there is a car-crushing competition that serves as both a separate game mode and a bonus round in the championship.
+
+There are 9 different trucks to chose from.  Each has their own set of strengths and weaknesses.  Some are faster than others, but break more easily.  Some turn corners more quickly, and some accelerate more quickly.  The designs of the trucks vary greatly.  Beyond the standard pickup and jeep type vehicles, you will find a VW bus and a sedan.
+
+There two main types of races in Thunder Truck Rally.  The first takes place in an open, free-roam area.  Here, your objective is to race from point to point in the fastest time possible.  The second type of race takes place in closed circuits with a fixed track that cannot be escaped.  Here, you simply complete the circuit as fast as possible.

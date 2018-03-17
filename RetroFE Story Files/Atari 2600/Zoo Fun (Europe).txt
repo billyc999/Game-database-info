@@ -1,0 +1,1 @@
+Incomprehensible game about collecting zoo animals. The game is based on the code of Panda Chase from Home Vision (you can still see the little panda heads when you run out of time).

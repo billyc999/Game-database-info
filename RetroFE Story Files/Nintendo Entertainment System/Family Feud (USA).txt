@@ -1,0 +1,1 @@
+Based on the television game show, Family Feud. The player chooses a family of five to play against another family. Players are asked to find the most common answers to various questions asked by the host, so the family can earn points. The family with the most points at the end of the game wins the prize money.

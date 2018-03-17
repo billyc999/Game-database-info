@@ -1,0 +1,1 @@
+Defend cities around the world from an airborne alien attack.  This is a remake of the '70s arcade game, and features 3d graphics, counter-strike capabilities, new enemies & power-ups, and multiplayer functionality.  Play is available in a Classic mode, which has only minorly retouched gameplay.  Ultimate mode has new graphics, locations, and other caveats.

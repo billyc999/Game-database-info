@@ -1,0 +1,5 @@
+Nova Blast is a side-scrolling sci-fi shooter in which your must defend 4 shielded cities from invaders that attack from both in the air and on the ground. Each city has a bubble shield that can sustain one hit; another hit to an unshielded city will destroy it.
+
+Players control a ship that can fire lasers horizontally and drop bomb vertically. The ship is also equipped with an energy beam that can absorb energy from energy tanks, and can also use that energy to create temporary shields around unprotected cities. The ship can also sustain up to 10 blows in each round. If all 4 cities are destroyed or the ship takes 10 hits in a round, the game ends.
+
+Nova Blast is a single player game with 3 difficulty levels.

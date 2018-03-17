@@ -1,0 +1,18 @@
+Cobra Triangle is a single-player boat-racing game that lets you do more than race. It borrows the power-up system from the shoot 'em up genre but keeps the emphasis more on maneuvering than shooting. Since you have a health meter with a dozen bars in it, it's not that important to dodge bullets unless your health is really low, but you should try not to run into too many walls. In order to get very far you need to make use of your power-ups which are TURBO for better acceleration; FIRE for increased firepower; SPEED for increased top-speed; MISSILE for firing missiles as well as bullets; and FORCE which makes you fire tons of missiles and also makes you invincible for a limited time. You get roughly one minute to complete each level. Speaking of which, there are 7 types of levels each with a different objective:
+
+(1) Race to the Finish - Shoot other boats along the way to the finish line and avoid enemies like turrets and sharks. Some boats tow power-up pods behind them that you can collect after you shoot them. It doesn't matter when you finish, and you aren't told if you get 1st or 2nd or 3rd place... it seems that the other boats are only there to get in your way. Watch for the fork in the river; choosing alternate paths takes you to the same levels of the game but in a different order.
+
+(2) Collect the Pods - Simply race in a straight path while running over ramps to collect pods and 1UP's in the air. You go on to the next level when time runs out.
+
+(3) Dispose of Mines - There is a small square in the water with mines in it. You actually have to collect the mines and tow them to another square to make them explode. Of course, there is an invincible enemy boat that tries to steal them back from you and some guys that shoot at you. It takes awhile since you can only tow them one at a time.
+
+(4) Fry the Monster - The 'boss' levels. You fight a sea-serpent, a crab, a shark, etc. He has his own health display right above yours, but it tends to deplete slower.
+(BONUS) Shoot the Targets - after every boss level you go to an auto-scrolling level where you are rewarded with a 1UP prize if you manage to shoot all the targets along the shore without missing any.
+
+(5) Guard the People - There's a large square filled with 8 helpless swimmers, and for some reason they're all about to be kidnapped. Other boats race into the square and tow them away unless you destroy their ships before they get away. You can tow the people back into the square-if you have time-while avoiding the spaceships that fire stunning missiles at you. If you have at least one swimmer left when the timer runs out then you pass.
+
+(6) Reach the Finish - Race in a straight course with plenty of obstacles but no other boats. You drive upstream while the current drags a horde of logs and whirlpools in your direction to stop you. Occasionally some planes fly by and shoot at you. If you happen to die in this or any other level, you simply reappear on the spot as long as you have an extra life. A continue puts you back at the beginning of the level you were on.
+
+(7) Jump the Waterfall - A level that consists of a series of moving ramps you must use to jump over huge pits. Moving currents, whirlpools, and the violation of several laws of physics makes this more difficult than it sounds.
+
+The entire game consists of repeating these types of levels for a grand total of 25 stages. The later stages are much more difficult than the first. They're filled with additional obstacles like icebergs, more mines, more enemies, and longer courses. There are even speed-ramps that let you take small short-cuts in later racing levels.

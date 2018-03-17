@@ -1,0 +1,13 @@
+Quattro Sports features four different sports action games on one cartridge:
+
+- Baseball Pro's:
+Pitch fast balls, curve balls, bat, and steal bases in this baseball simulation. Gameplay is from an overhead view of the field or from behind the plate when batting.
+
+- Soccer Simulator:
+An action soccer game viewed from overhead. Features passing, shooting, throw-ins, penalties, and fouls. 
+
+- Pro Tennis Simulator:
+Play tennis on grass, clay, or gravel courts. Hit volleys, lobs, smashes and more. Features a 3-D view of the tennis court and three skill levels.
+
+- BMX Simulator:
+Bike racing on three different terrains (dirt, desert, and quarry). Gameplay is from an overhead point of view of the racetrack. There are 15 different racetracks of varying skill levels, each with it's own set of jumps, bumps, ramps and other obstacles.

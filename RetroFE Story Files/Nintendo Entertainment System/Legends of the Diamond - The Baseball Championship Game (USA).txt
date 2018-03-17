@@ -1,0 +1,5 @@
+This baseball game features 30 all-time great baseball players (only 6 are pitchers). There is an exhibition mode which is just a single game and a tournament mode where you pick your players and then the computer pits you against the others in random made teams; win and you advance on to the next game. 
+
+Pitching is done by a behind the batter view. The pitchers can throw the ball with three different speeds; slow, medium, and fast. Also, the fielders are controlled manually.
+
+You can also choose between an old classic style stadium or a new modern style one. Besides the actual look of the place the only real difference between the two is that it's easier to hit a homerun in the old style stadium.

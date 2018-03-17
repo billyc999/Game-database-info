@@ -1,0 +1,13 @@
+In Splinter Cell, you take on the role of Sam Fisher, an operative for the secret organization Third Echelon.
+
+SC is a third-person stealth based game, similar to Metal Gear Solid.  Third Echelon is a secret organization, a part of the U.S. government.  The organization deals with very sensitive missions, and you play as Sam, Third Echelon's "splinter cell".  Your missions are so discreet, that if you are captured, the government will deny any such existence of that organization.
+
+Since it's a stealth based game, you have a variety of moves at your disposal.  You can walk, run, crouch, jump, rappel, shimmy, cross horizontal wires, zip using a zip cord, and do a split jump.
+
+To defeat your enemies, you have a variety of means.  You can use your weapons, but the noise might alert a guard.  You can stun them, kill them, subdue them, jump down from the ceiling and knock them unconcious.  Some enemies are needed to activate a door or passcode, so you can take an enemy hostage by holding a gun to his head, you can interrogate them, or you can use them as human shields.
+
+Some of the more innovative features of the game is the ability to peak through a door before going through.  You can open it up a bit to peak through, or you can use your optic cable camera (a "snake" camera) to peer through the underside of the door, checking to make sure it's clear.
+
+Being a stealth based game, your arsenal is small.  You have an automatic rifle that can be fitted with a silencer and other modifications, and you also have a trusty pistol.
+
+Splinter Cell also has downloadable content, so you can download new items in the future, specifically new levels and missions.

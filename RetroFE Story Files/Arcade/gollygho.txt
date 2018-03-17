@@ -1,0 +1,1 @@
+A video ticket/redemption game. Shoot a specific amount of ghosts before time runs out.

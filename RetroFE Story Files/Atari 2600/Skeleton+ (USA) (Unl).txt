@@ -1,0 +1,9 @@
+This is an improved version of Skeleton with the following new features:
+
+1. A life and a kill counter on screen
+2. A new Undead Locator to help track skeletons
+3. A selectable option to only have five skeletons per maze instead of ten
+4. A selectable option to start with only forty-nine health instead of ninety-nine and your shots only do half the damage.
+5. An option to turn the Undead Locator on or off during game play
+6. An option to choose to have the skeleton speed reset only at the start of a level
+7. An option to return the skeleton's touch to instant death like in the original version.

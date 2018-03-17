@@ -1,0 +1,1 @@
+A side-scrolling platform game in which the player takes on the role of a cowboy train-robber. The cowboy can use either his fists, pistols or a whip and must work his way along a moving train, killing enemy cowboys and collecting money and special weapons.

@@ -1,0 +1,9 @@
+This is a game based on the movie, 2010: The Year We Made Contact.
+
+You are an astronaut aboard the Discovery and need to repair its systems before it crashes into Jupiter's moon, Io. Time is limited so do not dawdle or the Discovery will be destroyed.
+
+You move the reticule over a trouble spot and press the A button to begin repairs. You must then select a path for the power to run so it powers all the components on that circuit board then move on. 
+
+If the floating ring touches a component while you are at it or you create a feedback loop, you will damage the component and will need to repair it  before you can continue, costing you time.
+
+Sometimes, you will need to return to a circuit to repair a component then restart it.

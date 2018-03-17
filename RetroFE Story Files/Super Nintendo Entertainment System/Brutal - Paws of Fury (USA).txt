@@ -1,0 +1,11 @@
+The Dalai Llama (bad pun or what?) has organised a martial arts contest for animals of all species to prove their skills, and you are competing in it. There are a wide variety of furry creatures to take on, and finally the Dalai Llama himself. 
+
+Brutal: Paws of Fury is a standard one-on-one beat 'em up across a variety of levels, with mostly outdoor terrain. You can choose of the many characters. Throughout the game, your character travels across Dalai Llama's island, fighting a series of duels before getting to the final showdown. 
+
+During a duel, you can punch and kick your opponent, try to use special attacks on him/her, or use a "taunt" that restores a bit of your health. Each battle lasts a number of rounds (how many - that is determined in the options menu); once one combatant has won that number of times during the battle, he wins. If the computer-controlled player won, it's game over (but you can still use a continue to start the fight anew); if you won, you move on to the next opponent. Once you have defeated them, you can watch an ending animation, different depending on the character you have chosen. 
+
+Instead of beginning a whole new game, you can fight a single duel, choosing the opponent and terrain. You can choose to fight either a computer-controlled opponent or another human player. 
+
+The visuals are leant towards cutesiness, which makes a change from the gore of Mortal Kombat and the metal of Rise of the Robots.
+
+In the console versions, you start the game without special moves, but get a new one after each successful best-of-three bout. The computer versions drop this feature, though.

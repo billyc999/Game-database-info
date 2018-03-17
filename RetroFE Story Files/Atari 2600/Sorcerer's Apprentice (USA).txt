@@ -1,0 +1,5 @@
+Based off the animated Disney classic "Fantasia", Sorcerer's Apprentice puts players in charge of Mickey Mouse as he collects and shoots stars and meteors on the mountaintops to keep the walking brooms from filling the Sorcerer's cavern below.
+
+For every caught star, a bucket appears to remove some of the water from the cavern.  Mickey also has the opportunity to catch the brooms before they get to the bottom of the stairs and flood the cavern further.
+
+If Mickey fails to provide enough buckets, or stop the brooms, they will flood the cavern, and the game is over.

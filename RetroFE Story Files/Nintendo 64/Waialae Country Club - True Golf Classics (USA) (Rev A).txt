@@ -1,0 +1,1 @@
+This golf simulation game features one course with 18 holes: the Waialae Country Club in Hawaii. This course has been completely recreated in 3D. There are six gameplay modes: Waialae Open, tournament play, stroke play, match play, skins play and practice mode. You can play with up to four friends (not simultaneously).

@@ -1,0 +1,16 @@
+1984 wasn't a good year for Atari or the video game industry in general.  In fact Atari was doing so poorly it was losing almost a million dollars a day!  Because of this Atari decided to stop developing games that it didn't think would sell in large numbers.  Once Atari was sold to the Tramiels they took a look at Garfield and decided they didn't want to pay the high royalties to Jim Davis and Steve Woita, so the game was canceled.  When Steve heard this he didn't take the news very well, but he had little time to protest as most of Atari's staff was laid off.  To make a long story short, Garfield was never finished.
+While Atari may have thought Garfield had limited appeal, its obvious they didn't take the time to play the game.  Had they actually taken a close look at Garfield they would have discovered that while it may feature a well-known cartoon cat, it was actually a great side scrolling platform game (something the 2600 library was sorely lacking).  Even in its unfinished state, Garfield proves that the 2600 could do a multi-screened side scrolling game (and all this after only 2 months of programming!).  Too bad Atari didn't agree.
+
+As you probably guessed, Garfield stars the lovable orange furball from the Sunday comics (no not Alf!).  Garfield is on a mission to find Nermal (wasn't he always trying to get AWAY from Nermal?), and to accomplish this mission he's going to have to cross five different action filled screens while keeping a looking out for the nefarious Odie!  The movement in Garfield is a bit strange, you don't move left or right with the joystick but by pressing the fire button to jump.  It takes a few tries to get the hang of it, but fits in well with the whole fence post idea.
+
+The Burgers
+
+This screen is fairly simple, Garfield must hop from fence post to fence post eating burgers.  The burgers fly back and forth across the screen and there seems to be an infinite number of them (note the Taz influence).  This screen may not be complete as you can eat the burgers just by standing still and don't need to jump at them, although if you do jump Garfield opens his mouth to eat it.  There's really no explaination for this screen, but according to Steve Woita this is sort of a dream sequence (this would explain the flying burgers).  After eating your fill of burgers you can jump off to the right to get to the next screen.
+
+The Flowerpots
+
+This screen is similar to the burger screen, but instead of somebody throwing burgers at you they're trying to clobber you with flowerpots!  Garfield must make is way along the fence (jumping as usual), but must duck when the flowerpot sails over head.  The flowerpots alternate flying in from the left and right so keep your eyes peeled for flying ferns...
+
+The Roof
+
+Now Garfield must make his way along the roof to get the other side of the yard.  But watch out becuase Odie is hiding in the chimney just waiting to pounce on poor unsuspecting Garfield.  This screen really doesn't make much sense, and probably would have had more to it had the game been finished.  Still, it shows off the Atari 2600's graphics abilities nicely.

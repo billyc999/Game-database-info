@@ -1,0 +1,5 @@
+This game allows the player to take control of an F-117A Stealth Fighter. The game is broken down into either an arcade or campaign mode.
+
+In the arcade mode, the player can decide the number of enemy air and ground units, the environment, length of mission, and the difficulty level. This mode allows the player to hone their skills in order to prepare for the campaign mode. 
+
+The campaign mode is the main part of the game and contains 30 missions. The game includes nine theaters of combat such as training missions in the Nevada Desert, to the conflict in Panama, and also to the Gulf War. Each mission has a primary object that must be destroyed in order to advance to the next mission.

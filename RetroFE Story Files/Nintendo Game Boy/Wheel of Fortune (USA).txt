@@ -1,0 +1,5 @@
+Wheel of Fortune is based on the popular game show produced by Merv Griffin.  The goal is the same as the game show, which is to guess missing letters to solve a puzzle which covers the same subjects as found on the show, such as place, person, thing, phrase, etc. Like the game show, the players spin the wheel, select consonants, buy vowels and hopefully, solve the mystery phrase.  The wheel can be "spun" at different strengths by sliding a bar across a selector, and the chances of earning a free spin, losing a turn, and going bankrupt remain.
+
+Game play is for up to two players taking turns, or for one player against the computer.  Gameplay moves through three rounds, and a bonus round for a grand prize.  Winning is accomplished, essentially, by earning the most money and winning the game by solving the phrases.
+
+There is even a "sexy model" that animates out onto the "stage"--though the resemblance to Vanna White is minimal at best.

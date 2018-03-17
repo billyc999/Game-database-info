@@ -1,0 +1,7 @@
+id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions.
+
+While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.
+
+Other changes from the original include new power-ups: an ammo box (taken from Spear of Destiny) and backpack that increases the maximum amount of ammo that can be carried.
+
+The original's weapons (knife, pistol, machine gun, chaingun) all return, but there are also two completely new tools of destruction: a flame thrower and a rocket launcher.

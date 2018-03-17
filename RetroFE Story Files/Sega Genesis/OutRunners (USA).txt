@@ -1,0 +1,5 @@
+OutRunners is a sequel to the classic arcade racer OutRun. It puts you behind the wheel of 8 different race cars with the aim being coming up first on a world-wide cross-country racing tournament.
+
+As mentioned you get to select from 8 differently tuned cars, each with different handling and speed specs. and then ride out in hopes of getting the trophy. At the end of each stage you get to select between different branching routes that determine what your next stage will be, and thus the different routes you take to the end game determine what ending you get (if you manage to beat the other players).
+
+OutRunners places a big emphasis on competitive gameplay as you are always racing against another car, be it an AI or human-controlled one in a perpetual split-screen multiplayer mode.

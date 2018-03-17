@@ -1,0 +1,1 @@
+A shoot 'em up game where you fly a craft over a scrolling background and dodge enemy fire while shooting enemies. You also collect coins and purchase different weapons and crafts.

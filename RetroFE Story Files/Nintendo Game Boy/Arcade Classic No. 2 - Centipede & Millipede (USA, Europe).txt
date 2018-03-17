@@ -1,0 +1,1 @@
+A compilation of two classic games, Centipede and Millipede ported over to the Game Boy system with original gameplay.  It is also compatible with the Super Game Boy Adapter with backgrounds made to resemble their original arcade casings.

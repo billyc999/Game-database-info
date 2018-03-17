@@ -1,0 +1,5 @@
+Porsche Challenge is a racing game exclusively dedicated to Porsche's awesome new roadster called Boxster. 
+
+The game was developed in collaboration with Porsche. As a result of this collaboration the game features only Porsche Boxsters as cars and focuses more on realistic look and feel of these Boxsters than on fast and furious action and spectacular crashes.
+
+The game features interactive tracks, driver personalities, a range of different game modes, including multiplayer.

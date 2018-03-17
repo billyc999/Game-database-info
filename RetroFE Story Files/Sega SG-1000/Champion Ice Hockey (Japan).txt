@@ -1,0 +1,1 @@
+Champion Ice Hockey is a simplistic ice hockey game built for the SG-1000.  You play as the Red team vs. the Blue team. One button shoots, while the other button passes. Up and down control not only your goalie, but also the direction of the scoring shot

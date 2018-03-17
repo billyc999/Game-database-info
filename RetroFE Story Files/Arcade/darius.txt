@@ -1,0 +1,10 @@
+A horizontally scrolling shoot-em-up that was unique at the time for featuring a game screen that was 3 times wider than the conventional size with the arcade cabinet utilizing 3 CRT screens to accommodate it.
+In the game, the player flies an ornate fighter craft called a Silver Hawk. The craft is equipped with 2 attack weapons : Missile (forward-firing standard gun) and Bomb (drops from the bottom of the ship). The Silver Hawk is also equipped with the 'Arm' (armor); a green energy shield that can absorb enemy attacks without harm to the ship.
+During the course of the levels the player must navigate the terrain and battle a variety of fighter craft, ground vehicles, turrets, and other obstacles. At the end of every level, players are greeted with the obligatory end-of-level boss. The bosses in Darius are often in the form of mechanical aquatic animals, such as fish or squid. If the player defeats the boss, the tunnel splits into two and the player must decide whether to take the upper or lower tunnel, both of which lead to a different stage. This allows many different paths to be taken through the game.
+Power-ups can be obtained by shooting enemies of a certain color, with the power-ups appearing in the form of colored bubbles. Each color corresponds to one of the ship's three weapons :
+* Red - Missile
+* Green - Bomb
+* Blue - Arm
+If the player powers up a weapon more than seven times, the weapon changes to a new, more powerful version. This then becomes the player's default weapon, and can be powered up further. There are also two other colors of power-up bubble, white and orange; which can be obtained by shooting at certain sections of the terrain; unfortunately, there are no visual clues as to where these may be on any given level. These hidden power-ups offer the following :
+* White - Gives a score bonus.
+* Orange - Smart bomb that kills all on-screen enemies.,

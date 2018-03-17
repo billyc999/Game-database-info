@@ -1,0 +1,15 @@
+You are Commander Harrington "Harry" Crag of the starship "Endless Search". You are put into a Malagai base for repairs but now the Malagai are holding you ransom. They want your advanced technology.
+
+There are three airlock doors per starbase. You must get the correct key for each door. Each is held by one of three Malagai. The order of which Malagai is holding which key is shown by the pictures above the starbase.
+
+If you are away from your assigned compartment for too long, as indicated by the line at the bottom of the screen, the Malagai will attack and you will need to return to your compartment to make them friendly again. When you touch a Malagai and, if it is the correct one, get the airlock door key, the Malagai will attack and the airlock will flash, on most game variations (see below). You must then make your way to the airlock. One door will disappear and the Malagai will become friendly again. After you open the third door, it is off to the next starbase.
+
+After the third (blue) starbase, you get an extra man.
+
+Game Variations:
+Version 1: All the Malagai have different shapes and colors
+Version 2: All the Malagai have the same shape but different colors
+Version 3: All Malagai are the same shape and color and the airlocks do not blink to show you got the right key.
+
+Scoring:
+Touch a Malagai while they're friendly

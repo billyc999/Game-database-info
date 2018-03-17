@@ -1,0 +1,1 @@
+Bio-Hazard Battle is a horizontally scrolling space shooter. You can choose one of the 4 ships, each one having its own attacks. During the game, you can upgrade your ships' weapons by collecting colored balls floating around. You can store up to 3 different weapons at the same time, executing attacks in different directions.

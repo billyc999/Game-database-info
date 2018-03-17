@@ -1,0 +1,1 @@
+A baseball game. Players pick from a list of teams. Time-points are awarded per credit which are either increased with runs batted in or decreased by opponent's runs or just regular plays. The game-play can be very frustrating because infielders may not pick up a ball at their feet since they are waiting for another player to come over and pick it up.

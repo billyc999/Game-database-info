@@ -1,0 +1,7 @@
+Kyle Petty's No Fear Racing lets the player race on 28 different stock car tracks and choose from a bevy of customizable cars, each with their own appearances, strengths and weaknesses.  There are three different modes to play. A Single Race where the player can choose a car and a track and race one time against a slew of computer opponents.  Season lets the player compete in an entire season on all the tracks, earning prize money to buy parts to upgrade their car.  They can change parts to maximize performance or even tweak the car such as change gear ratios, spoiler height, tire pressure, etc.  
+
+There is  also an option that allows for a two-player head-to-head battle that utilizes a split screen.
+
+It also features a track editor that lets the player build their own dream track and race on it against computer opponents or against a friend.  
+
+While the game does gear itself in appearances and style towards NASCAR, it doesn't feature any full license from them.  It does, however, feature the likeness and endorsement of NASCAR driver Kyle Petty, son of NASCAR legend Richard Petty and grandson of NASCAR pioneer Lee Petty.

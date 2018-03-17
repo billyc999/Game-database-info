@@ -1,0 +1,3 @@
+WWF Smackdown is a professional wrestling game where the player can choose from up to 36 wrestlers to wrestle in single matches, tag-team, backstage areas, hardcore matches, etc.
+
+Aside from the default WWF wrestlers, the player may also choose to create a new wrestlers with their own unique abilities and personalities.

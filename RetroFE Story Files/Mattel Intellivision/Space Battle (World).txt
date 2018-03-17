@@ -1,0 +1,5 @@
+Space Battle is a one player game that pits you against the computer.
+
+Six alien fleets of different sizes are attacking your mothership, and it's up to you to defend it using your three squadrons.  Alien ships will dodge your attacks and will attack you with photon blasts.
+
+There are two game modes; Radar Mode, which is more strategy, and Battle Mode, which is all out action.

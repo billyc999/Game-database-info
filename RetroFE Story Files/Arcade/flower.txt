@@ -1,0 +1,1 @@
+A vertical shoot'em up that is set in outer space. Eliminate attacking flowers and a variety of end-bosses. Shoot daisy-chains and comets for power-up itens.

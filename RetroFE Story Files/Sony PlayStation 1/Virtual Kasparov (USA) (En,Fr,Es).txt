@@ -1,0 +1,3 @@
+Virtual Kasparov is a chess game with thirty-one opponents of varying difficulty to face in a story mode. Victory over this multi-cultural group of chess players will lead to Garry Kasparov himself.
+
+Various styles of boards are included along with several 3D boards. Multiplayer is supported via link-cable or on a single system.

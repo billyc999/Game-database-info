@@ -1,0 +1,17 @@
+Surf�s Up is a surfing game based on the computer-animated film of the same name. The Game Boy Advance port of the game has 5 players in total (2 are available from the start), 5 areas with 1-3 stages each and the modes Championship and Minigames. 
+
+1. Championship has three available options: Race, Freestyle and Challenge (unlockable).
+
+1. Race: You race with 3 more CPU players and must finish in one of the first 3 positions. By winning races you will unlock more stages and areas, minigames and new characters.
+
+2. Freestyle: In this mode you have to score a certain number of points by the time you reach the finish line. New boards will be unlocked if you keep scoring high enough in races.
+
+3. Challenge: This mode is unlocked if you manage to win the race in a certain area of the Race mode. Challenges could be beating another surfer, do a number of tricks, gather a certain number of stars, etc.
+
+Minigames can be played once you unlock them apart from the 1st one that is available from the start.
+
+1. Minigame 1: It�s a tetris-like game where you must do horizontal and vertical rows of 3 or more of the same item.
+
+4. Minigame 2: There is a 4x4 board with �coins� that depict a character in each side. These must be turned over in order to make matching rows of 3 or 4. There is also a timer that counts down and if you don�t manage to make a row before it does its game over.
+
+5. Minigame 3: You are under the sea and you try to collect the items that appear on the upper right corner of the screen while avoiding the jelly fish and before the timer ends.

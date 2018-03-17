@@ -1,0 +1,1 @@
+Strike Force Hydra is a vertically scrolling shooter, with 8 levels, each divided into 3 stages.  Each level follows the same setup, standard scrolling level with enemies and a mini-boss, then an obstacle course fly through a tunnel, then another shooting level with enemies and an end boss.

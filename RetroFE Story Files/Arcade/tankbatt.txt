@@ -1,0 +1,2 @@
+Tank Battalion is a multi-directional shooter arcade video game.
+The player controlling a tank, must destroy 20 enemy tanks in each level, which enter the playfield from the top of the screen. The enemy tanks attempt to destroy the player's base (represented on the map as an eagle), as well as the player's tank. A level is completed when the player destroys all 20 enemy tanks, but the game ends if the player's base is destroyed or the player loses all his lives.,

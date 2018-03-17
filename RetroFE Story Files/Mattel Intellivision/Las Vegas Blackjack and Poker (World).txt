@@ -1,0 +1,1 @@
+Las Vegas Poker & Blackjack is a computerized version of different types of Poker and Blackjack, including 7-Card Stud and 5-Card Draw. The player inputs how much "money" that is available to bet with. There is one and two-player games, and Las Vegas Poker & Blackjack includes a dealer to play against.

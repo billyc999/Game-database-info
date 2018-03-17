@@ -1,0 +1,12 @@
+This hockey game contains an exhibition, tournament, shootout, and a fight mode. It also has 16 teams that represent the cities of real NHL teams but the game does not contain either real NHL teams or players.
+
+Exhibition mode is just a one on one matchup between 2 teams.
+
+In the tournament mode, a team must win to advance to the next round. If a team loses they are eliminated. 
+
+The shootout mode consists of two teams  who take turns taking shots at the goalie and whoever scores the most goals
+wins. 
+
+Fight mode consists of two hockey players fighting each other until either of their energy bars runs out. This mode is good to get some practice because when the fight happens in a hockey game the loser of the fight gets sent to the penalty box.
+
+There are three skill levels and four period-lengths to choose from. The game also has an option to make the referee either blind, fair, or tough which affects the frequency of penalties.

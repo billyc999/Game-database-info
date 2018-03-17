@@ -1,0 +1,5 @@
+Indy 500 is an arcade 3D racing game. You race on circuits in typical open wheel cars.
+
+The game features a two player (horizontal split-screen )mode, time attack and Indy 500 mode.
+
+In time attack the player just has to beat the clock in Indy 500 mode he has to race all the tracks including qualification rounds.

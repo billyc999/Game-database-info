@@ -1,0 +1,1 @@
+Shoot colored bubbles towards clusters of other bubbles. When groups of similarly colored bubbles are formed the bubbles burst.,

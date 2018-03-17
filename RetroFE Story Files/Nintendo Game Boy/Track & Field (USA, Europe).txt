@@ -1,0 +1,5 @@
+Track & Field for the Game Boy released by Konami in 1992. It was released as 'Konamic Sports in Barcelona' in Japan. Not all are part of Track & Field are athletics but all are olympic sports.
+
+The Game Boy version features different events than the other versions of the game. There are 11 events in total: 100m Dash, Long Jump, Hammer Throw, 110m Hurdles, Javelin Throw, Weight Lifting, Archery, Triple Jump, Swimming, Discus Throw, Pole Vault. All require quick and timed arcade reflexes.
+
+Game modes: 1-Event Mode (quick game), Competition (something like story mode) and Versus mode (link cable play with friend).

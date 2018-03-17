@@ -1,0 +1,5 @@
+Goal Storm is a soccer game featuring 3D polygonal motion-captured players. It features an Exhibition and a Hyper Cup mode. Exhibition mode lets the player play a game of soccer against the computer or another player. Hyper Cup mode lets the player pick a country (unfortunately one without licensed players), and lets them compete in a tournament against three other teams. 
+
+All the rules of soccer are present such as throw-ins, offsides, and penalties which can get players yellow and red carded. Offensive and defensive team strategies and line formations are also able to be set by the player. There's also an announcer who calls all the action on the field. 
+
+Options let the player choose the computer's difficulty level, the length of the halves, and the conditions of the playfield.

@@ -1,0 +1,2 @@
+Telly Turtle is basically a port of the LOGO programming language with the main character being a turtle. The keypad buttons of the Colecovision are used to issue commands from a selection presented on-screen and eventually, programs can be formed to move Telly Turtle around the screen in a series of directions.
+Music and Sound Effects are also added into the mix to broaden the programming experience

@@ -1,0 +1,5 @@
+When playing this game, you are the pilot of an Omegan Space Fighter in training to defend Omega's Star Colonies. You are stationed in space to destroy as many waves of attacking enemy droid ships as possible.
+You begin your training with a small number of droid ships in the first wave of attackers and gradually build your skill until there is a maximum number of 12 attacking droid ships per wave. These attaching ships not only move independently and fire at you, they also drop two different kinds of space mines to block your path and your shots at them.
+As your skill level increases, the speed with which the droid ships attack is gradually increased and their shots at you become more accurate.
+Bonus ships are awarded to you periodically throughout the game as you reach or pass certain preselected point values. Each enemy ship and mine has a point value.
+The object of the game is to survive as long as possible while destroying as many attacking droid ships and space mines as you can. As you do this, each following wave of attackers will be harder to destroy.

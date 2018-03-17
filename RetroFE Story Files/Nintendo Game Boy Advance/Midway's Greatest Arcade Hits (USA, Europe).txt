@@ -1,0 +1,9 @@
+A collection of classic arcade titles:
+
+1. Joust: While riding an ostrich, you must knock out the other players on the field to advance to the next level.
+
+Defender: Much like Space Invaders, you fly a spacecraft out to stop an invasion of aliens on Earth. Unlike Space Invaders, you move up and down as well as left and right while the enemy fly down to grab humans of the planets surface.
+
+Robotron 2084: Out to save the last human family, move your way through the play field while taking out the many robots that lay in your path before you.
+
+Sinistar: Mankind's last hope, you must shoot down asteroids while picking up items to increase your ships power before the battle with the Sinistar.

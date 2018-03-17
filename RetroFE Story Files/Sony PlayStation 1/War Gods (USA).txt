@@ -1,0 +1,3 @@
+War Gods is a one-on-one fighting game that takes place in 3D environments. The fighter under your control can perform many different moves, and string those moves together to perform "combos."  Furthermore, the fighters all have special "finishing moves" that eliminate your opponent in some gruesome manner at the end of a match.  There are 10 different fighters to choose from, all based on different ancient civilizations.
+
+The graphics in War Gods are fairly unique. They were created by texture-mapping 3D character models with digitized photos of people.  This gives them a reasonably lifelike look.

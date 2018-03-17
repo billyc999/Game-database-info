@@ -1,0 +1,5 @@
+A collection of two separate games/learning tools.
+
+The first game is "Follow The Leader" where a pattern is repeated using a 4-color circle. By keeping track of either the tones generated or the colors flashing, the player can copy the sequence to continue. Higher difficulties increase speed and allow only tone identification of sequences. Additionally it keeps track of your best number of correct identifications in a row.
+
+The second game is "Clef Climber" where the player is given a tone that corresponds to a certain musical note and must match the note being played. Lower difficulties provide a constant tone to refer to and visual help on the note being used. Higher difficulties provide a single playing of the tone and no visual help.

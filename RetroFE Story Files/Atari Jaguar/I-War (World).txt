@@ -1,0 +1,7 @@
+The giant supercomputer that controls the world's information has been infected with viruses.  You must enter the virtual world known as the I-Way, and clear them out with your anti-virus tank.
+
+I-War is a 3D virtual reality tank game.  In each of the 21 levels, you must find all the data pods and make your way to the exit. Enemy tanks, turrets, and bombers stand in your way, as well as occasional traps or locked doors controlled by hidden switches. Levels are divided into simple, enclosed rooms, linearly connected by one-way teleporters.
+
+You can select a fast, medium, or heavy tank at the beginning of the game, with its abilities reflected in the strength of its guns or the amount of punishment it can absorb. Throughout the game, you will also find weapon power-ups and tank upgrades (such as shields, radar, and auto-targeting) to help you stay effective against the increasing numbers of enemy defenders. You can save your progress to the cart at the end of each level.
+
+Between levels are bonus rounds where you pilot your tank through a corridor and try to collect a set percentage of data pods. Meeting that percentage earns you an extra life.

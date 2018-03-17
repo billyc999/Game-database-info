@@ -1,0 +1,1 @@
+A vertically scrolling shoot'em up game where the mission is to rescue the prisoners of war from enemy battlefields.

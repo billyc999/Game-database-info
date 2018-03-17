@@ -1,0 +1,11 @@
+This naval combat game feature a 1 and 2 player game. The 1 player game is split between either Arcade or Campaign mode. The 2 player game is split between Arcade or War Games mode.
+
+The Campaign mode features 50 missions with objectives such as eliminating enemy supply convoys or carrying out a full scale assault on an opponent's homeland. The player than selects the admiral they want to fight in the battle. There are 5 opposing admirals and each admiral has their own set of skills on how they wage war.
+
+The Arcade mode lets 1 or 2 players choose their ship and then have a 1 on 1 ship battle. Players earn points for sinking their opponent's ships which will allow them to climb 10 naval ranks all the way from Ensign to Fleet Admiral.
+
+The War Games mode allows 2 players to play against each other in 26 different locations. Players can compete in these locations in three different ways. One way, is called war, with the objective to destroy every one of their opponent's ships. Another way, is to play capture the flag, which has the player trying to sink their opponent's flag ship and then return the flag back to their own harbor. The final way is called capture the harbor. This has the player attempt to drop marines, who are being carried inside a troop transport, off into their enemy's harbor, so the harbor can be attacked and captured. In this mode, players also get to choose between playing as one of several countries, or have a balanced or custom naval force. This choice affects the number of units of each type of ship the player starts the battle with.
+
+The game features 8 types of ships which are aircraft carriers, destroyers, battleships, cruisers, patrol boats, mine layers, troop transports, and submarines. Each ship has different ratings in the categories of top speed, target range, hull strength, main guns, special weapon, and defensive weapon.
+
+Gameplay has players moving their ships strategically on an overhead map. When two ships move close enough to each other, a battle can happen. In the battle, players try maneuvering a target reticule on their opponent ship to attack them, while also attempting to move out of the way of their opponents attacks. Once one of the ships health meters become empty from taking to much damage, they are sunk.

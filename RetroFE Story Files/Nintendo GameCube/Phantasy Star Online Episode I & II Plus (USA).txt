@@ -1,0 +1,4 @@
+A re-release of Phantasy Star Online Episode I & II with two main changes:
+
+1. Items and quests previously available only through downloads are already on the disc.
+An exploit that allowed a GameCube to run code loaded from a PC has been removed.

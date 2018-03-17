@@ -1,0 +1,8 @@
+It's the 14th annual Jellystone Park Balloon Fest. And you know what that means for Yogi...campers with pic-a-nic baskets! Yogi has a plan to get those baskets. He'll pose as a balloon salesman. He just needs to avoid Ranger Smith.
+
+Boo Boo: "But, Yogi, the Ranger isn't going to like this."
+Yogi: "Not to worry, Boo Boo, I'm smarter than the average bear!"
+
+This is a puzzle game requiring strategy. A cloud above will hold several colored balloons while moving left or right. When it reaches the screen edge, it drops down a bit. You have a picnic basket with two balloons attached. By pressing the B button, you can rotate the balloons 90� and swap the colors. By pressing the A button, you release the balloons. The object is to get three balloons of the same color to touch. They will then pop and will be gone. Remember, the cloud is moving so time your release so the balloons go where you want. You are trying to clear all the balloons to move on.
+
+Every fourth level is a boss level where you have Ranger Smith on top of the cloud. He stomps the cloud to lower it and drops a stone. If the stone hits your basket, you will release your balloons, whether you want to or not, and will not be able to move for a couple seconds. Once you clear all these balloons, you will have defeated Ranger Smith and will move on to the next area. If you match a balloon with an arrow in it, the cloud will move up a little. If the balloons reach the bottom, you lose. You can then choose to restart the level you were on or end the game.

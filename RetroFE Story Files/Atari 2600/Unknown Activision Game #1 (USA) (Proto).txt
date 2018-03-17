@@ -1,0 +1,21 @@
+Found in a salvage yard in 1998 by Ben Liashenko, the identity of this mysterious Activision prototype has eluded collectors for years.  This prototype plays like a cross between a Rubik's Cube and the old sliding puzzle game.  The goal of the game is to line up all the colors in each row from light to dark.  If you've done it correctly the board should look like the start-up screen with the colors descending from red to purple.  However lining up all the colors is easier said than done due to the unique way the squares move across the board.  When you move your square up or down a row or column, the last square in that row will move behind your square's new position.  For instance if my square is the light green one (center of the row), and I move it left it will result in the last square in the row (the light blue one) moving behind it.  If I moved right instead, the last square on the right (the dark blue one) would move behind my square.  Mastering how the squares move is essential to solving the puzzle.
+If you forget what order the squares should go in, pressing the fire button will cause all the squares in the correct positions to turn black.  While this is helpful for positioning the shades of color in each row, it won't help you remember what color is supposed to go in each row.
+Strangely both joysticks seem to function in this prototype even though it's one player only.  My best guess is that a second player feature was planned, so both joysticks were made to move the tiles temporarily until it was implemented.  The difficulty switches and the Color/B&W switch have no effect in this prototype.  Even though there are four different game variations present, only two seem to be complete and playable.
+
+Game 1
+
+The board is always randomized at the start of this game.  
+
+Game 2
+
+The board pattern is fixed in this game.
+
+Game 3
+
+This game is still a mystery.  Unlike the other two games, the board starts out already solved.  Also of note is that this game is not timed like the others, instead it appears as if you are able to score points in some way.  This game may be unfinished.
+
+Game 4
+
+This game is a demonstration very similar to the one that plays if you leave the game alone for a few minutes.  In this game the board starts out empty and is filled in by the sliding squares.  It does not appear that the player can interact with this game in any way.
+
+While this prototype looks above average for a 2600 game, the gameplay just isn't up to Activision standards.  This puzzle game is boring, overly difficult, and in the end absolutely no fun to play.  I can only hope this prototype was a concept demo missing some major gameplay elements, as I can't see this game being ready for release.  Still if you're into puzzle games, this prototype will seriously challenge your mind (and your sanity).

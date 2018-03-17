@@ -1,0 +1,16 @@
+You've been abducted! Kidnapped! Shanghaied! You find yourself in a huge maze being watched by the Mindmaster. He is testing your intelligence, reflexes, agility, etc. The honor of you and the entire human race depends on how fast you can solve the Mindmaster's puzzles and six mazes.
+
+You begin in maze one. You must go through the maze and find colored, shaped pegs then find the correct shaped hole to put it in. As if that wasn't bad enough, there is an Alien Stalker wandering the maze and if he touches you, you lose one chance. You can tell how close he is by the beeping sound. The faster and higher it is, the closer he is. He cannot pass through walls or doors. Also, starting with maze two, there are force fields in the maze that if you touch them, you lose one chance. There are also one-way doors starting with maze four. If you go through one and turn around, there is no way back. You can never go through a door when backing up.
+
+There are also skill tests in mazes one through five that you can complete for points. They are as follows:
+Maze 1: Agility - Move your cursor from side to side to avoid the falling bricks. The four collisions and the test is done.
+Maze 2: Reflexes - Press your joystick in the direction of the arrow
+Maze 3: Recall - Watch the sequence of flashing arrows then move your joystick in the same sequence
+Maze 4: Dexterity - The same as the agility test except the test is over if you get hit once
+Maze 5: Coordination - Land a lander onto a platform without using much fuel. You get up to five attempts.
+
+You start each maze with sixty points and every few seconds a point is deducted. The total score for each maze is the score you got on the skill test plus whatever is left of the beginning sixty when you exit the maze. If you lose all your chances or finish maze six, you will get your final score and the Mindmaster's impression of you and the human race.
+
+Atari 2600 Difficulty Switches
+The difficulty switch on the left controls the number of chances you get.
+A

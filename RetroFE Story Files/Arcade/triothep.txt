@@ -1,0 +1,1 @@
+A hilarious action game with three selectable characters : a brawler, warrior and ninja who can randomly power up/decrease after stage complete.

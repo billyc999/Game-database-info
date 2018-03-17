@@ -1,0 +1,9 @@
+Jeremy McGrath lends his name to this Supercross racing game. Game modes include a Racing Season, Single Race, and a Ghost Racing mode.
+
+The Racing Season mode involves the player racing against 5 opponent racers on a number of indoor or outdoor tracks trying to get first place. The higher the position the racer finishes the race, the more points that racer will earn. (1st place = 5pts., 2nd = 4pts., etc...) Players have to earn a certain number of points in a series of races, in order to move on to tougher competition. If the player becomes really proficient, they'll then be able to challenge Jeremy McGrath himself for the championship.
+
+Getting far in this mode will also unlock more bikes. The various motorcycles available have different statistics in engine power, tire grip, and handling. Players can choose to race with either auto or manual transmission.
+
+The Single Racing mode lets the player race alone or with opponents or against another player. Players get to select from 7 different tracks and can also race on reversed versions of those tracks. Ghost Racing let's the player compete against a ghost racer who represents the player's best time on a track.
+
+The game also includes a track editor. Players can place various jumps, hairpin turns, and other types of track features and create their own track to race on.

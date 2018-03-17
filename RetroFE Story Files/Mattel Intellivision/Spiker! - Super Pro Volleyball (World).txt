@@ -1,0 +1,5 @@
+Features Indoor (6-man) volleyball in a gymnasium and Outdoor (2-man) volleyball on the beach.  Realistic volleyball simulation featuring serving, bumping, sets, jumps, spikes, blocks, dives, and digs.  
+
+As player, you control every member of your team.  Aim your serves; pass the ball to the setter; crank on the spike; leap to block the spike.
+
+Play against the computer, or play against an opponent.  There's even a special option that lets two players play together against the computer.

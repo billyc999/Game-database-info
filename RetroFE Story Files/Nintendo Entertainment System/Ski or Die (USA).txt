@@ -1,0 +1,13 @@
+Ski or Die is a winter-themed extreme sports game in which the player can competes in 5 different events:
+
+1. Downhill Blitz: Downhill skiing event in which the player can make large jumps over chasms and perform stunts in the moguls section
+
+2. Innertube Trash: Two players descend a mountain in innertubes. Score points by picking up items, perforating your opponents tire with a knife or fork and finishing first.
+
+2. Acro Aerials: Ski down a ramp and score points by performing acrobatic jumps.
+
+3. Snowball Blast: First person snowball fight. Score points by taking out little that attack your snow fortress.
+
+4. Snowboard Half-Pipe: Put on your snowboard and score as much points as possible in a limited amount of time by performing tricks inside a half-pipe.
+
+Practice a single event or try the tournament. The tournament mode has hot-seat multiplayer support.

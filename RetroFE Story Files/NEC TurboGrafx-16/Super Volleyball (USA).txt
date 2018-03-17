@@ -1,0 +1,5 @@
+Super Volleyball is an indoor volleyball game for one or two players. The single player mode offers two game options: normal game and World League. Choosing normal game pits the player against the computer in a single game. Choosing World League pits the player against all other teams available. A password save is available in this mode.
+
+The game features eight national teams (USA, USSR, Brazil, Holland, France, Italy, Japan and China), with fictitiously named players. Players can be changed during gameplay by pressing C. There is also an option to create new teams, choosing the team's name, color, player's position and names.
+
+Gameplay is viewed from a side scrolling perspective, with the camera fixed on the ball. A small radar on the top of the screen shows the players' positions of both teams. Players can, bump, set, spike, dump, block and dig. A collection of serves is also available: underhand, overhand and jump serve. There are also options for three ball speeds, beginning points (from 0 to 10, out of 15) and handicap.

@@ -1,0 +1,1 @@
+A reaction-based shoot-em-up in which the player takes on the role of an army soldier.

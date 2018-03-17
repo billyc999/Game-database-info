@@ -1,0 +1,3 @@
+Great Basketball is an 8-bit simulation of international basketball competition.  Choose from one of eight countries (USA, Canada, USSR, Japan, Cuba, Czechoslovakia, Italy, Hungary) and jump into the intense hoops action, featuring 5-on-5 play, defensive and offensive fouls, free throws, and three-point shots.
+
+Single player mode is a double-elimination tournament.  Win a game, and you get to allocate bonus points to various RPG-style attributes like shooting, passing, and jumping.  There�s also a two player mode�but remember, only one team can win it all!

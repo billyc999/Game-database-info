@@ -1,0 +1,1 @@
+Nice horizontal shoot'em up feature a selectable shooting direction.

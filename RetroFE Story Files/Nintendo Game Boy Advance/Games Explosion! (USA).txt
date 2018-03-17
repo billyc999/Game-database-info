@@ -1,0 +1,32 @@
+Games Explosion! is a compilation of 16 small games divided into 5 categories.
+
+1. Neon
+
+1. Neon Square - a Pong variant
+2. Sudoku - an adoption of the famous number puzzle
+3. Tic Tac Toe - an adoption of the classic pen and paper game
+
+Board
+
+1. Checkers - a variant of the classic board game
+4. Eliminate - a mastermind variant
+
+Cyber
+
+1. Ice Jumper - isometric game where the player has to jump between platforms made of ice without falling off. The screen is constantly scrolling vertically 
+5. MC Rudolf - a simple platform game that scrolls vertically. The player has to jump between platforms to gain height
+6. Pizza Man - a Tapper variant where the player serves pizza to robots
+7. Warehouse Man - a sokoban variant featuring robots
+
+Zap
+
+1. Avoider - a Pang variant
+8. Music Pop - a music game where the player has to press the correct button when the notes reach an orange line
+9. Pipemaster - a Pipe Mania variant
+10. Space Shooter - a Space Invaders variant
+
+Club
+
+1. Blackjack - the classic card game
+11. Crazy Bowling - a simple bowling game that users different meters for aim, spin and power
+12. Darts - a simple dart game where a pointer is moving constantly and the player has to stop it at the right time

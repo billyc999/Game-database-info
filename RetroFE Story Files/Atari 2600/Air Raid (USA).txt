@@ -1,0 +1,7 @@
+The object of this game is to defend the buildings at the bottom of the screen.
+
+There are four types of attacking ships moving down the screen. You are moving just above the buildings. The enemies are dropping bombs to try to damage your buildings or destroy you. You must fire missiles up to destroy them. The waves of enemies never ends.
+
+The game ends when all three of your ships are destroyed or when both buildings have taken so much damage that they collapse.
+
+There are eight game variations. Some where the ships move side-to-side while moving down, some where your shots move to the side when you do, some faster and some with combinations of any or all of these.

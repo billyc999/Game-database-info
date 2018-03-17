@@ -1,0 +1,7 @@
+Actua Golf is a golf simulation with full 3D terrain and characters. It comes with two courses to play at (country and tropical), customizable characters and multi-view shot tracking and action replays.
+
+Actua Golf uses similar game controls as older golf titles did. With a swing meter, where you have to time correctly to hit the ball right.
+
+The game features two difficulties and various game modes such as foursome, four ball challenge and skins. 
+
+Commentary in the game is provided by Tony Adamson, Pat O'Brien, and Peter Alliss.

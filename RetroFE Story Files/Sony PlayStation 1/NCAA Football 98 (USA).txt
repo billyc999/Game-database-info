@@ -1,0 +1,1 @@
+Ncaa 98 is College football simulation based on all Division 1A teams in existance as of 1997.  You start off by choosing a game based on a exhibition, Great Game, or season game.  Then you can choose from any of the Division 1A teams to start our game.  NCAA 98 also includes school fight songs for 25 of the biggest teams.

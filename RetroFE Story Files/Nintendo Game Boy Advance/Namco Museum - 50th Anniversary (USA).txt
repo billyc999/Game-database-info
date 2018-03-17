@@ -1,0 +1,9 @@
+Namco is honoring its 50th anniversary by releasing this compilation of arcade classics. Using a retro interface, you check out a virtual arcade hall where you can select each classic in its original arcade cabinet.
+
+The 5 games included are:
+
+1. Pac-Man
+2. Ms. Pac-Man
+3. Galaga
+4. Dig Dug
+5. Bosconian

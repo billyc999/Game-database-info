@@ -1,0 +1,9 @@
+Pitball is a 2-on-2 futuristic sports game. The gameplay is a cross between Rollerball and Basketball. Players 'fight' within an enclosed arena, over control of a floating orb, which they then pick up and throw into the opponents goal.  
+
+Various power-ups are dropped into the arena during play, that offer advantages to the player, such as extra speed, more accurate shooting, more power and various bombs and landmines that can be used against the opponent.
+
+In addition, special orbs can be picked up, that can be built up and then used to execute a 'special moves'.
+
+The game also allows the player to 'manage' a team.  The management portion offers the player a wealth of options including a full transfer market, to trade for better players, and an equipment shop to buy upgrades. Wins earn cash, but the player can also gamble on the outcome of games to further increase earnings.  The player can also use cash to bribe opponents before a big game, and they will not try as hard when they face you.
+
+The game supports up to 4 players and is compatible with the Multi-Tap.

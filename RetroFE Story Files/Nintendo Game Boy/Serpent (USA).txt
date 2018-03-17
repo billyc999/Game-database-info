@@ -1,0 +1,3 @@
+In the distant future, the most popular one-on-one sport is Serpent. In this two player game, both players control their vehicles, in the shape of snakes. To win the players must cut each other off by surrounding them with their tail.
+
+The game borrows elements from the classical game Snake but converts it to a multiplayer game. When players form enclosed areas with their tails they spawn power-ups such as rockets which can be fired upon the opponent.

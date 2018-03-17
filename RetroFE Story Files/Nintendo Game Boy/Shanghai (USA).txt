@@ -1,0 +1,7 @@
+Shanghai is a tile-based game based on the ancient Chinese game of Mah-Jong.
+
+The gameplay involves 144 tiles, which have to be removed by matching them into pairs. The tiles are arranged in a gridded pattern, which is higher near the center. A tile can only be removed if it is open on at least one side.
+
+This version of Shanghai was licensed from Activision by Hal Laboratory for release on the Game Boy.  Unlike the Shanghai series published under Activision, this port contains only a single game layout, that of the standard setup sometimes referred to as "The Turtle" or "The Pyramid."
+
+The game features two options for the visual style of the facecards, either in small designs or in simple letters or numbers.  The former is more decorative, but the latter is easier to read.  There are also three options for background music that may be selected under a menu by pressing the Select button.  Like other versions of Shanghai, there is also a hint mode for when players get stuck.

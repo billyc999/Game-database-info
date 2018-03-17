@@ -1,0 +1,9 @@
+This is a role playing game, sort of.
+
+The object is to kill monsters in the crypts and get any treasure you can find and get out on the crypts.
+
+How deep in the crypt you start depends on the game selection. Games one, two, three, or four place you at levels five, nine, thirteen, or one, respectively.
+
+Your weapons are a sword (unlimited attacks but useless against wizards), wand (limited attacks, depending on game selection, useless on dragons), ring of power (limited attacks, depending on game selection), and peace symbol (unlimited uses but you get no points and only useful on trolls, eyes, wizards and dragons).
+
+Your enemies are trolls, frogs, snakes, skulls, blobs, eyes, wizards and dragons. Level one has only trolls, level two has trolls and frogs, level three has trolls, frogs and snakes, etc. up to level eight and below which has everything.

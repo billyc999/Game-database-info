@@ -1,0 +1,9 @@
+A pool game featuring a Training mode, a Pocket Game mode, and a Pool Contest mode.
+
+In Training mode, players are presented with 18 stages in which they are shown a sample of a shot done by the computer player that they then have to try to replicate.
+
+The Pocket Game mode lets the player compete in various types of pool games such as 9-Ball, 8-Ball, Basic, Rotation, and 14-1 Ball. Players can set the number of sets to play and the difficulty level.
+
+The Pool Contest mode lets the player create a character with their own name, gender, age, and face avatar (3 different choices for each gender), and compete in a 32 player tournament of 9-Ball. The players character can level up by winning matches which unlocks 6 different powerup techs and 3 special techs. Some techs include Easy Shot which slows down the speed of the shot power meter and Free Ball which allows the cue ball to be placed anywhere on the pool table.
+
+Gameplay consists of the player lining up their shot, choosing where to hit the cue ball with the cue stick, and then determining the strength of their shot by use of a power meter.

@@ -1,0 +1,3 @@
+FlipOut! is a puzzle game starring aliens from the planet Phrohmaj. Your  objective in each puzzle is simple: you must place all the colored tiles into the correct spaces on the board. The tricky part is that there is always one more tile than there are spaces. That means you are always juggling at least one tile in the air. The game becomes more difficult as you have to juggle more tiles, and the Phrohmajians try to interfere.
+
+This game features nine bizarre areas, each with multiple puzzles.  The graphics feature a lot of crazy animation of the Phrohmaj onlookers and lots of bright and colorful tiles.

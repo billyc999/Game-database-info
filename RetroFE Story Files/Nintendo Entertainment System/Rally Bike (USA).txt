@@ -1,0 +1,7 @@
+There's a cross-country motorcycle rally going from San Fransisco to New York. In Rally Bike, the player has but one goal, to work their way up through the ranks of the racers and place high enough to qualify for the next race. The game contains six stages to race through.
+
+The player controls a motorcycle and must cross the finish line before an established number of competitor bikes. The player must avoid crashing into obstacles, opposing racers, vehicles, and running out of gas. During a race there are certain areas where the player can refill their gas but stopping to refuel will cause competitor bikes to take advantage and race past the player. Competitors never run out of fuel but they are able to crash into obstacles thus taking them out of the race.
+
+Occasionally during a race a helicopter will fly by dropping items that the player is able to pick up. The items are a 1000 Points Bonus, helper motorcycles that help you crash other racers, extra gasoline, Hi-grade gasoline which lasts longer than normal, a   turbocharger that gives extra speed, and a helmet which provides  invincibility.
+
+If the player places in the top ten in a race, they are able to tune up their bike with better equipment. The player can upgrade their bike's engine (either 2 cycle type or 4 cycle type) and its tires(either rain, brock, or stick).

@@ -1,0 +1,5 @@
+A 2D side-scrolling brawler, The Combatribes puts you and a friend in the shoes of combat cyborgs Berzeker, Bullova and Blitz (yes those are their real names) as they attempt to defeat the evil crime ring "Ground Zero", led by the cybernetically enhanced Martha Splatterhead and her minions.
+
+The game is set around simple stages in which wave after wave of baddies attack you from all directions. Once you defeat enough of them with your basic attacks and special moves a boss character appears which you'll need to defeat before moving on to the next stage.
+
+Besides the arcade mode, a Vs one-on-one mode is available with the inclusion of all boss characters as selectable fighters.

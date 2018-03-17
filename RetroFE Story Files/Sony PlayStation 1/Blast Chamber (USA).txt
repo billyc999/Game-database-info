@@ -1,0 +1,3 @@
+A quite weird puzzle/actiongame in 3d, where you are a little guy in a chamber which is rotatable by pushing around the corners. Objects will fall down then and some other parts of the level get accesible.
+
+The game also supports a 2 player competitive mode, where you have to pick up objects and put them in another one's crystal. Try to avoid the other to get to his crystal by moving around the chamber.

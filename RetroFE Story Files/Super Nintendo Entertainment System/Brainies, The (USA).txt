@@ -1,0 +1,5 @@
+This puzzle game has 101 levels, in which you have to guide a varying number of Brainies of four different colors onto a spot that matches their color. You control a cross-hair, and press fire while over a Brainy to take or give up control of its motion. Running out of time costs you a life.
+
+The challenge lies in the fact that you can only control the direction in which a Brainy will walk. Once this is set, he will continue to walk until he hits a wall, an obstacle or another Brainy. 
+
+To make things a bit more complicated, there are various obstacles like arrows that change the direction a Brainy is walking in and items than can optionally be picked up.

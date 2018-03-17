@@ -1,0 +1,5 @@
+This cartridge contains three games:
+
+1. Nintendo World Cup
+2. Super Mario Bros.
+3. Tetris

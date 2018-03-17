@@ -1,0 +1,1 @@
+An early shoot 'em up game in which you exist on a plane that disappears into the horizon. You move on a small grid, catching balls, avoiding the grid squares that have been touched by the bad guys, and shooting the bad guys when they are in the air.

@@ -1,0 +1,5 @@
+SYD of Valis is a reworked version of the action-platformer Valis II with simplified gameplay and a "Super Deformed" and kid-friendlier graphic design.
+
+In the game you play as Yuko (Syd in the localized version), a teenage schoolgirl that can wield the magical sword of Valis and must travel to the dreamworld of Vekanti to defeat the evil lurking within it.
+
+The game plays as a side-scrolling action platformer, in which you avoid obstacles by running and jumping around, and must defeat enemies by striking them with your blade. You can collect power-ups that include different weapons and armor types, all of which you can equip at any time during the game.

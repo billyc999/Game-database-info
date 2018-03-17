@@ -1,0 +1,3 @@
+The Addams Family is a side-scrolling platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore six different parts of the mansion, e.g. the woods, which are basic platform levels: the player moves from left to right while jumping a lot and avoiding enemies. Some of them can be dispatched of by a jump on their heads. 
+
+The main difference to the other versions of this game is a unique level design. There is also a life meter which allows to get hit more often before dying.

@@ -1,0 +1,7 @@
+A classic Asterix & Obelix game where you simultaneously play as (both) Asterix and Obelix maintaining their favorite Gaulish sport of thumping the living daylights out of Roman soldiers.
+
+The objective of the game is to help Asterix "stun" Roman soldiers (simply by running into them, and they turn white from blue) while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.
+
+If by any chance a stunned soldier is not whacked by a flying menhir, they turn "red" and hostile, which means Asterix is in trouble. In any case, he needs some good ol' magic potion from Getafix in order to defeat the "red" Romans, so be ready to catch some when Getafix comes knocking.
+
+There are 2 types of Roman soldiers to thump: the fat legionnaires and the small centurions. Centurions are worth more points.

@@ -1,0 +1,3 @@
+A Formula 1 racing game, officially acknowledged by the FIA F1 World Championship, containing the 16 World championship circuits of the day, ranging from Monza and the old Hockenheim to Monaco and the Hungaroring. 
+
+Car setup is highly detailed, reflecting real Formula One and the game's simulation basis. You will have to race in the wet, which means further setup modification to cope with the reduced grip. You can also edit the level of car damage, the pit-car radio, and whether the CPU cars can collide. There are also Battle and Time Trial modes, with your best laptimes recorded.

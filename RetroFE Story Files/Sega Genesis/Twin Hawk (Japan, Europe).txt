@@ -1,0 +1,3 @@
+Twin Hawk is a typical vertical scrolling shooter with a top-down view. Your goal is easy, shoot all the enemies along the way. You only get a standard gun on your plane, and no bombs! Instead of bombs you can call helper planes. These planes make a formation around you and help to shoot all enemies.
+
+Along the way you get the chance to collect power-ups by shooting transport trucks. When these are destroyed they release a power-up. There are 3 types. First is the weapon upgrade, with this you get a wider and more powerful shot. Second, you get more calls for helper planes. And third are extra lives.

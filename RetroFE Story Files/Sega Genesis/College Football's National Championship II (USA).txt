@@ -1,0 +1,5 @@
+This is the follow-up to College Football's National Championship with the exact same game engine as before which is essentially a clone of NFL Football starring Joe Montana.
+
+It still has the standard set of modes such as Exhibition, Tournament and Season and updated rosters for the top schools of the time, reflecting the 1994 season.  There are 32 teams with five added ones to this version (Wisconsin, North Carolina, Colorado State, Oregon and Washington State), however to add these schools five others were taken out that were in the previous game (San Diego State, Pitt, LSU, Arkansas and Houston).  It also keeps track of 19 different stats along with authentic offensive and defensive plays attributed to each team.
+
+It also features a battery backup to keep track of stats and save games along with the ability to let four different players compete utilizing multi-tap.  There are also new sound effects added to this version with the announcer from the previous version removed from this one.

@@ -1,0 +1,3 @@
+This is the next installment of All Star Racing. The game features 4 different game modes with each mode featuring a different vehicle type to race. There's the Bike mode featuring superbikes, the Kart mode featuring kart racing, GP mode featuring open wheeled Grand Prix cars, and a Truck mode featuring tractor-trailer trucks to race. Each of these vehicles comes in a variety of colors. Each mode features 5 different tracks to race on. Each race has the player trying to beat 5 other racers to achieve 1st place.
+
+Options include setting the number of laps (3,6,9,12 or 15), the difficulty level (easy, medium, or hard), and whether to turn vibration on or off.

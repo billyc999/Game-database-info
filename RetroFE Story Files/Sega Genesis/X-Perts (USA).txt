@@ -1,0 +1,19 @@
+X-Perts was an extension of Sega's Eternal Champions Universe. 
+
+It starred one of EC's fighters (Shadow Yamamoto) in an unique action adventure game. She lead a team of elite X-Perts to do impossible missions. The game was a mixture of action, adventure and strategy.
+
+X-Perts was set in an futuristic underwater research lab called AQUA, besieged by terrorists. The player controlled 3 characters, each with unique fighting moves and specific skill knowledge. All characters and backgrounds were pre-rendered in 3D, to give it a very high end graphic look.
+
+The player had to react to events happening in the lab to progress the game and avoid destruction, while battling both the terrorists and the stations defenses.
+
+This was done by direct and indirect control of the X-Perts through the entire lab (roughly 20 different levels.) The player used a special RECOM screen to monitor his characters placement across the separate areas of the lab, as well as all mission objectives, enemies, facility robots and other hazards.
+
+Using direct control of a character, you would move around and between levels and directly combat enemies. The player could also activate tasks for mission objectives. The time it took to complete a task was based on the strength of their Engineering and or Computer Science skills.
+
+Missions were constantly being generated and some were time dependent (missing it usually meant the situation got worse for the X-Perts), so hopping between X-Perts and assigning the ones with the best skills for the task was important. Some secondary missions allowed character upgrades to their personal weapons.
+
+Characters could also use 3 unique torture moves each to get information from the enemies instead of killing them. This would sometimes be needed for mission objectives. However, if not executed properly, it would instantly kill the enemy instead.
+
+The game modeled all 20 levels of the lab in real time, so even when you left a character to activate another, it would still continue to perform its task until it was attacked by enemies, and would automatically defend itself, but to a lesser extent then if you directly controlled it.
+
+The game was broken down into chapters (save points) and each chapter remembered the status of the entire lab environment (enemies, flooded areas, broken power grids, hacked computers, active forcefields.)

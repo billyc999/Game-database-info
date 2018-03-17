@@ -1,0 +1,7 @@
+Hexen is the sequel to Heretic.  While the Heretic was destroying D'Sparil, the other two Serpent Riders have come to your dimension and slaughtered everyone. Or so they thought. Three humans have managed to escape with their lives and now seek vengeance against the Serpent Rider Korax who remains in their world.
+
+Like Heretic, Hexen is a fantasy game based on an enhanced DOOM engine. All of Heretic's innovations like vertical looking, flying, and the inventory system have been carried over. The new major changes this time around are three characters for the player to choose from and the level hub system. The characters are the Fighter, the Cleric, and the Mage.  Each one has four unique weapons and different levels of speed and armor.
+
+The hub system steps away from the traditional "single levels stringed along into episodes" system which had been carried over into the FPS genre from sidescrollers and made popular by Wolfenstein 3D. In Hexen's hub system each episode is still made up of interconnected levels, but most of the levels are connected to a single "hub" level through portals. There are also portals between some of the "spoke" levels. Many of the puzzles in Hexen require travel back and forth between different levels.
+
+Other innovations in Hexen included weather effects, jumping, earth-quakes, and destructible objects such as trees and vases.

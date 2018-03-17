@@ -1,0 +1,7 @@
+The Real Ghostbusters, known as Garfield Labyrinth in Europe and Mickey Mouse IV: Mahou no Labyrinth in Japan, is a puzzle/platform game. The story is very simple: Venkman (or Garfield and Odie or Mickey and Mini Mouse, depending on the version you play) walk over a bridge one day, a tile breaks loose and Venkman/Garfield/Mickey falls down a deep pit, which ends up in a bizarre labyrinth, which Venkman/Garfield/Mickey must escape. There's no other goal apart from that, the player just needs to find the exit in each level. Apart from getting there, the exit must also be unlocked. For the latter, the player must collect all gems in the level.
+
+Each level contains various traps and enemies which need to be avoided. The puzzles involve finding keys to lower bridges or open doors, make use of teleporters and especially: drilling away blocks. Conveniently, the player finds a pneumatic hammer at the beginning of the game, which must be used to create paths to certain areas and items, without blocking the way forth or back. There's also an inventory to store items like keys and bombs (used to kill enemies). The protagonist has a health bar and can take several hits before losing a life, but there is also a time limit for each level.
+
+The game features a password system, a password is given automatically after completing a level.
+
+In spite of the differences in main character and a minor variation in the short intro cinematic all regional versions are identical.

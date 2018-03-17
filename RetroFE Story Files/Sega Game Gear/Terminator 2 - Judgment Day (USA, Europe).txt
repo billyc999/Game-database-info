@@ -1,0 +1,9 @@
+Terminator 2: Judgment Day is based on the movie of the same name. The player takes the role of the T-800 Terminator and has to protect John Connor from being terminated by the T-1000 Terminator. 
+
+The game is set over five levels with the following goals:
+
+1. Level 1: Acquire a weapon.
+Level 2: An isometric racing course on a motorcycle in which the player needs to out-run a tanker truck that is chasing them. This stage was omitted from the Game Gear version.
+Level 3: Locate and rescue Sarah Connor from the Pescadero asylum.
+Level 4: Plant explosive charges to destroy the Cyberdyne building.
+Level 5: Defeat the T-1000 within the steel mill.

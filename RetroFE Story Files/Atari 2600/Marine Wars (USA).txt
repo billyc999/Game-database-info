@@ -1,0 +1,23 @@
+You are a battleship firing shells at attacking battleships and/or attacking bomber planes.
+
+The game has four scenes: fighting ships at day, fighting ships by night, fighting planes and ships by day, fighting planes and ships by night. You move left or right and press the button to fire. In the night scenes, you cannot see the ships or planes in the distance unless something explodes.
+
+It takes three hits to sink your ship. You start the game with three battleships and can get a new ship every 5000 points. The enemy starts out with 9 battleships and 30 aircraft. These numbers will increase as the scenes change according to the following formula:
+
+  Number of battleships: 9 + (N - 1) x 2
+  Number of aircraft: 30 + (N - 1) x 2
+  where N is the pattern number.
+
+Game variations
+The only selections are one or two player. The difficulty switches are not used.
+
+Scoring
+Top row of battleships: 80 points
+Middle row of battleships: 70 points
+Bottom row of battleships: 60 points
+Enemy fighter: 80 points
+Enemy torpedo: 30 points
+Enemy bomb: 30 points
+Enemy MTB: 30 points
+
+After each scene you get a 500 point bonus.

@@ -1,0 +1,3 @@
+This handheld version is different from it's console cousin in terms of content.  While the game still features 28 teams modeled after their real-life 1993 MLB counterparts (with the exception of the MLB license) there are fewer players in this version.  Each team also has previous hall of fame teams that range back into the 1980's.
+
+There is only one mode of play available, a single-player exhibition where the player picks a team to face off against a computer A.I. team.  However, if the player picks two teams from the same league, the game will have the player compete in a best-of-seven series, complete with passwords.  There is also a Watch option that lets the player watch two computer A.I. teams compete against each other.

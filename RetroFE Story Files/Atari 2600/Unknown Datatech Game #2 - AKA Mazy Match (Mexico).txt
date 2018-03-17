@@ -1,0 +1,1 @@
+Try to reach the symbols at the top of the screen before you run out of energy by walking an invisible path on a randomly generated grid while avoiding UFO's and rocks dropped by birds.You can choose a new path at the bottom of the screen.

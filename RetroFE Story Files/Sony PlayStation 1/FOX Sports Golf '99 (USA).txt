@@ -1,0 +1,3 @@
+An amateur golf sim featuring no PGA endorsed courses or players. The game uses the standard golf gameplay mechanics, with three types of swings, a two or three click swing bar system, or the "Fox Sports Swing" which is mouse-motion swing type.
+
+The game's most prominent feature is the use of a 3d engine and a series of 3d accelerated effects like reflecting water, lighting effects, trees that move and sway with the wind and translucent objects. The game features 8 single player courses and multiplayer support for up to 4 players.

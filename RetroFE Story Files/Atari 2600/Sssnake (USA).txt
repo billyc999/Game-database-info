@@ -1,0 +1,10 @@
+You were hunting in the Amazon when you become the hunted of prehistoric creatures. You found a fortress with a large gun. Now you must avoid the snakes that enter and exit and shoot the creatures through the holes in the fortress bricks.
+
+The snakes will slither from one side on the screen to the other then come the opposite way one level lower. You cannot kill the snake but you can shorten it when you shoot it. Your gun runs on a gun track inside the fortress walls and always shoots away from the fortress. You cannot shoot through the bricks themselves, only in between them.
+
+Game variations
+In game one, the snakes enter the screen from one side but move fast. In game two, they enter from any side but move slower. Either way, you only have one life. Player two begins after player one by just pressing the button on the right joystick. If there is no player two or after player two dies, then you must press reset to play again.
+
+Scoring
+You score one point for shooting a prehistoric creature.
+You gain no points for shooting at the bricks or shooting the snake.

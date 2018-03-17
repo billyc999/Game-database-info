@@ -1,0 +1,9 @@
+In this game, the player takes control of a young nameless traveler. One day, the hero meets a man who tells him a sad story: monsters have kidnapped his granddaughter, and locked her away in a tower. Apparently, the monsters also took away nine other young girls, and have some evil plans in mind. The hero agrees to venture into the tower's labyrinth and succeed where no other adventurer could...
+
+Lady Sword is a first-person solo dungeon crawler. The player navigates the hero through the complex, maze-like corridors of the tower (with an auto-map feature), trying to find the right way to the stairs to the next floor. Fake walls, teleporters, one-way doors, items that must be collected to unlock hidden passages, boss enemies, etc., are there to make this task harder than it looks. Regular enemies pop out randomly, and must be defeated in a very simple turn-based combat. 
+
+There is no damage feedback for the hero (though the player can see exactly how badly the hero himself is hurt), no weapons, armor, or items for combat usage. The player can heal the hero's wounds by selecting "sleep" from the menu. Sleeping restores the hero to full HP; but if he rests too much, a tough demon will appear and attack.
+
+Character growth is handled via direct stat increasing; there are no "levels", and the hero's HP, attack and defense power, as well as agility, increase gradually the more he fights.
+
+On each floor, a digitized photo of a young woman will greet the hero and encourage the player to explore further - at the stairs to the next floor, should the hero overcome all the obstacles, the player will be able to see the girl naked.

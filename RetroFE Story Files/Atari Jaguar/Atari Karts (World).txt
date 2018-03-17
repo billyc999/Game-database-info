@@ -1,0 +1,3 @@
+Atari Karts is a character-based go-kart racing game. It plays very similarly to Super Mario Kart. The emphasis in this game, like most kart games, is on making use of pick-up items found around the track to knock out your opponents.
+
+There is only one game mode, a points based cup series.  There are four difficulty levels, each with 3 cups to race for. After completing all the cups for a difficulty level, you get to challenge a "boss" kart in a single race match.  If you beat the boss, he becomes a playable character.  The various cup races can be played in either single player or two player split screen modes.

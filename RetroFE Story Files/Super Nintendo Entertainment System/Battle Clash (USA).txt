@@ -1,0 +1,3 @@
+Battle Clash is a game that uses the Super Scope light gun peripheral. In this game, you fight in a futuristic version of the world as a warrior named Michael Anderson, who takes part in a competition simply known as the "Battle Game". Contestants in the Battle Game fight using mobile Standing Tanks (or STs for short), that come with a variety of weapon systems and forms.
+
+To defeat the enemies in each stage, you must shot at weak spots on their armor to cause damage to them. The game scrolls automatically along with the opponent, so you cannot manually dodge bullets. You will have to play defensively by shooting them down.

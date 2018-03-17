@@ -1,0 +1,14 @@
+It's a lovely day and Sam is waiting in Central Park to meet his girlfriend Sally. He sees her and walks to her. He only has eyes for her and before he realizes it he finds himself in the New York sewer system.
+
+Three Russian submarines have been located in the New York sewer system and they have blocked off the system.
+Sam's only way out of the sewer system is to destroy the Russian submarines. Luckily, Sam carries his revolver.
+Sam can't go back... once he's gone through the City Sewer Department seals the tunnel. Luckily, Sam carries his revolver.
+
+The sewer system has three types of sewer tunnels. Tunnels with solid dry floors, tunnels with a water passage in the middle and tunnels with pits. 
+Sam can walk, run and creep through the tunnels but Sam can't move as quickly in water.
+Sam can move from tunnel to tunnel by entering one of the passages that appear occasionally on his way.
+Each time he enters a new sewer, Sam receives a fresh supply of oxygen.
+
+On it's way through the sewer system Sam is under attack by nasties like rats, bats, spiders and more.
+The ultimate nasties are the Russian submarines. They are located only in water canals. The status bar at the top of the screen contains a distance indicator. It tells you how far Sam has traveled into the sewer. If it's red, it means there's a dreaded submarine at the end of the sewer.
+The more nasty elements you shoot, the higher you'll score.

@@ -1,0 +1,1 @@
+Block Buster is one of the seemingly infinite number of Breakout clones. As always, the player controls a paddle at the bottom and has to bounce balls to break and clear the screen of bricks. More unusual is the inclusion of a head-to-head multiplayer mode, where the playing field is split in the middle and each player has to clear their respective bricks to win the match.

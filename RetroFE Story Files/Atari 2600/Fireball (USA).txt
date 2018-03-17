@@ -1,0 +1,11 @@
+Fireball is an arcade action game similar to Breakout. You are a juggler, and you need to keep multiple fireballs within the play field. You can hold on to two fireballs at a time, so be careful because if you try to catch a third it wall fall off the screen. Your goal is to destroy the bricks at the top of the screen by hitting them with the fireballs. When all the bricks are destroyed, you move on to the next round and are given one additional fireball to keep in play. Five different game variations are included:
+
+Firetrap: Two additional fireballs are trapped within brick walls. Once a hole forms in the walls, you will also need to keep these additional fireballs in play.
+
+Marching Blocks: In this game, each time you catch a fireball the rows of blocks will drop down one level. From time to time, a mystery fireball may also appear.
+
+Knock-A-Block: This is the most basic game variation. There is a solid wall of blocks at the top of the screen that you need to destroy.
+
+Migrating Blocks: In this game, the rows of blocks move! Every few seconds each row of blocks will rotate either to the left or to the right.
+
+Cascade: There are five additional fireballs trapped within the block formation! When you destroy enough blocks to release an extra fireball, it too will need to be kept in play.

@@ -1,0 +1,5 @@
+Unlike its namesake on computers, this version of DragonStrike is a straight action game with a top-down perspective. Set during the War of the Lance in the Dragonlance world of Krynn, the player controls dragons in missions against the forces of evil.
+
+At the start of the game, one of three dragons can be selected (Bronze, Silver and Gold), each with different attributes in speed and armor and two different breath attacks. In each of the more than 12 missions, several objectives must be completed: enemy dragons must be hunted down, ships sunk and fortresses destroyed. The dragon can change between low and high altitudes to avoid obstacles and enemy fire and to attack certain types of enemies: ground troops can only be destroyed from the lower altitude, dragons only from the higher one. Killed enemy dragons leave power-ups that grant temporary protection, speed, or let the dragon regain health. Some of the missions include boss battles against large enemies like a giant kraken or a powerful dark wizard.
+
+In two-player mode, the second player (who can select a different dragon) can continue in the mission where the previous player failed.

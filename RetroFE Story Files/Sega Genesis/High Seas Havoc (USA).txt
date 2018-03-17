@@ -1,0 +1,3 @@
+Havoc is a young traveler and treasure hunter, who roams the seas with his shipmate Tide. One day, he finds an unconscious girl on the seashore. She tells Havoc that her name is Bridget, and that she has a treasure map that leads to the location of Emeralda, the legendary treasure with unique power. But the evil pirate Bernardo has kidnapped Bridget and Tide, and stolen the treasure map. Havoc has to rescue his friends and to get the map back!
+
+This is an action platformer. Havoc can roll, jump, and attack enemies while jumping - or hit them by simply jumping on their heads. He can also collect various items and open treasure chests on the way.

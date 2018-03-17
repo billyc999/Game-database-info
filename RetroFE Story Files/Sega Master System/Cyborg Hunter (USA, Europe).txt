@@ -1,0 +1,12 @@
+It is the year 2242. You are Paladin, the galaxy's toughest bounty hunter. Cyborgs are about to take complete control of the universe under the direction of Vipron, their evil leader. You are sent to the cyborg fortress to get rid of all the chief cyborgs in each of the seven areas. 
+
+The game screen is divided into three sections. This includes a first-person view of the map, in which you can see objects that are coming your way. There are two types of objects: red objects indicate the lower cyborgs, while white ones indicate the chief cyborgs. Next to it is a map of the area, your life and psycho power count. Below these is the action screen. 
+
+In each of these seven areas, there are several floors which can be reached via the elevator. At the beginning of the game, your only weapons are your fists, but weapons can be collected throughout each area, which include psycho punch, ray gun, light gun, and bombs. Power-ups like extra life and psycho power can also be collected. If you use the psycho punch or psycho gun, your psycho power gets depleted, and when it is empty, you must stock up on some more. You can also get shields that will protect you from laser beams, and jet engines so that you can fly over hazards.
+In some areas, you defeat a boss which leaves an ID card, which you can use to access other areas of the fortress. 
+
+Some chief cyborgs are easy to kill, while some are hard. You will just have to work out which weapon works best with them. The game ends when you lose all your life. 
+
+You are not alone in this mission. You also have Adina, your contact back at headquarters. Follow her instructions carefully and you may survive.
+
+Cyborg Hunter is based on the Japanese-only Borgman.

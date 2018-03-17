@@ -1,0 +1,3 @@
+This is the action game based on the new movie from Disney/Pixar, "Monsters Inc.". You play as either Sully (the big hairy monster) or Mike (the small green "walking eye"). The goal of the game is to become Masters of Scare. The first level is training, where you learn movement and how to scare someone. Scaring is done by standing in front of the person to be scared and pressing a combo of buttons (your playing figure will then perform really funny moves and sounds). To be scary enough, you need to collect monster slime - some persons can only be scared with a special amount of monster slime.
+
+The game is presented in 3D graphics and all of the voices are from the movie.

@@ -1,0 +1,3 @@
+The game is based on the Looney Tunes cartoon movies. Bugs Bunny falls asleep, and in his dream sees Yosemite Sam developing a robot called Gossamer. The robot disobeys the commands of his master and goes out of control. Now Bugs Bunny has to enter the TV world and to correct things, bringing order back to the lives of Looney Tunes inhabitants.
+
+The game consists of several platform-based stages, each one having a different goal (guiding another character to a safe place, defeating a big monster, etc.) Bugs Bunny can jump and run quickly, as well as collect items and throw them at enemies.

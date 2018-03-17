@@ -1,0 +1,6 @@
+This to-go version of Jeremy McGrath Supercross 2000 is a top-down racing game, featuring two game modes (championship and arcade), 6 bikers and a variety of tracks in different scenarios.
+
+Season mode features 3 championships, each with three stages composed of four races. The goal is to win all 9 gold medals by obtaining more points than the competition. Arcade mode is the same, except all championships and stages, as well as Jeremy McGrath, are unlocked from the start.
+The difference between championships is the engine size - with larger (thus faster) bikes, the player has less time to react, and going head to head into the edge of the track can be a matter of a simple bump in 80cc to a spectacular flip into the stands in 250cc, also because it becomes a lot harder to do sharp turns in a limited space.
+
+While it can be played as a straightforward racing game, by performing tricks the player can obtain some powerups - a bomb will knock down the next opponent, the arrow temporarily boosts bike stats and the shield allows the player to barge into one opponent, knocking him off his bike. There is one big catch - the skull and bones knock the player out of his bike, which can prove to be decisive in a close race.

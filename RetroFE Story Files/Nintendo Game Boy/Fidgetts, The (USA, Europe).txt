@@ -1,0 +1,3 @@
+The Fidgetts is a side-scrolling platform puzzle game in a similar vein as The Lost Vikings. The player can switch between two Fidgetts (cartoon-like animals) to get past obstacles. One of the Fidgetts can jump higher to reach objects or locations otherwise unreachable. Fidgetts can lift and drop items to help them climb over obstacles. Within each level the player must get both Fidgetts to the exit before a time runs out. There's pit traps and enemies that can cause the Fidgetts to loose lives or receive damage.
+
+In between levels the player can play a Breakout variant in which the player controls a paddle at both the top and bottom of the screen. In between the blocks that can be destroyed with the ball are power-ups that can be collected.

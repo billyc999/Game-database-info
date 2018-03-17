@@ -1,0 +1,1 @@
+Goal! is a soccer game for one player against the computer, two players against each other, or two players against the computer. Gameplay is from an angled overhead point of view, with the screen scrolling to follow the action. Several game options are available, including tournament mode, world cup mode, and a goal shooting competition.

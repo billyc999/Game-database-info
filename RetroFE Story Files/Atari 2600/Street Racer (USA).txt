@@ -1,0 +1,13 @@
+Street Racer is an action racing game for one to four players played from an overhead view. The screen is split into two lanes; in one or two player games, each player has a lane. In three and four player games, players must share the lanes. Each game has a two minute and sixteen second time limit, and your goal is to earn as many points as possible by the end of this time. In addition to the basic racing version, several other game variations are included as well. The games available are:
+
+Street Racer: This is the basic race car game. Points are earned by passing other cars.
+
+Slalom: Each player controls a skier and needs to slalom through the course to earn points.
+
+Dodgem: Each player controls a race car and needs to avoid the oncoming obstacles. One point is earned for successfully completing the race course.
+
+Jet Shooter: Each player controls a jet in this game. Points are earned for shooting down the various oncoming planes.
+
+Number Cruncher: Each player controls a motorcycle in this game variation. Various numbers will appear in the race track, and points are earned by running over the numbers.
+
+Scoop Ball: Each player controls a race car with a scoop on the front. The goal is to scoop up the balls that appear in the raceway and then place them in a computer controlled car.

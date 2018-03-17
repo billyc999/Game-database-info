@@ -1,0 +1,3 @@
+Based on the 1986 John G. Avildsen film, The Karate Kid 2. The Karate Kid is a beat'em up game where the player, as Daniel Larusso, must go through some stages (including bonus ones) from the karate competition to the final battle in Okinawa against Chozen.
+
+There are different kinds of stages, from the fighting style game (similar to Street Fighter) to the platform type like Kung Fu for NES, it also has some bonus in which the player's ability is tested.

@@ -1,0 +1,3 @@
+You're the commander of a Polaris class nuclear submarine. Your mission is to defend your country from enemy attack.
+
+You must face one to three enemy subs and one to five bombers in a squad. You must destroy the bombers by shooting missiles. After you destroy the bomber squadron, you must face a dive bomber dropping torpedoes that plunge to your depth then move horizontally. After destroying him, you must navigate through a channel, avoiding or torpedoing mines to reach the next level. Occasionally, an enemy destroyer will move across the screen and will drop a depth charge.

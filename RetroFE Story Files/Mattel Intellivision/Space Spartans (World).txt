@@ -1,0 +1,5 @@
+Like the ancient Spartans that fought (and won) the Persian army in the battle of the Thermopylae, you are the last stand before the alien invasion. 
+
+The game has two screens. When it begins, a female voice welcomes you as the commander of the star ship. You have three star bases to defend while alien ships surround you. Then you choose a space sector where you enter in to the battle section. 
+
+Your ship has 5 systems (Battle Computer, Impulse Drive, Hyper Drive, Tracking Computer and Shields): if your  ship is hit you can repair the damage at a star base. Repairs during battles are allowed, but they are slower, use ship's energy and can't repair destroyed ship systems. The game ends when you run out of energy and/or your ship is destroyed. The ship is destroyed when all the systems are destroyed, or if Hyper Drive blows the ship up (50% chance of this occurring if you use Hyper Drive when destroyed).

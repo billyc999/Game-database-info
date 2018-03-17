@@ -1,0 +1,7 @@
+Pac Man is back this time under the direction of famous Game designer Shigeru Miyamoto (The man behind Zelda, Mario etc.) 
+
+In this game one person plays as the famous Pac Man while the other players take the role of the ghosts desperately trying to stop the yellow menace from eating his way to a predetermined score. 
+
+Now the twist is Pac Man sees the game from the classic Pac Man view on the Game Boy Advance while to ghosts each have a limited view of the area in 3D on the television screen. Teamwork becomes vital as they try to hunt down Pac Man, the ghost who eats Pac Man then gets the Game Boy Advance and tries his luck as the hunted.
+
+If Four players are not available computers will act as any ghost not directly controlled by a player. Computer ghost can not hurt Pac Man unless they have been touched by a human controlled ghost. Which ever human player touches them first will get control of the game boy if the computer catches Pac Man.

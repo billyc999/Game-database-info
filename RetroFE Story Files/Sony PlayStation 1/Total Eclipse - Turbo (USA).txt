@@ -1,0 +1,3 @@
+Total Eclipse is a futuristic 3D shooter set in 2099 where an alien race by the name of the Drak-Sai are out to destroy humanity by destroying Earth and the Sun. The player controls an aircraft called a FireWing through 20 missions with a perspective behind the craft where the player can manuever the ship up and down, left and right and the gameplay angled towards an on-rail shooter.  Additionally, there are three different levels of power for each weapon that their craft can wield
+
+The game is in the style of 3D textured mapping with the story is told through pre-rendered cut-scenes.  The PlayStation version is essentially the same except for sped up gameplay and a password feature that allows the player to pick up and play at their choosing.

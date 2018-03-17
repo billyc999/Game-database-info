@@ -1,0 +1,5 @@
+This is the Atari 2600 version of the Konami Industry Co. Ltd. arcade game.
+
+You are a tank that must get past obstacles and avoid enemy fire to reach a base at the far end on the course. You must not delay, however, as you will run out of fuel. There are fuel depots along the course that can refill you but be warned that sometimes the enemy guns will destroy these before you can grab it.
+
+You start with three tanks. If you run out of fuel, are shot or run into a wall or enemy gun, you lose a tank. In two player game, you alternate tanks each time you die.

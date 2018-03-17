@@ -1,0 +1,7 @@
+You play the role of Flynn, who's been zapped into the circuits of the Master Control Program (MCP). The MCP has plans for world domination, and only Flynn can stop it.
+
+The ultimate goal of Maze-A-Tron is to disable the MCP. Maze-A-Tron is played in rounds; Circuit Maze and the Master Control Program. You go around the maze and collect energy for your shields, which can be used to protect Flynn from some enemies. You also collect zeroes that are used to clear RAM. 
+
+When you proceed to the Master Control Program, the MCP works to fix the RAM you cleared. Your goal here is to fire a Bit-Gun at pairs of BIT streams and BIT stacks before they hit the top of the screen.
+
+These two phases repeat with a higher difficulty each time.

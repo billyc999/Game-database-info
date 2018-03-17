@@ -1,0 +1,6 @@
+Mace: The Dark age is a 3D fighting game set in a dark fantasy setting. Players can choose between 18 characters from all over the world equipped with swords, daggers, maces, katanas and other weapons. Basic moves include: a quick and a strong attack with weapons, kicks, sidesteps, and throws. Additional attacks can be performed by pressing the standard attack buttons in different positions or combined with directional buttons. Counter attacks are also possible, but require more complicated button combinations and good timing. Standard moves can be linked to combos and each character has a number of individual special moves that require specific button combinations to be used. 
+
+Battle arenas feature multiple levels and usually contain hazards like acid pools or swinging axes that deal damage when touched. Some arenas also contain interactive objects like plant pots or torches that can be thrown at opponents.
+
+The game is fairly bloody (the gore can be turned off in the options menu) and all characters have their own finishing moves
+(called executions) - particularly brutal ways of killing an opponent.

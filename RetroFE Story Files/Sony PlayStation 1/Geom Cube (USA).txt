@@ -1,0 +1,3 @@
+Geom Cube is a three-dimensional puzzle game based on Tetris concept. Blocks are dropped into a 4x4 pit where the object is to completely fill a level in the pit with blocks so it disappears. There are 24 different block shapes. If the blocks reach the top of the pit, the game is over. This game is for one or two players; the single-player mode has an option of playing against a series of eight computer opponents.
+
+There are three game modes for one player: the fast, time-limited Finite mode, the slower Infinite mode, and a versus mode against computer-controlled fighters. Multiplayer is available as a head-to-head vertically split-screen mode for two players, where completed layers can be transported to the opponent's screen.

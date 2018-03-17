@@ -1,0 +1,5 @@
+Superman: The Man of Steel is a side-scrolling platform game in which the player takes on the role of Superman.
+
+A lot is wrong in the game: Lois Lane has been kidnapped by Brainiac, the Doom Star is orbiting the Earth and many deadly adversaries are roaming about. It's up to Superman to set everything right again.
+
+As Superman the player has limited energy which is depleted when Superman comes in contact with enemies or their projectiles. Superman can jump, and attack. When Superman almost drops from a building he automatically starts flying. There's three different difficulty settings.

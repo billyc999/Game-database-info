@@ -1,0 +1,1 @@
+This is much like the game Tetris but instead of falling blocks, you have to make words out of falling letters. Some words will give you cheats or unlock a bonus game. Keep going until the letters reach the top of the screen, at which point the game is over. Words can be formed horizontally, vertically, forwards or backwards.

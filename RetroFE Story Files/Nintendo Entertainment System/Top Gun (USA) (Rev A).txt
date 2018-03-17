@@ -1,0 +1,11 @@
+Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.
+
+The action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.
+
+Enemy aircraft either overshoot the players's plane from behind and can be easily taken down, or they come from the front and fire guns and missiles. Sometimes, an enemy plane will position itself on the player's six. It should be lost quickly by steering left and right, or instant death follows.
+
+Halfway through missions two through four comes a refueling sequence where the fuel plane's nozzle must be aligned with one's aircraft.
+
+Every mission (except the first one) features a final mission target, which can take a lot more damage than regular targets.
+
+Each mission concludes with a landing attempt on the aircraft carrier. To successfully land, the player's plane must have a certain altitude and speed. Successfully landing gives bonus points, but crashing the plane doesn't end the game - it simply costs a life.

@@ -1,0 +1,29 @@
+The Flintstones is a game based on the popular cartoon series The Flintstones by Hanna-Barbera Productions Inc.
+
+It's weekend! Fred Flintstone thinks of only one thing: bowling  
+with his friend and neighbor Barney.
+Unfortunately, his wife Wilma got other plans for him. Fred has to paint the living room and Wilma is not going to help him with it. No, she goes shopping.
+And if that's not enough, Wilma also tells Fred that his mother-in-law is coming over.
+
+The Flintstones game is divided in four parts.
+
+Part 1: Painting the walls of your living room.
+To go to the bowling alley before it is closed Fred has to paint  the walls as quickly as possible. To paint the walls Fred uses the tail of a living squirrel. 
+Pebbles tries to leap out her playpen and starts crawling around and starts scribbling on the walls. If Fred wants to put Pebbles back in the playpen then he has to drop the squirrel, that immediately starts wandering off. When Pebbles is back in the playpen Fred has to chase the squirrel and dip its tail in the paint again.
+
+Part 2: Driving your car on the way to the bowling center.
+Finally, when all walls are painted Fred can go to the bowling  
+alley!
+Fred has to drive to the bowling alley but unfortunately the roads are in a very bad condition. The road surface is dire and covered with rocks!
+And if one of the wheels hit a bump it will break off the car and disappear into the distance.
+
+Part 3: A bowling competition between Fred and Barney.
+At the bowling alley the following bowling parameters can be set: the spin and speed of the ball and the starting position of the player.
+Each turn gives two throws (except he gets a strike). A game  
+takes ten turns. while a match takes three games.
+
+Part 4: Saving Pebbles at a construction site.
+On his way home Fred discovers that Pebbles has disappeared!  Don't let Wilma find that out!
+Fred finds Pebbles at a construction site on top of some  
+scaffolding. He has to climb the scaffolding to rescue her.
+If Fred fails to rescue his daughter then Barney rescues her and Fred will be branded as a failure!

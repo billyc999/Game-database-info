@@ -1,0 +1,1 @@
+You are a 'Hand' and so are your enemies. Each hand can be Rock (A fist), Paper (Flat) or Scissors (2 fingers extended). Your job is to clear a maze of dots to move to the next level. If you touch an enemy and your 'hand' beats his, you win, otherwise you lose your current turn.

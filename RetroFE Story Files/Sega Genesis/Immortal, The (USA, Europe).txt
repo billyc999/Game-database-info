@@ -1,0 +1,8 @@
+The Immortal is an isometric action-adventure game.
+
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of 
+isometric death await.
+
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards. In short: You want to see what challenge lies in the next room.
+
+The puzzles range from simple avoidance of traps to the correct use of items; you collect objects in an inventory. Every now and then, The Immortal surprises with a special challenge. For example, you've got to ride a magic carpet through a hallway full of fire traps, or ride a barrel on an underground river. The dungeon isn't empty: some friedlies may have valuable information or trade items, the nasty sort of guys will attack. Combat is fought man-to-man on a special screen. Your adversary indicates his next attack a few seconds before he executes it, so you've got time to react appropriately. You can dodge to the left or the right, as well as attack from these two directions. There is no save option in the game, of course, but you may restart each level as often as you like. Levels can be skipped by entering passwords.

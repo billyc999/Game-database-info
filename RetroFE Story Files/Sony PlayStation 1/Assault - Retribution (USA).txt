@@ -1,0 +1,3 @@
+Assault is a 3D Run and Gun Platform game. Its story takes place in the year 2198. Arcadia, a world far away from Earth, is under attack by aliens. So as the player you can choose between two space marines to fight off the invasion.
+
+Though featuring 3D graphics the game is side scrolling. There are multiple weapons the player can equip including pulse rifles, homing missiles and lasers. You can use them to kill a variety of aliens. Other power-ups include weapon upgrades, health, ammunition, smart bombs, bonus lives, and shields. There are seven action packed levels. Multiplayer is possible in two-player co-op mode.

@@ -1,0 +1,5 @@
+BursTrick: Wake Boarding!! is an extreme-sports game using gameplay similar to Wave Race 64, the main difference being that, as you are pulled by a boat when wake boarding, it is almost like an auto-scroller and you do not have nearly as much freedom of movement.  
+
+There are two gameplay modes, Obstacle and Trick. In Obstacle mode, you race around a track and must complete the track in time and collect enough points by wake boarding through rings and over jumps. In Trick mode, you compete to score as many points as possible by performing tricks. There are over 45 tricks in total.
+
+Other features include several different riders to choose from and unlockable boards and characters.

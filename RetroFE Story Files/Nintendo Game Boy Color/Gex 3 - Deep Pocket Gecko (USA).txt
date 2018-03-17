@@ -1,0 +1,3 @@
+Gex 3: Deep Pocket Gecko is a 2D platform game based on Gex 3: Deep Cover Gecko. The plot is similar as the original 3D version. You play as Gex, who enters TV worlds to defeat Rez and his creatures with his tail attack. Inside the hub is where you'll find and enter these TV worlds, some may need to be unlocked by collecting remotes. You get remotes by completing the missions in the TV worlds. There are other objects to collect as well, including butterflies and bonus coins.
+
+The game features 11 different monsters, 15 levels and 4500 frames of animations

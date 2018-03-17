@@ -1,0 +1,5 @@
+The Earth is under attack from alien invaders. Shoot them out of the sky before they land. Space Fever is Nintendo's take on the "Space Invaders" franchise. The game is almost identical in terms of how it plays. The alien craft are arranged in rows and they slowly move left and right across the screen. When the row reaches the edge the ships drop down a row and move in the opposite direction. As you shoot more enemies the speed will increase, as will the number of enemy bullets. You have four blocks above you that absorb the enemy shots until they are worn through, and being hit by an enemy shot will cost you a life. Sometimes a UFO will fly along the top of the screen and can be hit for Bonus points.
+There are three different game modes for 1- or 2-player games :
+Game A - There are two 'blocks' of aliens that move in opposite directions to each other.
+Game B - The aliens move as one 'block', but they only appear one row at a time.
+Game C - The same as "Space Invaders" - all the aliens move as one 'block' in the same direction.,

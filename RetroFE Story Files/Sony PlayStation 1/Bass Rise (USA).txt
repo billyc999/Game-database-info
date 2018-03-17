@@ -1,0 +1,7 @@
+A fishing game with both a single and multiplayer VS. mode. In the single player game, players choose to play as either a man or a woman, choose the color of their clothes, and then choose an area they want to fish in. There are two lakes to choose from at the start of the game, but more can be unlocked by completing challenges. An example of a challenge would be trying to catch a set number of fish in five casts. These challenges are given to the player by fellow anglers, who also offer advice and tips to the player. Also, completing challenges may also earn the player new lures to use.
+
+The VS. mode lets from 2 to 4 players take turns fishing against each other. Players can choose how many casts are allowed (from 1 to 5 casts), how many games the competition will last (from 1 to 5 rounds), and what event to compete in (length, most weight, or number of fish caught).
+
+Once the player is ready to start fishing, they choose from a various amount of Megabass brand lures such as the Pop-X or V-Flat lures, to add to their tackle box. After they decide what lures they want in their tackle box, the player heads out to the lake and chooses their lure, line strength (8,12,or 16 pounds), and where they want to cast their line. Once they get a fish to bite, they have to reel it in while being careful not to snap their line by letting their line tension meter fill all the way.
+
+The game keeps track of the players record weight and length catches of large mouth bass, small mouth bass, and blue gill.

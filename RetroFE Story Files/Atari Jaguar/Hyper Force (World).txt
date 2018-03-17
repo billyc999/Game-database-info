@@ -1,0 +1,5 @@
+HyperForce is an action sci-fi platform game with 2D graphics. You play a warrior who has been sent to destroy Trans Con, a deadly outfit that plans to attack Terran.
+
+There is plenty of fighting to do - shooting soldiers, security drones and robots. You'll also be avoiding traps, finding switches to open doors and shooting down breakable walls to find hidden areas with goodies and bonus points. In between levels, spend the money you've found to upgrade your weapon by visiting a shopkeeper.
+
+Exploration is a major part of the game, so the levels can be larger than they first appear.

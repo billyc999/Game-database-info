@@ -1,0 +1,3 @@
+Asterix & Obelix: Bash Them All! is a 2D side-scrolling platform game based on the French comic series Ast�rix. It is a collection of two games. One old, namely a port of the SNES game Asterix and Obelix. The other game is called Asterix & Cleopatra, based on the comic and animated movie of the same name. 
+
+In Asterix and Cleopatra, Asterix has to help a Egyptian architect Artifis to build his pyramid for Cleopatra. You play typical platform levels where you jump around obstacles and walk towards the right of the screen. Many enemies such as fake building contractors and Roman soldiers (sent by a jealous Caesar), and pirates have to be bashed into the sky. Each level is concluded with a mini-game. The game closely follows the events of the comic.

@@ -1,0 +1,1 @@
+A futuristic racing game where the player pilots a high speed hover craft around a series of themed circuits, competing against a number of aggressive opponents. Enhancements for this version include full frame rate hi-res graphics, split-screen multiplayer, improved opponent AI, additional game modes including challenge and eliminator and a more accessible difficulty curve.

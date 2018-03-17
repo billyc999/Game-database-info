@@ -1,0 +1,5 @@
+Driving around in the car known as the "General Lee", you must avoid all sorts of obstacles in an attempt to catch up to Jeremiah Stinge. Beware though as Boss Hog and his police force are trying to chase you. The Duke boys are as usual on the side of right in this scenario and it's Jeremiah who has orchestrated things to put them on the wrong side of the law.
+
+The gameplay is a top-down view of your vehicle heading down a path vertically across the screen. Also on the screen is your speedometer, a bonus timer (faster times mean more points!) and a gear shift. The General Lee itself has gears 1 through 4 and higher gears mean MORE SPEED. As for obstacles, the path ahead of you is full of hills and oil slicks making it difficult to catch up to (and pass) your prey.
+
+Successful completion of levels results in faster chases and more obstacles on the road. Also an increased "Boss Hogg" presence.

@@ -1,0 +1,1 @@
+Game Boy Color release of Track & Field games is different to the console and computer version in a way that it does not use 3D graphics but instead uses sprites with 2D graphics with various gameplay perspectives, depending on one of the twelve available athletic games. Main two gameplay modes are Single Play and Versus Play.

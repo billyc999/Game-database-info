@@ -1,0 +1,19 @@
+Air Boarder is a game that resembles skateboarding games like Tony Hawk's Pro Skater but with a certain aspect of it being quite different. Instead of the usual skateboards the game features hoover boards.
+
+1 Player option features the following modes:
+
+1. Lecture � mode where you can learn the controls and the terms the game uses.
+
+2. Street Work � the main mode of the game. At the beginning there are 4 available characters (total of 8), 5 stages and 4 boards (total of 12) from which you can choose. At each stage you are given a time limit in which you must perform as many tricks as possible with your board. There are also yellow circles lying around that you must pass through. Each time you pass through one the timer resets back and if you pass through all the game ends regardless of how much time is left. When the game ends you get a rank depending on the points you accumulated and if the rank is high enough a level of higher difficulty is unlocked (with a total of 3 difficulty levels per stage).
+
+3. Time Attack � you must pass through all the coloured circles in a designated order and within the least time possible. The spots where the circles are can be seen via a map that appears on the screen.
+
+4. Coin � mode in which you must get all the coins that are scattered on each stage within the time limit.
+
+5. Free Run � this mode is free of challenges (no time limit or points) and mostly serves as a means of getting you acquainted with each stage.
+
+2 Players option features the following modes:
+
+1. Vs. Race � 2 Player race where the one that passes through all of the yellow circles, in the order that is specified wins.
+
+6. Vs. Coin � another 2 Player mode where the player who gets all the coins or has the most when the time limit ends wins.

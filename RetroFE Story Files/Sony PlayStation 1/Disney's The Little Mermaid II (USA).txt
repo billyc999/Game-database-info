@@ -1,0 +1,3 @@
+Generally following along with the plot of The Little Mermaid I and II, the game is a 2D collectathon with 3D graphics.
+
+The game features over 30 minutes of movie footage, 12 levels, and 3 bonus minigames. Following the source material, most of the levels take place underwater, allowing full freedom of movement. (Within the 2D plane, of course.) On land, movement is the standard run and jump type. In all levels, there are coins and pearls to collect.

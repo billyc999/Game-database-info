@@ -1,0 +1,1 @@
+Video Life is a game where the goal is you make some combinations and leave them some life and see them grow, for example, a sequence of blocks can give life to a snake. But how to hit it really hard manual has some sequences that can be assembled.

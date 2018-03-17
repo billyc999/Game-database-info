@@ -1,0 +1,7 @@
+Tin Star is a robot Sheriff in the Ol' West. He has vowed to rid the town of the Bad Oil gang and their leader, Black Bart, within a week. Along with his sidekick Mo Crash and even more importantly his six-gun he will try to accomplish this task.
+
+The game takes place over a week with each day being a different stage. Stages are broken down into 4 parts. The first part is a training section where players can practice shooting. The next two parts are action scenes. In the action scenes, gameplay consists of moving a cross-hair over various enemies and shooting them. The final part ends the day with a showdown. The showdown involves a one on one duel in which a draw icon will randomly pop up anywhere on the screen which must be shot then immediately afterwards the enemy the player is facing then must also be shot. This continues on until either the player's or the enemy's life bar is drained.
+
+If a player doesn't shoot an energy canteen during a level a bonus screen will appear. The bonus screen shows a woman spinning around on a round board with stars next to her body. Shooting the stars without missing and without accidentally shooting the woman will help players pick up large amounts of money.
+
+At the end of a level the amount of money made is tallied up. For every bullet wasted and damage taken the player loses money. The player gains money equal to the their accuracy and the amount of energy they had left at the end of the stage.

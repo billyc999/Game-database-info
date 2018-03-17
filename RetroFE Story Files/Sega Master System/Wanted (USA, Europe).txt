@@ -1,0 +1,5 @@
+In this game, you play Michael Chen, and your job is to fight your way through seven stages.
+
+Gameplay is split into two parts. The odd-numbered stages require you to shoot gunslingers that hang out at saloons, hotels, and towns. When a gunslinger threatens you with a gun, you have only seconds to shoot him before you lose some life.  If this happens, you can increase your life meter if you shoot barrels that are scattered across town, and then detonating the bomb that is revealed, wiping out gunslingers in sight. You must be careful not to shoot innocent civilians or gunslingers who surrender, or you also lose life. At the end of these rounds, the leader will come out of a building and will move side-to-side, occasionally shooting you if he has the chance.
+
+In the even-numbered stages (except stage six), you are required to ride across a desert, shooting gunslingers that ride past you. You can increase life by shooting the only gunslinger not on a horse and then detonating the bomb that is revealed. At the end of these levels, you will be faced with a challenging stage, where the object is to shoot as many targets as you can before time runs out.

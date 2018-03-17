@@ -1,0 +1,5 @@
+Burning Road is a standard racing game with four types of cars to drive: two muscle cars, a drag car and a monster truck, each with their own strengths and weaknesses.  There are three different courses to drive on (a wooded area, city streets and snow area) and also have a reverse track variation that can be unlocked.  The object is not only to finish ahead of opponents, but also cross checkpoints in order to add more time to the ever depleting timer at the top of the screen.
+
+There are three different difficulty levels and three different game modes: Practice lets the player choose a track and races several different opponents and Career where the player races in a series of multi-heat events.  In these heat events, each time a lap is completed the driver that is last place is eliminated until only one car finishes the race.  The final mode is a multiplayer that allows two friends to battle against each other utilizing the Playstation Link Cable.
+
+There are also a multitude of camera angles including first and third person along with a full replay mode that shows the race in its entirety.

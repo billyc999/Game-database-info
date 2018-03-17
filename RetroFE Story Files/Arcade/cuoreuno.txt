@@ -1,0 +1,1 @@
+A video poker game with a difference. Instead of cards of clubs, spades, hearts or diamonds, you aim to make the best hand with hearts of different numbers and colours. It also has a higher/lower to add to your winnings.

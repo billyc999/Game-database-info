@@ -1,0 +1,3 @@
+NCAA Final Four Basketball is a standard basketball-sim with a full NCAA license with 64 of the top Division 1-A teams including North Carolina, Florida State, Boston College, and Maryland to name a few.
+
+There are three modes of play to choose from: two Practice modes, one which shows the player the basic in's and outs of the game and another for free throw shooting, Exhibition and Tournament.  Along with these modes are the ability to change around options to play a game to the player's liking including changing the length of the game. A battery-backup lets the player save their games, stats and rosters.

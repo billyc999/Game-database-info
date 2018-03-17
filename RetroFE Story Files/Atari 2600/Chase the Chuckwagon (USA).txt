@@ -1,0 +1,5 @@
+Released as part of a promotional campaign for Purina Dog Chow, Chase the Chuck Wagon puts players in control of Chuckie the Dog. Chuckie must be guided through a maze, avoiding objects and the dogcatcher, to the top of the screen where he can go directly beneath the chuck wagon to catch it.
+
+Escaping from the maze allows Chuckie to enter a Reward Screen.  Here, Chuckie can find a bowl of dog food in the maze to eat for extra bonus points.  If Chuckie misses, no points will be awarded, and he will simply be sent to the next screen.
+
+Chase the Chuck Wagon was available only as an exclusive through Ralston-Purina.

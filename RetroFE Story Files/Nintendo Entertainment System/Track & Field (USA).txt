@@ -1,0 +1,7 @@
+Track & Field is a sports game that allows the player to have an experience based around the Summer Olympic Games. It is based on an arcade game of the same name. Events include 100 meter dash, hammer throw, the long jump and the 110 meter hurdles.
+
+The MSX version replaces the hurdles with a 400 meter dash.
+
+The NES version adds skeet shooting, triple jump, javelin throw, high jump, and archery as events but loses the hammer throw event. The NES version also keeps the 110 meter hurdles and forgoes the 400 meter dash.
+
+If you want to go to the next event or round then you will have to qualify, by beating increasingly difficult maximum times or minimum distances. This game contains a two player option, in which the players take it in turns.

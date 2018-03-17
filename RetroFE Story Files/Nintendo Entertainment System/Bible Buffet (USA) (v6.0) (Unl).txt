@@ -1,0 +1,9 @@
+This is a Bible trivia/action game in which you spin a spinner and move the number of spaces it says. 
+
+When you land on your spot, if it is just a regular spot, you play an action game for points, upgraded or better weapons, hearts, etc. If the space you land on has a red circle, you spin again. If the space you land on has a red circle connected to another red circle by dashes, you move forward or backwards to the second circle. If the space has a red circle with a question mark in it, you take a pop quiz of  three trivia questions then get to select either a key, a heart or move ahead one, two, three or four spaces. 
+
+When you spin, if you don't get a number but instead get the book, you get a pop quiz of three questions. If you get the happy face, something good happens like move ahead ten space, get a key, get a heart, etc. If you get the sad face, something bad happens like lose your turn, move back 1 space and lose turn, etc. 
+
+When you take a quiz, if you answer all three questions right, you get a star.
+
+At the end of the game, a bonus is awarded to the player who got to the end first and/or got the most pop quiz stars and/or collected the most food then all the points are shown for each player.

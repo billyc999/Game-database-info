@@ -1,0 +1,5 @@
+This game features two different modes of play: Classic Battleship and Super Battleship.
+
+Classic Battleship is the typical Battleship game where the players set up their ships on a grid, then take turns choosing 3 places at a time to target and hope they hit the opposing players ship. The game ends when all the opposing players ships are sunk. This mode contains four difficulty levels: Ensign, Lieutenant, Commander, and Admiral.
+
+Super Battleship involves eight levels consisting of sixteen missions total. Missions include sinking enemy ships in a certain number of rounds, escorting ships to their destinations, defending cities from attack, and destroying enemy airfields. Gameplay consists of a turn-based moving of ships utilizing an overhead view. The player can then target any enemy units within the ship's range and attack. Attacking brings up an action sequence where both ships trade volleys of gunfire until one of them either sinks or retreats.

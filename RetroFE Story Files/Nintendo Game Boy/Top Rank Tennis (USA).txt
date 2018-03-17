@@ -1,0 +1,5 @@
+Top Rank Tennis is a tennis game. Players can opt to play singles or doubles matches. There are only two game modes: Official or Practice. Normal tennis rules apply. Notably for a Game Boy title, the game's scoring is completely spoken out loud as well as other words such as "play" and "fault".
+
+Player rankings are saved using battery backed RAM.
+
+Multiplayer up to four players using the four player adapter is supported.

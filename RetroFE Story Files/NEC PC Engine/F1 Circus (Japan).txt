@@ -1,0 +1,3 @@
+F1 Circus is a Formula 1 simulation racing game. Unlike later entries in the series, this version does not feature an official license, and so only features generic teams and drivers. Races are viewed from a top-down perspective, and there are a variety of machine settings as well as basic vehicle damage.
+
+A total of 15 courses are on offer, and there is a World Championship mode, as well as a "Constructors" mode for one or two players where the player can take the role of team manager while the computer does the actual racing. The Famicom release also adds a Time Attack mode for practicing and perfecting each course.

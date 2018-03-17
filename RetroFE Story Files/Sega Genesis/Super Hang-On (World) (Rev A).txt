@@ -1,0 +1,3 @@
+This is a conversion of Sega's popular motorcycle racing arcade game.  In this game you race a motorcycle around the world, completing each section of track within a time limit. There are other bikes on the road, but beating this is not important, so they can be thought of as moving obstacles. Each continent is a different difficulty level: Africa is beginner, Asia is junior, the Americas are senior, and Europe is expert.  
+
+This is a very simple and straightforward game, viewed from behind the bike in 2D (so the screen does not tilt with the bike). The right/left controls are steering, and up/down are gear changes. Your cycle is always moving, and your speed strictly depends on the gear you are in, although contact or running off the road slows the bike down.

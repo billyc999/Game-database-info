@@ -1,0 +1,5 @@
+Using a top-down view, Tennis Ace lets you play single or double games with computer players. Two human players can either duel or work cooperatively in a doubles game. By working your way to one of the six grand slam finals, with practice games and exhibition matches, you gain experience, which improves your playing style.
+
+All the basic strokes are available: serves (either flat or a lob - fast-low, slow-high and curved), smashes, drop shots, lobs, flat forehands and backhands. Upon serving, the screen switches to a side-view and you have to time the throw and the hit to perform a succesful serve.
+
+The in-game progress can be saved with a password function.

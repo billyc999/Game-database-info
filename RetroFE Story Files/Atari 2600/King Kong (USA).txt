@@ -1,0 +1,3 @@
+King Kong has taken a lady to the top of the Empire State Building. It is up to you to rescue her but it won't be easy. Kong is throwing bombs at you.
+
+This game is a clone of Donkey Kong, except instead of barrels, you must avoid bombs. You must make your way across the floors and up the ladders while jumping over bombs for points and holes in the floor. There is also a timer in the upper right. It starts at nine-hundred ninety and counts down ten points per second. If you are hit by a bomb or fall through a hole in the floor or the time reaches zero, you lose a life. Occasionally, Kong will release a magic bomb that gives more points when you jump it as well as moves you to the next floor up. Once you reach the top floor, the game starts again but faster.

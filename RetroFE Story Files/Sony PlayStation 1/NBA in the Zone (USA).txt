@@ -1,0 +1,3 @@
+This is the first in the NBA in the Zone games, which is considered a true simulation of the NBA.  There are 29 teams to choose from with a full compliment of rosters from the 1996 season and a plethora of offensive and defensive plays to use against their opponents with trick shots like behind-the-back passes, skyhooks, alley-oops, fade-away jumpers and of course the slam dunk.
+
+There are, however, only five players from each team on the court at one time, similar to NBA Jam.  The game also supports an advanced A.I. and is rendered in 3-D polygons. There are two modes to choose from, Exhibition and Playoff.

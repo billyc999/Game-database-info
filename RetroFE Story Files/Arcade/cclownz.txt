@@ -1,0 +1,2 @@
+The game features a 'crazy' clown character who shoots himself out of a canon and then bounces as high as hecan on a moving trampoline to pop balloons which fill the top of the circus tent.
+As the player, you must move the trampoline from side to side, using the steering wheel control, so that your clown character can continue to bounce up and down popping more and more balloons. Balloons are marked with different points values which add to the player's score when each balloon is popped.

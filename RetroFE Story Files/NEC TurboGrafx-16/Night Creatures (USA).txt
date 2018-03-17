@@ -1,0 +1,3 @@
+Night Creatures for the TurboGrafx-16 is an action/adventure side-scrolling platformer.  You are an unfortunate peon who is bitten by Hecate, a witch.  Unless you kill Hecate by sun-up you will forever be doomed to be a creature of the night.
+
+The world of Night Creatures consists of several different scenes, a town, a grave yard, a forest, and so on. You can travel from one scene to the next in a non-linear fashion.  You have to determine the fastest way to find the weapons and abilities you need to beat Hecate.  There are several boss encounters as well.  After defeating a boss, you gain the ability to transform into an animal, such as a wolf or an owl.

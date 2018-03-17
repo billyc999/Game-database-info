@@ -1,0 +1,3 @@
+Rip-Tide Racer is a futuristic racing-game set in a flooded world. The player can choose between three armed hover bikes which differ in speed and armor. There are two playing modes available: 
+Time Trial is basically the campaign mode in which the player participates in overall eight races on the eight courses the game has to offer. The four opponents can shoot at each other and the goal is to finish the race first. In this mode a password is rewarded after every victory. The round courses sometimes allow alternate paths. 
+Deathmatch focuses on the shooting part. The opponents (the number can be set beforehand) move freely over the course (without the boundaries from time trial) and the last one standing wins. There are also some power ups to collect. 

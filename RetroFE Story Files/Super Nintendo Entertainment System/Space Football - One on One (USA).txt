@@ -1,0 +1,5 @@
+In the futuristic sports game Space Football, 2 players steering hovercrafts try to score touchdowns on each other by picking up and carrying a hoverball into a touchdown area. The hovercraft has the ability to accelerate, reverse, track the hoverball, and it can also fire at the opposing player to make him drop the ball if he's carrying it. If the player's hovercraft picks up the hoverball, they must try to get to the touchdown area within four seconds or else the hoverball gets automatically fumbled. Each game is played for a duration of 500 time units and the player with the highest score when the time runs out is declared the winner.
+
+The playfield itself presents features that can affect the way the match is played. Some playfields contain things such as jumps, spinners, and force arrows which can help or hinder a players movement. 
+
+There are a total of 12 drivers to choose from, with 4 per every speed level (slow, medium, and high).

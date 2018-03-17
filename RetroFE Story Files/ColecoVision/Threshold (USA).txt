@@ -1,0 +1,2 @@
+Threshold is a simple Shoot'em up game. You are in control of a spaceship at the bottom of the screen and have to shoot several formations of enemies on the top of the screen.
+To make things more difficult you have limited time in form of a fuel tank which will get refilled after you cleared a number of waves. Besides that your spacecraft is equipped with a laser that tends to overheat. Every shot make the heat bar of the laser increase a bit. Once it reached its maximum you can't fire anymore and are forced to wait until it cooled down while slowly running out of fuel.

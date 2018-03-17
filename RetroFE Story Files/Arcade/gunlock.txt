@@ -1,0 +1,1 @@
+A vertically scrolling shooter featuring a lock-on secondary weapon.

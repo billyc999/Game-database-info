@@ -1,0 +1,3 @@
+This is the first handheld version of Tony Hawk's popular skateboarding game. It bears little resemblance to the original Playstation version. It is actually composed of two different events, a half pipe and a race mode.
+
+Half pipe mode is viewed from a side perspective, kind of like the classic Skate or Die game. You perform tricks to achieve a high score. Race mode is viewed from a top-down perspective, where you goal is to perform tricks and get to the end quickly.

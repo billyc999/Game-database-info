@@ -1,0 +1,3 @@
+This is and skiing a snowboarding game that takes place entirely at the French Val d'Is�re resort.  Both sports are represented equally.  There are three events:  downhill, slalom, and giant slalom.  There are also three game modes, free ride, training, and competition.  Competition mode provides a series of timed events in which to compete leading up to a final timed event.  The other two modes are self-explanatory.
+
+Game play is presented with scaled 2D sprites that present a 3D effect, similar to many early racing games.  Everything wooshes by at extremely high speed, and winning requires the player to have great reflexes.

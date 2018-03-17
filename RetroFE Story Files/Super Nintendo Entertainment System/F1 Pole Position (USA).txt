@@ -1,0 +1,9 @@
+This Formula 1 racing game features 3 game modes and 16 tracks to race on. The game modes included are Battle, World Grand Prix, and Test Run.
+
+Battle mode allows for an exhibition race where the player can choose any course and its condition plus how many laps the race will be. The player can also choose to race up to 13 other opposing racers,
+
+World Grand Prix mode lets the player compete in a season of F1 races. The higher a position a racer finishes in a race, the more points will be awarded to increase their place in the total season standings.
+
+Test Run lets the player practice any track without the interference of other racers,
+
+Players can fine-tune their car using a variety of settings. Settings include adjusting the steering, tires, gears, brakes, wings, and the suspension. Players can also choose the type of pit work, tachometer (digital or analog), and whether to have either manual or automatic gear shifting.

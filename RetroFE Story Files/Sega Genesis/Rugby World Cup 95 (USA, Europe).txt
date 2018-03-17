@@ -1,0 +1,5 @@
+The official game of the 1995 IRB Rugby Union World Cup in South Africa. Featuring all 20 international teams that took part in the World Cup including the All Blacks of New Zealand and the Springboks of South Africa, as well as an EA All Stars team and a few other minor rugby nations
+
+The game shares a lot with EA Sports' early FIFA titles. It uses an isometric perspective, with buttons to pass and kick the ball, and a timed gauge for place kicks.
+
+The menus are structured in the same way as FIFA, with options including arcade and simulation modes, changing the firmness of the ground, and the weather.

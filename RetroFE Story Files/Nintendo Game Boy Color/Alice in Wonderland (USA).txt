@@ -1,0 +1,5 @@
+A true translation right from the Disney movie, Alice finds herself in the wonderland that she's expected to.
+
+Over the course of the game Alice meets major characters from the story, who will have either lost an item or need some help in some sort, for which Alice will volunteer to help.
+
+Basically a side scrolling platform, with parts in an isometric view as well.

@@ -1,0 +1,3 @@
+The game's hero is the Frito-Lay mascot, Chester the Cheetah. Chester leaves peacefully in a zoo with other animals, until the big brute Mean Eugene steals his beloved motor scooter. What's worse, without knowing how to handle the scooter, Mean Eugene broke it to pieces and threw them away. Now it's up to Cheetah to travel across the zoo and to retrieve parts of his scooter.
+
+The game is composed of platform levels. On each level there is a hidden scooter part, which Chester has to recover before being able to exit the level. On the way there are various creatures that will try to eliminate Chester and obstacles to watch for. Chester can dash and stun enemies by jumping on their heads.

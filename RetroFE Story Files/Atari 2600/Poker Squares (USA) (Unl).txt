@@ -1,0 +1,12 @@
+This is a game similar to the Poker Solitaire found in Casino/Poker Plus. The object is to place twenty-five cards out of fifty-two on a grid five rows wide and five rows deep to form the best poker hands you can, horizontally, vertically and diagonally. The better your poker hands, the more points you get.
+
+Points are awarded in the following way:
+
+1. For each row with one pair: one point
+2. For each row with  two pairs: three points
+3. For each row with three of a kind: six points
+4. For each row with a straight: twelve points
+5. For each row with a flush: five points
+6. For each row with a full house: ten points
+7. For each row with four of a kind: sixteen points
+8. For each row with a straight flush: thirty points

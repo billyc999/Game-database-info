@@ -1,0 +1,1 @@
+This port contains two complete games from the classic puzzle series.  There are 209 levels to work through, all featuring the classic Lemmings formula: the player must assign roles (digger, climber, etc.) to marching Lemmings in order to prevent them from meeting terrible fates.

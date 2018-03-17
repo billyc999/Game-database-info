@@ -1,0 +1,8 @@
+You are a secret agent sent on an important mission to recover enemy documents. There are enemy assassins trying to stop you.
+
+You move the joystick to move your character, left or right. Press the button to fire. You fire in the direction you are moving. When you are next to an elevator, you will automatically board it when it gets to your level unless your are pushing towards it, in which case you will walk across it. 
+
+If you are on the same level with an assassin and there is no elevator between you, you can shoot him. If he shoots at you, you can pull down on the joystick to duck. You cannot shoot while ducked. If the assassin shoots or touches you, you lose a life.
+
+Difficulty switch
+A

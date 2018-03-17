@@ -1,0 +1,14 @@
+Drop the target plate before time runs out to clear each stage. To finish game, clear 39 different stages...
+Level 03 : GET Aries
+Level 06 : GET Taurus
+Level 09 : GET Gemini
+Level 12 : GET Cancer
+Level 15 : GET Leo
+Level 18 : GET Virgo
+Level 21 : GET Libra
+Level 24 : GET Scorpio
+Level 27 : GET Sagittarius
+Level 30 : GET Capricorn
+Level 33 : GET Aquarius
+Level 36 : GET Pisces
+Level 39 : Sun

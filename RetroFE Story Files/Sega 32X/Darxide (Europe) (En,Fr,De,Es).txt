@@ -1,0 +1,5 @@
+One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons. 
+
+Players control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.
+
+Asteroids broken down to their smallest size and then vaporized will sometimes drop shield or energy recharges, to repair damage caused by laser blasts or collisions. New weapons can also be found. Players have a time limit to meet all objectives in a stage before they are forced to land and try again. The right side of the HUD shows asteroids remaining (and their approximate size), while the left shows the player's distance to their base (and so, time remaining in the stage).

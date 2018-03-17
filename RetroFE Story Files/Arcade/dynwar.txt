@@ -1,0 +1,2 @@
+This is a 1 or 2-player game where you play one of 4 Chinese heroes on horseback and try to kill hordes of enemies. This game always scrolls to the right.
+The 1st button will make you face left and swing your weapon the 2nd button will make you face right and swing your weapon, while the 3rd button will let you use magic. You can also add coins any time to increase your vitality.,

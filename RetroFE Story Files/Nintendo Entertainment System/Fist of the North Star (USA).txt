@@ -1,0 +1,3 @@
+This is a platform "beat-'em-up" game based on the anim� series Hokuto no Ken. According to the story mentioned in the manual, Kenshirou, the main character, has to save the people from the evil Emperor Heaven. The game itself, however, features no story whatsoever, but a lot of platform action instead. You have to run quickly through the levels (there is a time limit), punching and kicking your enemies, causing them to fly away or to explode, occasionally meeting a boss, visiting secret areas behind doors and collecting various power-ups. 
+
+This is in fact the second game in the series; the first one was never released outside of Japan.

@@ -1,0 +1,1 @@
+A platform game where the player controls a monk. His weapons are bubbles of various colours which can be powered up until they become almost as large as the player. The monk battles snakes, giant eyeballs, ghosts and other enemy creatures.

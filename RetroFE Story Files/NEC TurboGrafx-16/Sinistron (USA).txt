@@ -1,0 +1,7 @@
+Sinistron is a side scrolling shooter similar to R-Type, but has a unique weapons system in which you can open and close your shields to improve your fire power at the expense of making your ship vulnerable. There are also several different powerups you can pick up such as missiles and different types of lasers.
+
+The plot in the game is not real clear according to the instruction booklet. Apparently something called a "Sinistron" has invaded your quadrant of the galaxy and you have to blow it up, just because.
+
+This game has large enemy sprites and large boss characters. The levels take place mostly in outer space and alien environments. Some of the sprites are Macross-like mechs.
+
+The Japanese version, "Violent Soldier", had slightly different graphics.

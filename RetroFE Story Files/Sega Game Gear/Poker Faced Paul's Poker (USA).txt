@@ -1,0 +1,3 @@
+Another game released in the Poker Face Paul series, this version centering around Poker instead.  There are two versions of Poker to choose from: the standard 5 Card Stud where the player competes against computer opponents in an attempt to get a good hand such as a straight, flush, etc.
+
+Video poker is the second option where the player goes at it alone, but still with the same objective as 5 Card Stud, trying to assemble a winning hand, however since the player is alone they receive a certain amount of money according to the hand they assemble.  There are also instructions that help the player out.

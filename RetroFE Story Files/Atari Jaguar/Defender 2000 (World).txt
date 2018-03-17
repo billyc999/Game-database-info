@@ -1,0 +1,5 @@
+Defender 2000 is an update of the classic arcade game by Eugene Jarvis.  This Jaguar game features a port of the original game, and two updated versions: Defender Plus and Defender 2000.
+
+Defender combines a side scrolling shooter with a search and rescue game. You control a ship that travels left and right above the planets surface. Alien lander craft warp into the play area, and begin to descend to the surface. Along the surface, there are humanoids ripe for the picking.  The alien landers grab the humanoids and begin to carry them up the screen. You have to shoot the landers before they reach the top of the screen, and catch the humanoids before they fall to the surface.
+
+The Defender Plus update features gameplay that is very similar to the original, and graphics that have a crazy, psychedelic look. The Defender 2000 update adds playfields that scroll in both directions, weapon power-ups, bonus rounds, improved graphics, and extremely high speed gameplay.

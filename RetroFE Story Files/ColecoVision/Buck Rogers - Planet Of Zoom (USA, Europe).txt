@@ -1,0 +1,3 @@
+Fast and furious racing game taking place on a futuristic racetrack.  Guide your spaceship between the pylons and shoot down other enemy racers.
+
+Based on the arcade game (which is even more loosely based on the Buck Rogers comic strips).

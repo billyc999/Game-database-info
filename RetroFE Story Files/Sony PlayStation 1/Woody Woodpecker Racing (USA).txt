@@ -1,0 +1,7 @@
+A go-kart racing game based on the popular cartoon character Woody Woodpecker.
+
+Select one of 6 starting characters from the series (including 3 different styled Woodys, Wally Walrus and others) and race in a style reminiscent of Super Mario Kart (including "jump turns" for sharper angles).
+
+Collect items from boxes and try to slow down your opponents as you drive through a 3D environment, with slopes, ramps and jumps, on tarmac or mud.
+
+Select either quest, championship, time trial or single race as you try to hone your skills and unlock new characters and tracks.

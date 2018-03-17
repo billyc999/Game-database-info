@@ -1,0 +1,15 @@
+Fighter Pilots Needed!
+
+Fight your way through day and night zones and shoot down the enemy bomber!
+
+Use the joystick to move your fighter and the fire button to fire missiles. You only get one life, so avoid colliding with the enemy jets (you are safe at the lowest level of the screen)! In the night zone the enemy jets are only visible when the radar wave passes over them.
+
+You start with approximately 60 seconds in the guided missile version and 90 seconds in the regular missile version. If you can reach and shoot down the bomber (which requires three hits), you'll be awarded with additional time (represented by a bar on the left of the screen). The enemy jets get more evasive and you receive less time to accomplish your goals with each successive round.
+
+Arrrrr Matey! X Marks the Spot!
+
+Can you find the treasure of the evil pirate "Up" Chuck LeDuc? Beware! His bony corpse wanders the island looking to protect it! Also watch out for snakes and the voodoo priestess!
+
+Use the joystick to move around the island and use your fire button to fight/pick up items or use an item/enter or exit the hut. The window color represents what you are presently carrying (gray - nothing, blue - shovel, yellow - sword, green - shovel & sword). The color of the display in the window shows your health. You start with three hit points (3 - green, 2 - yellow, 1 - red). Snakes have 1 hit point each. The other enemies' hit points are randomly generated. There is a flower growing on the island that will restore your health, but it only works when it is fresh. Only use it when you actually need it!
+
+The treasure is marked by an X and you must have the shovel in your possession to dig it up. Can you find the treasure before LeDuc finds you?

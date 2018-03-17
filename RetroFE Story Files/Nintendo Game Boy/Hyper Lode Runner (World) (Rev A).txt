@@ -1,0 +1,3 @@
+Hyper Lode Runner plays similar to Lode Runner. You must run around on brick platforms gathering all the gold, while avoiding enemies, known as Mad Monks, who follow your every move. You can zap blocks to create temporary holes to trap enemies or to escape through to platforms below. To make levels more interesting there are ladders and vertical ropes to climb, but the enemies can use these too.
+
+There are 50 levels to play, and there is also an editor and a VS mode.

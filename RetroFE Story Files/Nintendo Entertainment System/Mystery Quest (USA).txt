@@ -1,0 +1,5 @@
+In Mystery Quest the player is Hao, an apprentice wizard who finally has a chance to prove himself.  The Great Wizard has challenged Hao to seek out his four hidden talismans which he has placed in four different castles.
+
+The player's character has only one type of magic attack that can be upgraded once in the game, and they have the ability to shoot left and right as well as jumping shots and angled upward shots. There are also a limited variety of items that help the player progress through their quest.
+
+The game takes place in three types of areas, outside, inside the castles and underground.

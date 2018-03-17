@@ -1,0 +1,9 @@
+This is a game to help you exercise by using the Foot Craz pad and a visual representation on the screen. Once around the track is approximately thirty-five yards.
+
+To begin, step on the green dot on the pad. There are two tracks. The upper one is slower and the lower is faster. To play, step, alternately, on the blue and orange dots to make the happy face go around the track. You must not let the pace symbols that are circling the tracks touch you when they are red, only when they are green. To switch to the lower track, step on the red dot. To move back to the upper track, step on the yellow dot.
+
+After 2000 points, the pace increases. After five minutes, there will be 2 pace symbols on the tracks.
+
+Game variations
+The games vary by the mile rate
+U

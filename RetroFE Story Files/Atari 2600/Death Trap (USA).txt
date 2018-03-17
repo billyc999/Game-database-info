@@ -1,0 +1,17 @@
+You have been sent to deliver a message. Suddenly, you run into the giant ship IT. IT doesn't want that message to get to the Galactic Emperor. You must destroy all three power generators to escape. One generator is hidden until the other two are destroyed.
+
+IT is protected by three shields above you; which are A, B, and C, from top to bottom. There is a forth shield, D, below you. Touching any shield is instant game over. IT also has guided fireballs that chase your ship for a short distance. Getting hit by these too many times will kill you. If you can avoid getting hit long enough, your repair crew might can undo some of the damage (see Game variations below)
+
+You use the joystick to move the ship, left, right, up or down. Press the fire button to launch a torpedo. If you keep the fire button down, you can guide the torpedo left or right or accelerate it. Be advised, though, that you ship isn't moving while you are guiding the torpedo and could get damaged or destroyed.
+
+As you damage IT's generators, shields A, B, and C will get invulnerable sections. These move across the shields, making it harder to get shots through the longer you play. If you do not hit the left or right generators for 15 seconds, IT will lower shield C, reducing your maneuvering room. You will also lose points (see Scoring below).
+
+After you destroy the left and right generators, the center generator will be visible. When you destroy that, you win the game. However, as you hit the center generator, shield D will raise so you must work fast as possible.
+
+You start with six ships at the bottom of the screen. Each time a fireball hits you, you lose a ship. Lose them all and the game is over.
+
+Game variations
+After you press the fire button to select your joystick, you then choose your difficulty by moving the joystick up or down.
+
+The difficulty settings are:
+Easy (the square)

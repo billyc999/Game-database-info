@@ -1,0 +1,7 @@
+You are on a moon-based scouting mission in a Mark 16 Starcruiser. Suddenly, enemy alien ships teleport in and start firing neutron missiles, which can destroy you upon impact. You must destroy enemy ships until reinforcements arrive from Earth. The enemy also have laser-directed heat-seeking proton missiles which are fired sparingly. Be aware that as the battle progresses, the aliens will become more desperate and will use the laser-directed heat-seeking proton missiles more often.
+
+You can move in any of the eight directions in the bottom third of the screen. Press the button to fire.
+
+Scoring
+Minimum heat seeking missile variations:
+Level one alien

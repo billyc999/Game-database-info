@@ -1,0 +1,9 @@
+Mach Rider is a motorcycle combat game set in a post-apocalyptic future. Players, represented by Mach Rider, must make their way across ten sectors to reach the city before it gets taken over by the enemy. Aggressive drivers try to force players off the road; obstacles, such as rocks, and the road's many turns also can cause players to veer off course. If destroyed, Mach Rider will reform himself so that he can continue.
+
+There are three different play modes in Mach Rider.
+
+On the Fighting Course, there are two paths to choose from. The goal must be reached while shooting down enemies or forcing them off the road; more points are rewarded by bumping off enemies. Unlimited lives are available for the first stage, but remaining courses must be finished in three lives or less.
+
+On the Endurance and Solo Courses, there is a certain distance that must be gone before the time runs out. Enemies are on the Endurance Course, but the Solo course is devoid of enemies.
+
+There is also a level editor (similar to the one in Excitebike) that allows creation of Endurance Course tracks, which are erased once the NES is turned off.

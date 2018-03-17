@@ -1,0 +1,6 @@
+AirCars takes place in the future after a nuclear holocaust. 
+The large organization E.B.N.E.R.S. is plotting to take over the world and has developed advanced forcefield and teleportation systems, and nuclear powered AirCars. To stop the plot, your group steals plans, builds its own AirCar, and sets out to destroy all of the bases, 28 known and countless unknown ones, stationed around the globe.
+
+You can choose to play a single player game, the 2-player game using a JagLink, or up to 8 players using ICD's CatBoxes. On screen and on radar, each player's AirCar is displayed in a different color to help identify the good guys from the bad guys. There are 3 difficulty settings. You will be using the cockpit's instrument panel to fly the AirCar, select weapons and view radar, as well as combating the enemy in the air and shooting ground targets.
+
+Features include true 3D sound, a computer voice (which can be turned off if desired), and music during the introduction and level intermissions.

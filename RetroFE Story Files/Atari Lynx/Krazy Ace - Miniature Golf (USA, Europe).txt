@@ -1,0 +1,1 @@
+Krazy Ace Miniature Golf is a miniature golf game for one to four players. You must hit the golf ball into the hole in the fewest shots while avoiding obstacles and traps. Try to get a better score than your opponent(s) or at least get within the number of shots per hole (par).

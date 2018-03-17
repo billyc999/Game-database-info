@@ -1,0 +1,13 @@
+In Brain Games one or two players attempt to earn as many points as possible by solving various puzzles presented by the computer. There are six different puzzles included, which are:
+
+Touch Me: The computer will play a sequence of tones. Each button on the controller represents a different tone, and by pressing the correct button you need to recreate the same sequence.
+
+Count Me: The computer will display a sequence of numbers. Using the controller, you need to press the numbered buttons in the same order the computer displayed them.
+
+Picture Me: The computer will display a series of symbols. It will then scramble the order they are displayed in, and you need to reorder the symbols back into their original configuration.
+
+Find Me: The computer will display a series of objects on the screen, and you need to select the object which is dissimilar from the others. Your score is based on how fast you can successfully do this.
+
+Add Me: The computer will display a list of numbers. You need to enter in the sum of the numbers before the timer runs out.
+
+Play Me: This game allows you to play your own songs in free form mode; each button on the controller represents a musical note. Both controllers can be used for a duet, and several example songs are included in the instruction manual.

@@ -1,0 +1,3 @@
+Terrakian Pirates have taken over a colonized planet under Federation control.  They've set up an atmospheric cannon, making invasion impossible.  Your job, as a hovercraft pilot, is to launch a pre-emptive strike on the planet's surface.
+
+Hover Strike for the Jaguar is a mission-based tank game.  In each mission, you will drop to the surface of the planet, destroy some targets, and then return to your ship in orbit.  The hovercraft you pilot is heavily armored and includes various weapons systems to take out enemies and targets.

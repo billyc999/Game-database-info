@@ -1,0 +1,13 @@
+This iteration of EA's baseball simulation adds 3D hardware support, a career mode, and a full-league draft. It features official Major League Baseball statistics and names of all teams and players from the 1998 season.
+
+Other modes include single-game exhibition, home run derby, play-off, tournament, season and manager.
+
+The new career mode allows you to play multiple seasons. Tournament mode allows you to create a custom tournament with up to eight teams.
+
+The Full-league draft allows you to build your own team from scratch using trade points, that determine the amount of and skill of players you can acquire.
+
+Manager mode has you looking at all the statistics behind the game instead of the more action based actual ball game.
+
+Multiplayer options for PC version include modem, LAN and internet modes. Playstation supports two player split-screen.
+
+The game's commentary is supplied by Jim Hughson and Buck Martinez

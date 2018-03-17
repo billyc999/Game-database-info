@@ -1,0 +1,5 @@
+Peak Performance is an arcade-style racing game similar to Cruis'n USA with over 20 vehicles ranging from normal street cars to high-end performance race cars and even buses and scooters.  There are five different tracks to choose from: Seven Tight Corners, Uptown Driveway, Northern Country, Bay Area, and Pikes Peak Hill Climb along with the ability to change weather conditions to add more challenge.
+
+Not only can players compete against 11 other A.I. drivers, they can also face off against a friend using a split-screen of their choosing (either vertical or horizontal) which will merge into one screen when the players come into close contact.  There is also a Time-Trial mode where players race against the clock in an attempt to unlock certain vehicles by either beating certain times or finding them hidden on the track.
+
+A Course Edit mode is also present that allows players to create their own Time Trial tracks and place time interval markers anywhere on the course.  Also featured on the cover is Robby Unser, an eight-time winner of the Pikes Peak Hill Climb.

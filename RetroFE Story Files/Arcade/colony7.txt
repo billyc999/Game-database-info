@@ -1,0 +1,1 @@
+Defend Colony 7 from alien attack by using two ion-cannons that fire an exploding shot which knocks out targets near its detonation zone, an eradicator rocket that acts as a 'Smartbomb' which clears the entire screen, and an ion shield which provides temporary safety (blasted away by alien fire).

@@ -1,0 +1,5 @@
+Kid Kool is a side-scrolling platformer.  The king is sick and Kool must gather the seven magical herbs to cure him within three days.
+
+Unlike most platformers, momentum is very important in Kid Kool.  He takes several steps to get up to full speed when running and cannot stop on a dime.  There is no air control, so how far he is able to jump depends entirely on how fast he was going when he left the ground.
+
+Kool faces a variety of enemies.  They can be defeated by jumping on their heads.  The first jump drives them into the ground and the second eliminates them.  They also can be beaten with a furry companion that Kool can pick up by running fast enough past the appropriate spots.  He can be thrown with the B button, then retrieved by standing near him.  He also affords some protection as if Kool is hit while holding him, he will only lose his companion, not a life.

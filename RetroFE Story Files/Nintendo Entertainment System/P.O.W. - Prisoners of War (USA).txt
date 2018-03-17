@@ -1,0 +1,5 @@
+The enemy is unstoppable. They maintain vigilant guard over their front lines! The only way to defeat them is to get behind their lines. But how? By allowing a soldier to get captured, perhaps he could escape and single-handedly defeat the enemy forces in his way. 
+
+In P.O.W., the player is a soldier who has been imprisoned in a Prisoner of War camp and must escape. In order to accomplish this, he must defeat a variety of enemies.  The foes will attack you hand-to-hand, with knives, guns, and from helicopters. Boss enemies will guard the end of each level.
+
+To fight back, you can use hand-to-hand, and pick up weapon power-ups, found on the ground, in rooms, or dropped by enemies. These weapons include a knife, which can be used to stab or be thrown, guns and grenades.

@@ -1,0 +1,6 @@
+You have been challenged, or maybe you challenged, someone to a game of racquetball.
+
+To serve, press the red button. You hit the ball by moving your player to where the shadow of the ball is about level with your feet. The racquet will swing automatically. When you serve, the ball must hit the front wall before it hits the floor. Your opponent can then hit the ball before it lands on the floor or he can let it bounce but you can only let it bounce once. It cannot bounce twice. You serve every time until you miss. If you are serving and your opponent misses, you get one point. You can only get points on rounds where you serve. First player to twenty-one points, wins.
+
+Difficulty switches
+A

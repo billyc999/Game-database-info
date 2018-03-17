@@ -1,0 +1,17 @@
+C: Contra Adventure is a sequel to some of Konami's earlier Contra classics. 
+
+The game's story follows the events of Contra: Legacy of War. It follows Ray, the only surviving member of the Contra task force (who is originally from Contra: Hard Corps), fighting an alien invasion in the jungles of South America.
+
+All the innovations that were introduced in Contra: Legacy of War are maintained in this game: memory card saving, hit-points, three-dimensional fire fights. However, the gameplay varies depending on the level and perspective used.
+
+The nine levels are a combination of mostly overhead with some side scrolling, and third person 3D.  For a different twist in one of the levels your character is weightless.
+
+City Rescue - sidescrolling 
+Village - third-person 3-d 
+Canyon - overhead 
+Pyramid - third-person 3-d
+Weightless - Sidescrolling
+Hunting - third-person 3-d 
+Alien Lair - sidescrolling 
+
+The weapons are the standard laser, machine gun and spread weapon.  You can carry multiple weapons and in this version of the game you can take multiple hits before dying.

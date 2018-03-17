@@ -1,0 +1,6 @@
+An UK developed racing game based on 1999's Formula One Season. Every team and pilot is registered, as well as all 16 courses including the new (at the time) Sepang track at Malaysia.
+
+Gameplay tends to go towards arcade action rather than simulations, as there are not many customization options and maneuvers such as drafting are useless thanks to the physics engine.
+Supports quick race and season gameplay in both simulation and arcade modes, as well as multiplayer support for up to 8 players.
+
+Graphics are entirely 3d with weather effects included and the game features commentary by BBC commentator Murray Walker.

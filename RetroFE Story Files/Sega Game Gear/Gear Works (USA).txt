@@ -1,0 +1,5 @@
+This top-down puzzle game starts with a screen featuring a number of red cogs at different parts of the screen, and a grid of pegs (which become less complete on later levels). Your task on each level is to use a number of gears of one of 3 different sizes to ensure that all the pegs are linked together. All this has to be completed before the engine overheats.
+
+Making life harder are two creatures with the peculiar name �Poffins�. One of these goes around removing pegs, and the other causes the engine to overheat further. They can be shot out of the way, or have gears placed over them to stop them.
+
+There�s also a bonus round, which is a fruit machine, only with cogs and other things from the game rather than fruit.

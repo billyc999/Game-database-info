@@ -1,0 +1,1 @@
+A futuristic 3-D fighting game. While the game does not use polygons, sprite and environment scaling is used to give the game a depth of 3-D movement, as the characters circle around each other on the playfield.

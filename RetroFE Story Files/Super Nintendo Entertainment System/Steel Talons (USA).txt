@@ -1,0 +1,5 @@
+Steel Talons brought realism-oriented helicopter combat to the arcades, and later to home systems. The action is viewed from behind your helicopter, with the 3D polygon world rotating around you, taking in mountains, rivers and deserts. 
+
+There are 12 missions in total, each of which requires you to destroy targets in a set time limit. There are also training and head-to-head (against a CPU-controlled drone) modes. 
+
+You have a limited number of automatically-targeting missiles as well as a cannon. A tracking map tells you where you are on the level, and where the enemies are.Contact with the ground, mountains or other vehicles will damage or destroy your helicopter.

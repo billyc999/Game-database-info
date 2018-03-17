@@ -1,0 +1,5 @@
+Your planet has done well but your neighbors have not so they have attacked and stolen your food. It is in a space cage. You must make your way past them to return the food to your planet.
+
+You start at the bottom of the screen, on your base. You must push up to launch from your base, at which point you will begin consuming fuel. You must then make your way through drones that are moving left or right to the space cage at the top of the screen. When you are at the opening of the cage, where the food is, push up to retrieve it. Once you have the food, you must make your way back through  the drones to your base before you run out of fuel. If you die,  for whatever reason, before you return to your base with the food, you must restart the level at the bottom.
+
+If your fuel gets too low (the indicator will turn red) your ship will actually slow down. Starting with level three, you must first grab a passkey from among the drones to open the cage and then go get the food and return.

@@ -1,0 +1,8 @@
+A superb point-to-point sprite scaling racing game in which the player takes control of a superbike and must race over 5 twisting circuits avoiding rival bikers and trying to reach the end of each stage before the time limit expires.
+Hang-On's handling and superb graphics were unlike anything seen before in the arcades and, like many Yu Suzuki games that followed, revolutionised the racing genre.
+The 5 stages of 'Hang-On' are :
+Alps
+Grand Canyon
+City Night
+Seaside
+Circuit,

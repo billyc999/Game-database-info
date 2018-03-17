@@ -1,0 +1,3 @@
+Toughman Contest is a game based on the world famous boxing competition of the same name.  You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.  
+
+The boxing action is viewed from behind the back of fighter you control.  Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly.  Toughman matches consist of three one minute rounds.  Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.

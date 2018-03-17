@@ -1,0 +1,6 @@
+In this driving/maze game, you control a vehicle who must drive through the entire maze to progress. There is another vehicle who tries to stop you so to aid your progress, you must drive through the beach ladies in order to gain power-ups which you can use on the other vehicle. These power-ups are as follows :
+JUMP - Allows you to either jump over the other vehicle or jump on top of it.
+SHOOT - Allows you to fire a bullet at the other vehicle.
+ATTACK - Allows you to charge into the other vehicle.
+? - Can either be Option which fires forwards or Line which shoots vertically.  Both also help you complete the maze.
+FLASH - Allows you to stun the other vehicle from any distance.

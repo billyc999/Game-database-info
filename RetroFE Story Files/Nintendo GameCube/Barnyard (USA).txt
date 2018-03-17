@@ -1,0 +1,7 @@
+Barnyard is an offering from THQ based on the movie of the same name from Nickelodeon.
+
+You arrive at the farm as a newbie cow, and must complete quests and earn respect in order to win keys that allow you to advance through the barnyard map. Movement is accomplished with the WASD or arrow keys, while the mouse controls the camera angle. Other keys access your inventory and the map, allow you to aim and squirt milk at opponents (even when you play as a boy!), and confirm menu selections.
+
+The map is fairly large and there are plenty of things to do beyond the missions and quests your fellow animals assign you. There are places to explore, barrels to break, and minigames like whack-a-raccoon, bowling, and bicycle races.
+
+As you play, you need to keep up your stamina, which decreases as you run around the farm. A good sleep is important; you need to be rested to fight off marauding raccoons and coyotes. And do remember not to let the Farmer catch you standing on two feet!

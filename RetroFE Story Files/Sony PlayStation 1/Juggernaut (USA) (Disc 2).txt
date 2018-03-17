@@ -1,0 +1,5 @@
+Juggernaut is a 3-disc point-and-click adventure using pre-rendered CG movie clips and stills. Gameplay takes place inside the cursed soul of the main character's girlfriend, who must work to free her from demonic possession. The location of her psyche is license to create surreal environments and challenges.
+
+Starting on an island and moving on to a mansion, each location (the Forest of Vengeance, Illusion Island, etc) represents a part of the girl's mind. Gameplay is focused on solving puzzles. In the mansion area for instance, the player must switch between forms as needed. In spirit form, the main character is able to travel through keyholes, but for every physical act, a different form or shell is needed. The player must choose which form to use at which time - the body of an adult can perform certain tasks, while the body of a child can get to places others can't. 
+
+It is possible to collect a number of items and use these on the environment, but the amount of items is always limited. Other puzzles are about memorizing sound and visual patterns.

@@ -1,0 +1,7 @@
+A racing game featuring four game modes. The four game modes are Supercar Challenge, Classic Cars, Stockcar Frenzy, and GT Racer.
+
+The game features 12 vehicles such as the Pina 238, Fenzo 500, and Manelli 748. There are also 12 tracks to race on which include Garrett Hills, Forest Valley, and Murran Ridge. Each game mode itself features its' own set of 3 vehicles and 3 tracks to choose from and is the main difference between all the game modes.
+
+Gameplay has the player racing their vehicle against 5 opposing vehicles all vying for first place. During a race the game keeps track of the players lap  time.
+
+Options include setting the difficulty level to either easy, medium or hard and setting the number of laps to either 3 or 15 total laps.

@@ -1,0 +1,19 @@
+The player controls his plane with the 8 way joystick and shoots at the enemies using the Fire button. TIME PILOT consists of 5 different stages of play which are as follows (all these stages are also played in the attract mode unless otherwise noted) :
+STAGE 1 : A.D. 1910 - The age of Biplane
+This stage features an ordinary blue sky with clouds. The attackers are biplanes coming from random directions. Enemy planes shoots at your plane and throw hand grenades when close to you. After 56 biplanes are destroyed, the Mother Ship appears : a giant orange blimp shooting at you! Only 7 hits will destroy the Mother Ship. During the same stage, one to five parachutes will appear. Dock with them for bonus points.
+This round never appears in the attract mode in any version.
+STAGE 2 : A.D. 1940 - The age of Monoplane
+Sky is : grey-blue with the same clouds
+Enemies are : monoplane fighters, middle size bombers and large bomber (Mother Ship). Middle size bombers are aiming constantly at your plane! They can be destroyed by 4 hits and award 1,500 points.
+STAGE 3 : A.D. 1970 - The age of Helicopter
+Sky is once again grey-blue, only this time a different shade. The same clouds from the first two stages are also present here.
+Enemies now are helicopters and large one (Mother Ship). As a new level of difficulty, the helicopters are using homing missiles.
+STAGE 4 : A.D. 1982 (A.D. 1983 in Atari and Centuri versions) - The age of Jetplane
+The sky is purple with the same clouds as the previous three stages.
+The enemies are modern jet fighters shooting and launching homing missiles. A modern large jet bomber is the Mother Ship. This is one of the most difficult stages of the game due to increased speed of jet fighters and random direction attacks.
+STAGE 5 : A.D. 2001 - The age of U.F.O.
+The sky is pitch black with asteroids instead of clouds.
+Hard to be reached and very hard to be passed. Great number of U.F.O.'s are attacking from any direction changing their angles of attack and throwing at your plane two types of Alien Weapons. The stage is fast paced and the Mother Ship, a superfortress U.F.O., can not be so easily destroyed. In addition, there are no enemy formations or parachutes in this stage, and there can be no more than 3 U.F.O's on the screen at a time.
+This stage appears in the attract mode in the Atari and Centuri versions only.
+The next, Stage 6, is identical with Stage 1, but the number of planes attacking you, the speed and number of shots and grenades are gradually increased.
+TIME PILOT continues with Stage 7, 8... making your mission harder and harder. The game is all over when all your planes are destroyed.

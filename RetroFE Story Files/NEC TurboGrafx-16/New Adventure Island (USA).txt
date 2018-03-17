@@ -1,0 +1,9 @@
+Somewhere on the peaceful Adventure Island, Master Higgins weds Tina, the new "Miss Island". Everyone who was invited to the wedding begins to celebrate when, suddenly, the evil Baron Bronsky appears and snatches Tina away, while his henchmen take the six children away. To reach his castle and rescue Tina, Master Higgins must first rescue the six children, each of whom is hidden on a separate island.
+
+New Adventure Island is a one-player action game that consists of seven areas, with four rounds each. In order to get through the areas, you must use your hatchet to destroy wildlife such as frogs, spiders, birds, snails, insects, and other pests, and watch out for hazards such as rocks, fire, water, and pits. 
+
+As you progress further, your vitality will get low, so fruit must be collected in order to restore it. Along the way, you can smash open eggs that will award you with better weapons that include boomerangs, arrows, and magical fire. Some of the eggs will also reveal a fairy, which will protect you from getting hit. If you are unlucky enough to find an eggplant hidden in one of these eggs, your vitality will drain away very fast, and you need to get fruit every five seconds in order to survive.
+
+When you get to the end of an area, you will have to defeat one of the henchmen and rescue a child from one of the four castles.
+
+An update of the original NES game.

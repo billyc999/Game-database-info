@@ -1,0 +1,6 @@
+Aces of the Air attempts to simulate combat aviation using planes from around the World War II era.
+
+Missions involve destroying enemy aircraft and bases on the ground.
+Completed missions will earn the player a new plane to add to their hangar. Each plane has their own ratings in acceleration, max speed, turnability, durability, and gun equipment. Player's can also customize the color of their planes.
+
+Planes can adjust their pitch, turn, throttle up and down, and can use guns, bombs, and rockets as weapons.

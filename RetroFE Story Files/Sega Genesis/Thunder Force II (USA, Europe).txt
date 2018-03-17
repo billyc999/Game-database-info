@@ -1,0 +1,3 @@
+Thunder Force II is both a side scrolling and top down shooter. In the game you control a ship. In some stages the action is side scrolling and in others it is top down (overhead). The weapons systems is fairly basic. You can switch from shooting a more powerful weapon straight ahead or two less powerful guns shooting forward and backward simultaneously. There are various power-ups that improve your fire power. 
+
+In the top down levels you can only travel in cardinal directions and cannot maneuver around obstacles easily or slow down. The control in the side scrolling levels is reminiscent of R-Type or Gradius, but with more basic weapons systems. In future incarnations of the series the top down aspect would be abandoned.

@@ -1,0 +1,7 @@
+This is an exercise game.
+
+You must step on the dot the same color as square the bug is on. If you wait too long or step on the wrong dot, you lose one of your eight lives. In later levels, you will have a bug and a butterfly. You must step on the bug but not the butterfly. Other levels have two bugs and a butterfly and may allow you to step on any bug or may require you to step on them in a certain order.
+
+Game variations
+Use the red dot to select your level.
+One to Three

@@ -1,0 +1,3 @@
+A port of the successful 2D fighter Last Blade for the NeoGeo Pocket Color. The port features nearly all the characters featured in the original game clashing against each other using a limited color palette and a new super-deformed character design, but otherwise identically as in their arcade counterpart. You select your character from a selection of swordsmen and then proceed to fight and defeat all your opponents in a one-on-one fighting tournament involving weapon fighting a la Samurai Shodown.
+
+Unique to the port is the fact that it allows you to unlock and play as characters from Last Blade 2 and in fact eventually unlock the full storyline for the sequel, making the game sort of a compilation of both released games in the series.

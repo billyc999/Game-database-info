@@ -1,0 +1,5 @@
+NHL 2000 is an ice hockey game with an official 1999 season license. Players can play with any of the teams, stadiums and players from that season. Game modes include exhibition, full season, race to the playoffs and competitive shootouts.
+
+The player can set various game options such as the stringency of referees and offside rules. It is also possible to change the team lines and determine which players may take penalties.
+
+The player can control one skater at the time and can switch to another at any time. Aside from passing and shooting the puck it is also possible to make a sprint.

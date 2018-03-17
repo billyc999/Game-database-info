@@ -1,0 +1,14 @@
+3D tennis Simulation game based on the Roland Garros franchise. 
+Featuring: 
+- Multiplayer mode up to 4 player on the same PC. 
+- Full motion captured animations. 
+- 4 tournaments including the Official Roland Garros French Open and the Official Us Open tournament, 
+- 16 courts, 4 for each tournament with its particular surface (clay, grass, synthetic, cement)
+- A Training mode 
+- An exibition mode to battle against the cpu or human opponents in the configuration you like (courts, number of games and sets).
+- 32 players and 32 racquets 
+- Single and double play, with all possible combinations of human and CPU players.
+- Included an encyclopedia on the history of the Roland Garros French Open Tournament. (PC Only)
+- New IA, with strong opponent. 
+- New replay with special visual effect
+- new particle system with dust, glows, ball trails and motion blur.

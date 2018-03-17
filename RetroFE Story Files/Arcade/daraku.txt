@@ -1,0 +1,1 @@
+A very solid 2-D fighting game with beautiful pre-rendered backgrounds. 8 selectable fighters and 2 end bosses.

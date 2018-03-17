@@ -1,0 +1,1 @@
+You find yourself on a alien planet and must kick ass and take names using guns and kung fu. You move your 3d character around static 2d screens (a sort of Alone in the Dark-esque game).

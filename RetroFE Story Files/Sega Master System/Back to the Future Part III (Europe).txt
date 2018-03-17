@@ -1,0 +1,9 @@
+Back to the Future III is a collection of four arcade games. Marty McFly and Doc Brown have traveled back through time to the year 1885 - and they're soon deep in trouble when they face "Mad Dog" Tannen's gang and have to find a way to return to the present. This game takes four scenes from the Hollywood movie Back to the Future III and turns them into arcade sequences:
+
+1. Buckboard Chase: Doc Brown goes horseback in an attempt to save Hill Valley's lovely school teacher Clara. This game of quick ducking, jumping and shooting alternates between a side-scrolling and a top-down perspective.
+
+2. Shooting Gallery: The name says it all. A classic game of aim-and-shoot, spiced up by hidden extras and bonus targets.
+
+3. Pie Throwing: Meet the Mad Dog gang. They have guns, and you have... cream pies. It's an isometric version of the shooting gallery, only with ammo. And the targets shoot back.
+
+4. The Train: Basically a side-scrolling beat-em-up on train wagons with some ducking and jumping. Get rid of the mechanics and collect speed logs to push the engine to a magic 88 mph.

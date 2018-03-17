@@ -1,0 +1,9 @@
+Virtua Fighter Animation is an one-on-one 2D fighting game based on the Virtua Fighter anime series. It has two game modes: story and versus.
+
+In the story mode, the player follows the anime's plot, with anime style cutscenes before and after each fight. The story is divided in acts, each one of them corresponding to one fight. The player starts controlling Akira Yuki, as as he beats his opponents, each one of them joins his party, so they can be chosen in the next fights. Besides Akira, the other characters which become available are Pai Chan, Jacky Bryant, Wolf Hawkfield, Kage-Maru, Sarah Bryant and Lau Chan. In the final act, the player must fight against Dural.
+
+The versus mode allows players to choose any of the seven available characters to fight against the CPU. In the two player versus game, Kage-Maru is removed from the character selection.
+
+The Game Gear version has 3 different viewing modes: Normal, Large and Real-Time. The Normal viewing mode shows the fighters from a more distant position (smaller sprites) than the Large mode (larger sprites). The Real-Time mode simulates the zooming camera effects from the other Virtua Fighter games, alternating between the Normal and Large modes. It also has an extended intro sequence, with anime style cutscenes.
+
+In regards to gameplay, the game doesn't differ much from any other 2D fighting game, as the player can perform punches (button 1), kicks (button 2) and jumps (up), as well as some special maneuvers. The Game Gear version has also a block function (START button), absent in the Master System version. The fights are regular best of 3 round matches, and players will loose a round if one of this three possibilities happen: their energy is depleted, they fall out of the ring or they have less energy than the opponent if the time runs out.

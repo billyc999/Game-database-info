@@ -1,0 +1,6 @@
+Sharp Shot is collection of 4 single-button action games: Touchdown Passing, Space Gunner, Submarine, and Maze Shoot. The goal of each game is to score as many points as possible within 60 seconds.
+
+1. Touchdown Passing - Play as the quarterback and pass the ball to your receiving end waiting at the goal. Be careful not to let the opposing team intercept the pass! Touchdown Passing offers gameplay for one player or 2 players alternating turns.
+2. Space Gunner - Squadrons of enemy alien ships fly through your cross hairs. Time your shots right and blast as many ships as you can! Space Gunner offers gameplay for one player or 2 simultaneous players.
+3. Submarine - Fire torpedoes from your sub to sink as many enemy ships as you can within 60 second. Submarine offers gameplay for one player or 2 players alternating turns.
+4. Maze Shoot - Use your bow and arrow to fend monsters off of your piles of treasures located at different points in a maze. Shoot at corners to ricochet your shots down different corridors of the maze. Maze Shoot offers gameplay for one player or 2 simultaneous players.

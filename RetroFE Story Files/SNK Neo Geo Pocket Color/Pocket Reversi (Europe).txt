@@ -1,0 +1,1 @@
+Reversi is a computer conversion of the popular two players board game Reversi, also known as Othello. The player may compete against computer or human player on a 8x8 board. The aim is to fill the board with as many pawns of own color as possible by flanking computer's black pawns (vertically, horizontally or diagonally) to capture them and reverse their color.

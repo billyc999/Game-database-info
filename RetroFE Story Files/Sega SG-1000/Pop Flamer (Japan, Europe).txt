@@ -1,0 +1,1 @@
+Pop Flamer is a mouse which opperates a flamethrower. You as a player attempt to pop balloons and supply fuel for the flamethrower while eliminating 3 kids of enemys.

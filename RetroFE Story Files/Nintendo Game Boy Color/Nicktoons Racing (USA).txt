@@ -1,0 +1,15 @@
+Nicktoons Racing for the Game Boy Color is conceptually similar to its console counterpart. It's a kart racing game but on the handheld it is viewed from a top down perspective. Some of the most famous Nickelodeon characters are competing on the race track and the player can choose to play as any of them. 
+
+Two game modes exist: quick race and championship. In the quick race mode players can choose to play any track of the four available program environments. In the championship the player has to complete each track in a specific order. 
+
+The game allows the player to race as the following seven Nickelodeon characters:
+
+1. Tommy
+2. Eliza
+3. CatDog
+4. Arnold
+5. SpongeBob SquarePants
+6. Dagget
+7. Norbert
+
+Tracks are divided into four different program environments: Angry Beavers, The Wild Thornberrys, SpongeBob SquarePants and Rugrats. There's numerous power ups that the player can pick up. For example: Checkered Flag will increase the car's top speed, wrapped package gives the player a free lap, stop sign will stop the opponents for a short time and the milk bottle causes the opponents to lose traction.

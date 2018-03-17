@@ -1,0 +1,1 @@
+This game is based on the wooden marble labyrinth puzzles. You start at the beginning of the maze and must use your paddle controllers to make the marble roll horizontally and vertically to the maze's end in the time limit. Early mazes have walls but later ones do not, meaning your marble can roll off the maze completely.

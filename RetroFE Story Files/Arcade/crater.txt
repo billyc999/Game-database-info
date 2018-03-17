@@ -1,0 +1,1 @@
+The player is a tank trying to rescue hostages on worlds with lots of craters (that the player can descend into). Rescuing all hostages, while avoiding (or destroying) other tanks and UFOs advances the player to the next level.

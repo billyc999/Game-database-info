@@ -1,0 +1,9 @@
+Sega 4 in 1 Game Pack is a collection of minigames, which include:
+
+1. Flash Columns: based on the same game mode of Columns. The player has to connect four pieces to lower reach the flashing gems, and then clear them.
+
+2. Penalty Shootout: football penalty shootout game where the player selects swerve and height of the ball and kicking position, attempting to cheat the goalkeeper and score five penalties, and then save penalties kicked by the computer
+
+3. Tennis: simple tennis game where the player faces one computer opponent, using both Game Gear keys, 1 to make a shot and 2 to lob the ball. Instead of forcing the player to adapt to top and down court, the human player is always in the bottom position.
+
+4. Rally: checkpoint arcade-style racer with five different areas.

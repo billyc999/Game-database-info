@@ -1,0 +1,5 @@
+Based on a 1982 coin-op, Loco-Motion is a puzzle-style arcade game in which a train is riding on a grid of movable track pieces. The goal is to guide the train through the train stations located around the edge of the playfield. An empty section in the grid allows the player to shift adjacent track pieces into that section to alter the train's path, and a tracing light shows the path the train is taking as it moves. An accelerator button moves the train more quickly on its path, and a panic button will switch the piece of track the train is on with a random track piece on the grid.
+
+A bonus timer ticks down during gameplay, showing how many points will be received if the train arrives at a station in a timely fashion. If the timer reaches zero, "Crazy Trains" and "Loop Sweepers" will appear and race down the track in an attempt to crash into your train. Other obstacles include "Crazy Tracks" which can send your train in another direction, and exploding stations (occurring occasionally if the bonus timer reaches zero.)
+
+Loco-Motion has 4 play speeds, and offers play for 1 player or 2 players alternating turns.

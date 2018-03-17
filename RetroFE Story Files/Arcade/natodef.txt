@@ -1,0 +1,1 @@
+A 2-D maze game where you run over mines and shoot enemies for points. Sections of walls can be shot, and there are 'dumps' where you can pick up more shots to shoot at your enemies. Be careful, though, as your enemies can also shoot you.

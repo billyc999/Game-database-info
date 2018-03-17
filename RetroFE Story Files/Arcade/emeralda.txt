@@ -1,0 +1,1 @@
+A puzzle game where the player must line up squares of the same color. When three tiles have been stacked in a vertical row, they crack. When a fourth square of same color lands on the cracked ones, all four squares disappear.

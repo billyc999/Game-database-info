@@ -1,0 +1,5 @@
+Point and click adventure taking place in the England of King Arthur. You're Gawain, a knight who has to save the kingom of the evil witch Morganna. 
+
+The game also features some fighting scenes, which you can do yourself or let the computer do for you.
+
+The graphics are pre-rendered, as well your character.

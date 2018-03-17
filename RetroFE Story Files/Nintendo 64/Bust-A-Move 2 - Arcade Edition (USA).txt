@@ -1,0 +1,3 @@
+Bub and Bob are back with some bubble-bursting puzzle action! Like Tetris in reverse, you shoot bubbles at an array of different-colored bubbles stuck in an ever descending ceiling, that you have to match up three by three to make them disappear.
+
+This edition contains both puzzle challenges, multiplayer and normal stage by stage progression.

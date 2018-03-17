@@ -1,0 +1,2 @@
+This game is based on the coin op of the early 80's. You play a orange ball with 3 appendages: 2 legs and a snout. Q*bert is very good at hopping and does so on a isometric grid in the shape of a pyramid.
+Q*Bert 3 takes this simple premise and applies it to varying themes and forms of the grid. There are a total of 20 levels with 4 boards per level of increasing difficulty. Happy hopping!

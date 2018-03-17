@@ -1,0 +1,5 @@
+ESPN Speed World is a generic racing game that is made to resemble NASCAR.  The player is given a stock car and can tune the car from the angle of the spoiler, to the setting of the shocks, and up to the pressure of the tires.
+
+There are three different types of speedways to race on: Super Speedway, Short Track and Road Courses  with 5 different tracks for each to choose from.  Players can choose to race against the computer that has all 23 other stock cars on the track at once or play head-to-head on a split screen against a friend.
+
+It also featured realistic driving physics.  While it didn't have a NASCAR license, it did have ESPN which broadcasted the races and had NASCAR analyst, Dr. Jerry Punch, who lent his voice to the game for the color commentary.

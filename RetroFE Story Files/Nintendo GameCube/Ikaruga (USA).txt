@@ -1,0 +1,6 @@
+Vertical shoot-em-up ported from the Naomi Arcade version. Ikaruga is more or less a sequel to Radiant Silvergun by Treasure, on the Sega Saturn.
+
+Based on a two-colors system, the player has to switch between the black & white sides of his ship during gameplay.
+The black side is immune to black enemy bullets which it consider as bonus, and dies on impact with a white enemy bullets. Your own black bullets damages white enemies twice as more as white bullets. And vice-versa for the white side. Those properties makes a balance between protecting yourself well and killing enemies fast. 
+
+This aspect, combined with specific enemy patterns and a combo system makes Ikaruga an original shoot-em-up with a dose of strategy.

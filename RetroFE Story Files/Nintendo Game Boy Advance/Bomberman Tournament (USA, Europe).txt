@@ -1,0 +1,1 @@
+This latest release of Bomberman, written to exploit the GBA in term of graphics and sound, features a multitude of options and multiplayer capabilities. Upto 4 people can play a deathmatch.

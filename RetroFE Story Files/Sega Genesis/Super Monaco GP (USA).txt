@@ -1,0 +1,3 @@
+Super Monaco GP is a modified conversion of the arcade game, a first-person perspective racing game. As well as the famous Monaco course, others from around the world have been added, to give the game a longer shelf life. You must complete qualification sessions and the races as fast as possible.
+
+The Genesis version of Super Monaco adds a complete career mode, however.  In the career mode, your goal is to win a season of races. Unfortunately, you start with a relatively slow car.  By challenging other drivers, you can move to a better team and car, and ultimately win the F1 World Title.

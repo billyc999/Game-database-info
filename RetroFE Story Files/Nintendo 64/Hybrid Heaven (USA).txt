@@ -1,0 +1,18 @@
+Plot Overview:
+Aliens are trying to take over the US by eventually replacing the President with a clone. To do this, they begin by replacing advisors and Secret Service operatives with clones.
+One of these clones is scheduled to meet with a collaborator named Diaz in a Manhattan Subway, to get weapons for the Presidential Replacement. 
+The clone arrives at the meeting, and sees Diaz with two Men in Black. As the clone approaches, Diaz starts hearing voices, and shoots the clone. He gets taken down an elevator, where, in his struggles to escape the Men in Black, he falls off the elevator. His fall is slowed by the anti-gravity device that powers the elevator, and he begins his journey into the underground facility.
+Gameplay:
+Two styles of gameplay: Overworld and Battle.
+Overworld: 
+
+1. Control Diaz in third person perspective.
+2. Have a defuser that can only affect robotics, namely the laser-emitting sentries.
+3. Explore the world, get items, and increase your security card's rank
+
+Battle:
+
+1. Same controls.
+4. Have an energy meter that determines the power of your attack.
+5. Learn new attacks by having them done to you
+6. Level up individual body parts, as well as attacks.

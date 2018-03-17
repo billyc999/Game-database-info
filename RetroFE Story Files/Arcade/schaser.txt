@@ -1,0 +1,1 @@
+Space Chaser is a 2-Dimensional maze racing game. You control your rocket through the maze to pick up the dots while at the same time avoiding the rocket, or rockets, that are constantly trying to ram you. Successfully get through one maze and many more await you. This is good practice for freeway driving in the big city.

@@ -1,0 +1,7 @@
+2 children are trapped in a haunted house full of evil Thirsties! Guide the children through the house to find all of the ingredients for a batch of Kool-Aid!
+
+The children initially move together through the house, but if one of the children is attacked by a roaming Thirsty, the children separate, and are now controlled one at a time. If a child is attacked twice, that child is out of the game. If both children are attacked twice, the game is over.
+
+Once all ingredients for Kool-Aid (sugar, Kool-Aid, and a pitcher) are placed near the kitchen sink, Kool-Aid Man appears and is now controlled by the player! Use Kool-Aid Man to collect roaming fruit and to destroy the Thirsties. Once the Thirsties have been defeated, the round is over, and the game starts over with a higher difficulty level (unless "kiddy mode" was selected at game start-up.)
+
+Kool-Aid Man is for 1 player, and offers 13 difficulty settings, including a children's mode which never increases in difficulty during gameplay.

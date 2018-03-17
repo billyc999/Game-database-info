@@ -1,0 +1,1 @@
+I slight upgrade to the NES release that retains the fun factor of the original while adding a few select updates and additions. The graphics have been improved, but not substantially. The special hits and pitches have been tweaked with new ones added and old ones dropped.

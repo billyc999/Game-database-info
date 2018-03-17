@@ -1,0 +1,3 @@
+Xybots is either an unusually simple computer game or an unusually complex coin-op shoot 'em up, depending on your point of view. With either one or two players, you must move through a series of Gauntlet-style underground mazes, killing the bad guys and collecting health and other bonuses from flying saucers (underground? SLIGHT logic gap there, methinks).It's designed to be played co-operatively, although bullets from one player can harm the other.
+
+The Xybots are out to stop you, of course, and many have advanced attack patterns as well as bullets to fire at you. Being able to view round corners is useful, allowing you to plan a strategy - often it's good to send one player forward and let the other play the waiting game, as in Gauntlet.

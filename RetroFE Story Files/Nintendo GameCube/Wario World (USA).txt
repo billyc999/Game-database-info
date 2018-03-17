@@ -1,0 +1,5 @@
+Deep within Wario's castle lies a treasure room filled with the spoils he has plundered during his many adventures. A mysterious black jewel, ensconced among the treasures, has a strange power to transform gems into monsters. While Wario rests in his castle upstairs the jewel begins to morph his treasure trove into a host of monsters, turning Wario's basements into a bizarre parallel universe. Awakening the next morning to monsters instead of treasure, Wario must step into that alternate world to win the treasure back.
+
+Wario World is an action platformer where you play as the titular Wario.  Punch, pound, barge and jump your way through hoards of enemies as you reclaim your stolen treasure.  Wario can also grab certain items and enemies and whirl them around him and then release them into more foes, causing even more carnage.
+
+Defeating enemies yields Wario coins, and he can grab these to purchase health and bonuses.  If there's too many coins to grab in an area, you can press L and Wario will inhale the coins to collect them instead.  Also tucked away within the levels are Spritelings, caged creatures which offer Wario hints when freed.

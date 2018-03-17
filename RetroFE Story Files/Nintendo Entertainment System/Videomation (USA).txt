@@ -1,0 +1,1 @@
+This application allows players to create artwork using a mostly freestyle method, with support for full video animation. The game does not support the use of a mouse or any other external component, requiring users to rely on the NES game controller to draw objects. There is a basic grey screen surrounded by graphics stamps.

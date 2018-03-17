@@ -1,0 +1,16 @@
+This handheld version is different from its console brethren.
+
+There are 10 wrestlers to choose from:
+
+1. Bret Hart
+2. Hulk Hogan
+3. Irwin R. Schyster
+4. Papa Shango
+5. Randy Savage
+6. Ric Flair
+7. Shawn Michaels
+8. Tatanka
+9. Ted Dibiase
+10. The Undertaker
+
+Each wrestler has a standard set of moves consisting of punching, kicking, bodyslams and turnbuckle manuevers as well as a finishing move for each of the wrestlers.  There are three different game modes to choose from: Single, either regular or steel-cage, Tag Team and Championship.

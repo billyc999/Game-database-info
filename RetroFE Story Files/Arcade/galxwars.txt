@@ -1,0 +1,1 @@
+Galaxy Wars is a 2-D shooter where you are given three missiles to shoot at two rows of alien ships at the top. Miniature rock-like satellites move around the screen, ready to obliterate your missile at any moment, and the ships themselves shoot at you.

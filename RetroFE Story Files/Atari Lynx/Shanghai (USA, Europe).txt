@@ -1,0 +1,5 @@
+Shanghai is a tile-based game based on the ancient Chinese game of Mah-Jong - this was the first of many computer versions.
+
+The gameplay involves 144 tiles, each depicting different images, which have to be removed by matching them into pairs. The tiles are arranged in a gridded pattern, which is higher near the centre. A tile can only be removed if it has no tile next to it on at least one side.
+
+This computer implementation can generate a random board layout to take on, as well as featuring 5 preset challenges, some of which have time limits of 5 or 10 minutes, as well as a multiplayer mode.

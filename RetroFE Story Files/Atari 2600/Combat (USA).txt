@@ -1,0 +1,3 @@
+A 2-player tank game.
+
+Shoot your opponents tank before he/she shoots yours. You can alternatively choose to play with airplanes instead of tanks.

@@ -1,0 +1,3 @@
+A challenging light gun game where players can select from a variety of target practice mini games.
+Many games require skill and accuracy such as shooting cardboard cutouts of criminals, a one-shot chance at hitting a leaf, aiming for a specific toy from a shelf, and shooting at objects that move across the screen or rush towards the player.
+Your 'judgement' is based on your shooting accuracy in some games, and others require you to hit a certain number of targets within the given time.,

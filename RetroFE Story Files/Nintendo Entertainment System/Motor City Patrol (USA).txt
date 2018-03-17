@@ -1,0 +1,3 @@
+A simple, top-down driving game where you play a patrol officer in a city police force. You progressively take down bigger bad guys by chasing them down and shooting at them. The gameplay is a precursor to the first Grand Theft Auto games, developed later.
+
+Gameplay consists of driving your squad car around the city, pulling over speeders, by flashing the siren, and stopping random robberies, by shooting the getaway car.  Larger crimes will pop up, which lead to capturing whoever the current Public Enemy No. 1 is.  The game ends when you fail in a mission, or when you total your police cruiser.

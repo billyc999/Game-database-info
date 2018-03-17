@@ -1,0 +1,3 @@
+A side scrolling beat 'em up featuring fighters : Gear, Kevin, and Zill.
+There's an extra game mode named 'Battle mode', where you can choose your character from the 8 available (the 3 heroes, plus the 5 bosses already unlocked) and challenge a friend or the CPU in a Vs battle. Note: this option requires two players before you starting : after 1 of the 2 players is KO, the winner can continue to play against the CPU.
+All the playable characters have their owns special moves, you must found them.

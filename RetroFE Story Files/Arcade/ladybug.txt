@@ -1,0 +1,1 @@
+In Lady Bug you guide a bug through a "Pac-Man" style maze, eating dots, and avoiding monsters. Collect letters to spell EXTRA for a bonus life (just like in "Mr. Do!"), and SPECIAL for an extra credit. The maze has rotating doors which are just enough to give the game a slightly different feel than the Pac-Man series.

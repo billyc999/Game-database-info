@@ -1,0 +1,7 @@
+Double Dungeons is a solo dungeon crawler in the strictest sense. One or two players can explore pseudo-3D, maze-like dungeons (without auto-map feature, but with directions displayed on the screen) and fight the monsters populating them. The player(s) can choose to venture into any of the available 20 dungeons. The dungeons have the same textures, but their layout varies; the higher is the number of the chosen dungeon, the more dangerous are its enemies. Two-player mode features a split screen; the two players start exploring the dungeon from different points.
+
+The basic gameplay is very simple. Enemies appear at specific points (they can also re-spawn), and must be defeated in order to proceed. The combat is turn-based at its core, though the turns follow very quickly, and the enemies will attack even if the player does nothing. Attacking is done simply by pressing a button; there are no other combat options. 
+
+The player can find equipment and healing items (which can also be dropped by enemies). These can be used to restore the player character's HP outside of battles. Leveling up is completely automatic.
+
+There is no narrative in the game; the only story-related information comes in form of very short text intros to the different dungeons, along the lines of "the king wants to retrieve a treasure and sends a warrior into the dungeon" or comparable mission objectives.

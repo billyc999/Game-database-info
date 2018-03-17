@@ -1,0 +1,1 @@
+Space Mountain is an SG-1000 game developed and published by Tsukuda Original with the Othello Multivision in mind. It is a very primitive third-person space ship shooter, in which the player has to gun down enemy craft before infiltrating a base. 

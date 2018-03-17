@@ -1,0 +1,5 @@
+Pit your wits against a friend or challenge the computer in USCF Chess!
+
+Game features include taking back and redoing moves, rotating the game board 180 degrees, and setting up the chess board for special moves and instances. When playing against the CPU, players can also switch sides with the computer to make a move for the CPU. If the computer takes too long to make a move, the player may force the CPU to immediately make the best move it can think of, or cause the game to make an audible tone and pause before making the move.
+
+USCF Chess allows 2-player gameplay or for 1 player against the CPU with 7 difficulty levels available.

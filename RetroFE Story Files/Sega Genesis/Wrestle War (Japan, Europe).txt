@@ -1,0 +1,3 @@
+Wrestle War is a port of the arcade game of the same name.  You must take a rookie pro-wrestler, Bruce Blade, through a series of bouts to win the championship.  There is no license.  You wrestle in the "Sega Wrestling Alliance."  However, many of the characters bear a strong resemblance to popular wrestlers or movie characters.
+
+The ring is done in pseudo 3D.  The graphics are sprites, but you can move along the Z and X axes and the ring will instantly rotate 90 degrees to give a better view of the action if you are blocked in.  Your available moves are punch, kick, and grab.  You must try to wear down your opponent's life bar, then pin them.

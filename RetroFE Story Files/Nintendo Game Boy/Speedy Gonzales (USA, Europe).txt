@@ -1,0 +1,5 @@
+Speedy Gonzales is a platform game in which the player controls the Looney Tunes character Speedy Gonzales.
+
+The player can run in the side-scrolling levels. The aim is to reach the exit without running out of lives. Lives are lost when Speedy comes into contact with dangers such as enemies, pit traps and sharp spikes.
+
+Speedy can earn points by collecting coins. The game also borrows elements from Sonic. Speedy can run faster and even upside down in loops after running into bumpers. Speedy can also jump higher by jumping on the heads of penguins and when going fast can run through certain walls.

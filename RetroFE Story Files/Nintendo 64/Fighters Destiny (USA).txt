@@ -1,0 +1,3 @@
+Take a collection of fist-fighters, wrestlers and martial arts experts, and combine them into one tournament. But instead of relying on simply depleting the health bar, you must win points depending on how you defeat an opponent (for example, ring-outs are 1 point, special moves 4 points and countering a special move is 2 points). 
+
+Game modes include the standard VS. mode, simply defeat everyone you see. VS. Battle allows you to defeat the enemy, then acquire their moves for the next round. The Master Challenge has you spinning a wheel to determine who your fight. Spin up a Master, and you get a tough challenge in which you can win new moves. Spin a Joker, and you simply have a challenge, with nothing to gain, but everything to lose.

@@ -1,0 +1,1 @@
+RPG Maker is a game that lets you create role-playing games (RPGs). You control everything from creating the maps/levels, character, abilities, spells, plot, events, monsters, etc. Once you create your game, you can save it to a memory card(s). Anyone who has RPG Maker can play your game. Also included is a sample game to show the variety of things you can do in your game.

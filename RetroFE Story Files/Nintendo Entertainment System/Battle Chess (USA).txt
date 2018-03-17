@@ -1,0 +1,5 @@
+Battle Chess is a quite typical chess game, but it comes with a twist: all pieces are represented by small, realistic figures that walk around on the chessboard, and when one piece takes another, they both take part in an animated battle. There is a different animation for each permutation, depending on which pieces are capturing or being captured. You can also play in 2D without animation. 
+
+The game's opening library includes 30,000 different moves, ensuring a variety of games will unfold across the 10 skill levels. 
+
+Multi-player support can be extended to modem and/or serial port play.

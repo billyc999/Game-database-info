@@ -1,0 +1,3 @@
+A simulation of the classic game of the same name. As you can imagine from the name, this is a no-frills game, but it still comes with three modes, (normal, special, and quest) and multiplayer options. (1-4 players, with computer players as desired.)
+
+Normal mode is the regular bowling game, but special mode sets up 45 pins instead of the usual 10. Quest mode, on the other hand, randomly places 3 pins in the lane, creating a more strategic play.

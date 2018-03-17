@@ -1,0 +1,1 @@
+Card Shark is a collection of card games, most of which are single player games, in which the player competes against three AI opponents in any of ten games

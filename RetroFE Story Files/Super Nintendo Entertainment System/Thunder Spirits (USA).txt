@@ -1,0 +1,3 @@
+A port of the arcade-only Thunder Force AC, a modified version of Thunder Force III made specifically for the arcades with reworked graphics and all top-down stages replaced by new side-scrolling ones. Thunder Spirits puts you behind the cockpit of a lone starfighter out to destroy all the enemy forces of the Orn empire by clearing 8 enemy-infested stages set in various outer space locations.
+
+The game gives you a health-bar and the ability to swap collected weapons on the fly, which can be obtained by catching power-ups and activating them whenever you want.

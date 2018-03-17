@@ -1,0 +1,3 @@
+As commander of a fast and powerful helicopter, you must fight your way through waves of enemy aircraft and destroy their commander.
+
+This is a basic if-it-moves-shoot-it scrolling action game.You, and your partner in two player games, must fight your way through wave after wave of enemy aircraft to reach the end stage boss, whom you must destroy. Along the way, you can pick up items to refuel you, make you invulnerable for a short time and increase your fire power. You lose energy each time you are hit. If you lose all your energy, you die and the game is over.

@@ -1,0 +1,3 @@
+Championship Bowling plays like a standard 10 frame ten-pin bowling game with the objective to knock down as many pins with the bowling ball as possible.
+
+After picking a lane (5 different designs), a character (4 different characters), and the weight of the bowling ball they will be using, the player is placed on the lane. To bowl the player first picks the location that the bower will bowl from and then, using the �Control� panel, the player must time it correctly to stop the ball at the desired angle and finally, time it correctly to stop the �Power� bar at the desired power. The power, and the weight of the ball determine how much effect the control has. Up to four players can play using the NES Four Score accessory with all players taking turns to bowl.

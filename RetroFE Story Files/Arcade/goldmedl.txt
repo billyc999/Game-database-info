@@ -1,0 +1,10 @@
+Based on the Seoul Olympics, this is a multi-event track and field game for up to four players and featuring nine different events. Despite being heavily influenced by Konami's own "Track and Field" series, Gold Medalist lacks both the addictiveness and tight gameplay mechanics of the games upon which it is based. The nine disciplines, which can be attempted in any order, are :
+* 100 Metre Sprint
+* Long Jump
+* Horizontal Bars
+* Freestlye Swimming
+* Boxing
+* Discus
+* 110m Hurdles
+* High Jump
+* 400m Relay

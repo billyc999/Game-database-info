@@ -1,0 +1,1 @@
+A 4-player game where players move their cursors across the screen to create walls to try and surround their opponents and force them to crash.

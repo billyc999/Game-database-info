@@ -1,0 +1,15 @@
+This is the game Warring Worms with several improvements. 
+
+These include:
+
+1. Tank Mode: in this mode, you do not leave a trail behind you when you move.
+
+2. Solid Arena Mode: the obstacles in the arena cannot be destroyed by your cannon, only worm trails or heads.
+
+3. Unbreakable Mode: your cannon only hurts the opponent's head. Nothing else is affected by it.
+
+4. First To: this allows you to set the ending score so game length will be manageable.
+
+5. Sudden Death Mode: in this mode, if any player gets two points ahead of the other, they win.
+
+6. Select Game/Random Game: selecting Random game changes most game options randomly before each round.

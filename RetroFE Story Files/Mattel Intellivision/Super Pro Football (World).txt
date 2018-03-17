@@ -1,0 +1,11 @@
+Super Pro Football is a one or two-player football game.  There are only two teams, the Home Team and the Visiting Team (orange and blue respectively).  Quarterbacks are colored differently than the rest of the team--red and dark blue for the Home and Visiting teams.
+
+After pressing Enter from the title screen, the player has the options of selecting if the players will be human or computer, and then their difficulty level, or rating--Rookie or Super Pro.  
+
+Prior to playing the game, the player (or computer) can select from a wide list of options and planning strategies for playing the game.  
+
+Options for the Defensive team include Formation, Tactic, Timeout, Stats, Controls, and Break.  "Break" exits the menu and begins gameplay.  "Stats" contains all the current information on the game including the timer, score, down, quarter, and time outs.  There are nine Formations to choose from, and four options under Tactics.  Formations can also be changed on the gameplay screen prior to the opponent team hiking the ball.  Controls are pretty basic, only really involving the control wheel.
+
+The options for the Offensive team include Formation, Kick, Recover 1, Recover 2, Timeout, Stats, Controls, and Break.  A "program receiver" appears under the Recover options.  Like defense, there are nine formation options.  Controls are more involved in offensive play, including hiking, kicking, passing high or low, and running.
+
+The game is seen from a top-down view and scrolls left-to-right to move with the gameplay.

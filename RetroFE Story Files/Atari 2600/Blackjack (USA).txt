@@ -1,0 +1,3 @@
+Blackjack is based on the casino card game of the same name. You can play alone or with up to 2 other players against the computer that takes the role of the dealer. 
+
+The game follows the same basic rules as its casino counterpart. Each player starts the game with 200 chips and each can bet from 1 to 25 chips to get a hand. A player breaks the bank when he reaches 1000 chips and loses when he has no more chips to bet. In both cases, he is removed from the game. At any time, a player may quit or resume the game by using the game select switch. A player who went broke or who reached 1000 chips may also stay on the game using the same switch. He will then start with 200 chips.

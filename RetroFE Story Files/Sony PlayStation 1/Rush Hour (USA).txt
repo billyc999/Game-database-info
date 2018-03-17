@@ -1,0 +1,1 @@
+Rush Hour is a racing game in the style of Ignition. The landscape as well the cars are in 3D, but the perspective is top down. There are no weapons in this game, just racing. You can drive 16 different sport cars and choose from 8 different tracks.

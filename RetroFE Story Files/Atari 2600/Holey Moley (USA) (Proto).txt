@@ -1,0 +1,3 @@
+It's video Whack-A-Mole!
+
+Each round consists of twenty-five moles. When a mole pops out of his hole, press the corresponding button on the Kid's Controller to whack it. The faster you hit him, the more points you'll get. If the King Mole pops up, whack him for even higher points. Beware of the acorn. If it pops up, don't whack it as it will cost you points. You must score at least three hundred points by the time the mole count reaches zero. If you reach or exceed three hundred points in one round, any points beyond three hundred will be added to your score as a bonus. If you fail to score three hundred points in one round, the game is over.

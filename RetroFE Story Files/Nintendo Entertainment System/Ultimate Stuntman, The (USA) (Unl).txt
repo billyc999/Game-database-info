@@ -1,0 +1,13 @@
+Dr. Evil has kidnapped the scientist Jenny Aykroyd and it's the Ultimate Stuntman's job to rescue her.
+
+Ultimate Stuntman must fight through 7 worlds with 4 stages each and then through the final world which consists of 3 stages. The game has a variety of different gameplay types. The stages go in the order of an overhead view stage, a side-scrolling stage, a climbing stage with the Android boss, and then a bomb disposal stage.
+
+The overhead view stages deal with you driving either a car, boat, glider, or a dune buggy and trying to get to the end before time runs out on the clock. You must do this while either dodging or shooting enemies. In all the stages besides the one where you're given a glider you can use a limited number of turbo boosts to speed up your vehicle. In the glider stages you can alter your altitude to either go high above or below various obstacles. All of these levels end with a boss battle.
+
+Sometimes after these stages there is a bonus round where you try to collect extras in a limited amount of time without crashing into any obstacles. Completing this successfully will yield an extra life.
+
+The side-scrolling stages consists of two different experiences. One is a platformer where you walk around and can shoot enemies while searching for a set number of keys to unlock a forcefield at the end of the stage. The other consists of you flying a glider throughout a stage shooting enemies and trying not to crash until you get to the end of the stage.
+
+The climbing stages consist of you climbing a building and shooting enemies with a reticle that you can move all over the screen.You have to get to the top of the building before time runs out. Once at the top you will have to fight an android boss. Such as Mega Slug, Techno Beast, and the Sand Yeti. The android boss fights take place on the buildings rooftops with a side view of the action. The player must drain the energy from the androids by repeated shooting bullets into them.
+
+In the bomb disposal stage you must dispose of a bomb before the fuse burns all the way detonating it. You dispose the bomb by unsoldering chips away from each other. The player must use the directional pad to move the cursor from chip to chip keeping an eye on the number on each one. Every time the cursor moves to a certain block, the number on it decreases by one. This creates a puzzle-like scenario, where if the player makes a mistake he must reset the disposal and try again with less time.

@@ -1,0 +1,1 @@
+Deja Vu was the first game ever made by ICOM, the makers of such famous adventure games as Shadowgate and Uninvited. It featured mouse support, a multi-window interface, and bitmapped graphics at a time when text-based interactive fiction was the norm. 

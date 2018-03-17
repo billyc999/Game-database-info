@@ -1,0 +1,14 @@
+Sailor Moon (or Bishoujo Senshi Sailor Moon) is a beat 'em up video game
+developed by Angel in 1993, and ported to the Super Famicom. It was
+localized in the Europe exclusively in French in 1994. The Mega Drive
+version was developed and published by Ma-Ba, although certain elements were
+recycled from the Super Famicom version.
+
+The game is set in the first series of Sailor Moon, and the player takes
+control of one or two of the five heroines. Each Sailor Soldier has some
+sequences of blows, three aerial attacks (neutral, moving forward/backward,
+downward) and a special charge-up projectile.
+
+The enemies are mostly the youma of the Dark Kingdom that appeared in the
+anime, but if more than one of the same kind appears at once, the others are
+colored differently (a common device for this genre of games).

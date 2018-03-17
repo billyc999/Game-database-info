@@ -1,0 +1,12 @@
+You are an assault ship that was designed to destroy Hyperion military bases.
+
+You must shoot the bases enough so that the energy meter at the bottom goes from the "+" to the "-". Once the meter gets to "-" the base will explode.
+
+Obviously, the base is not a sitting duck. There is a force field that expands and contracts, base defenders and , in higher rounds, shields. The force field has a gap in it that you can shoot through or you can maneuver inside the field and shoot the base up close. Be careful, though, because you can get caught within the field.
+
+If you touch a shield, the force field, the base or are touched by a defender, you lose a life.
+
+The defenders are fireballs, heat seekers, bouncers, wanderers, and homers.
+
+The scoring is as follows:
+Destroy a fireball

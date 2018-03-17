@@ -1,0 +1,1 @@
+A golf game from Irem. Much like it's predecesor "Major Title" you play the final round of a major golf tournament and you have to top the leaderboard after 18 holes to win the trophy. You can also play with your mates in Stroke Play (up to 4 players), Match Play (2 players only) and a new Skins Game (up to 4 players).,

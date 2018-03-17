@@ -1,0 +1,7 @@
+The legendary Golden Axe has been stolen by an army of evil warriors. The king called a young warrior to take it back. His name was... Ax Battler!
+
+Ax Battler: A Legend of Golden Axe is an action/adventure RPG which puts the player in the role of Ax Battler, the Barbarian from previous Golden Axe games in search for the Golden Axe. The gameplay feels much like Zelda II: The Adventure of Link, with Ax moving around in a top-down perspective, changing to a side scrolling view when fighting enemies or entering caves.
+
+The battles are random and Ax won't see the enemies coming. If he's hit during a battle, the battle will end instantly and he'll be sent back to the overworld map. If he prevails, he gets magic vases from the enemies. Magic vases are the game's currency and are also used to cast spells, just like in the other Golden Axe games, but instead of having only the "Earth" magic, he also has the "Thunder" and "Fire" magics. Ax can also use special attacks to fight his enemies, learned at "dojos" found in each city.
+
+Instead of battery backed RAM, this game uses passwords as a mean to save games. At each town the player enters, he'll find a place to learn a new password which, when entered, allows him to continue from the very point it was learned.

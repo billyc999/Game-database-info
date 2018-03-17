@@ -1,0 +1,5 @@
+A mouse-driven game in which the player controls a small, circular spaceship which must travel around the screen collecting crystals. This task is made more difficult by the aliens which constantly swarm out from the portals on both sides of the screen. These can be shot down by the ship's gun (which has unlimited ammo) or eliminated by activating one of the player's limited supply of "smart bombs", which will clear the screen of all current enemies.
+
+The physics of the game were quite unusual for the time; the ship does not simply follow the mouse's movement like a mouse cursor. Rather, it retains its inertia, and must be carefully guided around so it does not crash into anything. Bullets, when fired, travel in the direction of the ship's movement, requiring the player to actually travel toward enemies in order to shoot them down.
+
+This was the first color game for the Macintosh, although it was business-as-usual for the IIgs.

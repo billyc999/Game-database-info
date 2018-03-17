@@ -1,0 +1,1 @@
+A snowboarding game. Select your boarder and perform as many tricks as you can, going as fast as possible down the hill before time runs out or the track ends. Courses include Canada, Italy and Japan.

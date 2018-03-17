@@ -1,0 +1,1 @@
+A football game where 8 teams (10 in all) take part in a single-elimination tournament to decide who is the best.

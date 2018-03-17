@@ -1,0 +1,5 @@
+When the troublemaking Thirsties enact their plan of draining water out of the local swimming pool with their drinking straws, it's up to Kool-Aid Man to stop them!
+
+Kool-Aid man must gather up Kool-Aid soft drink mix in order to catch and put a stop to the Thirsties' scheme.  The three ingredients are Water (W), Sugar (S), and Kool-Aid (K).  If the Thirsties touch Kool-Aid Man, he gets bounced around the yard, losing time, and the pool gets drained further.  
+
+If the Thirsties succeed in draining the pool, it's "Game Over" for Kool-Aid Man.  If Kool-Aid Man succeeds, then he wins and goes on to the next level of difficulty.  Oh Yeah!

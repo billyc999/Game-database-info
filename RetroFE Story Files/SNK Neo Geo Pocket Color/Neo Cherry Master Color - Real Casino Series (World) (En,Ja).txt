@@ -1,0 +1,1 @@
+Neo Cherry Master (or Real Casino Series: Neo Cherry Master) is a fruit machine/"one-armed bandit" simulator. Simple - spin the reels and wait for luck - identical fruits in the row. Controls are simple: player push A button to spin the reels and the B button to increase "credits". No real gambling – player can't lose real money.

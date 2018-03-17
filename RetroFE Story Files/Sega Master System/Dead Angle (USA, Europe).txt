@@ -1,0 +1,3 @@
+In this game you play the role of a man who's girlfriend has been kidnapped by a ruthless mafia boss and you need to find her quickly. 
+
+The gameplay involves you having to shoot all the mafia henchmen before being able to fight the level boss. The game is view as a 1st person/3rd person hybrid where you are shooting in first person but you can see the outline of your character. To avoid getting shot you have to make sure you are not in front of an enemy as when you are your outline turns red and you are vulnerable. You can duck for cover but you automatically pop up after a few seconds so timing is everything. There is also a time limit for each level and more enemies to kill as the game progresses.

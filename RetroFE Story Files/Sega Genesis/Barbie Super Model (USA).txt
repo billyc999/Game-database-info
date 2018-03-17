@@ -1,0 +1,13 @@
+Help Barbie become a great fashion model!  This is an arcade game with many different activities to participate in.
+
+In each level, Barbie starts by going left to right with forced scrolling.  She has a default speed and can speed up as well.  She must avoid moving obstacles by moving up and down and controlling her speed.  If she hits one, she loses a chance and it's game over if she runs out of chances.  She must pick up items which grant point bonuses and extra chances.
+
+There is also a camera item to pick up which brings you to a magazine cover shoot.  You are shown a cover with barbie wearing an outfit which is themed to the level.  You must then go to her dressing room and dress her in a matching outfit.  You are also given separate control of the colors of three different components and must match these.  You are awarded points for each correct match.
+
+When you reach the right side of the level, you are given a runway practice.  This consists of four positions on the runway floor labeled to tell you which button you must press at each one.
+
+Barbie then goes back through the level right-to-left.  On the return trip, there is a handbag to pick up.  This brings you to another magazine cover.  You then go to a makeup mirror where you must match Barbie's hairstyle, earrings, eyeshadow and lip and nail color to the cover.  Again, you are awarded points for each item which you get correct.
+
+When you reach the left side of the level, you must then do Barbie's runway walk that you were given earlier.  You are awarded points for each station at which you perform the correct move.
+
+Barbie then continues to the next level.  There are a total of four: Barbie driving down the street, skating on the beach, walking through a ski resort and walking through the park.

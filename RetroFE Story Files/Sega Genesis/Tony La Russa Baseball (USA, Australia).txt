@@ -1,0 +1,1 @@
+Tony La Russa's Baseball features over 500 real players, keeps statistics with 14 categories and gives players the option to  watch, manage or play a game. The game has supported of STATS (Sports Team Analysis & Tracking Systems) to compile statistics, along with a digitized pitcher and batter animations to make it seem more realistic.

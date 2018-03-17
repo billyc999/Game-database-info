@@ -1,0 +1,1 @@
+The player controls a snake-like ship moving around a number of mazes chasing 3 similar computer controlled ships. Being hit by bullets reduces the length of the ships. Ships are destroyed either when their length is reduced to zero or when they collide with a longer ship.

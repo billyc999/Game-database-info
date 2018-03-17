@@ -1,0 +1,1 @@
+A maze game where you fight against Robonoids while trying to clear the maze of dots. Two ways to finish each rack : Eat up all the dots, or destroy a certain number of Robonoids (listed at the bottom of the screen). Two ways to destroy the Robonoids : Shoot them, or remove the ground from under them at certain points of the maze (the 'Trick').

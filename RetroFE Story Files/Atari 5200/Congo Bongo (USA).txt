@@ -1,0 +1,3 @@
+An extremely faithful port of the famous jump-n-run platform arcade game.  Run, jump, and climb your way through a dangerous jungle while avoiding various animals and projectiles.
+
+Includes the introductory animations and features the arcade version's sliding screen transitions.

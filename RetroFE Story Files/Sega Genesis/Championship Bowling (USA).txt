@@ -1,0 +1,5 @@
+Championship Bowling is a standard bowling game for one or two players, and the only one available for the Genesis. The player picks one of four different bowlers and the ball they want to use, then heads out to the lanes. The player controls the throw, spin, and power by stopping bars at the right time.
+
+The game includes three different play modes: standard bowling; spare mode, where a handful of pins are placed with the goal being to pick up a spare; and bonus mode, where specific pins are worth different amounts of points. Each mode can be played against either the computer or a friend, and there are three different lane types available. There is also a practice mode for each of the game types.
+
+The Japanese version, Boogie Woogie Bowling, is largely the same but features different, more anime-style characters to play as (including a robot for no explained reason), as well as minor tweaks to the timing for throws.

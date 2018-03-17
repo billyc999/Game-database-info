@@ -1,0 +1,3 @@
+Two different tribes existed on planet Colura, the Petras and the Basrah. The Basrah were aggressors and eventually drove the Petra underground. However many Petra survivors were trapped on the surface of the planet. To that end, a rescue bike named the Gilgitt Petras was created. It must venture up to the surface and save as many Petras as possible.
+
+Seicross is a side-scroller. Controlling the Gilgitt Petras, the player must race across the screen, collecting Petra survivors and fuel power-ups. The single weapon and ability available is the ability to fire straight ahead.

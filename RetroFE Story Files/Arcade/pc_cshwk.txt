@@ -1,0 +1,5 @@
+The game player is the pilot of the plane and must both avoid the mountainous terrain while shooting aliens.
+There are 9 missions in the game. Missions 1 through seven each have 3 objectives while missions 8 and 9 have 2 objectives and 1 objective, respectively.
+The objectives vary across missions and include destroying an enemy base, dropping supplies, picking up a scientist, and docking with a space station.
+The player can fire 4 types of weapons : Cannon, Phoenix Air Intercept Missiles, Maverick air-to-ground missiles, and Hawk bombs. The cannon is the only weapon with an unlimited supply. The rest of the weapons must be purchased between missions after docking with the space station.
+The game is very reminiscent of the classic, "Zaxxon". The game features top-down scrolling overhead isometric graphics, including simulated 3-D terrain. The terrain mimics the look of flight simulators available for the PC at the time. The game player is the pilot of the plane, code-named the F-14VTS (a fictional version of the F-14), and must both avoid the mountainous terrain while annilating aliens.

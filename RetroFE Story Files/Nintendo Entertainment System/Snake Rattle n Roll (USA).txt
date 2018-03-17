@@ -1,0 +1,7 @@
+It's a race to the moon for the two snakes, Rattle and Roll!  Play alone or simultaneously with a friend as you out-score and out-eat your opponent - then weigh yourself on the scales and make for the exit!
+
+Snake, Rattle 'n Roll is an isometric 3D platformer.  The object of each level is to eat as many Nibbley Pibblies (round creatures of various colours) as possible to make your snake heavy.  Once it's heavy enough, you must stand on the scales in the level, and if you're heavy enough, the door will open and you can make your way to the exit.
+
+As with many platform games of its era, Snake, Rattle 'n Roll is incredibly difficult.  Foes include Jaws, a monster that's all teeth and will kill you if you stay in the water too long, and Bigfoots, which stomp all over the place and require multiple tongue lashings to defeat.  Then there's the many types of Nibblies, such as Pibblesplats, which hop around and splat into puddles, Pibbleboings, which are spring-loaded and jump incredibly high, and Pibblewings, which fly high out of reach.
+
+Two-player mode provides both a co-op and competitive experience: while you are both trying to eat more Nibblies than your opponent, if you both stand on the level's scale at the same time, both of your weights will be counted and it will be possible for you to exit the level more quickly.

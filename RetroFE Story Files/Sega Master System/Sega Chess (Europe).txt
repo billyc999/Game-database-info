@@ -1,0 +1,7 @@
+Sega Chess is a chess game for one or two players.
+
+The game follows the standard chess rules. There are 11 difficulty modes: beginner, novice, amateur, intermediate, professional, chess champion, grand chess champion, chess master, grand chess master, adaptive (which tries to adapt to the player's skill and infinite think mode. The game also offers a problem solving mode.
+
+Gameplay consists in moving a hand icon across the board selecting the piece to move and the target location. The player can ask for hint moves and when it is the computer's turn, he can force the opponent to move. The table side can also be flipped during the gameplay. The plays are recorded and the players can see it in the main menu screen.
+
+Players can also set up a game with a given set of pieces, provided there is at least one king to each side. Two players mode can be played with one or two controllers. The table can be viewed in a 2D or 3D view.

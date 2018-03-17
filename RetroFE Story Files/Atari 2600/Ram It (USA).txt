@@ -1,0 +1,10 @@
+EEEEEK! Green is going wild! Red on your right! Blue at your back! Yipes, yellow! Quick! Jam it, slam it. Ram It! Put your Ramroid into action and rifle away.
+
+You, the Ramroid, are on a track in the center of the screen. You can aim left and right to fire. On both sides are colored bars that begin to randomly advance towards the center. You must shoot these bars to drive them back, preferably off the screen. If a bar starts flashing, it is a bonus bar and shooting it gets you larger points as well as clearing it from the screen completely. Be warned, though, that sometimes the bar will reappear on the opposite side of the screen.
+
+A round ends when:
+1. You have cleared all the colored bars from the screen or
+2. The timer at the bottom, which starts at five thousand, reaches zero or
+3. The colored bars have blocked off part of the screen and you clear the rods where you can
+
+After three rounds, the game is over.

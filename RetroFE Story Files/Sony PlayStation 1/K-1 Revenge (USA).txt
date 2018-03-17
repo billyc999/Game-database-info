@@ -1,0 +1,12 @@
+K-1 Revenge brings together several practitioners of various martial arts such as kick boxing and karate and lets them fight each other to determine who the best fighter in the world is. The game contains 14 actual K-1 fighters and also 4 unlockable ones. In the game, each fighter's skills are rated by their speed, stamina, and power and each fighter also has two special arts; for example, an axe kick or a right hook.
+
+The game contains a one player mode, a versus mode, a tournament mode, a team battle mode, and a training mode.
+
+The one player mode has the player fight against several computer fighters, while the versus mode lets the player fight another player. The tournament mode lets the player set up a tournament between 8 fighters to determine the champion. The team battle mode lets the player choose three fighters to fight as a team against the computer's or another player's team. The training mode let's practice each fighter's moves.
+
+The game also lets the player setup the computers artificial intelligence level.
+
+Gameplay consists of two fighters inside a ring trying to knockout each other within three rounds by using various martial arts. If no one is knocked out by then, the fight is decided by a decision which is calculated by the score each fighter received. The score is derived from how well each fighter performed throughout the entire fight.
+
+Players have to pay attention to three different meters while fighting.
+A life gauge for that measures physical strength; a stamina gauge that decreases as each fighter uses a move; and a knockdown gauge to show the amount of damage each fighter has received.

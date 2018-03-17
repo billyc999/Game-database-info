@@ -1,0 +1,3 @@
+Basketball was the second sport to which Cinemaware applied their philosophy of lavish production and advanced cutscenes. Exhibition and league matches are on offer, with the opportunity to recreate a full league season with 1 player assigned to each of the 28 clubs. The game uses varying camera positions, with top-down views when the ball is close to either hoop, and a side-view when the ball is mid-court - controls remain unchanged for these, so the switch doens't cause a sudden change in player movement.
+
+As well as playing the matches you have full coaching control. This can involve making substitutions but also assigning marking and game strategies.

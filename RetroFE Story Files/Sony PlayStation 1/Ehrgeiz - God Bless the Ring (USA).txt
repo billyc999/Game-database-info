@@ -1,0 +1,27 @@
+Ehrgeiz: God Bless the Ring is an arcade-style fighting game from the makers of the Final Fantasy series. In the port for the Playstation - Cloud, Tifa, Yuffie, Vincent, Zack, Red XIII & Sephiroth from FF7 join the many characters from the arcade game released in Japan. This is a free roaming beat-em-up that can only be likened to the more recent Power Stone on the Dreamcast.
+
+Comprised of the main arcade mode, mini-game mode, and an all new RPG mode known as "Brand New Quest".
+
+ The mini-game mode contains four games:
+
+ - Battle Beach, a triathlon of button mashing.
+
+ - Battle Square, tackle-Othello on a disco floor
+
+ - Infinity Battle, an endurance test with unlimited lives.
+
+ - And a foot racing game using the fighting game controls.
+
+ The main game mode is an arcade-style fighting game.  Charismatic fighters from around the world compete in a tournament for a mysterious sword as the prize.  In addition to your archetypes of kick boxers, wrestlers, and mixed martial artists there are also animal type fighters, homing missiles, characters with swords, and many other attacks that shake things up.
+
+ The fighting system is based on attack height (much like Bushido Blade) - with the triangle, square, and x buttons corresponding to high, mid, and low attacks respectively.  There are also different buttons for low and high guard - both working against mid-level attacks but specific to high and low attacks.  The circle button is used for 'special' attacks, which drain the 'special' bar.  There is a button to jump, as well as a button that changes between 'locking' on the target to move or free running.
+
+ The standard balance in fighting games is speed vs. damage.  Whether it be ranged or melee attacks, the 'damage per second' should be the same - as every character has an equal health bar.  Ehrgeiz is a very balanced game, despite the complexity presented by how fundamentally different most characters are.
+
+ The vast differences between certain characters require the player to devise separate strategies for different opponents. The animal type opponents, for example, can only be hit with roughly half the attacks of the normal opponents - head kicks, many long range attacks, and most throws will hit empty air, especially since animal characters can 'duck' even lower to the ground. Fighting a gun wielding character will result in a battle where you must chase and pin down. Fighting Cloud or Sephiroth will require both constant pressure and vigilance against being thrown to ensure that they are not able to unsheathe their sword and finish the fight in a few blows. 
+
+ The game features unlock-able costumes and characters, as well as 'ending videos'.
+
+ The "Brand New Quest" feature is a dungeon delver that uses the fighting game engine along with randomly generated dungeon layouts to create a 25 level dungeon with set bosses.  It borrows the magic and equipment system from the Final Fantasy games, you will collect materia and magic stones, as well as a full range of visibly different weapons and armour.  This game puts strong emphasis on food (like the early Ultima series).  Not only will you have to eat, but you will have to be conscious of what you are eating - your diet affects how your stats change at level up.  Eat meat for strength, minerals for dexterity, carbs for speed, lipids for defence, and vitamins for magical ability.  Standing still allows your depleting 'stomach' meter to fill your health.  If your hunger meter reaches 'zero', however, it will start draining your health.  
+
+ There are two playable characters, and the game can be played with both characters or with only one.

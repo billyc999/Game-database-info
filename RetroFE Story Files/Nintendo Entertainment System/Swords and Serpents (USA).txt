@@ -1,0 +1,5 @@
+Deep in the dungeons lay the fabled ruby treasures.  Many brave souls have tried to recover them; all have failed.  Little did they know how futile their quests would be -- they met a horrible fate at the hands of a horrible serpent king.  Can your party of champions defeat the dragon and claim the ruby treasures? Or will you, too, be vanquished?
+
+Swords and Serpents is a first-person, party-based CRPG in the tradition of Wizardry. Put together a team of 4 heroes (roll your own characters or simply use the pre-generated party) from three classes: warrior, thief, and magician.  A 16-level dungeon awaits you, full of weapons, armor, magic spells, and other valuable items.  Beware, though: an assortment of traditional fantasy beasts and villains awaits you!  
+
+Teleporters and &quot;zoom tubes&quot; speed up your travels.  Temples provide safe havens for your party to restore health and mana. An auto-map feature helps the player keep track of what locations you have visited.  A password system allows you to save your progress as you travel deeper into the darkness.

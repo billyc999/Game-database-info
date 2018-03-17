@@ -1,0 +1,1 @@
+A puzzle game where you shift blocks so that a ball rolling along a path can roll across every block that has a path drawn on it.

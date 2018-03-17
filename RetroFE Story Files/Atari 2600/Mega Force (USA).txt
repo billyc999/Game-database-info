@@ -1,0 +1,16 @@
+You are a member of MegaForce and have been sent to the city of Sardoun. Sardoun is under attack and you must defend it. You are armed with the Moto-Fighter, a sort of armed motorcycle with flight ability.
+
+When you are on the ground, your missiles fire down and forward, at an angle. When you are in the air, your missiles fire straight ahead.
+
+The object is to destroy enemy fighters, destroy or avoid ground-launched rockets, destroy fuel depots and destroy the enemy headquarters. Any enemy fighters that get past you will head to Sardoun and bomb a building. You will see a red flash at the top of the screen with the words "Defend" when Sardoun is in trouble.
+
+Every second you are playing, you use one gallon on fuel. If you run out of fuel, you lose a life. You can shoot fuel tanks to replenish. If you destroy all the tanks of that depot, a prize will appear that you can shoot (but may not want to). See "Prizes" for details. Each tank destroyed is worth eighty points and ten gallons of fuel.
+
+Each enemy fighter destroyed is worth 100 points.
+Each ground rocket destroyed is worth 300 points.
+Each tower of the enemy headquarters destroyed is worth 300 to 600 points. If you get them all, you get one more point.
+Each tower of Sardoun destroyed is worth 100 to 400 points and ten gallons of fuel each BUT if all the towers are destroyed, you will not be able to get any more points that round and will lose a life at the end of that round.
+
+Prizes
+---------
+Missile

@@ -1,0 +1,7 @@
+This is a hurdles horse race.
+
+The horse's names, from bottom to top, are: Lucky Devil, Absent Mind, Just Missed and Little Dictator. You play as one of the jockeys and must reach the right side of the screen first. The horse runs and hurdles come at you from the right. To jump these hurdles, you turn the paddle to set the height of the jump, as indicated by the marker on the right. You press the button to jump. The better you jump, the faster your horse goes. After 3 minutes, if no one has gotten all the way to the right, the race ends and whoever was in the lead wins.
+
+There are 6 game variations. In games 1, 2 and 3, the distance between the hurdles is uniform with the computer-controlled horse's racing ability being poor, good and excellent, respectively.
+In games 4, 5 and 6, the the distance between the hurdles is random with the computer-controlled horse's racing ability being poor, good and excellent, respectively.
+The difficulty switches are not used.

@@ -1,0 +1,5 @@
+A follow-up to PGA Tour Golf and a reduced version of it's Genesis counterpart where the player can choose play as a generic pro golfer or as an amateur and compete against four real-life pros including Fred Couples, Paul Azinger, Craig Stadler & Fuzzy Zoeller with six different locations to choose from.  Players can choose to either play in Tournament mode, Skins Play or learn the basics of the game in Practice mode.  
+
+Players use a cursor on a top-down view of a map to determine the location as well as another view from behind the golfer to avoid various obstacles such as trees.  After selecting their location they can then use a meter to the bottom left to determine how much draw or fade will be put into the shot.  To hit the ball, the players presses the "B" button to start the power meter and hitting it again to stop.
+
+Players must also adjust to changing wind and weather conditions during game play which will drastically change the outcome of their shot.  It features four-player capabilities using Gear-to-Gear links as well as a password feature.

@@ -1,0 +1,11 @@
+This game contains a collection of Konami arcade hits from the 80's. The 10 games included in the collection are :
+1. "Time-Pilot" (1982)
+2. "Scramble" (1981)
+3. "Rock'n Rope" (1983)
+4. "Pooyan" (1982)
+5. "Yie ar Kung-Fu" (1985)
+6. "Super Cobra" (1981)
+7. "Circus Charlie" (1984)
+8. "Gyruss" (1983)
+9. "Road Fighter" (1984)
+10. "Shao-Lin's Road" (1985)

@@ -1,0 +1,3 @@
+Tetrisphere adds a new dimension to the classic Tetris gameplay.
+
+As usual, you drop pieces into the playing field to eliminate the blocks and clear the field. This time, however, the playing field is a sphere, and you must turn the sphere around to find a place to drop the pieces, and eventually get to the core to win. As you clear the field, certain moves may reveal magic items to help get to the core (rockets, dynamite, etc.).

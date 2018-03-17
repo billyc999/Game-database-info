@@ -1,0 +1,3 @@
+Players take the role of a stargunner for the Yarthae Empire. The Empire is being invaded by the Sphyzygi. The stargunner must destroy their invading ships but beware of the bombs dropped by the Sphyzygi droid, Bobo.
+
+This game is similar to Defender without the humanoids to rescue. Players must fly around the screen, shooting any incoming ships that appear. Watch out for the satellite-like object, at the top of the screen, as it drops bombs. Play simply continues  from wave after wave of ships, until the player loses their last ship.

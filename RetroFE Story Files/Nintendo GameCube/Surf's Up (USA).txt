@@ -1,0 +1,11 @@
+Surf�s Up is a surfing game based on the movie of the same name. The game features 10 players in total (4 at the beginning and 6 more to unlock), 5 areas with 2-4 stages each and 3 basic modes for you to play. A Championship mode, a Multiplayer mode and a Leaf Sliding mode.
+
+1. Championship: The place where you can surf as much as you like and unlock all the characters and stages by successfully completing the challenges of the Championship races. These challenges include performing tricks to reach a set high score, passing through certain gates and collecting red penguin statues.
+
+2. Multiplayer: Multiplayer mode supports up to 4 players but you have to unlock the stages in Championship races.
+
+3. Leaf Sliding: In this mode you go down a volcano not on a surfing board but on a huge leaf instead and must reach the finishing line within a certain time limit.
+
+There is also the Extras option where you can see things you have unlocked like art, videos etc.
+
+The PS3 version features an Exclusive Content option with additional film footage.

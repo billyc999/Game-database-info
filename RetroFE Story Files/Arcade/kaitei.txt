@@ -1,0 +1,1 @@
+A boat lowers the player towards the bottom of the screen. Try to avoid the fish or push left or right to fire a harpoon at them. When at the bottom, if you walk over one of treasure caches, you will be lowered into it. Then you will be raised back to the ship (again, avoid the fish).

@@ -1,0 +1,7 @@
+Baseball game featuring full major league rosters of all 26 teams of the 1987 baseball season.  The players, however, are never identified by name, only by jersey number.  Oddly enough, the statistics for the players are very close to, but not exactly, the same as their real-life counterparts.  Close enough that it is possible to identify who each player is supposed to be, though they are represented only by a position (infield/outfield/catcher/pitcher), a number, and a stat line.
+
+There is no season mode, but you can play a regular season game, an All-Star Game (you pick your own All-Stars from the team rosters), or a World Series.
+
+Before each game begins, you set your lineup and starting pitcher from your chosen team's roster.
+
+Gameplay is the standard behind-the-catcher viewpoint for pitching and batting, switching to different views after the ball is hit.

@@ -1,0 +1,1 @@
+You are an eye travelling through a maze shooting dots to advance to next level while computer eyes try to shoot you. Shoot computer eyes before they get you.

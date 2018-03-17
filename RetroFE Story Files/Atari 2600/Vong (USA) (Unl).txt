@@ -1,0 +1,6 @@
+Vong is a homebrew game that plays like the classic arcade game Pong, but vertically instead of horizontally. Vong features six gameplay modes, two of which are hidden. The normal modes are: 
+
+Game 1 = Single Player
+Game 2 = Two Player
+Left Difficulty A = Small Paddles
+Left Difficulty B = Large Paddles

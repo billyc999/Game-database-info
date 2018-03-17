@@ -1,0 +1,3 @@
+A vertical-scrolling shooter in the tradition of Commando, Ikari Warriors, and Guerrilla War.  Rambo and his buddy Zane (who didn't appear in the movie) are charged with blasting their way through various levels and rescuing the hostages.  Of course, it won't be easy -- soldiers, tanks, and other enemies will do everything they can to stop you from saving the day. Unlike Ocean's later First Blood License, a single hit kills you, and your weapon is a gun rather than knives.
+
+The game is in fact a re-branding of Ashura (known as Secret Commando in Europe), which explains why there is a second character on offer.

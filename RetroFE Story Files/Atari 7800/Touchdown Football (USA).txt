@@ -1,0 +1,1 @@
+A very capable football simulation, given the year and technology.  Call the plays, then run them using the keyboard or joystick.  Digitized voices enhance the game, including the crowd, calling the numbers, and referee's calls.

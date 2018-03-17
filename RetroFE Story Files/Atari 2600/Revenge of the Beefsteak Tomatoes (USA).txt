@@ -1,0 +1,19 @@
+You must build three walls above the tomato plants at the bottom. You must also dodge tomato bombs shot by the tomato plants, shoot tomato vines that grow on any part of the wall, shoot cherry tomatoes (or just dodge their shots) and shoot or dodge beefsteak tomatoes.
+
+To capture a brick, you shoot it once. Then to place it, you shoot vertically at the wall once. You cannot place bricks horizontally.
+
+The game's default is level setting six, which has all enemies and each round is harder than the last. The level settings are as follows:
+Level one: Tomato plants only and every round is the same difficulty
+Level two: Same as one but adds beefsteak tomatoes
+Level three: Same as two but adds cherry tomatoes
+Level four: Same as three but adds brick-growing vines
+Level five: Same as three but each round gets harder than the last
+Level six:  Same as four but each round gets harder than the last
+Level seven: Same as five but the tomato bombs are wider
+Level eight: Same as six but the tomato bombs are wider.
+
+When the left difficulty switch is set to B, you have unlimited lives. If set to A, you have four lives.
+The right difficulty switch affects the game speed; A faster, B slower.
+
+The points are:
+Killing the beefsteak tomato

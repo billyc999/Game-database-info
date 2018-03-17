@@ -1,0 +1,11 @@
+Power Golf is played primarily with a top-down view of each hole, and a 3rd person perspective for hitting the ball.  There is also stroke and match play, and a competition mode for up to three players.
+
+The object of the game is simply that of golf: To complete the course with the fewest shots and lowest score. 
+
+Game modes:
+
+Stroke Play -- Regular mode where competition is based on the total strokes, lowest number of course, is the winner. 
+
+Match Play --  This mode can be against the computer or another player. Players compete for each hole, or, in Club Match, for each other's clubs.
+
+Competition -- This is the three-player mode.  The game operates in the form of a contest, and is recommended for players of differing abilities.  Driving and pin contests are also included in this mode.

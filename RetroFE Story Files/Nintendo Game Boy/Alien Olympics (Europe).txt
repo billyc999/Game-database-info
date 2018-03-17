@@ -1,0 +1,21 @@
+Alien Olympics is a wacky combination of track & field games and retro-arcade games that you play as an alien. There are 8 unique alien characters that you can choose and compete against. Each alien has different strengths and weaknesses. For example, Mr. Mune (a caterpillar-like alien) has many legs enabling him be very good at shooting events but also makes it difficult for him in racing events.
+
+You can either compete against a friend by sharing the keyboard or against the computer. There are a total of 15 different events to compete in and you have the choice of tackling a selected few, or going through the whole series. You also have the option of practicing first to get the hang of things.
+
+The 15 events are:
+
+1. 50 Qrbit Dash (Racing)
+2. Laser Leaping (Hurdling)
+3. The Big Bounce (Long jump)
+4. Laser Skeet I (Shooting Targets)
+5. 200 Qbit Splurge (Racing)
+6. Lunge Leap Splat (Triple jump)
+7. Toxophilly (Archery)
+8. Flob Flop (Shot put)
+9. Saber Launch (Javelin throw)
+10. Survival (An arcade/pac-man-like game)
+11. Alien Hurl (Another throwing game, but your alien is now the object to be thrown by a giant robot)
+12. Laser Skeet II (Shooting Targets)
+13. Jetpack Tag (Asteroids-like game)
+14. Lizard Leap (Pole vault)
+15. Wall Jumping (High jump)

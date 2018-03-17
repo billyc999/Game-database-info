@@ -1,0 +1,15 @@
+This early version is different from its PC counterpart with this version featuring six different stages to choose from and each with their own type of gameplay:
+
+1. Bruno's Deli: The player takes control of Huckle the Cat as they help Bruno serve his customers by selecting the items they have requested on a conveyor belt.
+
+2. Captain Salty: The player uses Huckle again and uses a crane to piece together Salty's ship by dropping them in the required spot which is marked.
+
+3. Building House: This is essentially the same as Captain Salty's stage, except this time around the player is building a house instead of a ship.
+
+4. Delivery Truck: The player uses Huckle and Lowly Worm to deliver various objects to their required shops while avoiding various obstacles such as trashcans, crossing chickens and chairs to name a few.
+
+5. Fire Station: This time the player takes control of a pig fire fighter and transverse BusyTown in a fire truck, collecting various firefighter-related objects while avoiding obstacles.  After each object is collected, the player is then taken to a house fire where they must put out the fire and rescue the trapped animals inside.
+
+6. The Wind: The player can become the wind and shown a top-down map of BusyTown and using a whirlwind can interact with various objects on the screen to view animations.
+
+Additionally, the player can choose these different locations at the main screen that has the player become Lowly the Worm and fly around the map using his Apple Helicopter.  It also features many the characters from Scarry's educational books.

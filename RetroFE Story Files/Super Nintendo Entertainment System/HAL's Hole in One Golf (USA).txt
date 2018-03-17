@@ -1,0 +1,3 @@
+HAL's Hole in One is a standard 18-hole golf game, played from a top-down perspective. You can compete in stroke play with up to four players, or match play against a friend or the computer. When playing against the computer, you will play against an opponent that uses metal clubs, which hit farther than the standard wooden clubs.
+
+In addition to stroke and match play, you can obtain passwords that allow you to replay any spectacular shots that you make (eagles, holes-in-one, and double-eagles).

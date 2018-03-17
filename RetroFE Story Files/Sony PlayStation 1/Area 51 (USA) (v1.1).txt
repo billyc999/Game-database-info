@@ -1,0 +1,3 @@
+This is the home port of the popular arcade light gun game. This home version has special bonuses and additional secret levels not found in the arcade. Using a light gun (or a mouse, if available) you blast your way through the secret base, Area 51, which has been taken over by mutant aliens.
+
+As you work your way to the secrets at the heart of Area 51, you'll need to destroy an increasingly dangerous line of aliens, upgrade your firearm, and cause as much collateral damage as possible. The game rewards the player for destroying windows, light fixtures, computers, explosive barrels, and even fire extinguishers. Each consecutive hit increases your streak rating (which adds to your score) and certain combinations of these collateral hits will open up secret bonus rooms.

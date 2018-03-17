@@ -1,0 +1,6 @@
+A collection of four games on a single cartridge, selectable from an in-game menu. The games included are:
+
+1. Alex Kidd in the Enchanted Castle
+2. Altered Beast
+3. Flicky
+4. Gunstar Heroes

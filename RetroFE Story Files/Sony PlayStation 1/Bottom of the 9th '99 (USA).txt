@@ -1,0 +1,9 @@
+This baseball game features the following game modes: exhibition, season, training, and scenario.
+
+Exhibition mode lets the player play against the computer, another player, or just watch a game between 2 computer players. Training mode lets players practice their fielding, pitching, and batting skills. Scenario mode puts the player in a tight situation in 20 different  in-progress games to see if they can succeed in those situations. Season mode lets players play a season with anywhere from 15 to 162 games. The game can keep track of the season statistics, team standings, and any trades made during the season.
+
+With only an MLBPA license, the game features the names of the real MLB players, but it doesn't include the real team's names or their logos, just the cities they play in. The game also offers 30 different stadiums to play in.
+
+During the game, pitching involves selecting a type of pitch and aiming it into the batter's box by sliding around a cursor to where they want the pitch to go. To hit the ball, batters must move their own cursor to match where the ball will end up. If the batter decides to powerhit, the cursor becomes smaller, making it harder to make contact with the ball.
+
+The game also features an announcer that calls the plays in real time.

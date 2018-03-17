@@ -1,0 +1,3 @@
+You are on patrol to find and destroy enemy fuel depots.
+
+Your ship flies to the left, while you control you up and down motion. Initially, you must shoot the oncoming lager, red ships but avoid the smaller, blue missiles. Do not shoot the black ship. Dock with it so you can land and refuel later. When you come to the three enemy fuel depots, shoot each one to destroy it then make your way through a mine field to continue. If you come to the landing strip, just align your ship with it to land and a refueling truck will top off your tanks. As you move into night, the enemy ships become too dark to see. You can then create light, temporarily, by firing off shots.

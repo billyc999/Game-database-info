@@ -1,0 +1,4 @@
+Star Control is a science-fiction wargame which pits the forces of the Alliance of Free Stars against those of the predatory Ur-Quan Hierarchy. The games are designed so that you can ease into play, familiarizing yourself with menus, options and player controls. 
+The Alliance and Hierarchy each possess different types of warships. Each vessel has its own maneuvering and firing characteristics, plus a unique special power that you can employ when circumstances dictate.
+
+The game has two modules: the Melee, in which you can simply blast the computer or another player to smithereens using one of 16 different ships, in either Hierarchy or Alliance fleets; or, should you wish for a more challenging game, lets you play one of 9 preset scenarios.

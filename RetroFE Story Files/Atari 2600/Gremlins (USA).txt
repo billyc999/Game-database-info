@@ -1,0 +1,5 @@
+This game is based on the Steven Spielberg movie of the same name but is different than the other versions.
+
+In this version, on the first screen, Mogwai are jumping from the roof to get at hamburgers on the ground. You, as Billy, must catch them before the hit the ground. If you get them all, it is off to the next, faster, level. If you miss eight, then you go to a shooting screen.
+
+On the shooting screen, gremlins are approaching from the distance. You must shoot them before they reach you. If one reaches you, you lose a life. After they are all dead, it is back to the first screen at a faster level. In later levels, puddles of water will divide the gremlins in two.

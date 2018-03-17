@@ -1,0 +1,3 @@
+Jinks added a largely new concept to the Breakout type games,offering much freer paddle movement ( both horizontally and vertically), a horizontally scrolling screen and the ability to flip the triangular paddle as needed.
+
+The objective is to survive on the planet Jinks - an exploration mission on this resource-rich planet has gone wrong. As hazards, there are objects that can destroy the paddle or make it smaller. There is also the ability to shake the screen if the ball is in a looping position.

@@ -1,0 +1,1 @@
+A maze-style game where the player shoots 'liquid' to kill monsters. Eat 'food' to replace the liquid. Monsters are generated from 4 fires which must be destroyed to complete level.

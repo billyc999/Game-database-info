@@ -1,0 +1,3 @@
+Basic Sega shoot-em-up in which you must guide your ship through three zones while avoiding hazards. Your only weapon are bullets as your only defense, but if you shoot the flashing red pieces on the terrain, chances are that a green ship will approach you, and if you collect this ship, your weapons will be upgraded so that you shoot a laser beam instead. Keep collecting ships and you can shoot up to three laser beams at once. 
+
+At the end of each zone, you will come across a boss that takes multiple hits to kill. If you manage to conquer all three zones, you are back to where you started. The whole point of this game is to earn as many points you can without losing all of your lives.

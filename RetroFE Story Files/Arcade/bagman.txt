@@ -1,0 +1,1 @@
+A platform game in which the player manoeuvres 'Bagman' through various mine shafts picking up money bags and placing them in the wheelbarrow at the surface of the mine.

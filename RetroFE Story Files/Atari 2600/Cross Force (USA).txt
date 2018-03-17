@@ -1,0 +1,5 @@
+It seems as if forever that the evil Morplus from the planet Tzoris have terrorized the galaxy, leaving death and destruction in their wake. But now, our scientists have developed our newest weapon, the Spectron! You will be deployed with this weapon and must destroy as many Morplus as you can.
+
+You have two lasers, one at the top that fires down and one at the bottom that fires up. You control both lasers. Depending on what you select, you can have both lasers stay parallel to each other or move opposite of each other. Your goal is to fire the laser, which fires from one laser to the other, and destroy any enemies caught in your crossfire. The mothership that drops the enemies is indestructible.
+
+Be aware, however, that if you fire you weapon non-stop, it will overheat and then will not fire until it cools a little. Also be aware of the amount of fuel you have because if you run out of fuel, you lose one life. You need to shoot any red fuel pods when they appear on screen.

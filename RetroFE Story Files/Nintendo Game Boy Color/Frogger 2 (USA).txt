@@ -1,0 +1,3 @@
+Frogger 2 is an extension of the original Frogger, making the levels containing the usual highways and rivers vertically scrolling, with limited side scrolling. Along the way from the bottom to the top of the level, you can collect gems and extra lives, and each level usually has one or more restart points. Along the way, your frog encounters and older, wiser frog called Tadius, who offers advice on strategy.
+
+You can save several games and pick up where you left off, as well as revisit finished levels. The game is made up of several worlds with different themes.

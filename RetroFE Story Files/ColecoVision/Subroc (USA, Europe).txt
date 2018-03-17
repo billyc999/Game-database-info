@@ -1,0 +1,1 @@
+SubRoc 3-D is a shooter, where you look through a periscope and shoot at both sea and air-targets. The arcade version features 3-D effects.

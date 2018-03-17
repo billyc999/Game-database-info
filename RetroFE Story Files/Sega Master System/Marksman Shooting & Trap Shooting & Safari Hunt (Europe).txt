@@ -1,0 +1,7 @@
+This cartridge bundles three games that all support the light phaser. Marksman Shooting and Trap Shooting were previously available as a bundle on a single cartridge, while Safari Hunt was released individually.
+
+1. Marksman Shooting is a target practice game where one must shoot targets at an FBI shooting range. One must shoot the targets before they disappear and score enough points to qualify to the next round.
+
+2. Safari Hunt is a hunting game where one must shoot as many animals with a limited amount of ammunition. One must shoot the various game animals to acquire enough points to advance to the next round.
+
+3. Trap Shooting is a clay pigeon shooting game where one must shoot each disc as it is thrown into the air. One must shoot the pigeons before they disappear into the distance and score enough points to advance to the next round.

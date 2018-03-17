@@ -1,0 +1,10 @@
+King's Knight is a fantasy-themed top-down shooter where four heroes have to unite to defeat a dragon and rescue a princess in despair. It was one of the first games published by Square Soft (now one-half of Square Enix). King's Knight is a variation on Konami's Knightmare which sold extremely well.
+
+The first four stages involve you powering up your characters as far as they can go, picking up shields (to increase defense), boots (to increase speed), swords (to increase attack power), and spell icons (which will be required to be held by everyone for the final storm on the castle), defeating monsters along the way. The power-ups are hidden underneath mountains, rocks, and houses. Nearly everything can be shot at and destroyed. The heroes are, in order:
+
+Ray Jack, the Knight, who possesses strong attacking power;
+Kaliva, the Wizard, who is good with magic and jumping;
+Barusa, the Monster, who has a strong defense; and
+Toby, the Thief, who can move swiftly.
+
+It is necessary to keep all four heroes alive for the fifth and final stage, because there are certain points that the group cannot get past if one of the party members has died.

@@ -1,0 +1,1 @@
+Launch missiles at targets moving horizontally across the screen. You have 90 seconds to hit as many targets as you can.

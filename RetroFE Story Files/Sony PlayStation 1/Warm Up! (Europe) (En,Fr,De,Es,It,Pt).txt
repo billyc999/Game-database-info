@@ -1,0 +1,5 @@
+A Formula 1 game without the official license, with a simulation mode and a very arcade mode. This is the sequel of F1 World Grand Prix. 22 cars racing on 17 tracks, against computer or even online. It also has a ghost mode to challenge you against your best time on each track. A replay also allows you to review your best laps.
+
+The game features some original camera (like the helmet view), and offers the possibility to fine-tune your car in simulation mode, so the immersion is total. However, it is focusing more on fun than on realism, and thus it is not the most accurate F1 simulation available.
+
+The game features a fast-paced arcade mode, dedicated to speed and fun.

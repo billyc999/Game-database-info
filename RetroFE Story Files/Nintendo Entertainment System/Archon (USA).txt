@@ -1,0 +1,10 @@
+Archon: The Light and the Dark is a strategic board game with some similarities to chess. Two sides, a light one and a dark one, consisting of 18 pieces each compete on a board divided into (9 by 9) squares. You win the game by having one of your units on each of the five powerpoint squares or by removing all opposing pieces from the board. 
+
+However, you can't just remove a piece from the board by landing on it. When two pieces clash, the outcome is decided in the battle arena during one-on-one real-time combat (just like in Star Control, also by Paul Reiche III). If the real-time combat takes place on a dark square, the dark monster gets a health bonus (longer life bar). On a light square the light side gains an advantage. There are also some squares whose color changes over time (from afternoon, to dusk, to night, to dawn etc.), which adds an extra layer of strategy to the game.
+
+Unlike chess the two sides are not identical. Both sides consist of mythological creatures. For example the light side has among others unicorns, valkyries and a djinni while the dark side features basilisks, banshees and manticores. The differences are not just cosmetic. Two special pieces are the light wizard & the dark sorceress, they can both cast magical spells like: imprison a unit on the board, shift the flow of time (change day/night cycle to your advantage), bring one unit back from the dead etc.
+
+The different pieces have their own movement restrictions regarding the number of squares they're allowed to travel on the board and whether or not they can jump over other units (like the knight in chess). Units also behave different in combat; some units are faster than others, some use melee attacks while others fire projectiles.
+
+Archon can be played with either one or two players.
+The NES version, which was released a few years after the other versions, has improved graphics for the real-time combat part. Each type of square has it's own colored background and the unit sprites are larger.

@@ -1,0 +1,15 @@
+Mr. Driller and his friends are invited to the opening of Drill Land, a theme park with five different attractions.  Mr. Driller and the rest of the crew set out to explore the unique drill-themed attractions and complete them, to earn a stamp from each one.
+
+Mr. Driller: Drill Land is a sequel to Mr. Driller.  The basic goal is like the original - players must dig through from top to bottom, aiming to reach the goal depth in meters.  As they dig, they gradually lose air, so they must also collect air capsules to replenish their air and prevent losing a life.  However, Drill Land has five different attractions, each with its own unique take on the Mr. Driller formula:
+
+1. The Hole of Druaga - An obvious homage to the Namco game The Tower of Druaga, The Hole of Druaga has Anna Hottenmeyer digging through a block filled castle, encountering enemies such as slimes, knights and wizards.  Anna must find and defeat the dragon that is guarding the key to the exit, and then make it to the exit to battle the final boss.
+
+2. World Drill Tour - The standard Mr. Driller mode of play.  Dig your way through to the set depth, using any character that you like.  Each character has their own strengths and weaknesses.
+
+3. Star Driller - A spaced themed stage where you play as Susumu.  Dig through the blocks, and make your way to the set depth.  Star blocks are power-ups that can either help (such as a barrier for an extra hit) or hinder (like a black hole that sucks all the blocks away close to you).
+
+4. Drindy Adventure - This stage stars Taizo from the original Dig Dug, in an Indiana Jones-like setting.  Taizo does not require air in this mode, and his goal is to collect a set amount of gold statues.  In his way are traps like rolling boulders, spikes, and flames.
+
+5. Horror Night House - A ghost-themed stage featuring Ataru as a ghost hunter.  Your goal is to kill ghosts by first collecting holy water to fill your syringe-like drill, and then wait for ghosts to get close to you, and inject the nearby bricks with holy water to stun them.  While the ghosts are stunned, you can break the bricks to finish them off.
+
+Mr. Driller: Drill Land also features two multiplayer modes: Race and Battle.  Race has each player trying to be the first to reach the set depth.  Battle has everyone on the same screen, attempting to collect the gold coin.  It takes three gold coins to win.

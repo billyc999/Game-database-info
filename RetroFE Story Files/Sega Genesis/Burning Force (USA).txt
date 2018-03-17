@@ -1,0 +1,3 @@
+In this game, you play the role of Hiromo, a blue-haired girl who roams the skies on her trusty red airbike. One day, during a routine patrol, she discovered aliens have attacked the Earth. Of course, it is up to our heroine to go on a solo mission, flying in her airbike around the Earth, fighting regular enemies and bosses, and ultimately saving the planet.
+
+This is a pseudo-3D scrolling shooter similar to  Space Harrier. The game is viewed from behind-the-character perspective. You can use regular fire attacks or limited super-powerful shots that do big damage.

@@ -1,0 +1,13 @@
+Sync is a collection of rhythm and puzzle games.
+
+Mantra:
+The screen will show various symbols. Move the joystick to match the sequence until the sequence completes and you receive points.
+
+Jitter:
+Much like Mantra, you must match the sequence but now, each time you match a symbol, your control moves, automatically, to the next in the sequence.
+
+Flow:
+You have to place bars around those placed by the CPU. As soon as a counter completes a given number, every CPU cell whose number of bars corresponds to the sum of adjacent bars placed by the player is removed, and points are scored.
+
+Four:
+Four has four mini-games. In Gate, you have to match symbols place by the CPU on a vertically scrolling column. In Here, you clear a cell whenever an arrow in inside each cell. Also in Four are Jitter 1K and Flow 1K, scaled down versions of their 4K cousins.

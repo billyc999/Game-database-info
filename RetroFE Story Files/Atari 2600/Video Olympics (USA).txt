@@ -1,0 +1,15 @@
+Video Olympics is an action game containing numerous variations of the game Pong. Two players (or one player against the computer) control paddles on the screen and attempt to prevent a bouncing ball from getting past them. In the most basic game variations, each player has a single paddle and there are no obstacles on the screen. The other game variations add paddles and obstacles, and some are loosely inspired by various sports and change the playfield around, but the goal remains the same: hit the ball past your opponents paddle into the goal to earn points. A few of these variations are:
+
+1. Foozpong: Each player controls multiple paddles which are arranged somewhat like a foozball table.
+
+2. Soccer pong: Each player controls two paddles (representing one goalie and one player) and the goal is much narrower.
+
+3. Hockey pong: The playfield is set up to resemble hockey; the goal isn't at the very edge of the screen, so the ball may bounce behind and around the goal.
+
+4. Quadrapong: The goals are located along the top, right, bottom, and left sides of the screen. This game is played by four players, two per team with one person defending each of the four goals.
+
+5. Handball pong: There is no goal, and two players take turns hitting the ball against a solid wall to earn points. One point is earned each time your opponent is unable to return the ball.
+
+6. Volleyball pong: The screen is set up like a volleyball court with a &quot;net&quot; in the middle. Both players are along the bottom of the screen and need to bounce the ball past their opponent.
+
+7. Basketball pong: Each player controls a paddle on the bottom of the screen, and attempts to hit the ball into their opponents basket at the top.

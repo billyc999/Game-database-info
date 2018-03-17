@@ -1,0 +1,1 @@
+A multi-event sports game with 3 different sports to play : Tennis (Smash Stars), Football (Kick Stars) and Basketball (Dunk Stars). Of the 3 games on offer, "Smash Stars" Tennis is by far the most accomplished, and would easily stand up as an arcade machine in its own right.

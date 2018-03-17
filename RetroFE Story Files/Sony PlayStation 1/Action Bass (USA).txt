@@ -1,0 +1,11 @@
+Action Bass is an arcade-type fishing game that emphasizes the action of trying to catch a big fish, and the struggle of reeling it in without it getting away. The game features two game modes, which are Challenge and Free mode.
+
+In the challenge mode, players compete in a tournament where they are given three minutes to catch a fish large enough to meet the weight requirement, and this fish must also weigh enough to place within the top three of all the competitor fisherman's catches in order for the player to move on the next fishing area. The skilled fisherman who can complete the challenge mode, will be able to unlock new fishing lures and fishing areas.
+
+In the free mode, players are free to choose from four different fishing areas to practice in, with no competition or time limit to worry about. The fishing areas include fishing by the boathouse, fishing in a jungle setting, fishing by a waterfall which makes the water cloudy, and fishing while the sun is setting.
+
+When the player starts fishing, they must first choose a lure. Some of the lures include the minnow, popper, and pencil bait which each have their own characteristics.
+
+Once the line is cast, a lure action meter appears and the player has to fill it in order to attract the fish. Once the fish gets attracted and gets caught on the line, a line tension meter appears. The player has to be careful while reeling in the fish, to not let this meter fill, or else the line will snap and the fish will be lost. 
+
+The player also gets to keep their 5 biggest catches alive in their aquarium.

@@ -1,0 +1,5 @@
+This racing game features both a practice and a Road to the Top mode. 
+
+In the Road to the Top mode, four different racing events are held with three courses for each event. Each event features a different vehicle to use. The player can choose from one of three vehicles which feature different attributes for handling, top speed, braking, and acceleration. The player begins by racing go-karts, then moves up to snow mobiles, then IROC racing cars, and then finally Indy racing cars. If the player places high enough in all the races, then the final challenge is to take on Al Unser, Jr. in the finals in Vancouver. 
+
+In the practice mode, the player can practice every course in the game except for the final race.

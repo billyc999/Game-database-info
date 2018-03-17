@@ -1,0 +1,5 @@
+Rolo to the Rescue is a classic platformer.  
+
+You play the role of Rolo the elephant who escaped from the circus.  As you find your way through the world you will also find a squirrel, a rabbit, a beaver, and a mole.  Each of those friends have special abilities that can help you along the way -- the squirrel can climb, the rabbit jumps, the beaver swims, and the mole digs.
+
+Eventually, Rolo will find his way home.

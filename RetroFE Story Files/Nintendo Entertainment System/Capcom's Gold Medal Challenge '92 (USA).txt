@@ -1,0 +1,51 @@
+In 1992 the Olympic Games were held in Barcelona. Gold Medal Challenge �92 gets the player into the Olympic spirit with a selection of sports that played during the Olympic Games.
+
+After selecting the number of players (1-8) the player needs to select there country out of U.S.A., China, Great Britain, Germany, Bulgaria, Span, C.I.S., Canada, France, Romania, Hungry, and Japan and then CPU makes up the rest of the competition. The sports are divided up into programs that have 2 or 3 different sports each as well as a Special Event, the Marathon. Most of the sports involve pressing A and B buttons quickly or rhythmically, and getting the correct timing to do the needed action.
+
+The Programs and there included sports are as follows:
+Program 1: 
+100-Meter Dash - Run to the finish as fast as possible. 
+Long Jump - Run and jump as close to the line as possible and get the right angle. Jump too late and the long jumper will get a foul. 
+100-Meter Backstroke - Get into the correct rhythm. Unlike the other swim styles, there is no need to take breaths. 
+
+Special Program: 
+Marathon � This event is split up into five parts. In each of the parts the player is given a map with opponent locations and upcoming hills, the distance from the finish line, and the runners condition. From that information, the player must pick the right speed for there runner to run at. If the runner is too quick he will run out of energy and walk the rest of the leg at 4km/h. After each program the player gets the opportunity to adjust the speed of there runner
+
+Program 2:
+200-Meter Dash - Run to the finish as fast as possible keeping an eye on the runners energy. If runner runs out of energy the runner will stop until he gets it back. 
+   
+Shot Put - Build up power and throw the shot put as close to the line as possible at the right angle. 
+100-Meter Butterfly. Get into the correct rhythm and take breaths. When out of air she will sink to the bottom. 
+
+Special Program: 
+Marathon � Part 2
+
+Program 3: 
+400-Meter Dash - Run to the finish as fast as possible keeping an eye on the runners energy. If runner runs out of energy the runner will stop until he gets it back. Harder then the 200 - Meter as the runner needs to conserve more energy. 
+Triple Jump - Run and jump as close to the line as possible. Time and get the right angle for all three jumps. 
+100-Meter Freestyle - Get into the correct rhythm and take breaths. When out of air she will sink to the bottom. 
+
+Special Program: 
+Marathon - Part 3
+
+Program 4: 
+110-Meter Hurdles - Run as fast as possible and time it right to jump all the hurdles. 
+Javelin Throw - Run and throw the javelin before line at the right angle. Throw too late and the throw will be a foul. 
+100-Meter Breast - Get into the correct rhythm and take breaths. When out of air she will sink to the bottom. 
+
+Special Program: 
+Marathon - Part 4 
+
+Program 5: 
+Weightlifting - Select the weight and then try to keep the power over the selected point on the power bar. 
+High Jump - Select the height of the cross bar. Run and time the jump to clear the bar. The higher the bar the faster the high jumper needs to run. 
+Vaulting Horse - There are a few different vaults the vaulter can do, some requiring a certain run up speed to do well. After the vault the vaulter is given a score based on the speed of approach and the vault performed. 
+
+Special Program: 
+Marathon � Part 5
+
+Program 6:  
+4X100-Meter Relay � All four different swims put together. The swim are done the same as if there were individual 
+200-Meter Medley � Run as fast a possible. The baton is passed between runners automatically.
+
+After all the events are completed any world-records that the player as beaten is saved on the battery backed RAM so they can be viewed and challenged in the future. All the sports except the Marathon can be played individually in Training mode.

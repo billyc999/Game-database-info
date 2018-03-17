@@ -1,0 +1,5 @@
+In Eggs of Steel, the player takes control of Charlie the Egg, a night watchman at the MOM Steel Factory.  However while on break, the machines start up and it is up to Charlie to stop it by hitting the reset button hidden on the other end of the factory, but to do this Charlies must face hazardous obstacles and bad guys trying to stop him.
+
+The gameplay is in the style of a 3D platformer with 360 degree capability, jumping onto ledges, climbing pipes and avoid flying obstacles such as girders.  Also Charlie will encounter bad guys along the way that he can take out with his "Egg Roll" and use his trusty wrench to trap and take out the baddies.
+
+There are 43 levels and 12 different bosses along with power-ups such as donuts that will increase Charlie's health.  The story is told through thirty minutes of full screen animation and music composing of jazz, salsa and even Polynesian.

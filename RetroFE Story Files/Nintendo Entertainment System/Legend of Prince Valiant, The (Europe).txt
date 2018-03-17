@@ -1,0 +1,7 @@
+The Legend of Prince Valiant is a side-scrolling action game in which the player takes on the role of Prince Valiant. The game is licensed from the television cartoon series of the same name which in turn is based on an older comic series.
+
+As Valiant the player must find Camelot and go on a quest for King Arthur to become a knight. 
+
+In most levels the player just has to move to the right side of the screen to reach the exit of each level. All the while enemies will spawn and attack Valiant. Aside from humans the game also offers its share of mythical creatures that have to be defeated including dragons. The player must also jump over pit traps and water or face death. The player can be hit multiple time and can regenerate health by finding power-ups. To combat the enemies the player can use Valiant's crossbow which shoots in a straight line.
+
+There are two special levels with different controls. In one such level the player can only move his targeting reticule in a first-person on rails shooting segment and in the other 6 cannons can be fired The player can select which cannon fires and how far it should shoot. The goal in these levels is to kill all enemies and avoid receiving damage.

@@ -1,0 +1,1 @@
+A gun shooting game similar to "Point Blank", with ticket redemption on game completion.

@@ -1,0 +1,1 @@
+Amusement only gambling game, based heavily on the actual gambling game "Lovely Poker" by the same developers.

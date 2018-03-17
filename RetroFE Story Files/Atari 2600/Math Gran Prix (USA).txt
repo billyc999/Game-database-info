@@ -1,0 +1,15 @@
+Get ready for a math race.  Your fuel, correctly answer math questions.  Your car, a carefully tuned racing car that can move 2 to 3 spaces depending on how hard the math problem is.  The track contains many triggers that can give extra spaces, extra turns, and even keep your car on the track.  There are areas in the track where a car coming from behind can knock you off, to get back answer a math problem correctly.  In the end, the one with the most math skills and greatest planning effort will win the checkered flag.
+
+Difficulty switches
+Left switch for player one, right switch for player two.
+Set to A for time limit (one minute for addition and subtraction, two minutes for multiplication and division).
+Set to B for no time limit.
+
+Game variations
+Games one, four and seven are easy
+Games two, five and eight are medium
+Games three, six and nine are hard
+
+Games one, two and three contain only addition and subtraction problems
+Games four, five and six contain only multiplication and division problems
+Games seven, eight and nine contain all four math problem types.

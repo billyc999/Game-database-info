@@ -1,0 +1,1 @@
+The object of Trouballs is to wipe out all the balls present on screen within a limited amount of time. To vaporize the balls, arrange same-colored balls into groups of four or six balls each. Arrange the balls by turning the gears behind them. Move the gears to any set of balls, and turn them clockwise or counter-clockwise.

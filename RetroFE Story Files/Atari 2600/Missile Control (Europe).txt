@@ -1,0 +1,5 @@
+Missile Control is a Missile Command-style game. The player has to defend their cities from incoming bombs fire by alien spaceships.
+
+The player controls a cursor on the screen which indicates the direction of fire for the defense missiles. Once launched, they travel in a straight line from the launcher through the point the player specified until they hit an object. Each level is won by destroying all alien spaceships. The player loses once all their cities are destroyed. Bonus cities can be obtained by destroying a sufficient number of alien spacecraft.
+
+The game gets progressively harder, for example bombs will fall faster and energy barriers might protect the aliens from the player's attacks. To get around the barriers, players can deflect their shots from large defense missiles launched at the sides of the screen.

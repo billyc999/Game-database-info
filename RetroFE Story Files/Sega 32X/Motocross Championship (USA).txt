@@ -1,0 +1,3 @@
+Motocross Championship is the only dirtbike racing game for the 32X.  The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.
+
+Like the title suggests, the main game mode is a points based championship.  You can compete in one of 3 motorcycle classes over 12 indoor and outdoor tracks.  There's also two player split screen mode so you can share off-road fun with a friend.

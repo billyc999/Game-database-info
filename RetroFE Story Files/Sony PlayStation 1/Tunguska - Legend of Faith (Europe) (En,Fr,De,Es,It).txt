@@ -1,0 +1,7 @@
+Tunguska is a 3d action adventure game in which you play Jack Riley, an inter-dimensional traveler.
+
+The main objective is to decode the secret of the Castle of the Order of Tunguska, where he finds himself after he's accidentally caught by the 'powers of darkness'. 
+
+The game involves tactical real-time fighting, in which you advance by a skill/level based system, as well as a lot of classic adventure gaming and puzzle solving. When you decode the secret of the Castle, the powers of darkness will be defeated and Jack is free to continue his journey.
+
+The 3D rendered world is based on Exortus' self-developed game engine and the view is 3-dimensional in non-isometric, 3rd person.

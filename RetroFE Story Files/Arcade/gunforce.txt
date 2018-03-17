@@ -1,0 +1,1 @@
+A 2-player co-op horizontal scroller. Players shoot other soldiers, climb into jeeps and helicopters, pick up different weapons and destroy the end-level building.

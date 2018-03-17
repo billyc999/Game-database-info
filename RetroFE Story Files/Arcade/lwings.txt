@@ -1,0 +1,1 @@
+The game is a vertically scrolling shoot'em up where you fly a winged soldier over a Greek mythos style landscape. Shoot and bomb the attacking enemies. The game play switches between horizontal platform and flying levels.

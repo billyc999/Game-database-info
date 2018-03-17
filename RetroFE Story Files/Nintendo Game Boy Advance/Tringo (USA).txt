@@ -1,0 +1,1 @@
+Points are earned by fitting random shapes together, each cluster of 4, 6 or 9 squares gets cleared, with more points being scored for putting together more contiguous squares. You've got to move quickly but carefully because missed pieces lose points!

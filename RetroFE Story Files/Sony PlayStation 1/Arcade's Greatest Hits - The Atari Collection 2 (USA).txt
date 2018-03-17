@@ -1,0 +1,21 @@
+Six of the all-time greatest Atari classics are gathered onto one CD! It's yet another package of classic arcade games, mostly running on emulators from Digital Eclipse.
+Most of these games are from Atari's System I and System II hardware. Due to CPU limitations and previous compilation decisions, the mix of games varies slightly from platform to platform.
+
+* Windows version includes these 6 emulated games:
+
+1.  PaperBoy  (System II)
+ 720  (System II)
+ Gauntlet  (System I) Vindicators  (System I)
+ RoadBlasters  (System I)
+ Marble Madness  (System I)
+
+* Playstation version includes these 6 games
+
+1.  Paperboy  (code conversion)
+ Gauntlet  (code conversion)
+ RoadBlasters  (code conversion)
+ Marble Madness  (code conversion)
+ Crystal Castles  (emulation)
+ Millipede  (emulation)
+
+There's a limited amount of archival material on each collection, including old posters, "sell sheets" and pictures of the arcade cabinets.

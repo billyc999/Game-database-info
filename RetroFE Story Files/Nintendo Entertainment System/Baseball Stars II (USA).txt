@@ -1,0 +1,2 @@
+The second in the Baseball Stars series, Baseball Stars 2 was done by Romstar. Contains a more polished baseball game at the expense of a few of the customizing features that the first Baseball Stars had. The returning features include a create-a-team mode, upgrading and hiring/firing players, and league mode. Missing features removed for this game include renaming players, renaming teams, and females are no longer present.
+This sequel contains 12 pre-made teams and 6 slots for user created teams. There are four selectable stadiums to play in this time around.

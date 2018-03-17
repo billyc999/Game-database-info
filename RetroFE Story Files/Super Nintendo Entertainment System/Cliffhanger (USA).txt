@@ -1,0 +1,5 @@
+Standard side-scrolling fighter based off of the Stallone film of the same name. Sly must fight thugs and the elements as he tracks down suitcases of stolen cash dropped around the peaks of the Rockies. Combat follows the Final Fight standard, broken up by some mountain climbing and running (or 3-D snowboarding on the Sega CD) from avalanches. 
+
+Enemies are the standard brawler crooks, occasionally carrying guns and knives the player can pick up. The game tends to follow a pattern of having you deal with a natural hazard (scaling a cliff, leaping over gaps), then locking the screen down for a fighting segment, nature again, fighting again, etc. The available fighting moves is limited, compared to other games of this type, and the ability to hit an enemy character is noticeably less accurate.
+
+The plot is identical to the film, with levels based off of, or inspired by, scenes in the movie. Animated cutscenes move the story along on the cartridge systems, while brief clips from the film play between levels on the Sega CD.

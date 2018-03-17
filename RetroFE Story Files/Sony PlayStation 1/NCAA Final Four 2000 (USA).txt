@@ -1,0 +1,3 @@
+NCAA Final Four 2000 allows you to control one of 300 Division One basketball teams (the game uses real licensed teams), in either a single game, just the tournament, or though an entire season. One of the new features for this release is "touch shooting". When making a shot, a meter comes up. Leave the meter in the right spot, and you're more likely to make the shot. The game engine has also been improved and in-game commentary is provided by Quinn Buckner.
+
+Other enhancements include playbooks and AI focused on scrambles and team play typical of college games. The player models have been created using motion capture.

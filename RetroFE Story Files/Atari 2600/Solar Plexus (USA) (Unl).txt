@@ -1,0 +1,3 @@
+You are salvaging for fuel in the far reaches of the galaxy when you spot an artificial sun in the area. You need that fuel before you run out but watch out for colliding with that sun.
+
+You start on the screen with the artificial sun bouncing around and a fuel item on the right. You must grab the fuel before your ship is out of fuel, as it uses fuel at an impressive rate. If you run out of fuel, you lose a life. Beware of the sun as its touch is instant death. After every two fuels you grab, the pace picks up. You can accelerate by pressing your button.

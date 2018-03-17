@@ -1,0 +1,5 @@
+Stell-A-Sketch/Okie Dokie comes on a tape or disc and contains 2 games. The tape version has one on each side.
+
+Side A contains Stell-A-Sketch, a program that simulates the Etch-A-Sketch toy on an Atari 2600 with a Starpath Supercharger. You can use either the joystick or Indy 500 driving controller to draw with.
+
+Side B contains the puzzle game Okie Dokie.

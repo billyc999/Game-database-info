@@ -1,0 +1,3 @@
+An emulation-based compilation of 7 classic arcade games.  Joust 2: Survival of the Fittest (a... well... joust), Splat! (food fighting), Blaster (3D space shooter), Moon Patrol (side scrolling space shooter; licensed from Irem), Root Beer Tapper (the non-alcoholic version of the Tapper games- a quasi-shooter), Spy Hunter (overhead scrolling shooter), and Burger Time (platform/puzzler; licensed from Data East.)
+
+Supplemented with a trivia quiz (with FMV interviews with the game designers) and a gallery of pictures when the trivia game is won.

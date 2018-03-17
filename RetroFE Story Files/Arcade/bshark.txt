@@ -1,0 +1,1 @@
+A first-person shooter which has the player looking through a 'periscope' in order to destroy the enemies. This game features simulated damage whenever the player gets hit by either an enemy torpedo or a missile.

@@ -1,0 +1,3 @@
+Die Maus is an action / puzzle game based on the German children's television show Die Sendung mit der Maus (The show with the mouse).
+
+You control both main characters of the show, the mouse and the elephant, in a search for the duck who has disappeared. The levels of the game are isometric puzzles. Both characters must reach the exit using and combining their different abilities. The mouse, for instance, is larger than the elephant, but the elephant is able to push heavy objects around. The game contains more than 150 puzzles in 5 different game worlds.

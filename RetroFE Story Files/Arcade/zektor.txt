@@ -1,0 +1,5 @@
+Zektor is a one or two player game that tasks you with the liberation of eight cities that have been seized by the evil cadre of alien robots. In order to liberate a city, you must defeat 3 attack waves of fighters and robo-probes. Fighters and Robo-probes are often shielded (in red), and each consecutive hit reduces the enemies shield strength, until, when the shield drops, a hit will destroy it. In addition, you will encounter three types of Moboids :
+* Green Moboids spin the players ship on contact, and bounce enemy ships.
+* Blue Moboids bounce all ships.
+* Red Moboids destroy all un-shielded ships (including the players ship).
+After defeating three attack waves, the Alien Robot holding that city will reappear within rotating protective rings, through which a 'slot shot' neutralizes that Robot, awarding the player a bonus ship and advancement to the next round.

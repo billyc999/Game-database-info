@@ -1,0 +1,5 @@
+A combat flight action/simulation with colorful graphics and pretty straight-forward gameplay.
+
+Step inside the cockpit of a World War I plane, when there were no sophisticated weaponry, and try to gun down the enemy. Simple as that.
+
+The graphics were faux-3D, as the planes were 2D sprites (natural, considering the release date), but the sky seemed very vast and you could fly around freely.

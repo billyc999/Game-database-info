@@ -1,0 +1,9 @@
+This cartridge contains two games: Phantom II and Pirate.
+
+Phantom II: Come fly the not-so-friendly skies.
+Based on a 1979 Bally Midway coin-op game, you must fight your way through enemy planes to find and destroy the enemy bomber  within the time limit. Do not ram the enemies as you only have one life. In the night time scenes, the enemy is only visible when the radar sweeps over them.
+
+Pirate:
+Can you find the treasure of the evil pirate "Up" Chuck LeDuc? Beware! His bony corpse wanders the island looking to protect it! Also watch out for snakes and the voodoo priestess!
+
+Use your joystick to move about the island and use the button to fight, pick up an item, use an item and enter or exit the hut. You can carry nothing, a sword and/or a shovel but you must have the shovel when you reach the X that marks the treasure.

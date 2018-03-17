@@ -1,0 +1,7 @@
+This extreme racing game comes with four different game modes. The modes are Season, Exhibition, Time Trial, and Freestyle. The main mode is the Season mode, which lets the player race through three circuits of a number of races each. The first circuit has six races, the second eight races, and the third has ten races. In these races the player is competing against five other racers in order to get in the top three positions for season standing points. The higher the position in the race, the more points the player will have to spend on better equipment. Also during the races the player can go through gates and perform various tricks (over 270 are doable in the game), which will also net the player some extra points to spend on better equipment. While racing, player are allowed to hit their opponents in order to get an advantage in the race.
+
+The game features 13 different racers to use. Each racer has their own strength,stamina,freestyle,quickness, and agility ratings. Each racer also only specializes in one type of equipment to race with. The type of equipment they can specialize in is either skateboarding, in-line skates, or biking. 
+
+The equipment itself is licensed from real life, such as including the Redline Double X and FS 840. There are 70 different types of equipment in total. Each piece of equipment is rated on its top speed, freestyle ability, handling, and acceleration.
+
+The game features 27 different courses to race on.

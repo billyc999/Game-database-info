@@ -1,0 +1,3 @@
+This is a variation on the classic game Pong that adds flapping wings to your paddles. You must press your flap button repeatedly to go up and stop pressing to come down.
+
+In the Atari 2600 version, there is also a pterodactyl on the screen the interferes with the ball or your paddle. The Atari 2600 version also includes a variation referred to as 'Poorlords' that adds a wall of bricks behind the players that must be busted through to score points.

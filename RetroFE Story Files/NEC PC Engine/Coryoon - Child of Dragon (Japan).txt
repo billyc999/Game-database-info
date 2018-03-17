@@ -1,0 +1,3 @@
+As Coryoon the dragon, you must save the princess in this horizontally-scrolling shoot 'em up. Most shot enemies release fruit (larger pieces from tough enemies requiring multiple shots), which can be collected for bonus points. The game is split into several worlds, each with two bosses to destroy at regular intervals, and each level is loosely colour-themed.
+
+Storks regularly fly by, and can be shot to release one of the many bonus weapons. These include super-powerful shots, multi-directional fire, and assisting drones. When you get killed while in possession of one, you lose the weapon rather than a life.

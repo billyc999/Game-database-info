@@ -1,0 +1,3 @@
+This game is an altered version of the Atari 2600 version of RealSports Baseball. The game controls are identical. The alterations are that the graphics and colors were changed. Also, the options were reduced to one or two player and whether, in one player, the human player is up first at bat or not.
+
+Otherwise, everything else is the same. You still can throw fastballs, curve balls, sinkers, etc. and you can still bunt, hit fly balls, etc. Scoring remains the same with a tie after nine innings going into extra innings. The difficulty switches do not have any use.

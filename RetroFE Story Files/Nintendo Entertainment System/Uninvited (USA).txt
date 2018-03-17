@@ -1,0 +1,3 @@
+Another game using the graphical adventure interface found in D�j� Vu and Shadowgate, Uninvited comes with a "horror" theme.
+
+While driving on a lonely road at night, a strange figure blocks your vision causing you to swerve and crash your car. When you regain consciousness, you find that your brother is missing (in the NES-Version it's your sister who is missing). The only place he could have gone is a creepy old mansion which looms in front of you. With nowhere else to go, you enter the mansion in search of your brother. It turns out the mansion once belonged to an old wizard and his apprentice, and somehow it has become infested with the Undead.

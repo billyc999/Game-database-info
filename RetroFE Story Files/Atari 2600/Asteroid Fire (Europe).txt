@@ -1,0 +1,7 @@
+In the space shooter, you move your ship by moving the joystick in the direction you want to go. You fire by holding down the button and moving the joystick in the direction you want to shoot. You can shoot from the front of your ship, from the back or from either side.
+
+As you move forward, you can increase to four speeds. You must avoid or shoot the meteorites, shoot the aliens (but be warned: they shoot back), and always run from the super alien.
+
+On the screen, at the top is your score, just below that is the short range scanner. This shows you, the aliens, the meteorites and, if you run into it, the super alien. On the bottom left is the remaining ships (lives) On the bottom right is the velocity indicator. On the bottom center is the long range scanner. This shows you, the aliens and the super alien, but not the meteorites.
+
+As the super alien approaches, there will be an alarm sound. If the super alien catches you, you will be unable to move or fire and will lose a life. The game ends is you lose all your lives or get 999,999 points.

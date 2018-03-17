@@ -1,0 +1,3 @@
+Tennis is, as the name implies, Nintendo's version of the sport for the Game Boy. One player vs computer or two players will compete in tennis in a more or less standard suite of rules (scoring, sets etc.).
+
+Players are controlled by the movement buttons, but while button A indicates a low hit, button B indicates a high one. You have the choice of four levels of computer AI, or two player via Game Boy link cable.

@@ -1,0 +1,3 @@
+Air Hockey is a budget air hockey game for the PlayStation. There are four characters available to either play as or to face off against. The aim is to have a higher score than your opponent when the timer hits zero, and to make that a little easier there are bonuses strewn across the table. Some are activated upon touch, while others are stored with the player until used.
+
+The only two gameplay options are 1 player versus the computer or 2 players versus each other.

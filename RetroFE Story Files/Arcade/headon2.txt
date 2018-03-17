@@ -1,0 +1,1 @@
+Head On 2 is a 2-D maze racing game. You control your car through the maze to pick up the dots while at the same time avoiding the car or cars, that are constantly trying to ram you. Successfully get through one maze and many more await you. This is good practice for freeway driving in the big city.,

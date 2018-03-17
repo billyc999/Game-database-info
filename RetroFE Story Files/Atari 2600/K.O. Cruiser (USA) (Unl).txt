@@ -1,0 +1,1 @@
+K.O. Cruiser is a boxing game that harkens back to the arcade classic Punch-Out!! You control the transparent outline of a boxer, throwing punches and dodging blows from your opponents. You win by either knocking them out or going the distance and getting the judges' decision. If you get knocked down, you have only seconds to get back up before you're counted out.

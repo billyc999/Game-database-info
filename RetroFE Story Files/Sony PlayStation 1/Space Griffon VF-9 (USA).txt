@@ -1,0 +1,5 @@
+This is a graphically enhanced version of the PC-98 game  Hamlet.
+
+The largest moon base, "Hamlet", has stopped responding to communication. It is up to you to determine what happened, and fix it. The game mixes typical FPS gameplay with RPG elements. You are inside a giant mech that can transform into a shape fit for walking, driving, and a mixture of both. You can move square-by-square, with 90-degree turns, slide left or right, and look up and down. By defeating enemies, the invisible RPG elements are introduced: you have hit points, energy points, and you can collect weapons and items. When an enemy approaches, this is shown through an icon, along with the distance.
+
+The environment is claustrophobic and maze-like, and includes many enemies. The game features an unusually large amount of plot for a game of this type, mostly consisting of conversations between your teammates, who are always in other parts of the station.

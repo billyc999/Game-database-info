@@ -1,0 +1,2 @@
+The object of Vectron is to construct an energy base, section 
+by section. You add each section by moving your energy block in place and filling it with an energy blast. You must protect your energy block against Hungrees, G-spheres, splits, sweeps, and prizums who can destroy it. Shoot them down with energy blasts or neutralize them with special energy from an E-Pak. Don't run out of energy or you lose an energy block. There are three energy blocks per game. When they're gone, the game is over.

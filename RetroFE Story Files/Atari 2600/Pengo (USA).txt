@@ -1,0 +1,1 @@
+In this translation of the classic arcade-game "Pengo", you must defeat the enemy by pushing ice blocks together to crush them. You also can capture one if they are shocked and dizzy. There is also a time limit to make it a bit more difficult (you must do it in one minute).

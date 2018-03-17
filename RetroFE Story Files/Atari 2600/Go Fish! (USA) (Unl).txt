@@ -1,0 +1,1 @@
+Go Fish! is inspired by the game Shark! Shark!. You are a small fish in a big ocean and you must eat smaller fish to grow. But be careful, for the bigger you are, the bigger the some other fish will be and you will need to contend with octopus, electric eels and other nasties.

@@ -1,0 +1,3 @@
+In this beat-em up side scroller, you have a choice between five characters from the popular Marvel comics series: the Human Torch, Thing, Mr. Fantastic, the Invisible Woman, and She-Hulk. Each player has four special moves, one of which can only be executed when you collect enough force energy.
+
+One aspect of the game is that you can change between characters at any time. If you can't get past a boss with Mr. Fantastic's stretchy moves, you can switch to the Human Torch and set them on fire.

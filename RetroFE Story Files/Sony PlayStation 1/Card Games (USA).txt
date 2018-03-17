@@ -1,0 +1,10 @@
+Card Games is a budget title for the Playstation where you get to try your hand at various... card games! You can either play Casino style or Free play, where you just pick the game you want to play from a list.
+
+The games featured are:
+
+1. Draw Poker
+2. Black Jack
+3. Speed
+4. Seven Card Stud Poker
+5. President
+6. Baccarat

@@ -1,0 +1,3 @@
+USHRA Monster Truck Wars is a top-down racing game with the vehicle of choice being monster trucks.  The player can choose from six unique trucks each with their own unique traits and race on several different winding track - providing the player can qualify for the race!
+
+The better the player does in races, the more money they can accumulate to buy upgrades and repair their monster truck.  There are also power-ups that are obtained by crushing cars that are scattered throughout the courses and features three difficulty levels.

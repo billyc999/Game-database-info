@@ -1,0 +1,3 @@
+Music lets the player create complete songs from a library of 850 pre-recorded riffs by pasting them onto a set of tracks. It is similar in some ways to audio editing software on a computer and is surprisingly deep, including controls for panning, volume, and all sorts of effects such as phase, reverb and vibrato.
+
+Also included in Music is a video effect editor, which can be tweaked to accompany your own masterpieces or bump along in time with any audio CD of your own. Again, a lot of variation can be found in the video editor with controls for text, particle effects, cameras, etc.

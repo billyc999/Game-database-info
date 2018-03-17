@@ -1,0 +1,3 @@
+This ice hockey game has a playbook-based AI system based on the teams' actual playbooks allowing for specific teams to play their actual styles, with variable player size, from big defensemen to small speedy wingers. There is a total team management system to make trades, improve coaching, create draft picks and send players through training camps, or even send injured athletes for therapy.
+
+The inclusion of all the marquee players such as Lemieux, Gretzky, Messier, Sakic, Hull, and others is mostly mandatory in sports games. Also, the hints about how to play each team from NHL player Keith Tkachuk are a useful resource.

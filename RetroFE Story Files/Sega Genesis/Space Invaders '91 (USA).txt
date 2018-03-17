@@ -1,0 +1,1 @@
+Space Invaders '91 is a port of the the coin-op Space Invaders '91, just like Super Space Invaders for other platforms, but still different from those. This version differs from Super Space Invaders in that there are no cutscenes, there is only one mode of play as opposed to SSI's two, and there is no stage select.

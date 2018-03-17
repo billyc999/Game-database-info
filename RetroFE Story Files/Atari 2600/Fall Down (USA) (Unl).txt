@@ -1,0 +1,3 @@
+Fall Down pits Red against Blue*. The object is to capture platforms by falling through the hole. Whoever captures the most before both players are dead, wins. The platforms scroll up constantly and getting caught on a platform after is scrolls past the top, you die. After several seconds, if the second player is still alive, you reappear on screen.If both players die, the game is over. There are options to make players pass by each other, rather than bounce off as is default. There are also options to make the background change colors to make each player, alternately, so each player will appear invisible.
+
+* Blue could not make it to the PAL version but his side-kick, Blueish Green, is ready to take up the fight.

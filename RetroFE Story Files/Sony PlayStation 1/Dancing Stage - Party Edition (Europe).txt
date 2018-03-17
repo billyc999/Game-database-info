@@ -1,0 +1,5 @@
+Based on the Dance Dance Revolution 4th Mix engine, follow on-screen arrows to learn the steps or create your own original dance routine.
+
+Features four gameplay modes - training, practice, arcade and workout (with calorie counter).
+
+51 tracks including songs by Kylie, S-Club, Bloodhound Gang, The Cardigans and Chaka Khan.

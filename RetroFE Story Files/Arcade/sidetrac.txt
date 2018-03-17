@@ -1,0 +1,2 @@
+Side Track is a black & white man-versus-machine game where the goal is to pick up all of the waiting passengers with your train while avoiding the computer-driver 'killer engine' which aims to take you out in a head-on collision. You can control your train via the 'fast' button which allows you to temporarily increase your speed on the tracks. You can also use the joystick to switch between several tracks at various junction points.
+Each time you make a complete circuit around the track and pass the start marker on the outside track, another car is added to your train.

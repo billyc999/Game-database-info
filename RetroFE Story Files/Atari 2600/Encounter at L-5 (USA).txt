@@ -1,0 +1,9 @@
+Using an anti-matter launcher, you must defend the starbase L5 against a non-stop horde of blue Megalyte warrior ships and their death ships. As the warriors reach the bottom, they fire on your base. It does not hurt the base but would lose you one of your four lives. Sometimes the death ship takes a dive towards your base, firing as it goes. If it reaches your base, it will destroy your generator, losing you a life.
+
+As hordes of Megalye ships descend, you can hold down the fire button. This will keep the anti-matter launcher in place and moving the paddle will shift the cursor and thus your aim. If you are in danger of being shot or need to destroy a death ship, just release the button and then you can move the launcher left or right.
+
+There are 26 game variations. The odd numbered ones are one player, the even numbered are two player.
+
+Scoring
+You score ten points for each death ship you destroy
+Your points vary for the warrior ships. The farther from you they are, the more the points.

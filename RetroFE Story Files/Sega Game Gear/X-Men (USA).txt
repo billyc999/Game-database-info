@@ -1,0 +1,5 @@
+X-Men is a sidescrolling beat'em up/platform game, much like its homonymous Mega Drive/ Genesis counterpart. Several X-Men characters are playable throughout the game. The player can choose from two characters from the start, Cyclops and Wolverine, and three Levels are accessible. In the course of the game, the player can unlock five other X-Men, namely Storm, Iceman, Rogue, Nightcrawler and Psylocke.
+
+The story is that most of the X-Men have been kidnapped by Magneto, which is the reason why only Cyclops and Wolverine are available from the start. Apparently, unlocking the characters equals rescuing him. On the way, there several foes from the X-Men universe to beat, and at the end, Magneto once again needs a reprehension.
+
+The basic mechanics of the game are punching, (double-)jumping and jump-kicking. Furthermore, pressing Start activates/ deactivates the characters mutant ability, for example Wolverine's claws or Cyclops' laser beams. Using it however drains a limited amount of energy, which can be refreshed by finding "X"-symbols.

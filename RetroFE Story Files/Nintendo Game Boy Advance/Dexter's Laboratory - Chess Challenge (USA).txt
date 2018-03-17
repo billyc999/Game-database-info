@@ -1,0 +1,16 @@
+Dexter's Laboratory: Chess Challenge is a game based on the popular cartoon TV show of the same name. This chess game is a game mainly aimed at children who aren't normally interested in chess or board games and would be more easily convinced into learning how to play by playing a video game starring characters from the hit show. 
+
+Players can choose from 4 selectable characters from the cartoon series and there are also 4 different gameplay types to choose from.
+
+Tournament Mode
+In Tournament Mode, the player begins as a character and has to fight the other three characters in a chess match. It's pretty simple to figure out, since it's just normal chess.
+
+Versus Mode
+Versus Mode is a two-player mode which can be played with one GBA, where both players alternate control of the console or it can be played with 
+two GBAs using the Link Cable. Players can choose their character and play chess.
+
+Quick Play
+This plays just like tournament mode except players only face one person. Players choose their own character and play a single game of chess against the computer.
+
+Puzzle mode
+The most complex game mode. The player has to clear the chess board by using his or her wits and different combinations of moves. This is the main part of the game. There are many different levels where the player has to find the correct solution.

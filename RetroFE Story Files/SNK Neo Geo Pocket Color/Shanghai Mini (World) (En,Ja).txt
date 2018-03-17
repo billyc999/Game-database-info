@@ -1,0 +1,3 @@
+Shanghai Mini is a release for one more platform in the for ever continuing series of Activision's tile matching game. 
+
+Included are classic, tournament and dynasty modes. Classic is normal game with six different board layouts. In tournament game player challenges the Tower of Shanghai and tries to beat the Shanghai Master by solving different board layouts within time limit. Dynasty is two player competition - against computer or human (requires link cable) opponent.

@@ -1,0 +1,5 @@
+Bible Adventures contains three different side scrolling platform games, each with a different bible theme. 
+
+The first game is Noah's Ark. Here the player needs to search forests, caverns, and mountains to find a male and female of each species and bring them back to the ark before the flood begins. The next game is Save Baby Moses, where the player needs to get past numerous soldiers and other obstacles to bring the baby Moses to safety. The last game is David and Goliath. As the shepherd David, the player needs to round up and protect the family's flock of sheep. After all of the sheep are safe, the player will then need to face Goliath.
+
+The game features scripture taken from the Holy Bible, New International Version to provide clues or information.

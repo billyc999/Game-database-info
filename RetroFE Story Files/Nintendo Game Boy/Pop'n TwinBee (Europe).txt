@@ -1,0 +1,7 @@
+A remake of the classic top-down shooter TwinBee, released for the GameBoy portable consoles.
+
+TwinBee Da!! Puts you behind the controls of two experimental TwinBee fighters as you attempt to rescue Dr. Cinnamon from evil alien forces. In order to do that you must journey through 6 different planets filled with cute and surreal creatures bent on your destruction.
+
+The game uses the classic gameplay mechanics for the genre, with you controlling your craft as the background scrolls vertically towards the end of the stage and trying to survive and destroy all enemies with your laser shots. Twinbee features a selectable power-up system in which you must shoot the bell power-ups to select which type of upgrade you want depending on the color they take (or in this case, the shade of grey).
+
+Features single player or two-player cooperative gameplay via GameLink.

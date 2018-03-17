@@ -1,0 +1,12 @@
+In Casino Games the player can visit a Casino with $500 in the pocket where they spend it on casino games.  The games come in 3 different categories that include card game, slot machine, and pinball.
+
+After the player picks there gender and their surname they are greeted by the woman at the information desk. The player can then pick if they want to enter an account number if the player has played before. If not the default $500 is given and the player is on there way to play some games.
+
+The categories and games available are:
+
+Card Games
+Poker � The player plays one of the four CPU players available ranging from the easy player, Nancy, to the hardest player, Charley. The player is presented with a one on one game using the five-card-draw poker where the player, after playing the ante, can Bet, Pass, or Fold for a round, before replacing unwanted cards for the 2nd and final round of betting. The more skilled the opponent the harder it is to bluff them and they will try to bluff more themselves.
+
+Blackjack  � The standard game against the dealer where the objective is to score higher then the dealer to but not exceed 21 points for the value of all the players� cards. The player can Hit (get another card) or Stand (keep the cards) . It uses the casino rules like Double Down (if the score lower then 12 then the player can double the bet but have a maximum of one more card), Split (turn two matching cards into 2 separate hands), and  Insurance (player wins if the dealer gets 21 with two cards after playing extra). Bets can be between $10 and $100.
+
+Baccarat � Player tries to beat the dealers score by using only the last digit of the total of the cards (i.e 10+4

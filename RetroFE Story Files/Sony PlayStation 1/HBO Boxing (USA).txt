@@ -1,0 +1,5 @@
+HBO Boxing is a standard boxing game with the Home Box Office (HBO) license, known for their boxing broadcasts and events and over 35 real-life legendary fighters including Sugar Ray Robinson, George Foreman, Rocky Marciano, Hector "Macho" Camacho, Roy Jones Jr. among many others.
+
+The standard modes apply such as Exhibition, Career, Tournament as well as a Quickbout which lets a player go into a quick match with the computer selecting the boxers, arenas, etc.  Players can also create their own boxer with a variety of stats including speed, stamina, etc. along with the sex of the fighter.  Using this fighter, the player can fight their way through the ranks of professional boxing from local arenas to big time Pay-Per-View events.
+
+Jim Lampley, Larry Merchant, and Harold Lederman also lend their voice talents for in-game commentary.

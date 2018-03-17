@@ -1,0 +1,5 @@
+Two classic Atari arcade games were updated for this compilation. This Lynx version of Asteroids and Missile Command contains some enhanced features to justify the "super" in the title.
+
+Super Asteroids has all new graphics to replace the vector outlines of the original. Your ship has a shield that can absorb several collisions before it blows up. There are also power ups to increase your firepower.
+
+Super Missile Command also has all new graphics.  Between rounds, you can trade credits earned during gameplay to purchase special weapons that will help you later in the game.

@@ -1,0 +1,5 @@
+You play as square-jawed detective Dick Tracy as he tries to solve five different crimes that vary in difficulty. This game is mostly a platform game with some overhead driving to get to the different buildings in search of clues.
+
+There are five different weapons in the game: hand gun, tommy gun, super punch, tear gas and Tracy's plain fists. There are also medical kits that can be found. Enemies can be armed or unarmed. If Tracy shoots an unarmed thug, he loses health.
+
+The main goal of the game is to collect five clues; enough to be able to arrest the culprit. Clues are scattered all over town in various buildings, usually full of Tracy-hating thugs. You start by viewing the mug shots of known criminals, going to there last whereabouts and interrogating them.

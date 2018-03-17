@@ -1,0 +1,8 @@
+The player controls Domino Man, a bespectacled, moustachioed artist who must set up a chain of giant dominoes across the screen, to form a chain of dominoes which can then be toppled.
+The dominoes must be placed on sites marked by black spots, achieved by simply running over each spot. Once all of the spots are covered with a domino, the chain is complete. The player will then have the choice of either knocking them all down to clear the level, or simply wait for a few seconds to continue to the next screen, in hope of completing the chain on THAT level, and so on. In this way, the player can set up several chains and knock them all down in one fell swoop, earning many bonus points in the process. Multiple chains are, of course, very difficult to achieve.
+Domino Man's progress is hampered by a neighborhood bully who walks onto the screen and tries to knock over the first dominoes he comes across. The player must either try to complete and topple the chain of dominoes before the bully knocks them over, or hit the bully with a domino; causing the bully's trousers to fall down and disabling him for a few seconds. A killer bee also appears, and if it manages to sting the player, a life is lost. A bag lady and a boy pushing a shopping cart wander blindly around the levels, occasioanlly knocking over some of the dominoes. Domio Man can hit them, however, causing them to change direction.
+Once a game is over, a poem is displayed on-screen to evaluate the player's performance on the game. For example :
+Roses are red
+Or so goes the verse,
+You set up fifty-two
+You could have done worse.

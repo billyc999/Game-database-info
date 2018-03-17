@@ -1,0 +1,9 @@
+This action puzzle game features 3 different game modes. The game modes are Puzzle mode, Battle mode, and Arcade mode.
+
+The objective of Puzzle mode is to increase the population of 12 different locales by creating buildings. Each locale is made up of six stages which have three levels each. These buildings can range in sizes from 3x3 up to 7x7. These buildings are created by shooting colored blocks at the same colored blocks that are already laid out in the playfield. The player only has a limited number of shots before the blocks on the playfield gets pushed down off the playfield. If the structure gets fully pushed off the playfield, the game ends. 
+
+Battle mode has 2 players competing against each other to see who can build and destroy the most buildings and earn the most points for doing so. To destroy a building that has been made, the player has to shoot a block onto the corner of it. Also, each building destroyed is worth a certain number of coins. The player must have 100 coins to win the battle. Both Puzzle and Battle mode allow the player to angle the camera upwards and downwards when viewing the playing field. 
+
+Arcade mode lets the player select one of eight available characters and has them battle against another player or the computer. Players try to form and destroy buildings as fast as possible, with some of those destroyed building blocks ending up going over to the opponent's side of the playfield. The goal is to get the opponents blocks pushed off the playfield.
+
+The arcade mode is the only mode that contains the coin-op conversion, while the other two modes are Playstation exclusives.

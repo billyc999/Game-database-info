@@ -1,0 +1,3 @@
+Utopia is a game played by two players on two continents. Players must build their island nation by building farms, housing, schools, hospitals, and factories and making other improvements while also competing against another player. Players are able to sabotage the other player as well, but they must also handle maintaining a fleet of PT boats to protect their fishing fleet, building forts to prevent rebellion, and dealing with the occasional hurricane.
+
+The game is played in real time. Each player moves a box shaped cursor around the screen to perform construction and moving of boats.

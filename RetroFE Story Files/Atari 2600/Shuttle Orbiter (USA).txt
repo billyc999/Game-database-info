@@ -1,0 +1,10 @@
+You must get ten parts from an orbiting factory to an incomplete space station. Unfortunately, a comet passed near Earth and left a space debris field that you will need to avoid.
+
+After the launch, you will see the Earth being circled but four colored dots. At the bottom will be the elapsed time, remaining fuel and four indicator bars. These bars are your orbit altitudes and their colors correspond to the colors of the orbiting dots: white for the shuttle, gold for the station, red for the orbiting factory, and green for the fuel depot.
+
+When you are lower in orbit than an item, you move faster. If you are higher than an item, you move slower. You must match orbit and location with something to dock. Once you are close to something, you switch to the maneuvering display. Now you can interact with an item or avoid it, as in the debris. If you hit something, whether debris or man-made orbiting item, you begin to leak fuel. This means you will use fuel even if you are not firing thrusters. You also have a 25% chance to damage the part in the cargo hold.
+
+Game variations
+The difficulty switches and select switch are not used. After you press fire on the joystick, move the stick up or down to select the difficulty level, from 0 to 3. Game 0 has no space debris.
+
+There is no score, just the amount of time it takes you and whether or not you got all ten parts in place without running out of fuel.

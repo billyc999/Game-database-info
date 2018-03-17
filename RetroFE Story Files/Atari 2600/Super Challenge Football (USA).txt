@@ -1,0 +1,4 @@
+The is an American football game with an isometric view. Player one always starts as offense and are in the red jerseys. The computer (or player two) starts as defense and are in blue jerseys.You have the choice to pass or run. On the offense, you control the quarterback until he passes the ball. You then control the receiver. The quarterback cannot pass after he crosses the line of scrimmage. On defense, you control the corner.
+
+Game variations
+Game 1 (Novice)

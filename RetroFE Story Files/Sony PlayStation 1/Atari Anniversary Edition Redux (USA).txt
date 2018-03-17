@@ -1,0 +1,39 @@
+The Atari Anniversary Edition features 12 classic Atari games, whereby two versions of this game exits. One for Dreamcast/Windows and the other one for PlayStation.
+
+The Dreamcast/Windows version features the following games:
+
+1. Asteroids
+Asteroids Deluxe
+Battlezone
+Centipede
+Crystal Castles
+Gravitar
+Millipede
+Missile Command
+Pong
+Super Breakout
+Tempest
+Warlords
+
+The PlayStation version features these games:
+
+1. Asteroids
+Asteroids Deluxe
+Battlezone
+Black Widow
+Centipede
+Gravitar
+Missile Command
+Pong
+Space Duel
+Super Breakout
+Tempest
+Warlords
+
+Note: the bold games are those that are just in the one version, but not in the other one.
+
+In addition to the pure emulation modes, there is an option to display the cabinet art surrounding the display of each game, intended to give the player a sense of actually playing a stand-up machine. 
+
+Each game also has a toggle for an "enhanced" graphical mode, which varies from game to game. For instance, "enhanced" asteroids merely has a static backdrop, whereas "enhanced" warlords is a complete graphical overhaul with new colors. It should be noted that the "enhanced" version of Tempest is none other than Tempest Tubes, a modification for Tempest made in 1982 by Duncan Brown.
+
+Also included is a gallery of game memorabilia, video clips of an interview with Nolan Bushnell, and desktop themes for Windows.

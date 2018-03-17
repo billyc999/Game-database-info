@@ -1,0 +1,1 @@
+Play the classic board game against the computer or over the internet with the DOS version.

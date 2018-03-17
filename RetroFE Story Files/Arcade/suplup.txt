@@ -1,0 +1,3 @@
+A "Puzz Loop" rip-off with Stage Mode and Panic Mode...
+Stage Mode : A new pic every level (100 Levels).
+Panic Mode : A new pic every five levels.

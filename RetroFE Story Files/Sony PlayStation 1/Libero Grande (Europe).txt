@@ -1,0 +1,9 @@
+A soccer game with a twist. 
+
+Libero Grande is the PlayStation conversion of the Namco coin-op of the same name.
+
+The user designs their own character and can alter his attributes and skills. And then controls this one player during the match. The user can adjust strategies for the team, but plays each game as their own character.
+
+The game features details stadia, with interactive crowd, and a selection of 32 national teams.
+
+The game also supports two-player mode, via a unique split-screen mode not often seen in soccer games.

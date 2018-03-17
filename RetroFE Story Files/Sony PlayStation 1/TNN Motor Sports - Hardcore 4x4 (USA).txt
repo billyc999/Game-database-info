@@ -1,0 +1,3 @@
+TNN Motorsports Hardcore 4x4 is an off road racing game. You drive a 4x4 like a Jeep or pickup truck around cross-country loops and attempt to get to the finish line first.  There are three race types.  In single race mode you participate in only one race on a track of your choice against 5 other competitors.  Championship allows you to race through all 6 courses in a row in an attempt to win a hidden truck.  Time trial lets up to 8 players compete round-robin style for the fast lap time around a track.
+
+This game utilizes 3D environments and truck models. The sound track features hard rock music.

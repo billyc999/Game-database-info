@@ -1,0 +1,1 @@
+This baby's an isometric shooter, in the vein of Zombies Ate My Neighbors. In short - run around, hit switches, shoot bad guys and try to not die. Timed challenges, GBA multiplayer, and bosses liven things up. Created as a tie-in for Universal's update to their movie monsters - superdeformed Dracula, Frankenstein, Mummy, and Wolf Boy star.

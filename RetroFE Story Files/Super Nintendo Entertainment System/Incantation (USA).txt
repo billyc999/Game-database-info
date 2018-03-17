@@ -1,0 +1,1 @@
+In Incantation you are controlling a young wizard who has to complete several jump'n'run levels. Enemies are defeated by using different spells that can be found throughout the levels. Spells have different ranges and attack power. Before a level can be completed, a certain number of items has to be collected, and at the end of some levels, a boss-fight awaits the wizard.

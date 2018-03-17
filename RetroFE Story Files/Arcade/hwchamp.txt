@@ -1,0 +1,1 @@
+A first person boxing game where you guide a boxer named 'Kid Crusher' up the rankings and towards a World Heavyweight Title bout. Win and defend your belt successfully to become a true champion.

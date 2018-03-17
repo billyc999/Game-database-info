@@ -1,0 +1,11 @@
+This tape contains five two or four player games in one package. They are:
+
+Bop a Buggy: Drive your buggy through the course fastest to the finish line. Watch out for the buggy boppers, as they will throw bricks at you, slowing you up. In a two player game, each player controls a buggy and the computer controls the buggy boppers. In a four player game, two players control a buggy apiece and the other two control a buggy bopper apiece.
+
+Tug of War: Simply pull the other team over the center line. In a  two player game, each player control an entire team, each. In a four player game, each player controls one of the four  players.
+
+Wizard's Keep: Use the power of magic to destroy more targets for points than the opposing team. In a two player game, each player controls a pair of wizards. In a four player game, each player controls one wizard apiece. Note: Even though the screen in split, all wizards are shooting at the same targets so when a target is shot in one window, it will disappear in both.
+
+Down on the Line: You must get a package from the left conveyor belt and pass it to the second worker who will then move it to the belt on the right that matches the package color. The game clock starts at 8:00 and the game ends when the clock reaches 5:00. In a two player game, each player controls a pair of workers. The package will pass from one worker to the other automatically. In a four player game, each player controls one worker apiece and must use the fire button to pass the package as well place it on the conveyor belt.
+
+Handcar: A race to the finish line using railway handcars. In a two player game, each player controls one of the men on a handcar, the other works with him automatically. In a four player game, each player controls one of the men on both handcars.

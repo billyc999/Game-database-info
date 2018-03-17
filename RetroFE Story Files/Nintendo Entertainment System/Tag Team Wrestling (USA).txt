@@ -1,0 +1,1 @@
+A wrestling game that focused on teams.  You can either play as a face team (the good guys) or a heel team (the baddies)!

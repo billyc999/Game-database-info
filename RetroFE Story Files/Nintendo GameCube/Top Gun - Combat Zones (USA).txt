@@ -1,0 +1,3 @@
+Top Gun: Combat Zones is an arcade-style flight simulator.  The game features 36 different missions in locations around the world.  The mission objectives vary greatly.  Some missions require you to take out multiple ground targets, like anti-aircraft guns and buildings.  Others require you to shoot down enemy MiGs.  Some missions have both air-to-air and air-to-ground combat.
+
+You start with only 1 selectable plane, an F-14, and only one scenario in which to fly missions, Southeast Asia.  By completing missions you can unlock other planes and war zones. There are 4 different combat zones in which to fly.

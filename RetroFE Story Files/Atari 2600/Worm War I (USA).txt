@@ -1,0 +1,7 @@
+NEWS FLASH: GIANT WORMS ATTACK THE CITY OF TERIYAKI!
+
+You command a tank at the bottom of the screen. You can move left or right but you are always moving forward. You can control the forward speed by pushing up or down on the joystick.
+
+As worms move back and forth you must shoot them so they don't touch your tank. Also shoot any blocks in you path. Try not to shoot fuel pagodas. Touch them to refuel. You can go to the far left or right of the screen and not get touched by a worm but you can't shoot them when you are there either.
+
+In the two player games, you have selections on co-operative or competitive. In co-op, you have the same points and fuel tank. When one tank refuels, it refuels both. In competitive, you each have a score and fuel tank. You compete to get enemies and fuel.

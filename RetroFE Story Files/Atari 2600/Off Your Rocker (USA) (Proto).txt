@@ -1,0 +1,1 @@
+Off Your Rocker is a Simon Says... type game for one to four players, alternating. The character on the screen will lean towards a colored shape while a tone sounds. You must lean in the same direction on your joyboard. As the game progresses, the sequences get longer and more complex. In two or more player games, each player alternates to see who can do the most sequences.

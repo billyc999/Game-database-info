@@ -1,0 +1,1 @@
+Puyo Pop is a falling block game in which the goal is to combine four or more blocks (Puyos) of the same color, which then disappear. The remaining Puyos will then fall down and can produce combos which can cause special blocks (Nuisance Puyos, that can only be destroyed by eliminating adjacent Puyos) to appear on the enemy's field. 

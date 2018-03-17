@@ -1,0 +1,5 @@
+Excitebike 64 is an update to the original Excitebike, for the NES. The outrageous jumps and precision timing required in the original have been translated into a modern 3D racing game.
+
+There are several game modes to choose from. First, there is a season mode with multiple skill levels. Completing a 5-race season in first place unlocks special tracks and more difficult classes. Second, there is a exhibition mode which allows you and up to 3 other people to choose a single track to race on. Third, there is a time trial mode in which you try to get the best times on the 20 tracks.
+
+Finally. there are multiple special tracks. Some of the special tracks include a point-to-point race through the desert, a hill-climb competition, motocross soccer, and a pixel-perfect conversion of the original Excitebike. Excitebike 64 also includes a track editor for building your own competitions.

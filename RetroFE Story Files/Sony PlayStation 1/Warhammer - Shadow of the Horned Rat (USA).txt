@@ -1,0 +1,1 @@
+Licenced Strategy RPG based on the Games Workshop Warhammer tabletop game. Realtime 3D battlefield with different units and dozens of plot linked scenarios to battle through.

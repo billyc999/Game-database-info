@@ -1,0 +1,9 @@
+This game is based on the fifth screen of the coin-op game Phoenix.
+
+The object of this game is to destroy the Castle on the Mothership. You fire Vertical Trajectory Missiles, or VTMs, at the shield on the bottom of the Mothership. When you penetrate the shield, then blast the Castle. To score extra points, you can also shoot the enemy spaceships flying overhead.
+
+If you destroy the Castle, you advance to the next level, where you will need to contend with Focused Energy Beams, or FEBs, fired from the Mothership. There will also be stars appearing in the sky, making it harder to target the spaceships.
+
+If you manage to obliterate the Castle again, you will proceed to the next level, which adds ground-based tanks assaulting you. You have Horizontal Trajectory Missiles, or HTMs, to deal with this new enemy but do not lose sight of your primary goal.
+
+Your joystick moves you left or right. The lower button fires VTMs, the upper button fires HTMs.

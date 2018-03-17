@@ -1,0 +1,7 @@
+A kickboxing game with a Ranking, Story, and a 2 player VS. mode.
+
+Ranking mode has the player fighting through various opponents in order to become a champion kickboxer.
+
+Story mode starts with the player either picking the kickboxer Red or Sang and taking them through a story which is told by dialogues between matches. Going through this mode will unlock characters by beating them. Each of the the kickboxers in the game have their own speed, accuracy, strength, and stamina ratings.
+
+This game is very similar to Boxing sharing a lot of the same characters. It also features similar gameplay mechanics of that game, with the exception that this game allows the addition of being able to kick instead of just punch.

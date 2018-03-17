@@ -1,0 +1,7 @@
+Ultimate Soccer is a football (European) game composed by 64 (unlicensed) international teams, each with it's own values for running, ball control and strength. There are five game modes (friendly, penalty shootout, tournament, playoff and league), but the lack of password or built-in battery means each one of them must be completed in one sitting.
+
+The gameplay can be tweaked for the players' preference by changing several key aspects of the physics engine, such as wind strength and direction, ball weight (lighter balls travel higher, faster  and farther but are more prone to be deflected by winds than heavy balls, who barely lift of the ground and are slowed down by wet grass), tightness of ball control and players speed and momentum. A five-a-side mode, where the ball is never out of play is also included. Thanks to the many options regarding the physics, the game allows a lot of flexibility in playmaking, from building up the play with small passes from the midfield to belting the ball upwards in hope of a goalmouth deflection.
+
+Graphically, the game is similar to EA's Madden NFL series, with pseudo-3D effects allowing the view to be tilted up to show more detail up front or tilted down to show more of the field. 
+
+The series later continued with Striker on the same console and Striker' 96 on PC, Saturn and PlayStation.

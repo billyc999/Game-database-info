@@ -1,0 +1,1 @@
+Implements Las Vegas style roulette game. Most of the screen consists of the standard Las Vegas roulette betting table, and a moving strip on the top with wheel numbers on it represents the roulette wheel. Place your bets on the betting table, and spin the wheel. The game calculates your wins and losses.

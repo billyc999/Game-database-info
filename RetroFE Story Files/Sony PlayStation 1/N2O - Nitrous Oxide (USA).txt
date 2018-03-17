@@ -1,0 +1,7 @@
+N2O Nitrous Oxide's gameplay is in many ways similar to the arcade classic Tempest. The game involves flying a ship down a tunnel. You can move left and right along the tunnel's walls, and fire into the tunnel. You have a standard blaster, and can pick up a range of special weapons along the way. You also can pick up a 'smart bomb' type weapon, that launches a firewall down the tunnel.
+
+Enemies are all based on real world insects, and range from flies, though to mosquitos, scorpions and spiders. Each tunnel introduces one new enemy. After each tunnel has been cleared you have to defeat a larger version of that tunnel's new enemy before you can leave.
+
+Mushrooms can be collected off the tunnel walls. Once you have collected the required amount, you can enter a bonus level. These consist of open tunnels, containing two items: eggs, and spinning blades. The objective is to avoid the blades, and shoot as many eggs as you can. When you shoot an egg you get points, however the ship also speeds up making it harder to avoid the blades.
+
+At the end of the game there is a final mutant boss insect to defeat.

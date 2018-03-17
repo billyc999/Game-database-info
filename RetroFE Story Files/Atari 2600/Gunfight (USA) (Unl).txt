@@ -1,0 +1,7 @@
+This game is inspired by the 1975 Midway coin-op game, Gun Fight.
+
+There are four game versions:
+In Standard Duel, the first player to score seven hits on their opponent, wins.
+In Six-shooter Duel, the first player to score seven hits on their opponent, wins however, after six shots, you must grab the flashing spot on your side of the screen to reload.
+In Escape Scenario, the player on the right is trying to escape and must last ninety-nine time units. The player on the left just needs to shoot the player on the right one time to win. The player on the right CAN shoot the player on the left and this will buy him a little time.
+In Target Scenario,  there will be a target in the middle of the screen. Each hit of the target is one point. Each hit of the opposing player is five points. The first player to seventy-seven points, wins.

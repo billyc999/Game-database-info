@@ -1,0 +1,13 @@
+A collection of classic Arcade titles:
+
+Spy Hunter - Weapons-based racer where as a spy you must chase the bad guys through the never ending streets of the city, using rockets, guns, oil slicks and smoke screens to take out the many enemies along the road.
+
+Joust - While riding an ostrich, you must knock out the other players on the field to advance to the next level.
+
+Defender - Much like Space Invaders, you fly a spacecraft out to stop an invasion of aliens on Earth. Unlike Space Invaders, you move up and down as well as left and right while the enemy fly down to grab humans of the planets surface.
+
+Robotron - Out to save the last human family, move your way through the play field while taking out the many robots that lay in your path before you.
+
+Sinistar - Mankind's last hope, you must shoot down asteroids while picking up items to increase your ships power before the battle with the Sinistar.
+
+Rootbeer Tapper - The only non-shooter title, prepare drinks for waiting customers, then slide them across the tables to them to clear the area.

@@ -1,0 +1,3 @@
+The second part in Electronic Arts' hockey series. It features the NHLPA license (so it has real player names), but not the NHL license (so it doesn't have NHL team names).
+
+Gameplay is altered only slightly over the predecessor. Regular season and Playoff modes are available. Goalies have improved AI, there are more foul play options and the game now features detailed statistics.

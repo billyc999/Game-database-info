@@ -1,0 +1,24 @@
+GAME LEVELS. The game level can be selected at the beginning of the game or after game select button has been pressed. Press the buttons from 1 to 10.
+BEGINNER : Instant start/stop when pressing forward. Level Options :
+1. Slow (Starship and Shells)
+2. Medium (Starship and Shells)
+3. Fast (Starship and Shells)
+INTERMEDIATE : Accelerates to full speed when forward pushbutton pressed. Partial breaking when forward pushbutton released. Level Options :
+4. Slow (Starship and Shells)
+5. Fast (Starship and Shells)
+EXPERT : Acceleration to full speed when forward pushbutton pressed. Level Options :
+6. Fast shells (Shells only)
+7. Slow (Starship and Shells)
+8. Medium (Starship and Shells)
+9. Fast (Starship and Shells)
+SUPER EXPERT : Same as Expert, with a strong gravity option. Level Options :
+10. Fast (Starship and Shells)
+GAME OPTIONS : These toggles can be selected at any time during play by pressing the buttons from 1 to 8.
+1. Bounce Back - Sets boundaries around perimeter of the TV monitor screen. Example : Starship immediately reverses direction after reaching boundary. Normally perimeter boundaries do not exist.
+2. Negative Gravity - Sun radiates gravity outward to perimeter boundaries of the TV monitor screen. Normal sun state radiates positive gravity (positive gravity is inward toward the sun).
+3. Zero Gravity - Sun does not radiate gravity.
+4. Black Hole - Invisible sun with any selected gravity.
+5. Space Stations - Two space stations orbit around sun. Each player is designated a specific space station on which he may land for repairs, fuel and shells. When player starship touches opponent's station it is immediate annihilation.
+6. Unlimited Supplies - Unlimited fuel and ordnance (fire power).
+7. Stars - Remove stars from playfield.
+8. Strong Gravity - Unusually strong positive gravity.

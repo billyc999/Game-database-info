@@ -1,0 +1,1 @@
+A driving game very similar to "Out Run", except for the addition of the nitro boost button. The car featured is a red Mazda RX-7.

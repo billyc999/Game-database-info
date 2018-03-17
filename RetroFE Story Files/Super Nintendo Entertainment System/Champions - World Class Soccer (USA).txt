@@ -1,0 +1,3 @@
+This soccer game offers 32 national teams to play, with none of the players' names shown. Shown from a slightly tilted 3rd-person side perspective, players can do an exhibition match, full tournament or go against a human player in the 2-player exhibition mode. The different teams are ranked by speed, offense and defence, and different team formations can be selected.
+
+The gameplay is very basic: players can pass, shoot, tackle with a third button used to switch between players. In the options menu, fouls and offside can be disabled, the amount of time per half can be determined and there is a radar and mini-map to track the other players. The European edition is endorsed by Ryan Giggs and the game uses a password system to continue tournaments.

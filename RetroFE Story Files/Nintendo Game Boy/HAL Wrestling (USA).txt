@@ -1,0 +1,1 @@
+Hal Wrestling is a 2D wrestling game, spin-off of the Fire Pro Wrestling series. The player fights in a one on one match (game has two types of matches: single match and 4 vs 4 elimination match) against a CPU controlled opponent. Characters use various wrestling throws, holds, etc.

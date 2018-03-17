@@ -1,0 +1,1 @@
+Hat Trick is a two-on-two hockey game based on the 1984 coin-op of the same name. Each player controls a goalie and a skater. The object is to shoot the puck into the opposing teams goal. Each game lasts two minutes.

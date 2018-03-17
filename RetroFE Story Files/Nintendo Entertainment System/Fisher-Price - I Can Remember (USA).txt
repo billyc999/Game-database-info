@@ -1,0 +1,3 @@
+Fisher-Price: I Can Remember is a card-based game of memory transposed onto the NES. The object is to flip over pairs of cards and find pairs that match. If an unmatched pair is flipped then they get flipped back and the player must remember that data for their next turn. The game has 3 levels, with each having progressively more cards (12, 16, or 20). The cards contain pictures of Fisher-Price toys. Finding matches removes the cards from the screen which then reveals parts of a larger Fisher-Price item.
+
+The game allows a player to play alone, or it allows 2-player competitive play. Further, it also allows human vs. computer competition, where the computer player is named "Electro".

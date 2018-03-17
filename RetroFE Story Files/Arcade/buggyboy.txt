@@ -1,0 +1,1 @@
+A colorful buggy racing game with 5 different racetracks : Circuit Off-Road, North Monte Carlo, East Safari, West Paris Dakar and South Southern Cross. Drive through different terrains avoiding other vehicles and picking up bonus items. Gates provide bonus points.

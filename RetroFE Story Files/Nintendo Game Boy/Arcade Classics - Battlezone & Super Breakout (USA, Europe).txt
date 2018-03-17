@@ -1,0 +1,1 @@
+A compilation and port of the classic Atari games,  Battlezone and Super Breakout.  Each version features the original gameplay and recreated graphics utilizing the Super Game Boy peripheral.  The controls have been changed to suit the Game Boy's control scheme.

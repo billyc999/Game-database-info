@@ -1,0 +1,11 @@
+The player takes the role of an air pilot who is part of an elite first strike air unit. This unit is tasked with putting a stop to an international crime organization that is building up a military sized force.
+
+In this air combat game, players can choose to play in a training mode, play a mission mode, or have a VS. battle.
+
+Training mode features 3 different missions with players attempting to get as high of a score as possible. VS. battle has 2 players linking up to play a head-to-head battle against each other.
+
+The main mode is the mission mode. Players can choose from 6 different fighter jets which are the F-4E Phantom II, F-14D Tomcat, F/A-18 Hornet, F-15E Eagle, F-16C Falcon and the F-22 Raptor (AKA Superstar), each with their own ratings in max speed, endurance, maneuverability, and stability.  The game features 12 missions to play through, with objectives such as defending a weapons factory or shooting down a stolen F-16. Each mission completed successfully will reward the player a certain number of credits depending on the difficulty of that mission.
+
+Gameplay involves flying a fighter with a cockpit view. The HUD includes a radar showing the enemy fighters locations plus the number of enemies left. Their is also a rear view mirror which lets the player see if their are any enemy fighters on their tail. Players can fire their air-to-air, air-to-surface, and air-to-ground missiles at enemy units.
+
+Options let the player adjust the difficulty level and change the controls between easy or hard,

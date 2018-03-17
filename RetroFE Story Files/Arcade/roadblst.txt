@@ -1,0 +1,1 @@
+A futuristic driving game in which the player must shoot rival racers and collect fuel globes to top up his ever-diminishing fuel supply. Power-up weapons are dropped from above and and must be 'caught' by the player. Collision with enemy vehicles will result in the destruction of the player's own vehicle. Digitized speech, effects and music play throughout the game.

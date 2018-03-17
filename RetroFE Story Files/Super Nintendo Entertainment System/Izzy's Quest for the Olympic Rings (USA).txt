@@ -1,0 +1,5 @@
+Izzy's Quest for the Olympic Rings is the official game of the mascot of the 1996 Olympic Games in Atlanta. As the name suggests, Izzy must find the five Olympic rings, hidden by the guardians so that Izzy does not take them to his world.
+
+The game plays a lot like Mario games; to eliminate an opponent Izzy must jump over his head. There are two jumps available, the ball jump suitable for height and the hurdle jump, suitable for distance. Both allow Izzy to clear an enemy, but the second harms  him.If Izzy is hit, then he must find three medals, or at the next hit he loses a life. There are some extra objects, like Olympic torches, and eggs that hatch either objects for bonus points, trampolines or  morph points to reach otherwise inaccessible areas or traps. Izzy can also morph into a glider, a baseball player, an archer or a rocket, among others, to overcome some sections of the levels.
+
+Graphics and sound remain faithful to the cartoony origins of the mascot.

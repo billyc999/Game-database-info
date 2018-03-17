@@ -1,0 +1,1 @@
+The player controls a character that must search houses to find pieces of a machine. There are a variety of antagonists that impede progress, including monsters and bombs. Once the machine has been assembled in accordance with the blueprint, the player must use it to shoot the monster that is chasing the player character's girlfriend.

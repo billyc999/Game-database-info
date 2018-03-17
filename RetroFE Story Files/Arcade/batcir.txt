@@ -1,0 +1,9 @@
+In this side-scrolling beat'em up, 5 wacky colour-coded characters fight to arrest 'Dr. Saturn' and stop the 'Shiva System' from taking over the world! Earn money to buy special moves and power-ups. This game has 7 stages...
+* Stage 1 : Inside enemy ship.
+* Stage 2 : Fever in disco, den of evil.
+* Stage 3 : Dead heat in desert.
+* Stage 4 : Sneak in and foil Dr. Saturn's plans.
+* Stage 5 : Jungle Battle, escape from death line.
+* Stage 6 : Chase Zipang as you go down river.
+* Final Stage : Showdown, desperate battle with Shiva system.
+* Secret : Last battle, stop Master Program.

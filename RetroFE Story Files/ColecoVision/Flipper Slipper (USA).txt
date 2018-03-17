@@ -1,0 +1,1 @@
+Flipper Slipper is a game for the Colecovision and MSX2 platforms. It is a water-themed Breakout-like game, with the unique mechanic of having curved paddles, which can cause the ball to roll off them and bounce off at unconventional angles.

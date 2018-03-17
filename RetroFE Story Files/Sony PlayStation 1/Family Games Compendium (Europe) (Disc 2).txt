@@ -1,0 +1,22 @@
+The Family Games Compendium is a collection of 20 family games over 3 disks. These are:
+
+1. Baccarat
+2. Blackjack
+3. Concentration (Each player takes it in turn over their cards and find pairs. whoever has most pairs at the end wins.)
+4. Power GP (F1-esque racing)
+5. Kart Racer
+6. Keno
+7. Let it Bet (based on poker, you try making a hand based on 3 of your cards and 2 of the dealer's)
+8. Old Maid (a.k.a old man)
+9. Page One
+10. Poker
+11. Rich Man (similar to the card game beat your neighbor)
+12. Roulette
+13. Seven Bridges
+14. Seven in a Row
+15. Slot Machine
+16. Speed
+17. Superbike Challenge
+18. Super Blackjack
+19. Splash
+20. Video Poker

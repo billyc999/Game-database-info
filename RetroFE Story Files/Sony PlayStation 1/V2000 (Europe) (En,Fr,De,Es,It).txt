@@ -1,0 +1,5 @@
+V2000 is a 3D space shooter based on the '80s game Virus. 
+
+Aliens are using a virus to corrupt and possess many creatures from different worlds by opening up links between the worlds they are trying to conquer. From many of these links emerged the hives. 
+
+The usual mission objectives in the game are to destroy the mutated creatures and the hives, rescue local inhabitants, while "beaming up" weapon upgrades along the way. Players are then awarded "trophies" for each world saved or if it is saved quickly. These trophies allow the player to receive new ships.

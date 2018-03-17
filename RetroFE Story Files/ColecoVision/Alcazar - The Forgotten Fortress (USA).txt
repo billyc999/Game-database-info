@@ -1,0 +1,14 @@
+In this adventure game you control an explorer who's on his way to fortress Alcazar. To reach Alcazar you are travelling through a countryside of fortresses and you need to collect several items that you can find along the way.
+Once you enter the Alcazar fortress you have to search for the crown.
+
+The strategy map gives you an overview of the countryside, it's fortresses and your location in it.
+What perils lurk in these mysterious castles? Which path is 
+quick and safe?
+The Alcazar castle is three stories high, all other castles have only two stories. To enter a castle you just have to follow the path.
+Each castle has it's own sought-after objects and these objects are always guarded by the castles main demon.
+Objects to look for are for example: a rope, a gun, raw meat, water or a raft. Collect them and use them properly to master
+the legendary Alcazar fortress.
+
+The game gives you clues and tells,  for example, which monsters are nearby. Some monsters are really hard to kill.
+
+The game can be played at four difficulty levels.

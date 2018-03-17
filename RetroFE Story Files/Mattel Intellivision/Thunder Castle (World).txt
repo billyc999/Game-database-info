@@ -1,0 +1,9 @@
+In this medieval fantasy game, players take control of a brave knight as he sets out on a quest of treasure hunting and survival.  The quest takes the knight into three different realms of danger, each with its own challenges, and an ever changing maze of which they must navigate through.  The quest is broken down into these challenges:
+
+Forest - The Knight must confront three dragons, each one more difficult than the last.  Along the way, an enchanted bat will give him the strength to overcome the danger.
+
+Castle - The Knight must overcome six wizards, his only aid being a mouse that will generally try to avoid capture.
+
+Dungeon - A randomly appearing skull is the only defense against the nine demons that make up the sinister dungeons.
+
+Along the way, the items that the Knight will find may be of some help (or hinder) his quest to make it through the different areas.  Challenge the areas again and again for the highest score possible!

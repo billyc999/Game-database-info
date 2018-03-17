@@ -1,0 +1,5 @@
+A game based on the television game show, Family Feud. This version of Family Feud is hosted by the comedian Louie Anderson, who appears in the game courtesy of full motion video clips. 
+
+The player chooses a family of five to play against another family. Players can create and customize their family and their opponent's family. During the game, players are asked to find the most common answers to various questions asked by the host, so the family can earn points. The family with the most points at the end of the game wins the prize money.
+
+The game contains over 1,500 surveys and also features options that effect things such as spelling accuracy, the fast money time limit, the amount of time allowed to type in survey answers, and the difficulty of the computer opponents.

@@ -1,0 +1,5 @@
+Chaos Field is a top-down space shooter similar in concept to the Gradius series, or Ikaruga. You control one of three ships, each with their own pilot and unique weapon systems. 
+
+The game takes place over 5 phases, in each phase you face a number of boss battles. Unlike other games if this genre, almost the entire game is composed of boss battles, each boss requiring a different strategy to defeat. 
+
+The game also uses a unique in-game difficulty adjuster. Called "fields", you can play in either Order or Chaos. Compared to Order, the Chaos Field offers you increased fire power and abilities, but also does the same for your enemies. Order Field is more relaxed on both sides. If you can play in the Chaos Field, you stand to gain substantially more points.

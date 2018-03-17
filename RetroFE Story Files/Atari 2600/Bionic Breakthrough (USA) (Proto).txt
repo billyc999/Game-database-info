@@ -1,0 +1,1 @@
+This prototype is unplayable without the Mindlink controller. It’s an interesting idea, but it doesn’t quite work. In theory, the game is controlled by the player’s thoughts, and the Mindlink controller has several sensors that rest on the player’s head. It’s more likely that facial movements or biorhythmic feedback controlled the action on-screen.

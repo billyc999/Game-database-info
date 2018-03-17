@@ -1,0 +1,5 @@
+Vanishing Point is an arcade style racer featuring real cars and road course style tracks.  The main difference between Vanishing Point and countless other racers is that you are never racing directly against other cars, but rather are racing against the clock.  Your position at the end of the race depends solely on your time, not on your finishing position relative to other cars. What's more, there are loads of computer controlled cars that are there simply to slow you down.
+
+The standard racing game modes are here:  Tournament, Time Trial, and Single Race.  One unique feature, however, is the stunt competition.  You can compete in a series of events that test various driving skills in timed events.  Some example events are the long jump and the slalom.
+
+The selection of cars is quite diverse.  You can race vehicles that range from low performance, like a VW Microbus, to high performance, like a Dodge Viper.

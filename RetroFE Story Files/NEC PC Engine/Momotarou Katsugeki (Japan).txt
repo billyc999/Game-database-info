@@ -1,0 +1,1 @@
+Platform game based around Peachboy or Momotaro, a boy born from a peach. You are armed with a sword that shoots peaches, and collecting coins allows you to upgrade this and your armour. As you progress, you also get the option to call your animal friends for help. 

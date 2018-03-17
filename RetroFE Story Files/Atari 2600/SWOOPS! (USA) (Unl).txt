@@ -1,0 +1,12 @@
+The Swoops! cartridge contains three games:
+
+Splatform
+Simply bounce to the right from platform to platform as fast as you can. Don't bounce in one place or you will lose points. Don't miss and end up below the screen or you will lose a life.
+
+Crash 'n' Dive
+As you fall down an endless tunnel, turn the paddle to hit platforms of the same color for points. You can also hit bonus platforms but beware of deadly platforms.
+
+Cave 1k
+You must press the button to make the helicopter fly up. You constantly move forward and must avoid obstacles, the cave roof and the cave floor. The farther you get, the more your points.
+
+The fourth option, 3-athlon, allows you to play all three games in succession, with you final score being the total from all three games.

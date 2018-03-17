@@ -1,0 +1,7 @@
+This is a compilation of two classic arcade games on one pack:
+
+1. Asteroids: Pilot a spacecraft and destroy the on-coming asteroids, with a range of different weapons and shields.
+
+2. Missile Command: Command missile launchers and protect the planet from asteroids, space ships and other missiles.
+
+Both are complete remakes of the arcade originals.

@@ -1,0 +1,1 @@
+A puzzle game similar to "Tetris" but with different colored balloons in different shapes. Instead of falling blocks, the balloons float to the top. Completing a full row across will make that row disappear.

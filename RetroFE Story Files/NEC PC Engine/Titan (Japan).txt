@@ -1,0 +1,7 @@
+Titan is a 2D arcade game / puzzle game hybrid.
+
+For some reason, mad professors of the future tend to invent strange entertainment games in which every participant dies. Professor Hybrys’ variant is called Titan and involves a ball, a control unit and 80 labyrinths. Your objective is either to destroy all destructible blocks in each level by hitting them with the sphere, or to pilot it to the exit. The black ball is beyond your control; it will bounce straight or diagonally through the labyrinth with constant speed. You move the control unit, a small box, with you are to position in a way that the ball bounces off it in the desired direction. You can also catch the sphere by quickly moving over it, and then release it in a direction of your choice.
+
+The labyrinths not only contain harmless, destructible blocks, but also increasingly difficult hazards. If the sphere or your control unit hit a skull symbol, one of your nine lives is lost. Teleporters exchange the position of you and the ball, wall pieces can be pushed around or destroyed by your unit, floor tiles will grow into walls when you pass over them too often. The high game speed can be slowed down by holding the space key – a very useful option in tricky situations.
+
+Titan mixes an arcade game foundation (requiring quick reflexes and good nerves) with puzzle game elements (requiring logical thinking to beat the complex levels). The challenge is to control the sphere accurately, yet indirectly.

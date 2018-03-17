@@ -1,0 +1,6 @@
+This is a pinball game for the Atari 2600. You use the buttons on a paddle controller. To pull down the plunger, you press the right button. To reduce the plunger strength, you press the left button. To fire, you press both buttons. You then use the left and right buttons to control the flippers.
+
+The game features roll-over targets, bumpers, spinners and pop-up targets.
+
+Scoring
+Top Rollover

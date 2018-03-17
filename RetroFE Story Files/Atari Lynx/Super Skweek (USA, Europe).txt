@@ -1,0 +1,5 @@
+Super Skweek is a game inspired by the wide success of Chip's Challenge, and share some elements of that puzzler while combining other elements from games such as Pengo.
+
+In Super Skweek, you play the title character who must walk around and either paint all the tiles of the game board pink, complete a specific mission, or both.  Some tiles react in various ways when you walk on them, like exploding.  
+
+Unlike Chip's Challenge, the game plays in realtime and you can pick up and use weapons to keep away certain monsters as you paint the tiles.  There is also a shop you can enter to purchase items.  Finally, levels have a time limit for completion.

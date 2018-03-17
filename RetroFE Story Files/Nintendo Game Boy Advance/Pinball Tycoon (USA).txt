@@ -1,0 +1,7 @@
+Try to keep the ball out of the little hole at the bottom of the board by using two flippers (in case somebody doesn't know what kind of game pinball is :).
+
+The playing field is splitted into two parts, so if the ball falls down the first little hole you aren't dead yet: you get to play on the bottom floor.
+
+If you are lucky you get to play the bonus game where Mario makes an cameo appearance: bounce the ball off a platform on top of your head to save Pauline.
+
+Pinball was one of the very first NES games ever released.

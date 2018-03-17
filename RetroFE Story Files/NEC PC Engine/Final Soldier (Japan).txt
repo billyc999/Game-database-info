@@ -1,0 +1,3 @@
+A sci-fi top-down shooter, sequel to the Star Soldier games. Once again its your job to protect the Galactic Empire from an alien invasion using nothing but your trusty starfighter.
+
+The game is divided in several stages in which enemies attack you in several waves until you reach the stage boss and proceed to the next one. Final Soldier incorporates four different gun pods mapped to each button, which can be fired independently or in conjunction. What you equip in each pod is up to you however as not only you get to select weapon loadouts between levels, but also shooting power-ups cycles to the available weapon types that you can incorporate mid-game.

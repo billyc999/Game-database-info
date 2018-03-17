@@ -1,0 +1,1 @@
+Virtual Pinball is the spiritual successor to Bill Budge's classic Pinball Construction Set. Programmed by Bill Budge, this Sega Genesis game allows the player to try different pre-built pinball tables and additionally create, save and play custom tables.

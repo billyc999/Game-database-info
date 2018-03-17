@@ -1,0 +1,3 @@
+A Power Stone-like fighting game featuring characters from the classic Tom and Jerry series of cartoons.
+
+Fight in a variety of arenas based upon classic Tom and Jerry cartoons, to unlock further levels and other T&J characters that you can play as.  Each level features breakable terrain and various implements that you can use to beat your adversary.  Each level also features a unique surprise to catch unwary players by surprise.

@@ -1,0 +1,19 @@
+Demolition Racer is a racing game with a twist.  Rather than a game that just requires you to try and win the race, this game gives you points to destroy the other racers' cars.  The game has many styles of game play so you don't have to play the same style each game.
+
+There are 5 game styles in the Single Race section of the game.  This section does not count towards unlocking cars or tracks.  It is for practice and just plain fun.  The main style is Demolition.
+
+In Demolition, you race against other cars around the track and get points for hitting them, spinning them in circles and knocking them into the wall.  You also get a big bonus for landing on top of a car which will immediately destroy the car.  When you finish the race, your final position is
+found by multiplying the points you got from hitting the other cars with the points that you got for the position you finished in.  So if you finish first, but never hit anyone, you won't win the race.
+
+The next style is The Chase.  This style is your normal race game.  You can still take damage and so can the other cars, but you are only trying to win the race.  You don't get any points for hitting the other cars.
+
+Chicken is another style.  It is the same as The Chase except that you drive in the opposite direction as everyone else.  This can slow you down when you run into the cars coming around from the other direction.
+
+The next 2 game styles aren't done on race tracks.  They are done in an arena.  This is a circle area which may have hills in it where you just try to destroy cars.  The first of these is Last Man Standing.  In this style, you try to destroy every car without being destroyed yourself.  You can still win if you
+aren't the last car by making a lot of points by hitting other cars.  The scoring is calculated the same as the Demolition style.
+
+The final Single Race style is Suicide.  In this style, you try to destroy yourself before any others are destroyed.  You don't get any points for hitting other cars in this style.
+
+Besides the Single Race, there is also League Racing.  In League racing, you are trying to beat a set of tracks.  There are 4 leagues on tracks and one league in the arena.  In order to beat a track (or arena), you must place in a certain position.  The first league starts out easy; you can finish in 5th place and still beat the track and go on to the next one.  However, as you go up in difficulty of leagues, you will eventually have to place 1st on every track in the league to beat it.  A league will usually have 5-10 tracks to beat.
+
+After you beat a league, you will unlock cars, tracks and other leagues.  There are 11 tracks, 3 arenas and 8 cars that you can get.  The cars can be customized with colors and logos.  You can also have portraits of the racers on top of the cars.

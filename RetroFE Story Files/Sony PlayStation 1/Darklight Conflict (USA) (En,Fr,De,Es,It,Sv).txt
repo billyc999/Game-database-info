@@ -1,0 +1,1 @@
+A space combat game like Wing Commander; you control  space ship, as the lone man trying to save humanity from not one, but two alien races. It also has multiplayer modes like Race and Tag for IPX network users.

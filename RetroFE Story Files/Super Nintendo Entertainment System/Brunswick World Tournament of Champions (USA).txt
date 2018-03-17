@@ -1,0 +1,5 @@
+In this bowling game, players create a bowler in order to play against eleven professional bowlers. Players can choose their bowler's clothes, what hand they use to bowl, the spare ball and primary ball they want to use, and also the weight of the balls.
+
+The game offers practice, tournament, and league modes. Practice mode is just a quick game of bowling by yourself. In league mode, players can either compete by themselves or as a team against other bowlers. Finally, the tournament mode features six different tournaments to compete in. A short or long tournament determines the number of players that will be involved in the tourney.
+
+Before hitting the lanes, the player will be informed of the oil pattern of the lane which tells the player how the ball will react to that lane. Bowling is performed by choosing where to stand, then using the two meters that determine the amount of power and spin the ball will have when it's finally released down the lane.

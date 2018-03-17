@@ -1,0 +1,3 @@
+Behind the Mask is a pinball simulator for the SNES featuring three completely unique tables: the clown-themed "Jolly Joker", the pirate themed "Blackbeard and Ironmen", and the fantasy-themed "Wizard".
+
+All tables are shown in a tilted 3D view, which fits the entire table on the screen without the need for scrolling, with marquee messages and bonuses displayed as giant overlays on the screen. Features single player and up to four-player hotseat multiplayer gameplay in either Competition (free tournament mode) or Conquest (progress through each table and clear them by surpassing 100 million points) modes. Also features directional nudging using all the buttons in the pad.

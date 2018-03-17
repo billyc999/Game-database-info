@@ -1,0 +1,4 @@
+TechnoMage is set in a 3d (isometric) fantasy world. The player discovers eight locations in the world of Gothos. The main objective is to save Gothos from the Evils of the underworld.
+The game provides several larger and smaller quests to complete. Gameplay involves a mixture of exploring, fighting and puzzle solving. Approximately 50 different NPC's belonging to different nations can be interacted with.
+
+Among the technical features are: animated textures, weather effects, day/night cycle, particles, and dynamic real-time lighting.

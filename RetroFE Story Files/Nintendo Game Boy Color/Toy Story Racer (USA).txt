@@ -1,0 +1,1 @@
+A Toy Story cart racing game. Play as 12 (PlayStation), 4 (Game Boy) of the Toy Story characters on 18 courses - PlayStation, 10 courses - Game Boy. The courses are inspired from the movie.

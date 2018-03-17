@@ -1,0 +1,5 @@
+Shove It! The Warehouse Game is a top-down puzzle game based on the original gameplay of Soko-Ban Hiroyuki Imabayashi wrote for Thinking Rabbit. The player controls Stevedore, a warehouse keeper, from a top-down view. As shown on the title screen, shoving boxes will earn him money to make his dreams come true, a lovely girlfriend and a fiery red sports car.
+
+The game consists of 16 stages with 10 rounds each. At a certain stage, any of the 10 rounds can be selected while playing but a new stage will only be opened up when all rounds have been successfully completed. To complete a round, Stevedore needs to push all boxes on the designated spots. This will turn them into a different colour. This is no easy task as the level design will obstruct many moves and cornered boxes can no longer be moved. While playing it is possible to restart the round, undo the last step and the game keeps track of the number of steps taken.
+
+The game supports passwords and includes an edit mode where new levels can be designed and played.

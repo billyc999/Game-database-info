@@ -1,0 +1,5 @@
+In 2027 AD, there is a distant planet where high-tech robots have enslaved a class of mechanized creatures. These slave robots have formed an underground resistance movement and developed a suit of body armor that may hold the key to victory over the high-tech robots. The only thing holding back these robots, is that the body armor can only be worn by a human. The player takes control of that human.
+
+This game is a vertical scrolling shooter. The player start with one life and 5 energy units for that life. The player also starts with a Vulcan weapon and a limited amount of missiles, which when used will hit everything on the screen. Extra missiles can be had by collecting icons from certain defeated enemies. Each enemy the player shoots down earns the player experience points. When the player reaches a certain amount of experience, they are rewarded with a new weapon, such as a wave or a laser.
+
+The game has 3 difficulty levels.

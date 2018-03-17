@@ -1,0 +1,5 @@
+In Baseball Simulator 1.000 you can choose from four different leagues; three with six preset teams each and one where you can build the teams yourself from scratch. Face the computer or challenge a friend to compete in a 5, 30, 60, or 165 game season. Games take place in six stadiums.
+
+As the manager you build up your team by allocating a set bunch of points for batting average, home runs, running speed, and fielding ability among your players. Then, you customize your pitching staff by divvying up points for ERA, speed, right and left curve balls, sinking pitches, and stamina. Your managerial responsibilities also include deciding who's right-handed and who's a lefty, and whether your pitchers throw overhand or sidearm.
+
+You can also play in the Ultra League. Ultra League play enables you to give your hitters and pitchers special skills, such as the ability to pitch balls that zig zag, or hit balls that explode on contact.

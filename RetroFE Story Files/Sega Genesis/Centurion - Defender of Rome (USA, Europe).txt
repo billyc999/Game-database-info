@@ -1,0 +1,13 @@
+Starting as a young Roman legionnaire in 275BC, your job is to conquer the known world through force or diplomacy, fighting on land and sea. 
+
+Centurion: Defender of Rome is a turn-based strategy game. You start with one province, Rome, and one legion. To complete the game, you have to conquer all the provinces on the map. 
+
+One part of the game is micro-managing your provinces. You set up tax rates and make people happy by organizing games. In Rome, you can organize a chariot race, a gladiatorial combat or even a simulated naval battle; this starts an action mini-game where you control the chariot rider, gladiator or ship. 
+
+Another part of the game is military conquest. You can raise legions or strengthen them in any province you control (let's just hope there are enough men in the province, or your legion will be incomplete and weaker). There are three types of legions, each of them has a different strength. You can also move a legion to a neighbouring province. 
+
+When you enter a province you don't yet control, you can speak with the ruler there. With luck, you can convince him to give you the province for free; but this isn't very likely, and you'll often have to fight. 
+
+When your legion attacks a province, or defends one of your provinces from an invader, the game switches to an isometric view of the battlefield. You can give orders to your legion (assuming they are within the range of their commander's voice) and watch as they duke it out with the enemy forces. Eventually, one of the sides will be completely wiped out or panic and retreat. 
+
+Finally, you can buy warships and have naval battles with the enemy fleet. This is represented as an action mini-game, depicting a duel of the flagships; however, the outcome of the battle actually depends on the strength of your fleet.

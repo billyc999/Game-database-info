@@ -1,0 +1,3 @@
+This is the second Gradius/Nemesis game to land on the Game Boy. Like the first game, this is a side-scrolling shoot-em-up featuring the characteristic Gradius style power-up system. By collecting power-up pods, the player can choose exactly which parts of their weapons get upgraded.
+
+One aspect that sets this game apart from other Gradius games short animated segments that interconnect the levels. So, the player can see how their ship gets from one level to another.

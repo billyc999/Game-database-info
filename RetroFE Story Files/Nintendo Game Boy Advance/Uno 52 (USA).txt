@@ -1,0 +1,17 @@
+The classic game of Uno comes to the DS with different game modes. Players can customize the entire game setup based on the number of players, individual customization, game type, number of cards, alternate cards and house rules. The predefined game types include:
+
+1. Endless: no win conditions and endless rounds. Between each round chips, pot wins, first-out wins and poker hand wins are shown.
+2. Chips: earn 50 to 500 to win. Players start with 25 chips and can go into debt.
+3. Uno Wins: win 1 to 10 rounds by going out first.
+4. Poker Wins: win 1 to 10 rounds with a poker hand.
+5. Pot Wins: win the pot in 1 to 10 rounds.
+6. Survival: extra ante based on the number of players still at the table. Players who lose all their chips are eliminated.
+
+There are also four special modes available:
+
+1. Challenge Mode: play five unique or randomly-generated levels with different win conditions.
+7. Endurance Mode: maximize the score without running out of chips.
+8. Timed Mode: earn as much as possible before time runs out.
+9. Solitaire Mode: play all cards in a twist on the classic Solitaire card game.
+
+All the classic cards are available as well as the alternate poker rules for cards. Wireless multiplayer is supported for up to four players for the DS version, which is generally a port of the GBA release with stretched screens and ported sound. The number 52 in the title refers to the included game variation.

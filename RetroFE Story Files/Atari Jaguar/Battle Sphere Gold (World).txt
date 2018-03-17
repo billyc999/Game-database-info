@@ -1,0 +1,3 @@
+A 3D space combat simulator, BattleSphere's story was based upon an episode in the original Star Trek television series and it plays similarly to Star Raiders.
+
+Seven alien races vie against each other - the victor will control the galaxy. They meet in an arena in Sector 51, a spherical sector of space formerly used by the Earth government to secretly test new weapons and starships. Gameplay consists of 5 different play modes with different scenarios and goals. Choose from various starships (each with unique weapons systems) and battle the aliens, who have also chosen their best fighters and have many space ships of their own.

@@ -1,0 +1,7 @@
+Skate or Die incorporates five distinct styles of skating, which can be attempted individually or in turn. You skate around a menu room to choose which one to attempt. Before taking off you can visit Rodney's skate shop to buy equipment.
+
+The first event is freestyle, in which your aim is to score as many points as possible in 10 attempts. Judges determine how much style and skill you have shown. The High Jump uses the same equipment, only this time your task is to jump as high as possible at the end of the ramp.
+
+The downhill events are overhead-view races. In the Downhill Race you simply try to complete the course within 90 seconds. In the Downhill Jam you try to outperform a human or computer opponent whilst dodging or jumping hazards. You can use attacking moves to either remove hazards or knock your opponent over. 
+
+The pool joust is more of a one-on-one beat em up using a stick, set within a pit to skate around.

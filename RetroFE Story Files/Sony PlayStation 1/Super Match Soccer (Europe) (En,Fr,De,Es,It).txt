@@ -1,0 +1,3 @@
+Super Match Soccer is an action oriented soccer simulation which has one major difference to other soccer games of its time: the pass system. Instead of the usual separate buttons for passing and shooting there are three levels of shooting intensity which depend on how long the button is pressed. Also there is no semiautomatic passing, the player has to aim himself. Aside that the match control is genre standard: button combinations result in tricks like back-heels or lobs and with the sprint button a player can run fast for a limited time.
+
+By default the player controls the player which has the ball. But a optional mode enables the player to control just one soccer player. Playing modes are cups and leagues with 24 national teams which can be altered in the editor.

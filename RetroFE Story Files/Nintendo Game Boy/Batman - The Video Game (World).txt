@@ -1,0 +1,1 @@
+A Batman game based on the movie with The Joker.  Contains three action stages and one shooting stage where Batman shoots missiles aboard the Batwing.  Takes place in several well known places from the movie such as the Axis chemical factory, the Flugelheim Museum, and the Cathedral.

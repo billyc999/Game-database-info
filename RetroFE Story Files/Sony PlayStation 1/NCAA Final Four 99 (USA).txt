@@ -1,0 +1,7 @@
+This college basketball game features over 250 Division 1 teams and four different game modes. The game modes are Quick Start, Exhibition, New Season, and New Tournament (which lets the player set up a NCAA 64-team tournament). 
+
+Options let the player choose the length of the game, the speed of the game, the difficulty level, and whether to have injuries, fatigue, and fouls turned on or off.
+
+During the game, the play-by-play commentary is done by Quinn Buckner. The game features icon passing and cutting, which let the player select which team member they want to get open for a pass or to cut towards the basket. Also optional to have on while playing is the optional shot meter. With it on, the player can see a meter indicating at what point they should release the shooting button in order to make an accurate shot. Another feature is the 6th man meter. This will rile up crowds for home teams and have them taunt the away teams.
+
+During the season mode, the game features team stats, polls, standings, and award stats, as well as an injury report. The game also keeps track of 32 different statistical categories for the team and its' players.

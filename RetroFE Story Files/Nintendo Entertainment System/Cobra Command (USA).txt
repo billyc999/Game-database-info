@@ -1,0 +1,3 @@
+An arcade game from Data East, Cobra Command is a 2D, side-scrolling helicopter shooter in the tradition of Choplifter. Your mission: blast your way through six stages (Sumatra, Java, Borneo, South China Sea, Siam, and Enemy HQ) and rescue the hostages.  
+
+Along the way, you can acquire upgrades for your guns, missiles, armor, engines, and rescue equipment (ropes, ladders).  You'll need them, as swarms of enemy soldiers, artillery, tanks, choppers, jet fighters, and warships stand in your way.

@@ -1,0 +1,9 @@
+A snowboarding game with a Race and a Trick mode.
+
+The Race mode lets the player race on 27 different courses. This mode lets the player race solo or against one or two other opponents. In the solo race, the player has to keep hitting checkpoints in a limited amount of time.
+
+Trick mode has the player try to do as many tricks as possible within a given time limit. Performing tricks gains the player more time to complete a course
+
+Players can choose from 3 different snowboarders, each with their own abilities, such as one being fast and another being good at turns.
+
+Options include 3 difficulty levels, turning a course guide on or off, whether to turn vibration on or off, and whether to turn on or off a handicap.

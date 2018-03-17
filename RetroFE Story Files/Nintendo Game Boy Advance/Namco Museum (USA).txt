@@ -1,0 +1,9 @@
+This collection of classic arcade titles includes:
+
+1. Dig Dug
+2. Galaga
+3. Galaxian
+4. Ms. Pac-Man (both scrolling and full screen)
+5. Pole Position
+
+For certain games the settings can be tweaked.

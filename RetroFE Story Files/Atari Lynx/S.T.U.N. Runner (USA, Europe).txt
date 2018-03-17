@@ -1,0 +1,7 @@
+Based on the 1989 Atari Games (not to be confused with Atari Corporation, producers of the Lynx) coin-op by Ed Rotberg.  It's 2492 and you must pilot your Sub-Terranean Underground Network (S.T.U.N.) craft at speeds over 900 miles per hour through a series of courses to retain your title as S.T.U.N. Runner, completing each course before time runs out.
+
+There are also enemies on each course, such as cycles, indestructible armored drones, and flying bird-like craft.  Shoot or avoid them.  If you hit them, you lose one of your shields (your craft has six total) and are slowed down temporarily.  The more shields you have at the finish line, the more bonus points you get.  Getting hit with no shields does not kill you, however.  There are no lives in this game.  The only way to lose is to fail to cross the finish line.
+
+Along the way you'll encounter Boost Pads that temporarily speed you up to incredible speeds and make you indestructible.  By running over enough green stars on each course, you can also earn Shockwaves, which destroy all enemies in your path.
+
+Note that there is no accelerator in this game.  Your craft always goes full speed, unless you hit something.  Then you will slow down, but quickly accelerate back to full speed.  Other than that, you cannot slow down and the only way to speed up is to run over a Boost Pad.  Your only controls are steering left and right and aiming the gun on top of your craft up and down.

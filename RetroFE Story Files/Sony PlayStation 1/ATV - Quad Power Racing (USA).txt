@@ -1,0 +1,1 @@
+Race around closed circuit tracks on a collection of four wheel motorbikes, each with positive and negative features (handling, speed, etc.). Finish each race above the needed result and you'll move onto the next level. Once you complete a circuit, you'll move up the rankings to harder tracks, better bikes and more difficult enemy AI riders.

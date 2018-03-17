@@ -1,0 +1,1 @@
+Slot Machine is an electronic slot machine simulation for one or two players. Players start with twenty five coins, and can bet up to five coins on each turn. The game ends when one of the players goes broke. There are two different slot machines, and several game variations are available which affect the level of difficulty.

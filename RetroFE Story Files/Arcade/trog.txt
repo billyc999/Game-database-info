@@ -1,0 +1,7 @@
+1 to 4 players take on the role of a cute dinosaur, selected from the four on offer : Rex (red), Bloop (blue), Spike (yellow) and Gwen (lavender). The game takes place in a prehistoric land called 'Og' and is made up of forty-nine different islands; the dinos must collect all of the dinosaur eggs that lay on the islands, while avoiding the unwanted attention of a tribe of one-eyed cavemen, called 'Trogs'. The dinos can punch the attacking Trogs; one punch will only stun a Trog but several punches will knock the enemy off the screen. There are 4 different Trogs who pursue the dinos :
+* Brown Trogs who use only their fists.
+* Red Trogs who use clubs and create fires or holes in the ground.
+* Blue Trogs who pop up out of the ground and roll stone wheels.
+* Green Trogs who bounce around trying to crush you with their springs.
+On each island, after the dinos have gathered up all of their eggs, they must make their way to the base labeled 'Home'; from here they will move on to the next island.
+Between each stage, there is an intermission where the players' Dinos will dance, with an on-screen caption proudly declaring 'Excellent!', 'Congratulations!', 'Nice Work!', 'Good Job!' or 'Dino-Mite!'. On occasion, an intermission screen appears that shows a Trog planning another attempt to eat a Dino.

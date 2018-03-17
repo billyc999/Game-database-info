@@ -1,0 +1,5 @@
+Loosely based on the fourth movie "Jaws: the Revenge", players take control of a ship to sail the ocean in the search for the killer shark.  Along the way, the ship will stop to allow a diver to swim out and kill baby sharks, jellyfish and manta rays to find conch shells.  The conch shells are used to buy upgrades for the boat.  Extra conch shells can be earned in bonus rounds where a sea plane flies over the water to bomb jellyfish (think the bonus rounds of Galaga with reversed perspective).
+
+The diver will battle Jaws several times in an attempt to wear down his life meter.  If the player is lucky, they can find a submarine to increase their firepower and defense.
+
+If the diver manages to wear down Jaws' energy, they take back to the boat again, launching strobes into the water in an attempt to lure the shark out of the water.  If close enough, the player can use the boat to ram Jaws in an attempt to kill him and win the game.

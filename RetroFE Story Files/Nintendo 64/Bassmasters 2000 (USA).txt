@@ -1,0 +1,9 @@
+BassMasters 2000 is a fishing simulation game which counts a total of  4 modes and has a wide variety of customizable options. You can create and save up to 7 anglers through the �Create Angler� option and customize stats such as sex, hair, face, clothes, etc. Other customizable options include �Lake Conditions� (lake location, season, weather, time, etc.), �Boat� (boat model, engine, etc.) and �Tackle� (rod/reel, line, lure, etc.). These are the following modes:
+
+1. Exhibition - the only mode where every customizable option is available. The objective is to catch up to a certain number of fish and the sum of their weight to equal or surpass the weight that is mentioned in the beginning of the mode.
+
+2. Tournament - there are 6 tournaments you must compete in and each tournament lasts for 3 days. Fishing lasts until the day is over at the end of which the total weight of fish caught is counted and depending on how well you did you get the equivalent rank. If at the end of the last tournament you manage to rank 5th or higher place new equipment and boats are unlocked. 
+
+3. Speed Fishing - in this mode you�re given a time limit of 3 minutes and must catch as more of the fish mentioned in the overview as possible. Time is extended by one second depending on how much the fish weighs and the objective is to fish for as long as you can.
+
+4. Casting Game - you must cast the line at certain spots on the lake which are specified by coloured circles within the time limit. With each target you manage to hit you receive points and if the points that are accumulated are high enough you get additional time and the patterns in which the targets appear change.

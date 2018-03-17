@@ -1,0 +1,1 @@
+A sequel to "Hyper Pacman". The power-ups tossed throughout the mazes consist of vision goggles helmet/laser helmets, speed, hyperspeed, jump shoes, bonus stages and free pac-men. The game ends after the 40th stage.,

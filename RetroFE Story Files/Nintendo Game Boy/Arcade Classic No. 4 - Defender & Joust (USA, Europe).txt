@@ -1,0 +1,6 @@
+A compilation and port of:
+
+1. Joust
+2. Defender
+
+The games can also be played on the Super Game Boy Peripheral and has altered graphics from the original versions.  It does not feature the ability to use the Link Cable, but does have an option for two friends to take turns for each game.

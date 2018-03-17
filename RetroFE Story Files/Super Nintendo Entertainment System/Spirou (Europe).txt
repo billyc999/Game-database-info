@@ -1,0 +1,1 @@
+This is a simple platform game, you're in a role of porter, jumping down the streets and buildings, and taking as many points as you can get. There's no strong background story.

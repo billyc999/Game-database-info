@@ -1,0 +1,1 @@
+A shooting game with a military motif. The player uses a gun, mounted to the cabinet, to protect allies from a variety of dangers while attempting to break through and conquer enemy lines and get promoted to a higher rank (from Private to General Of The Army) and be awarded a campaign medal.

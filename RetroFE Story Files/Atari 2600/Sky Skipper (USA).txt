@@ -1,0 +1,14 @@
+You pilot a plane and must rescue animals from cages where they were placed by gorillas. To do this, you fly over a gorilla and drop a bomb, knocking the gorilla off its feet. Once this is done, the animals will be out of their cages and you just touch each one to rescue it. The animal cages will only be open for a limited time, then the gorilla will get back on its feet. You must then knock it down again.
+
+You mustn't take too long rescuing the animals or you will run out of fuel. If you run out of fuel, run into a gorilla or the course walls or, strangely, a cloud, you lose a plane. You begin the game with four planes.
+
+Difficulty switches
+Set to A for faster plane, set to B for slower plane.
+
+Game variations
+Game 1...Tricky flying course
+Game 2...Tricky flying course and clouds
+Game 3...Tricky flying course, clouds and faster plane.
+
+Scoring
+Knock a gorilla of its feet

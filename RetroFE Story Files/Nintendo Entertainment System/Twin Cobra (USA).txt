@@ -1,0 +1,7 @@
+Conversion of the Toaplan original game, this conversion is based on the Japanese 1 player version (Ultimate Tiger).
+
+You pilot the TC-17 Twin Cobra assault helicopter to fight the forces of Commander Anziga, the myopic leader of the nation of Kaban. Your job is to fly into Kaban and take out the entire military base of Commander Anziga.
+
+You will fight small helicopters, tanks and stationary guns, defeat the large helicopters to get power-ups. By picking up colored icons (blue, yellow, red or green) you can change to different weapon types. Blue is a forward spread shot, yellow is a four-way shot, red is a wide forward laser shot and green is a continuous forward laser shot.
+
+At the end of each section, you land on a carrier ship and count up your bonuses.

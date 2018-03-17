@@ -1,0 +1,7 @@
+Take a one-wheeled bike for a spin in the futuristic world of Trick Star!  Choose from four up and coming riders, and compete in the Ibex, Glyder and Kotsu Leagues to become the ultimate champion!
+
+Trick Star is a futuristic racing game where the racers ride slick one-wheeled bikes. Players race along the track, with the goal of not only coming first, but also performing stunts to impress the crowds. Stunts cannot be performed until a certain speed is reached, and the "Trick Star" appears on the HUD. When it appears, players can perform a stunt by holding L or R, as well as any direction on the Control Pad. Performing stunts also fills your boost meter - when it is full, you can press L and R simultaneously to get an extra boost.
+
+In League Mode, players must complete three tracks, as well as scoring enough points to qualify for the Challenge Mode. Once the player has enough points, they can enter Challenge Mode, where they are asked to perform a particular set of stunts in between markers. When they succeed, they are rewarded with additional stunts and progress to the next set of tracks.
+
+Trick Star also includes one player at a time multiplayer, for up to four players. Players can compete in Time Trial (aim for the fastest time), Stunts (get the highest stunt point score), Long Jump (jump the longest distance along the track) and Challenges (complete the required challenges). After each player has had a go, the results are shown.

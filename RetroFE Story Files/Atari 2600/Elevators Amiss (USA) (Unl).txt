@@ -1,0 +1,3 @@
+Maid Maria has to reach the top of the hotel, but the elevators have gone haywire!  She'll have to use the stairs at each end of the floors, but watch out for the out-of-control elevators.
+
+Guide the maid to the end of each floor, where she will automatically climb the stairs to the next floor.  Work your way up to the top, but don't rest easy - you'll soon be whisked away to the next hotel.

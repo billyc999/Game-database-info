@@ -1,0 +1,1 @@
+World Masters Golf is a golf sim game for the SNES released in Europe. It features four gouraud shaded courses. Modes of gameplay are Tournament, Match Play and Practice. There are created golfers and the option to create your own. The game allows golf handicapping. Up to eight players can play. There is a mode 7 view camera that follows the ball after it is hit.

@@ -1,0 +1,9 @@
+Back to the Future II is a collection of five arcade and puzzle games.
+
+Based on the second installment of the popular Hollywood series Back to the Future, this movie conversion has Marty McFly and Doc Brown travel through time to stop their arch-rival Biff from changing the future. The game consists of five parts, each inspired by one of the movie's most memorable scenes:
+
+1. Hoverboard Chase: A Paperboy clone without newspapers, but with isometric levels and lots of enemies to dodge.
+2. Jennifer Rescue: Guide Marty's girlfriend Jennifer out of the house without her meeting one of the four family members. Open and close doors to make the persons go from one room to the next in this top-down puzzle sequence.
+3. Beat Biff: A side-scrolling beat-em-up sequence in the tradition of Double Dragon. Fight your way through a grim 1985 by jumping, hitting and kicking at Biff's lackeys.
+4. Band Puzzle: Rearrange the mixed-up parts of an animated picture of the school band in this sliding block puzzle. The clock is ticking.
+5. Hoverboard Chase 2: Another hoverboard sequence, similar to the first one, only this time set in 1955.

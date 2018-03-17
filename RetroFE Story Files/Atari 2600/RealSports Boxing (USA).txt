@@ -1,0 +1,1 @@
+This features one or two player action, with a wide range of moves. There are 4 distinct players - unusual for this era, two of them are visibly black. Each player has a distinct weakness, and as such a particular shot is most effective to finish them off. A power bar indicates how well each player is doing. The ring is properly 3D, with movement horizontally and vertically.

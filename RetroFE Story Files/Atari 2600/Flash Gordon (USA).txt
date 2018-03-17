@@ -1,0 +1,12 @@
+You are Flash Gordon. Many spacemen have entered Spider City but never returned. Your job, Flash, is two fold. Rescue any spacemen you find in the tunnels of Spider City and destroy all the hatching pods.
+
+The lower part of the screen is a map. You are the horizontal line, the hatching pods are the vertical lines and the Disrupters are the crosses. The upper part of the screen is the close-up of the action.
+
+You rescue spacemen by touching them with your ship. You destroy hatching pods, and the spider warriors that hatch, by flying to the pods then shooting the warriors.
+
+You can also shoot generators, patrol ships and debris. Shooting the generator will keep the Disrupter from moving about the city for a little bit but the debris never stops while you are within, so don't hang out in the Disrupter.
+
+If you destroy five warriors at one hatching pod or your ship is destroyed when it returns, you will have a shield for a short time. There will be two beeps to warn you of the shield leaving.
+
+The scoring is as follows:
+10 points

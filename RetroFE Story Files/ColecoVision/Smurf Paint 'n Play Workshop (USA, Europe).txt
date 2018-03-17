@@ -1,0 +1,9 @@
+Choose any one of four background scenes and start to add clip-art objects, furniture and free form design. The four scenes are:
+-Outside a mushroom house
+-Inside a mushroom house
+-The River crossing
+-Gargamel's Castle
+
+Create any number of decorated scenarios and then use either controller to change into one of four characters: Smurf, Papa Smurf, Smurfette or Gargamel and play around in the graphic you have created. Characters are able to move left, right, up, down... jump and drop.
+
+There is no method of saving your work, so it all disappears when the power goes off.

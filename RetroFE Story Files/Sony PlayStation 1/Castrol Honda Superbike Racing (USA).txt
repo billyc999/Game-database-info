@@ -1,0 +1,7 @@
+This licensed motorcycle game lets you take control of the Honda RVF-RC45. You can try to go through the whole World Championship or just take one race at the time.
+
+Each of the ten tracks can be played in three parts, practice, qualification and the real race. The tracks range from closed-circuit Grand Prix style race tracks to street race in Britain and Japan among others.
+
+To make it suitable for both arcade and simulation fans much of the realism can be tuned up or down. It's not only about the races, but you will also get to tweak your bike.
+
+For those who want to play against others, you can compete against five other players over a network or one player splitscreen.

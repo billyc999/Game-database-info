@@ -1,0 +1,7 @@
+This 2D platformer has elements of role-playing and adventure in addition to side-scrolling action.
+
+The story is a classic one of good versus evil.  Disaster strikes the once peaceful Elf town of Eolis. The sky rains meteorites upon the World Tree - wild animals and evil monsters terrorize the citizens - the water supply from the wells is dwindling - plants are withering - people are dying. Only you can restore peace to the land by conquering the Evil One, who lives in the Evil Place.
+
+There are many places you must visit during your quest including the medieval town, where you begin, country villages, fortresses, caves, and gloomy bogs - each with its own ambiance and musical score.  You will be talking with the villagers, collecting gold to buy weapons, armor and other objects, jumping over obstacles and using items.  Attack zombies, dwarves, giant snakes, wyverns, evil gnomes, or one-eyed one-footed things with a large collection of swords and daggers or zap them with a magic spell. 
+
+As areas are completed by defeating enemies, your character rises up in �levels� and achieves a new �rank� which is tied directly to the restore password (called a �mantra� in the game). The higher your �rank�, the more gold you start out with.  Saving a game can only be done in a shrine or temple with a priest.  This is also where you are transported when you restart the game - or if you die.

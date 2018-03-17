@@ -1,0 +1,15 @@
+Game Boy Color version of Boarder Zone is substantially different from its PC namesake.
+
+This version features a pseudo-3D environment, where the camera is positioned behind the boarder and the piste scrolls towards the camera. Obstacles appear on the horizon and increase in size as they near the viewpoint.
+
+The two main game modes are 'Competition' and 'Challenge'.
+
+Competition features a 'race attack' mode (basically a speed race with another AI player), Trick Attack (trick points based over 5 courses, beating a course threshold to advance), Time Attack (best time), and Supreme Attack (race with tricks).
+
+Challenge modes is about beating any previous records set for a particular track and supported Time Attack (best time), Trick Attack (best trick points), Slalom Attack (time on a flag course), and Vs Race (which uses the Game Boy Universal Link Cable).
+
+There is also a practice mode and a 'ghost boarder' - basically a replay of the player's best race.
+
+Trick moves include Mute Grab, Nose Grab, Tweak, Stiffy, Indy Air, Tail Grab, Stalefish, Shifty Air, Meloncholy, Frontside Air, Backside Air, 180, 360, 540, 720, 900, 1080, Front Flip, Back Flip, Rodeo Flip, and McTwist; most of which are performed with combo style control moves.
+
+The player can choose from four characters: Sandy, Travis, Alain, and Tara.

@@ -1,0 +1,1 @@
+Action-oriented baseball sim. Hardball 5 is mainly an update to Hardball 4, with the additions coming in the form of adjustable difficulty settings, sharper graphics, more comments by Al Michaels and improved league play which comes with a full set of 1994 major leaguers plus a bonus "legends" league. Includes multiplayer support for up to 2 players.

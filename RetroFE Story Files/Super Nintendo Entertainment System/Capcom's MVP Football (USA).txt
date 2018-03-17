@@ -1,0 +1,9 @@
+This is an American Football game which features four different game modes. 
+
+There is the Custom mode which let's the player set up an exhibition game between two teams. The player can either choose to directly control the football players on the field or choose to just coach the team by selecting plays and letting the computer control the on field action. Other parameters that can be adjusted are the quarter length, the field conditions, and the difficulty of the computer opponent.
+
+There is also a Tournament mode where the player tries to take a team through a playoff bracket in order to get to the Super Bowl.
+
+MVP mode puts the player in game situations in which the player has to try to overcome.
+
+Demo mode lets the player watch the computer play against itself.

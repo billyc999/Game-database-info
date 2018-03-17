@@ -1,0 +1,3 @@
+Your player is a Cabbage Patch kid with pigtails who is having a day at the park. A day that includes jumping onto vines and leaping over holes and bouncing onto correct platforms. A misplaced jump will lose a life and additionally there are a few creatures such as bees who end the player's turn when touched.
+
+ There are several screens of challenge with different combinations of obstacles.

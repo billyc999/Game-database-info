@@ -1,0 +1,5 @@
+In this adventure game based on the Tiny Toon cartoons, the player starts to control Plucky Duck, and needs to assemble a time machine, subsequently travelling through time to rescue the world from Montana Max' evil plans.
+
+Typical adventure game puzzles involve finding the parts for a time machine (in the form of a bike) etc. Later in the game, control is diverted to Buster Bunny, Hampton and Babs Bunny, allowing for complex multi location puzzles.
+
+The game has no voiceover, but displays large amounts of text in speech bubbles. Progress is saved on memory card.

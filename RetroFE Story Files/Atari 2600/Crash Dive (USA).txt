@@ -1,0 +1,6 @@
+The object of this game is to use your flying sub, the Sea Hunter,  to destroy enemies and get treasures.
+
+You move fastest when in the air, half speed when in the water and cannot move forward when on the sea bottom.
+
+Your enemies and their point values are:
+Plane

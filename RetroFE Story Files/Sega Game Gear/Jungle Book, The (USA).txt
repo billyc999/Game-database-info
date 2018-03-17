@@ -1,0 +1,5 @@
+This 8-bit adaptation of Disney's 1967 animated film Jungle Book is slightly different from the other versions. Although most of the main elements remain the same, the most noticeable differences are in level design and some missing items.
+
+The player controls Mowgli in his journey to the human village. Mowgli will swing on and climb vines, run and jump while facing enemies such as coconut-throwing monkeys, snakes and vampire bats. To fight them, Mowgli can throw bananas in eight directions. He'll also find upgrades and weapons such as boomerangs inside banana bunches. There are some boss fights with main characters of the movie, such as the snake Kaa.
+
+The objective of each of the 10 time-limited levels (or "scenes") is to collect gems scattered around them. Collecting certain amounts of gems grant access to bonus levels. The player starts the game with 4 lives and 1 continue.

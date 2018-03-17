@@ -1,0 +1,1 @@
+Action block puzzle game, known in another guise as Solomon's Key. You have to obtain the key and get to the exit by creating and destroying blocks and avoiding various monsters and obstacles. A password save allows ease of continuing..

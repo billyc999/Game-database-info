@@ -1,0 +1,5 @@
+In the land of Virg, it is custom to select the King at the Tournament of Champions. Aspiring to rule the human world, a zealous demon from the Netherworld sends out five phantoms to posses each contender, so that the last survivor will be able to murder the king. However, one of the contenders, Durill manages to defeat the phantom that tries to take control of him, but dies from exhaustion. His son Kerrel takes Durill's place in the Tournament to avenge his father and kill the demon.
+
+Battle Blaze is a one on one fighting game seen from a side-scrolling perspective. A jump and an attack button is all that is needed to control the six different characters. Each character uses a different weapon and has a few unique special attacks.
+
+There are two modes of play: In "Hero"-mode, the player can only control of Kerrel and must follow the game's story. In "Battle"-mode, all characters are available and two-player fights are possible.

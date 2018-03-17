@@ -1,0 +1,1 @@
+A horizontal-scrolling fighting/adventure game where the player controls a swashbuckling sailor who fights pirates through the town, the castle and the castle dungeons to rescue his fellow sailors from a mad pirate captain.

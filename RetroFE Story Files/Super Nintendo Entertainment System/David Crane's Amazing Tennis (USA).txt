@@ -1,0 +1,5 @@
+A tennis game featuring both an exhibition and a tournament mode. In the head to head exhibition mode, the player can choose their opponent (with the higher ranked opponents being better than the lower ranked ones). The tournament mode allows for 16 different players to compete to become the champion. Both of these modes can be played on either grass, hard, or a clay court. The player can also choose whether to be either a left or right handed tennis player.
+
+During the game, whoever is serving the ball will be closer to the screen. Players will be able to use topspin, execute drop shots, perform volleys, lobs, slices and overhead smashes, and decide on either a hard or soft serve to keep the opponent off balance.
+
+Although the game features fictional players, it is endorsed by Footlocker.

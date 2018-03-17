@@ -1,0 +1,1 @@
+In this quiz game, players earn seconds for correct answers, then with the time gained, they have to answer as many questions as possible to complete a line on the triangle grid to win a prize.

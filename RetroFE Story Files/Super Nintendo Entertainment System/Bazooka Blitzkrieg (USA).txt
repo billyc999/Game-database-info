@@ -1,0 +1,3 @@
+Sylon Corporation's robots, the XT7 Cyborg-Commando Fighting Machines, have gotten out of control and threaten the city. The citizens are in danger and the only way to stop them is to destroy them.
+
+Bazooka Blitzkrieg is a first person shooter game that uses the Super Scope light gun. Players begin the game in either Blitzkreig mode or Boot Camp (Training for each of the levels). Upon starting the game, the screen slowly moved from left to right. The player fires his weapon at the different robots to destroy them. The scope's fire has a regular "machine gun" firing, as well as a more powerful charged-up shot. There are three levels in all and bosses at the end of each level which must be destroyed in sections.

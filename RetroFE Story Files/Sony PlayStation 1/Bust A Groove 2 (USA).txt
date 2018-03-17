@@ -1,0 +1,1 @@
+This sequel to Bust-a-Groove adds new characters and music to the dancing game.  Other changes were made in the interface graphics, but the bulk of the gameplay is the same as the original.

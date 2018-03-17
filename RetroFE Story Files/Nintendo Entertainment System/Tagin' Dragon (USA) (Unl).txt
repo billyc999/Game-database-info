@@ -1,0 +1,3 @@
+This is a game of tag using dragons.
+
+The dragon is only vulnerable from the rear so you need to sneak up on your opponent to tag him. Be careful, though, that your opponent does not sneak up on you and do the same to you. In a one player game, it is you versus three computer controlled dragons. In a vs. mode game, it is you versus another player controlled dragon. In a double player game, it is you versus another player and three computer controlled dragons in a wild free-for-all.

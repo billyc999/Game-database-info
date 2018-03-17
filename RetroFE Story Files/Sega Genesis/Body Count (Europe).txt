@@ -1,0 +1,3 @@
+"Body Count" has a simple story: aliens have invaded the Earth, and you, a lone soldier who is particularly skilled at shooting and sniping, are called to save the planet. 
+
+"Body Count" is an arcade-style shooter. You shoot from a first person perspective at enemies that keep appearing on the screen. Once you have eliminated enough enemies, you are automatically transferred to the next fixed screen. On your way, you can pick special items that allow you to use a powerful all-screen attack a limited number of times.

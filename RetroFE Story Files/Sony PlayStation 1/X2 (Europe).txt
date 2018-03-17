@@ -1,0 +1,5 @@
+X2: No Relief is the sequel to Project-X for up to two players. Like its predecessor, it's a horizontal (and sometimes vertical) scrolling shoot em up. The manual instructs the player that this game doesn't need a story, and they should simply get rid of the attacking aliens.
+
+To do so, the player has a choice between three types of space ship, each of them differs in terms of firepower and speed. The game has two different difficulty modes and a password system to resume the fight for the first five levels. During gameplay, the player has the possibility to pick up a wide variety of power-ups for their ship. Next to the main gun, side weapons and anti-gravity orbs with their own firepower can be obtained as well as mega-bombs, among other things.
+
+The game is over once all lives or continues are used up. The player is then taken to a high-score screen to enter their initials.

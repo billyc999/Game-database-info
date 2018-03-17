@@ -1,0 +1,3 @@
+The player takes control of a starpilot with a mission to defend star bases from a fleet of invading alien warships. The game takes place from a cockpit perspective from one of four starfighters; the Stinger, Striker, Stalker,or Slasher. The game has 7 battle scenarios and a 4 scenario campaign mode. 
+
+The starfighter ships come equipped with a computer, engine, shield, weapons, and missiles which can be damaged from enemy combatants or space debris like asteroids. The ship also comes with a Long Range Scanner, which shows the locations of enemies on the map. The map itself is made up of 64 square sections. Finally, the ship also has a Hyperwave Reciever, that lets the player communicate with both the aliens and the player's base.

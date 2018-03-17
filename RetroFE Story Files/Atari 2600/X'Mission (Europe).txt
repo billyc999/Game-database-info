@@ -1,0 +1,1 @@
+In X'Mission The player controls a kind of flying saucer, your main goal is to reach the structure that moves in the corner.  Properly touching it, the player will dock your ship to the structure, which will carry you to the next level. Along the way the player will encounter many enemies who may or may not be slaughtered (depending on the will of the player to get more points).

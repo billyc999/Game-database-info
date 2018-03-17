@@ -1,0 +1,1 @@
+A conversion of the popular arcade beat-em-up which now adds all the characters from Tekken's 1 and 2 and some secret characters, new modes in include Tekken Force mode, Ball mode, etc.

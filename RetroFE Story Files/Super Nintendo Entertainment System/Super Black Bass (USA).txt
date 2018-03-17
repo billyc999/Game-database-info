@@ -1,0 +1,11 @@
+Super Black Bass is a bass fishing game where players can compete in four different lake tournaments. Player can fish in: Skywater Lake (Local Amateur), Clear Lake (Amateur), Murphy Lake (Pro) and Bluestone Lake (Super Bass), the goal of which is to catch a certain weight limit of bass before a certain time limit.
+
+There are two screens, the boating screen where players navigate a lake using the D-Pad to navigate, the "A" button for acceleration and the "B" button for reverse.  The "Y" button is used to enter the fishing screen.  There is also a fish finder on the lower part of the screen that helps the player in locating a good place to fish.
+
+When the player enters the "fishing screen", they can use the "L & R" shoulder buttons to increase the distance meter, the "X" button brings up the lure selection screen, the "B" button can bring an overhead view of the location the player currently has the lure set for and the "Y" button brings the player back to the "boat mode".  To cast, the player presses the "A" button once to start the cast meter and a pressing it again when the meter is set at a certain limit to cast it.
+
+While fishing, the player will have an overhead top-down mode of the lake, using the "A" button to reel in their lure and using the D-Pad to manipulate movement of the lure.  Fish can be seen through the water, outlined in a light color while bigger fish are seen stationary and cast in a dark shadow.  Once the player hooks the fish, a meter will show up at the bottom, showing the tension of the line, when it hits to the far right of the meter, the line will snap.  The line can also be manually cut by pressing the "A+B" buttons together.
+
+There are eight different lures to choose from (Pencil Bait, Torpedo, Jitterbug, Frog, Crankbait, Spoon, Furry Sinker & Plastic Worm) along with several different color variations to choose from and five fish to catch (Blue Gill, Rainbow Trout, Catfish, Northern Pike and the game's namesake, Bass).
+
+There are also attributes the player can have, Technique and Strength, that can be upgraded by catching more bass and  progress can be kept through a password feature.

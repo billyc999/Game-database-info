@@ -1,0 +1,3 @@
+Like the console versions, Tak: The Great Juju Challenge features Tak and Lok as contestants in the great Juju Challenge, an obstacle course designed to test your brains and brawn.
+
+The story just provides a framework to rest the levels upon. Each world features a few platforming levels, then a boss battle, then a racing level. You can switch between Tak and Lok at any time; they have different moves, with Tak focused on magic, and Lok on combat.

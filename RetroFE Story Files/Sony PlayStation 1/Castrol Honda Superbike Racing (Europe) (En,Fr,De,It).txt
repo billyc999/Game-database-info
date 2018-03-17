@@ -1,0 +1,1 @@
+Superbike racer with about 20 tracks and some machine tweaking (tires, gearbox and trail offset). Only one bike model is available, from the sponsors' team (Castrol-Honda). Optional driving aids make it feel much more like an arcade racer than a sophisticated simulation.

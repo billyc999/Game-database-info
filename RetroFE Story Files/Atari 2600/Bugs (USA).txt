@@ -1,0 +1,13 @@
+You have been sent to a long-dead planet to investigate life sign readings. When you get there, giant bugs are there and will harm you as well as a mysterious Phylanx.
+
+As the bugs come out of the ground, you must place your crosshair below them and fire. When the Phylanx appears, it will be green then will go dark green then red. When it turns red, it will move back and forth across the screen. If a bug gets all the way out of its nest or your crosshair is touched by a red Phylanx, you lose a life. Then, if in a two player game, it is player two's turn.
+
+Difficulty switches
+Left switch for player one, right for player two
+Set to A for beginner, B for advanced.
+
+Game variations
+The only variations to choose with the select switch are one or two player.
+
+Scoring
+Destroy a bug

@@ -1,0 +1,8 @@
+1080� Snowboarding is a snowboard racing game for the Nintendo 64. In this game the player will find more than 6 downhill slopes and several characters to choose from. After choosing a character and a board, the player can compete in a variety of events:
+
+1. Match Race: Race head-to-head against a computer controlled opponent.
+Time Attack: Try to beat a previous best time down a slope.
+Trick Attack: Try to get the best trick score on a slope.
+Contest: Race for the best time down a slalom route.
+2P Vs.: Race against a friend.
+Practice: Practice tricks in a half pipe or jump slope.

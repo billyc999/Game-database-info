@@ -1,0 +1,1 @@
+Torpedo Range is 2D shooter game for Game Boy. The player controls a submarine. Game has several modes - map (player goes to next mission in top-down perspective), shooter (player hunts for planes, ships and other submarines), and FPP shooter (player fires torpedoes to enemies, and destroys all resistance). Submarine has limited ammo, and some shields.

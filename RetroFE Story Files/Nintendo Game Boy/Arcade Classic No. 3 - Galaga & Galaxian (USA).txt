@@ -1,0 +1,1 @@
+A compilation of two classic arcade titles, Galaga and Galaxian ported over to the Game Boy and features original gameplay features.  It is also Super Game Boy compatible complete with background borders that replicate their original arcade machine casings.

@@ -1,0 +1,5 @@
+There are six Core nuclear bases on the planet's surface. You must burrow underground to each of these bases and destroy them. But be warned, they are guarded by patrolling Core Ranger tanks that if they get you in their line of fire, will destroy you.
+
+There are two types of tanks. The white Sentry tanks only move through existing tunnels and will only fire on you if there is clear space between you and them. The blue Digger tanks will create their own tunnels to pursue you. There is also a Sentry tank at the bottom of the screen that slowly moves towards your reserve tanks. If this tank reaches you reserves before you destroy all six bases, you lose a life. The game is over if you lose all lives.
+
+There are enemy supplies buried in random areas that if you get them will get you bonus points. Later levels have the bases only appear one at a time or have no dirt between you and the enemy tanks, leaving them to pursue you from the start.

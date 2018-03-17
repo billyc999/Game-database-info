@@ -1,0 +1,5 @@
+Choose from 1 of 8 different racers who compete on 8 different bicycle race courses. The game splits the courses into different stages, with each stage having a requirement to move on to the next stage. The requirements are based on completing a set number of laps or attaining a certain score, except for the final race where the player must come in 1st place in 30 laps. 
+
+There are also a number of selectable mountain bikes which are rated in the categories of turning, speed, tires, acceleration, and shocks. During a race, players can punch opposing cyclists and also jump ramps. The higher the position the player comes in at the end of a race, the higher the score the player will receive.
+
+It was also re-released as a part of the SNES game Exertainment Mountain Bike Rally / Speed Racer as the Mountain Bike part of it, along with another game. It contains the same gameplay with only a few minor graphical changes.

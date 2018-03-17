@@ -1,0 +1,3 @@
+Motocross Mania is a motorcycle racing sim.  It features tricks in the style of the Tony Hawk series of games, and includes Motocross, Supercross, Baja and Freestyle modes of play.
+
+The game features realistic physics, although no damage modeling.  It has 20 different venues, from arenas to outdoor tracks, covering 12km/sq of area.  With the 3D engine, you get many of the camera angles used in flight sims, and it supports the top hat switch on joysticks.  The game has a career mode, a straight racing mode, and a single player freestyle mode available.

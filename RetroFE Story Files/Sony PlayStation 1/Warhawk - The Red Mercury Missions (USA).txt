@@ -1,0 +1,5 @@
+Warhawk is an action/simulation game built around a futuristic VTOL craft.  The player maneuvers with 360 degrees of flight control through 6 unique levels.
+
+3D weapons include fire off lock-ons, rockets, multi-fire swarmers, and plasma cannons.  The player will need all of these when deadly air and ground forces surround him in desert and volcanic wastelands, castle hallways and chambers, and gothic tower airships.
+
+There are no saving or loading features. Instead, a password is presented each time a level is completed. In 2007 Incognito Entertainment remade the title as a multiplayer-only PlayStation 3 game.

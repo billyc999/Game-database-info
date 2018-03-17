@@ -1,0 +1,5 @@
+The Striders are a global organization of infiltration specialists who work to combat villainy and keep the world safe. From their orbital space station, the Blue Dragon, they are able to quickly reach anywhere in the world.
+
+Hiryu is one of the top striders. He is given the task by Vice-Director Matic, of finding another captured strider, Kain. But rather than mount a rescue, Hiryu is told his assignment is to kill Kain. Hiryu questions these orders and travels to Kain's last known location to try to find him...
+
+Strider is a platform game where Hiryu must fight his way past enemies and uncover keys, characters and data disks (which can be analysed aboard the Blue Dragon) to find out what's going on. His primary weapon is his jumping ability and sword, the Cypher, which he uses to strike with great speed. At some point in the game, the Cypher may be modified to shoot plasma arrows. Hiryu also has a various set of "skills" which he learns as he gains levels. Examples of skills are a healing ability (Medical), a jumping ability (Jump), some additional attacks (Spark, Fire, Sp-Ball) and the ability to leave an area (Warp).

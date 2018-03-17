@@ -1,0 +1,16 @@
+You are the last mining robot on the Minos mine. Monsters have destroyed all your comrades.
+
+As the last robot, you must traverse the mine's various levels, gathering spare parts to make more robots (extra lives). You must either avoid the monsters or blow them up with a bomb. After a few seconds, if the monster hasn't hit the bomb, it will explode harmlessly. You can only drop one bomb at a time. If a monster is killed, it will regenerate somewhere in the maze.
+
+To deposit your spare parts, you must get to the center top or bottom of any level. To move to another level, hold your joystick button down while moving through the tunnels on either side. You can also use these tunnels, without holding down the button, to quickly get from left or right side of the maze to avoid monsters.
+
+To win the game, get to level five and ram each of the three stationary monsters to kill them. You will need at least two spare robots as the ramming will destroy you and the monster.
+
+In two player games, player one is the robot, player two is a monster. If the robot runs into the monster being controlled, the monster is destroyed instead of the robot. However, by pushing the joystick button, player two can switch to another monster, allowing the robot to run into an uncontrolled (and therefore deadly) monster.
+
+Difficulty switches
+Left switch for the robot, right for the monsters.
+Set to A to make half speed, B for normal speed.
+
+Game variations
+1P

@@ -1,0 +1,5 @@
+Hey You, Pikachu! is a pok�mon adventure game. The game allows you to speak directly to Pikachu via the Voice Recognition Unit (VRU) included with the game, in order to tell Pikachu what to do and help direct the adventures the two of you embark on.
+
+The game features 20 different minigames which you and Pikachu play together. Some involve you catching water pok�mon, while another might send you search for ingredients for stew. When the minigame is over, you go back home and sleep, waking up the next day to play another game. As the game progresses more of the features and minigames are unlocked, and Pikachu's friendship meter will grow.
+
+Pikachu will understand around 200 different words or simple phrases like "come here", "stop that", and "eat it". Voice communication is the primary method of interacting with the game, though the analog stick is used for navigation.

@@ -1,0 +1,11 @@
+A Formula One racing game in which the player races over a number of International Grand Prix circuits, trying to complete each lap before the time limit expires. Continental Circus features Pit-stops and dynamic weather; the latter in the form of rain.
+If the player's car is hit by either a rival car or strikes a trackside barrier, the car will be damaged and begin to smoke. The player must 'pit' at the earliest opportunity to get the car repaired, otherwise the fire will spread and the car will eventually explode. Should the player's car have a second collision before the Pit-stop is reached, the car to explode, wasting precious time before a replacement car appears.
+Contintal Circus' Grand Prix tracks are as follows :
+BRAZIL / Brazil GP - Qualified Rank 80
+AMERICA / U.S.A GP - Qualified Rank 60
+FRANCE / French GP - Qualified Rank 50
+MONACO / Monaco GP - Qualified Rank 40
+GERMANY / Germany GP - Qualified Rank 30
+SPAIN / Spain GP - Qualified Rank 20
+MEXICO / Mexico GP - Qualified Rank 10
+JAPAN / Japan GP - Qualified Rank 3

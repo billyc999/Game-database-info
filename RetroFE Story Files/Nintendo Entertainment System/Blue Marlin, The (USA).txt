@@ -1,0 +1,3 @@
+The Blue Marlin is a big, strong, quick fish with a long nose. To catch such a fish is the dream of any fisherman. A great fishing competition begins this summer in Florida and Hawaii. You are invited to participate in it. Will you be able to demonstrate your fisherman skills and win the competition?
+
+"The Blue Marlin" is a fishing simulation. You start out in Florida and work your way through various fishing stages in Florida and Hawaii. Each stage contains three different locations. You navigate your boat from a top-down view, choose an appropriate place, and then start fishing. You can choose the length of the line, how deep you put it into water, what lure you use, etc. The more you fish, and the better fish you catch, the better stats you gain.

@@ -1,0 +1,1 @@
+Lotto Fun is a 'ping pong balls in a blower' type lottery game.

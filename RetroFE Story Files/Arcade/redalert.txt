@@ -1,0 +1,16 @@
+FIRST ATTACK IN DAYLIGHT - BOMBERS IN FORMATION WITH ATTACKING AIRCRAFT. This sequence is introduced both audibly and visually : Red alert. Enemy aircraft approaching. 20 jet fighters approaching. Destroy all fighters by 11:00 hours, or MIRV will be launched.
+In this sequence, bombers in formation move from left to right across the screen, and then from right to left, etc. During the attack, some break formation and attack the launcher. The aircraft drop bombs in an attempt to hit the launcher. Also during the attack, a special red colored aircraft flying above the aircraft formation appears and drops a red colored megaton bomb that slowly descends on the country. When hours reach 11:00, present fighter attack is interrupted by a flashing CAUTION on screen, followed by appearance of the MIRV.
+The MIRV slowly descends, then breaks up into several bombs. They, in turn, also break up into several bombs. As a result, a shower of bombs slowly descends on the country.
+Player participation during the attack is to destroy all aircraft by firing rocket launcher. During the attack, player is to avoid direct hits by bombs - each of which costs him one rocket launcher. Also during the attack, the player must destroy the red bomb before it lands, or one rocket launcher is destroyed.
+When MIRV appears, player must destroy it completely - otherwise the landing of any one will cost the player one launcher.
+SECOND ATTACK BY HELICOPTERS - DROPPING PARACHUTE BOMBS. Introduced by : Helicopter squadron attacking! Destroy helicopters by 16:00 hours, or MIRV will be launched.
+Player participation during attack is to destroy all aircraft by firing rocket launcher. During the attack, player is to keep his launcher away from red areas created by exploding bombs - or lose a launcher. Both helicopters and bombs may be destroyed by rockets. However, if the parachute, but not the bomb, is hit, the deflated parachute will drop the bomb much faster.
+MIRV attack, if launched, is a repeat of the first sequence above.
+THIRD ATTACK AT NIGHT - HEAVY BOMBERS IN FORMATION. Introduced by : Red alert.  Night attack by bombers.
+The player is aided by two searchlights. The object is to destroy all aircraft. When all aircraft are destroyed, game progresses to next frame (country). During the attack, the player must avoid direct hits by bombs. No time limit is imposed. No MIRV will be launched.
+GAME FRAMES. Game repeats above cycles through the following countries, respectively : FRANCE, USA, ITALY, GREAT BRITAIN, GERMANY, and JAPAN. However, as the game progresses from frame to frame, the action of the game is stepped up.
+HOW LAUNCHERS ARE LOST. Rocket launchers are lost by :
+* A direct hit by a dropped bomb
+* Red bomb dropped by red plane lands anywhere
+* Launcher is in red area created by exploding parachute bomb
+* MIRV lands anywhere

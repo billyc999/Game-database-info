@@ -1,0 +1,1 @@
+Miniature Golf + is a hack of Miniature Golf that adds new hole layouts with a doubled resolution. They were gathered from the winning entries of a level design competition where 60 entries were submitted.

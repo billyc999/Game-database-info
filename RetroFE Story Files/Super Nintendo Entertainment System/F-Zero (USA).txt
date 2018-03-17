@@ -1,0 +1,9 @@
+F-Zero is a futuristic racing game, set in the year 2560. The player chooses one of the four available hovercars and then can race with other hovercars in one of the gameplay modes - "Practice" or "Grand Prix". 
+
+In "Practice" mode, the player chooses one track where he competes with one other hovercar to win the race (or there can be no rival at all, if you so wish). In "Grand Prix", the player must complete a series of races with several competitors. Each race consists of five laps. 
+
+The hovercar has a limited Power meter, which represents the machine's health and decreases when the hovercar collides with the track boundaries and other players. If power runs out, the hovercar explodes and the player loses the race. There are repair areas near the start line, which restore power to the player's hovercar if he drives into them. The tracks contain many more or less dangerous traps, such as icefields or landmines. 
+
+Completing a lap awards the player a "Super Jet" which can be activated at any time to give a short speed boost. The hovercar can keep up to three Super Jets and use them when necessary. 
+
+Completing a lap also gives points, which give the player a life when enough are accumulated. The player can lose a life in the Grand Prix mode if his hovercar explodes, if his hovercar somehow falls out of the track or if he ends up too far behind the other racers.

@@ -1,0 +1,3 @@
+An arcade-style simulation of the famous P. E. game Dodgeball. Two teams face off; 4 players on each side in the infield, and another 3 from each team surround the field. Knock out all your opponent's infield players to win. You have the ability to catch thrown shots with a well-timed button press, and then return the favor with either a normal shot, or a high-powered shot, which are activated similarly to fighting-game moves.
+
+The game includes a single game mode, either single-player, or two-player, as well as a tournament mode.

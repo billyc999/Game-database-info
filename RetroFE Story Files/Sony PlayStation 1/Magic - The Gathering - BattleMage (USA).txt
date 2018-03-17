@@ -1,0 +1,5 @@
+Another of the Magic: The Gathering series, where you are a battle mage trying to challenge the authority of the new ultimate planeswalker of the lands.
+
+This combined strategy based interface with a real-time action battle simulation, is an attempt to "put to life" the creatures of the cards in real-time battle.
+
+The storyline has different possibilities for the hero to take, so the course of the game differs for every new game.

@@ -1,0 +1,1 @@
+Puzzle game where players move marbles around a checkered board, aiming to eliminate marbles in directly opposite squares before finishing with one marble left in the middle of the board. 

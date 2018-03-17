@@ -1,0 +1,1 @@
+Checkers is a conversion of the board game. Two players can challenge each other, or one player can go against the computer. The game features multiple skill levels, a "bail out" option which lets the computer suggest a move, the ability to take back a move, and the option to allow yourself or the computer to move first.

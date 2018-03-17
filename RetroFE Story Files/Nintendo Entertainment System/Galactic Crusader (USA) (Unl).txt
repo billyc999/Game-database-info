@@ -1,0 +1,3 @@
+Your starship is alive! A metamorphic creature that can transform from a huge flying insect into a metallic destroyer. Face squadron after squadron of alien fighters, marching ever onward towards a final confrontation with an all-powerful enemy.
+
+This is basically a scrolling, shoot-it-if-it-moves, action game. As your ship scrolls up the screen, you fire on ships coming from the top of the screen. Occasionally, after ships have been destroyed, you can pick up a power up to increase you firing ability. At the end of each level is a boss you must defeat to move onward.

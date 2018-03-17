@@ -1,0 +1,12 @@
+Star Ship contains three different arcade action games which can be played by one or two players.
+
+Star Ship
+These game variations are played from a first person point of view in your star ship. Your goal is to earn as many points as possible by shooting the various enemies and space debris. You have a time limit of 2 minutes 16 seconds in the one player versions. In the two player version the time limit is 4 minutes 32 seconds; for half of this time one player will be the star ship commander, and the other will control a space module and needs to dodge the star ships fire. The roles will be reversed for the second half of the time limit.
+
+Warp Drive
+These game variations are also played from a first person point of view. Your goal here is to travel as much distance as possible while avoiding the oncoming asteroids.
+
+Lunar Lander
+These game variations are played from a third person point of view. You need to pilot your star ship and successfully land on the constantly moving moon. One point is earned for each successful landing, and asteroids and other debris may get in your way and will deduct points if you crash. In the two player versions, one player controls the star ship and the other player controls the moon.
+
+Each of these games feature several variations which control the game speed and level of difficulty.

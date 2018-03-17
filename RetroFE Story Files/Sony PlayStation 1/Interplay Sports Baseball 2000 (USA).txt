@@ -1,0 +1,11 @@
+A baseball game featuring an Exhibition, Season, Playoff, Tournament, and a Home Run Derby mode. There is also a General Manager mode that lets the player create and trade players, and change team lineups. The game features the real MLB players and teams of that time.
+
+In the Playstation version, batting and pitching are both done from a behind the batter's viewpoint, while in the Windows version, the camera is more dynamic and is able to switch to both viewpoints. The Windows version is able to do this because of the Messiah technology being used, which allows for high-res Direct3D accelerated polygonal graphics.
+
+When batting the player can choose to either swing for contact or for power. The player can also choose a difficulty level for their batting. Rookie has the player timing their swing with the pitch, Pro adds the challenge of controlling the level of the swing, while selecting All-Star is basically the same as Pro, except the pitches come in at a faster rate of speed.
+
+When pitching, players can select different pitch types to throw depending on the ability of their pitcher. Players also can view a pitch chart that tracks every pitch thrown to each batter in the game. 
+
+The game also features a play-by-play announcer and is able to keep track of the single season stats. 
+
+This game is an update of VR Baseball 2000.

@@ -1,0 +1,5 @@
+Karnaaj Rally is a handheld racing game which is played from a top down perspective and mixes 2D and 3D graphics. It's an arcade racer similar to Micro Machines where the player competes against three other racers on a number of different tracks. To his help, the player has a temporary turbo which he can refill by driving over special items that he finds on the race tracks. Weapons exist too; rockets and mines can be used by the player to stop the competition from winning. 
+
+The game's career mode allows the player to compete and  progress in four different race series. Each of these has unique vehicles and courses. While racing the player can earn money which can be used to upgrade the car's tires and engine as well as buy more armor, rockets and mines. There's also a gambling option. The player can bet by guessing on different outcomes from the races, such as the right finishing order. 
+
+The game also has a multiplayer mode for up to four players.

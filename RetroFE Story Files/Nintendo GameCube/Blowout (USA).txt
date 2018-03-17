@@ -1,0 +1,5 @@
+Blowout is a game that takes a classic gameplay concept and updates it with modern graphics and sounds. This game is a side-scrolling platform shooter. The graphics are 3-dimensional polygons, but the action stays almost entirely in a 2-dimensional plane.
+
+The setting for the game is a space station that has been overrun by hostile aliens. You play as a bad-ass soldier dude who will single-handedly wipe the aliens out.
+
+You travel around each level in a non-linear fashion.  You have to fight your way through endless hordes to find keys, flip switches, use elevators, and then ultimately defeat a big boss at the end.

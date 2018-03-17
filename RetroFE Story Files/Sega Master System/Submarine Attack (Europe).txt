@@ -1,0 +1,1 @@
+In Submarine Attack, the player controls a submarine in an underwater-based environment. Shoot down enemies that are coming toward you using your missiles either at the front or rear of the sub. There are six stages in the game, and at the end of each one, you have to defeat a boss who requires multiple shots to kill. When you defeat one, you proceed to the next, difficult stage.

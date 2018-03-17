@@ -1,0 +1,10 @@
+You are Deadly Duck and the object is to shoot your bill bullets at crabs, the bricks they drop and dragonflies.
+
+Each level starts with eight crabs. The crabs grab bricks from the sides and try to drop them on you. You can shoot the bricks as they fall and the crabs but if a brick lands on you, you're a dead duck.
+When a brick lands, it will stay on the pond for a moment, blocking you from moving horizontally.
+
+On levels two to four, you have two, four and six dragonflies, respectively, moving together just under the crabs. You get ten points for shooting the dragonflies but this makes them angry. They then drop one, two or three bombs (depending on the level). If you are next to a bomb when it explodes, your goose is cooked.
+
+The game continues until you lose all you ducks.
+
+It's all enough to make you quack up.

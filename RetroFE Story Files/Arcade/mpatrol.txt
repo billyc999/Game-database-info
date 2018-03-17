@@ -1,0 +1,1 @@
+The player controls a moon buggy, viewing it from the side, that travels over the moon's surface. While driving it must avoid obstacles such as craters and mines. The buggy is also attacked by UFOs from above and tanks on the ground.

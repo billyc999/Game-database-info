@@ -1,0 +1,3 @@
+International Tennis Tour puts the player behind the racket of a generic male tennis player going up against a plethora of other generic players in various game modes.  There is a practice mode where the player can learn the in and outs of the game along with an exhibition mode where they can choose settings, rules and opposing players.
+
+They can also compete in tournaments and a career mode where they start off with a set amount of money, using it to enter more prestigious tournaments in order to win and gain more money to enter higher tournaments.  There is also a multiplayer option that lets two friends play head-to-head or team up in a doubles match against the computer A.I.

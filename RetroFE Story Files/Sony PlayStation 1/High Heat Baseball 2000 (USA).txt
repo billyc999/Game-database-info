@@ -1,0 +1,5 @@
+High Heat Baseball 2000 is a baseball game which focuses on the simulation aspect. In comparison to its predecessor High Heat Baseball it now has an official license for the 1998 MLB season and uses a 3D graphic engine.
+
+Playing modes include exhibition matches, season (in varying lengths) , home run derby, play-off and a career mode over multiple seasons. In the season and league mode there is even a managerial option available in which the player doesn't play the games himself but constrains himself on tactics and team development.
+
+The player can customize a big part of the rule set. The player editor allows to change attributes and appearance. With automatic functions for situations like defensive alignment or throwing the player can delegate unwanted tasks to the computer.

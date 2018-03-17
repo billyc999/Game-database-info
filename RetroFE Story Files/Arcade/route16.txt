@@ -1,0 +1,11 @@
+Route 16 is a challenging race car game, integrating special features to excite the beginner as well as the seasoned player. The vivid video screen is fascinating, and is complimented by exceptional audio during game play.
+The red car is controlled by the joystick feature, and is pursued through 16 different routes (mazes) by three chase cars. The search mode reveals an overview of all 16 routes, and the search mode appears whenever the car exits a route. In the search mode, the player car becomes a red cube, and the chase cars become yellow cubes.
+Whenever the player car exits one route, there is a one second delay for a total overview of the game.
+Each route has dead-ends, zig-zags, and multiple entrances and exits.
+Some routes have the dollar symbol ($), and the player scores 200 points each time this symbol is cleared. The dollar symbols randomly chance to oil slicks, and when encountered, the oil slicks slow down the player car.
+The question mark symbol (?) is surrounded by check points and will either reveal a bomb symbol or a bell mark after the player car clears the check point. The bell will add 800 points to the player's score when cleared. Player skill is tested here to avoid the bomb if it appears.
+Some routes have a flag symbol, and when the player car clears the symbol, the pursuing cars become dollar symbols, and every effort should be made by the player to chase them down, and add extra points to his score.
+One route has a flickering bonus car symbol. When the symbol appears, clear it and earn an additional player car.
+One route has an additional game feature. When the player car enters the maze, it is pursued by an attacking monster. The player car cannot clear or collide with the monster, but must avoid it, or be destroyed.
+The high-speed button is another feature of Route 16. When pushed, the player car is accelerated to escape the chase cars. Usage of the high-speed button reduces the player car's fuel. At the end of each round, bonus points are added to the player's score for remaining fuel.
+After all the symbols are cleared, the round ends. In successive rounds, additional dollar symbols ($), and additional enemy chase cars are added.

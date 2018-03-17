@@ -1,0 +1,5 @@
+Arcade Classics offers three classic Atari titles. It includes the following games:
+
+1. Missile CommandCentipedePong (Ultrapong: both Pong and Hockey)
+
+All games have selectable difficulty options. They contain a classic mode as well as a Genesis mode (SEGA mode in the Game Gear version), which enhances the graphics and adds new sound effects.

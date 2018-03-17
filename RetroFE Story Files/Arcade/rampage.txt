@@ -1,0 +1,12 @@
+A classic B-movie inspired smash-em-up in which up to three players take on the roles of three mutated monsters - George the giant ape Lizzie the giant lizard and Ralph the giant wolf - who move from city to city destroying skyscrapers and vehicles, while eating or killing any people that get in their way.
+The monsters' health can be damaged in a number of ways: by being shot by National Guardsmen, by being hit by another monster, by falling from a building, by being hit by police cars or tanks, by going underwater, by being struck by lightning, or by eating something bad, such as dynamite. Health is replenished by eating food found in damaged buildings.
+If the players' health gauge diminishes completely, the monsters will revert back to their original human form and walk sideways off the screen. Rampage has a "buy back in" option, however; if players chose to continue the game before the human figure leaves the play area, the game will continue from that stage.
+Rampage is set over the course of 128 days in cities across North America. The game starts in Peoria, Illinois and ends in Plano, Illinois. In Plano, players receive a mega vitamin bonus which heals all the monsters and provides a large point bonus. After this, the cycle of cities repeats five times. After 768 days, the game resets back to Day One.
+* Examples of bonuses and hazards found inside damaged buildings:
+Food: Milk, Turkey, Hot Toast, Fruit
+Bonus: Flower Pot, TV Set, Money Bag
+Hazard: Cactus, Poison, Toaster
+* Examples of bonuses and hazards found outside damaged buildings:
+Bonus: Auto (or Truck), Commuter Train, Person in Manhole
+Hazard: National Guard Tank, Police Car, Storm Cloud
+Further bonus points can be earned by grabbing a fleeing 'Townie' from a building window. This has two benefits: 1) While holding the Townie, all swat team members disappear from the building windows and 2) accumulating points are scored during the time the Townie is held.,

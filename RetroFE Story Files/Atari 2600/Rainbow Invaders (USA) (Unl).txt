@@ -1,0 +1,24 @@
+It's the year 3006, and the evil �Rainbow Invaders� from the planet �Pacco�, are headed to Earth! They look like the ridiculous aliens depicted in 1980�s arcade games, but are extremely dangerous and their goal is to exterminate all humans! You command a fleet of spaceships and you must defeat all of the Invaders to save Earth! Good luck!
+
+This game is inspired by the game Space Invaders but with a twist. Yes, there are rows of invaders moving across the screen then moving down, firing as they go. Yes, your ship moves left and right at the bottom of the screen, firing up. Yes, an enemy ship will travel across the top of the screen. But there, the similarities end. For one thing, there are no shields to hide behind. Your ship does have a shield you activate by pulling back on the joystick but be warned, it drains all your energy so when you use it, after it is gone, you cannot move or fire for a second.
+
+Also, the aliens are not dropping just electric shots. They also drop any of sixteen Special Shots. Some of these will help you, most will hinder you.
+
+The Special Shots do the following:
+
+1. Your ship's movements and shots become faster. Duration: ten seconds
+2. Your ship's left/right movements are inverted. Duration: until you grab a different Special Shot or lose your current life.
+3. Your ship's movements and shots become slower. Duration: until you grab a different Special Shot or lose your current life.
+4. Enemies do not fire. Duration: ten seconds
+5. Inavders' electric shots descend at maximum speed. Duration: until you grab a different Special Shot or lose your current life.
+6. Invaders' electric shots track your ship. Duration: until you grab a different Special Shot or lose your current life.
+7. Invaders stop moving. Duration: five seconds
+8. Invaders move very fast. Duration: one second
+9. All shots, your and the invaders, become invisible. Duration: ten seconds
+10. If you shoot at an invader or the enemy ship and miss, a randomly generated invader could appear. And your �Shoot Abort� option, wherein when you shoot again the last shot disappears, is temporary disabled. Duration: thirty seconds
+11. Your ship freezes. Duration: one second
+12. Invaders� electric shots follow a random path. Duration: until you grab a different Special Shot or lose your current life.
+13. Your shots follow a random path. Duration: until you grab a different Special Shot or lose your current life.
+14. Your shots don�t stop when they hit an enemy but continue straight to the top of the screen, killing any enemies it hits. Duration: five seconds
+15. A randomly chosen invader blinks. If you don�t blast it immediately, every few moments a new invader is randomly generated. Duration: thirty seconds
+16. A randomly chosen invader blinks. If you don�t blast it before the bonus expires, your ship will explode. Duration: ten seconds. Meaning you have ten seconds to shoot that invader or lose a life

@@ -1,0 +1,3 @@
+Putter Golf is a 3D miniature golf simulation. It features both a "normal" 9-hole course, with realistic courses, as well as a "trick" 9-hole course, with somewhat more unusual features, such as warp zones and conveyor belts. Rounding out the package is a mix mode, with randomly selected holes from both courses, and a practice mode that both allows you to practice hitting on various slopes, and try out the features from the trick mode.
+
+You can compete both against the CPU, on multiple difficulty levels, and against up to three other players.

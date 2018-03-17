@@ -1,0 +1,1 @@
+Logical is a bizarre puzzle game in which you have to arrange colored balls (green, purple, blue or yellow) to form quartets in any of several locations on the game board. These locations are, in fact, balls you can spin, then send any of the balls in them through the connection path (have a look at the screenshots).

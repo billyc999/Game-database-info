@@ -1,0 +1,5 @@
+BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
+
+Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
+
+Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.

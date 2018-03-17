@@ -1,0 +1,3 @@
+This is the official license of Winter Olympics tournament in 1994 at Lillehammer, Norway. You can practice in any event before the tournament. The game offers two modes - Full Olympics and Mini Olympics, which vary in the number of events.
+
+It includes 5 different types of sports - biathlon, alpine skiing (downhill, slalom, giant slalom and Super-G), ski jumping (90 m, 120 m), bobsleigh (2/4 men bob, 1/2 men luge) and skating (elimination, pursuit, time trial).  The events use 3D views

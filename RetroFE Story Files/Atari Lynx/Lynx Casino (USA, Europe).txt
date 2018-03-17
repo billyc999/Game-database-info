@@ -1,0 +1,9 @@
+This game is a collection of casino games which are accessed by moving the player around the casino and selecting the preferred game table or machine to play that game. You start off with $1,000 to gamble with though you can get two loans of $500 if needed from the dealers. Once all your money has been gambled away it is game over.
+
+The 5 games available are:
+
+1. Blackjack
+2. Craps
+3. Roulette
+4. Slot Machines (Fruit Machines)
+5. Video Poker

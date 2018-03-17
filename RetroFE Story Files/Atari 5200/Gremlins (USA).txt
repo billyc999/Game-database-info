@@ -1,0 +1,7 @@
+Gremlins is an action game based on the Steven Spielberg movie of the same name. The game takes place just after midnight when there are Gremlins and Mogwai running around Billy's living room!
+
+You control Billy from a 3rd person point of view. On each level, your goal is to catch all of the Mogwai and return them to their cage (located in the upper right corner of the screen) and to destroy all of the Gremlins with a sword. Each level has a time limit - at 6:00 am when the sun rises. You move on to the next level by completing your tasks or just surviving until 6:00, although more points are awarded for the former. You will also receive bonus points for each Mogwai returned to the cage. 
+
+On many of the levels there will be various types of food lying about the screen. If a Mogwai eats any food, it will turn into a gremlin. There may also be  puddles of water; if a Gremlin or Mogwai runs into the water, it will split into two. Some levels also contain a refrigerator or popcorn machine which will throw food out onto the screen, or a television which will distract the Gremlins. 
+
+You also begin the game with a limited number of flash cubes; if you get into trouble, you can use these to temporarily stun all of the Gremlins and Mogwai. As the levels progress gameplay becomes faster and the Gremlins and Mogwai more numerous.

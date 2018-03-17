@@ -1,0 +1,5 @@
+Gotcha! is an NES Zapper title based on the "sport" of paintball, and loosely tied into the paintball-themed movie caper of the same name. You are required to traverse three different battle zones, grab the opposing teams' flag from the opposite end of the field, and make it back to your flag without getting shot.
+
+One hand controls the Zapper while the other must hold the controller, since the D-Pad controls your movement up and down the field. Limited ammo is also a concern, as is the ability for the computer team to snag your flag and return it to their base to win. You can chase down and tag the flag carrier yourself to prevent this.
+
+The game contains three difficulty levels and three different zones (woods, city, snowfield) which cycle until you lose all of your lives. Numbers of enemies and their reaction time increase with each cycle. Aside from additional ammo, there are no powerups, no teammates, just you against the computer for a beat-your-highest-score challenge.

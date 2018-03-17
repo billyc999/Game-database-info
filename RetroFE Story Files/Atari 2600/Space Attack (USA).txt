@@ -1,0 +1,1 @@
+The object of the game is to defend your Mother Ship from attacking  aliens. You have 3 squadrons, with 3 ships in each squadron. Aliens have 6 fleets of varying sizes. (Only 3 fleets appear at a time on the Radar Screen.) Destroy all alien fleets and you win! If your squadrons are destroyed first, the aliens move in and annihilate the hidden Mother Ship. 

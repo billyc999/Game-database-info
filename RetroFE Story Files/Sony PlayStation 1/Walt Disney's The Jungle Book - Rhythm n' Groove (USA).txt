@@ -1,0 +1,3 @@
+Rhythm n' Groove is a dancing game very much modeled after Dance Dance Revolution.  Arrows travel across the screen, and when they reach the right spot, you hit the necessary button on either your controller or dance pad.
+
+The game follows the story of Disney's The Jungle Book cartoon.  Some songs are remixes of the cartoon's music, while others are original.

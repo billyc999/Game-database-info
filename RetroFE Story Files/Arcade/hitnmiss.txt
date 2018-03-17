@@ -1,0 +1,1 @@
+A child-friendly shooting game where you simply avoid the good targets and shoot the bad ones.

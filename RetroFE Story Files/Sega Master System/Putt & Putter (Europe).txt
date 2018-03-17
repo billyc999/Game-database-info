@@ -1,0 +1,1 @@
+Putt & Putter is an isometric mini-golf game for 1-2 players. The game has different height levels. Because there are even bumpers, the game is like a mixture of a classic minigolf game, a pinball game and the classic game "Marble Madness".

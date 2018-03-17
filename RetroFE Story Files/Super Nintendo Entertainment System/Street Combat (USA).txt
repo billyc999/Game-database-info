@@ -1,0 +1,5 @@
+Street Combat is a one-on-one 2D fighting game in which several martial artists, athletes and crime-fighters from all across the globe decide to compete against each other in a street fighting tournament for fame and glory.
+
+Single player mode allows you to choose between two versions of the "hero" character (Steven) and then takes you through 7 best 2-out-of-3 matches against a collection of different martial artists. A 2-player Vs mode allows you to freely select any of the characters without restrictions.
+
+Gameplay is similar to other one-on-one beat 'em ups, in which you control your characters movements and attacks in a scrolling 2D plane attempting to defeat your opponent with special moves (triggered by specific controller motions) and avoid his attacks.

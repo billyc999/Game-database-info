@@ -1,0 +1,3 @@
+The Game Boy Color version of Tony Hawk's Pro Skater 2 is based off the console game of the same name.  Instead of exploring a 3D environment, however, players perform tricks in 2D side-scrolling levels.
+
+Players can select their skater and board, each of which has their own unique stats, allowing you to choose the combination that's perfect for you.  Each of the thirteen different characters even has their own signature tricks to perform.

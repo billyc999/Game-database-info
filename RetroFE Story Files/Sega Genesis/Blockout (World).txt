@@ -1,0 +1,1 @@
+Blockout is a Tetris clone with an added twist: it's in 3D. You can rotate the blocks in 3D in order to fit them into the pit they are being guided into. Advanced users can play this game with odd three-dimensional pieces, or change the size of the pit, for depth of between 6 and 18 piles, and width and length of between 3 and 7.

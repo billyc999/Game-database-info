@@ -1,0 +1,3 @@
+Invader is a vertical scrolling shoot-em-up for the Nintendo Game Boy Advance. There are 8 levels to shoot through each ending with a end-boss. The player can select from 2 different ships each with specific features. Enemies leave coins that can be spent in the Shop, where upgrades such as weapons, extra lives, and credits are available for purchase.
+
+Game modes include Arcade, Survival, Boss Attack and 2 player Cooperative via the Link cable.

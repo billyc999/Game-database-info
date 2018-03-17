@@ -1,0 +1,7 @@
+Bounty Bob has tracked Yukon Yohan into Nuclear Ned's uranium mine. Bob must 'claim' each section of each part of the mine...but cannot take too long in each area, or the radiation will kill him.
+
+Taking the role of Bob, players must traverse through different types of areas inside the nuclear mine. In the first level, "Lift", Bob must walk on each part of the screen to 'claim' it. Avoid the monsters by jumping over them or grab an old miner possession to become energized and grab a mutant for points. Use the lift to reach the higher parts of the screen.
+
+The next area is the Crusher, with the same goal as Lift but more challenging as the player must also avoid getting crushed. The last part is the Radioactive Waste, where the goal is again the same, but the player must maneuver Bob around the radioactive waste. In each screen, there is a timer in the upper right. If this timer reached zero before you claim all sections, you lose a life.
+
+After you have beaten all three screens, they repeat but without any of the bonuses for energizing, so you must jump over or avoid all mutants.

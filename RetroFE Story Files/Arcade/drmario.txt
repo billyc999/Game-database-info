@@ -1,0 +1,3 @@
+A playable and addictive Tetris-inspired puzzle in which players must match and rotate coloured pills (thrown in the play - shown as a bottle - by Nintendo's legendary plumber, 'Mario') with the aim of killing all of the germs that litter the play area.
+Each germ is either yellow, red, or blue in colour and each of the pill capsules Mario throws are made up of one or two of these colours. Players must manipulate the coloured pills to a germ of the same colour and try to form a chain. One or more squares of the same colour will remove both the pills and any adjacent like-coloured germ.
+Four like-coloured pill sections stacked on the same color germ will rid your bottle of that germ. The number of germs and speed of Mario increases with each level.

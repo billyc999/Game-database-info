@@ -1,0 +1,1 @@
+This release of DOOM is based on The Ultimate DOOM and DOOM II: Hell on Earth and contains most of the levels from both games.

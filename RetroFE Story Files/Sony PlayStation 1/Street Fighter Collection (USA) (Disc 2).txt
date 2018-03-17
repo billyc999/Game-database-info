@@ -1,0 +1,5 @@
+Street Fighter Collection is a bundle comprising several different games of the Street Fighter series. It includes:
+
+1. Super Street Fighter II: The New Challengers
+2. Super Street Fighter II Turbo
+3. Street Fighter Alpha 2 Gold (updated Street Fighter Alpha 2 with balancing fixes: Evil Ryu and Cammy added as playable characters, timing of some characters changed)

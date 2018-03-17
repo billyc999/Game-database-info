@@ -1,0 +1,1 @@
+The game is a shooter. The player ship moves back and forth at the bottom of the screen and two rows of aliens move left and right across the top of the screen dropping bombs on the player. The aliens never stop coming out and over time they get faster. You get three ships and lose a life when a bomb impact.

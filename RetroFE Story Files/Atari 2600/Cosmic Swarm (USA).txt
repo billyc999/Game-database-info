@@ -1,0 +1,12 @@
+You are at the Waypoint Interstellar Trade Depot, a quiet outpost in space, when suddenly a dormant group of alien, mineral-eating termites awakens. They then begin haphazardly making their nest.
+
+Using your probe ship, you must destroy the termites and their nest blocks. You simply fire at the termites to destroy them but their nest blocks must be energized before you can destroy them. To energize a nest block, you must hit a block while a termite is still carrying it. This will energize all the blocks on the screen.
+
+If you shoot a termite that is not carrying a block or if one is carrying a block but you only hit the termite, all the blocks will not be energized and not be damageable. If you run into a block, energized or not, or are touched by a termite, you lose a life.
+
+Every so often, a refuel ship travels down and then back up the left or right side of the screen. You must dock with it (touch it) before it gets back to the top or the game ends, no matter how many lives you have left.
+
+To fire, press the fire button. To move, move the joystick while the button is not pressed. If you hold down the button, you can rotate left or right then you will stay at that angle until you rotate again.
+
+The points are:
+Shooting a termite that is NOT carrying a block

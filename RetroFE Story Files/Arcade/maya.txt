@@ -1,0 +1,1 @@
+A solitaire mahjong game.

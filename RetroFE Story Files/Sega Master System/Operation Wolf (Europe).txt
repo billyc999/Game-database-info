@@ -1,0 +1,7 @@
+You have been recruited for Operation Wolf, a desperate attempt to rescue prisoners from the enemy. Through a series of missions, you'll engage a variety of enemies, from soldiers to ninjas, patrol boats to helicopters, and more. Can you carry the day?
+
+Operation Wolf is an arcade conversion of the game by Taito. It is essentially a bitmapped "rail-shooter", where you basically hold the gun and shoot just about everything that moves, while conserving your ammo and grenades. Shoot ammo/grenades and healing items on the screen to "pick them up". Your primary machine gun can kill everything if you hit it enough times, but you can also use the grenade launcher for really deadly targets like helicopters or armored cars. You can collect a machine gun which will allow you to shoot faster for a few seconds. 
+
+You'll be pummelled by a LOT of enemies. Some will be shooting, others will be tossing grenades, knifes, and more. Some are armored and requires more than a few hits, others dodges. You can shoot grenades and knifes out of the air if you aim well enough. There are also civilians running around which can be shot, but it's not beneficial. 
+
+Bosses appear at the end of some levels, and each has a specific weakness you need to exploit.

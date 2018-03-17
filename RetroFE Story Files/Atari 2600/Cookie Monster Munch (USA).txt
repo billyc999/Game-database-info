@@ -1,0 +1,17 @@
+Cookie Monster hungry! Want cookie!
+
+You are moving around a maze, collecting cookies and bringing them back to a cookie jar.
+
+Games one through three are one player, games four through ten are one or two player.
+
+In games one, two and three, you move Cookie Monster around the maze, get the cookies and return them to the cookie jar, one at a time. Between mazes, Cookie Monster eats each cookie, one at a time. There are three mazes per game. In game one, there are one, two then three cookies. In game two, four, five then six and in game three, seven, eight the nine.
+
+Games four through six are timed. You can carry multiple cookies and keep playing mazes until time runs out. In games four, five and six, you have five, four and three minutes, respectively.
+
+Games seven through nine are also timed but now you play as the Cookie Kid. You are trying to collect cookies for a surprise party for Cookie Monster. Since he hasn't been told this, he is pacing back and forth on the other side on the fence. Each time you pick up a cookie, Cookie Monster jumps over the fence and chases you. He will each and cookies of the path he is coming down and if he catches you, he will eat all the cookies you are carrying. The times for games seven, eight and nine are five, four and three minutes, respectively.
+
+Game ten in the same as game nine (three minute time limit, you are Cookie Kid and chased by Cookie Monster) except the maze is invisible. When you pick up a cookie, the maze flashes for a second so you can figure out the fastest route to take.
+
+You get one point per cookie in the jar.
+
+For ages three to seven.

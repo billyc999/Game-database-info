@@ -1,0 +1,5 @@
+Ninja Kid is a side-scrolling action game in which the eponymous kid must jump and shoot his way through a series of different levels in order to complete his quest. The assorted levels include the Poison Field, Guerrila Warfare, and Blazing Inferno. While armed with ninja bullets by default, he occasionally has the opportunity to pick up other offensive items such as ninja stars, boomerangs, or fireballs. Enemies obstructing Ninja Kid's quest include rolling eyeballs, crows, flying demons, Frankenstein monsters, and of course, other ninjas.
+
+The game begins in an overhead map that allows the player to wander into various side-scrolling levels. The levels go on an on until the player completes a particular task that makes a door appear. Going through the door sometimes leads outside to the overhead map and sometimes leads to a boss battle.
+
+In Japan, this game was known as Gegege no Kitaro: Yokaidaimakyo, based on an animated TV series.

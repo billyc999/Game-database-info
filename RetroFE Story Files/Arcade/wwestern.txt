@@ -1,0 +1,1 @@
+A sheriff on horseback must protect a train, located in the center of the screen, from groups of bandits. Players must avoid running into obstacles, getting shot, or allowing three bandits to board the train. A bonus game is played between rounds.

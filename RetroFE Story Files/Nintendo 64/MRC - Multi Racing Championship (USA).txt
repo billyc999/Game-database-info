@@ -1,0 +1,15 @@
+MRC Multi Racing Championship is a rally car racing game.  
+
+Five race modes are available. These include: Championship, Time Trial, Free Run, VS Race and Match Race.  
+
+2-player racing is handled with a horizontal split screen.
+
+All of the cars can be customized.  Individual settings that can be modified for the cars are: Tire, Brake, Suspension, Steering, Transmission, Gear and Aerodynamics.
+
+None of the eight cars in the game are licensed or real models but they do seem very similar to actual models.
+
+Almost all of the option and game screens are in English.
+
+The course variety is pretty varied.  There are three separate tracks with some minor route variations in each.  Each course has  2-4 alternate segments that are turned on and off similar to Ridge Racer.
+
+The graphics have some variety as well.  The courses are: Sea Side (Easy), Mountain (Normal), and Down Town (Hard).  The look and handling of each changes as well with weather variations such as rain and snow.

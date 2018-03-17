@@ -1,0 +1,13 @@
+In Transport Tycoon, you are in charge of a transport company starting in 1930 in the midst of The Great Depression, and your aim is to build up an empire of trains, ships, lorries, planes and helicopters, with technological evolution to be taken into account. You can play alone, or with a number of computer-controlled rivals. 
+
+At the beginning of the game, you (and your rivals) have a large terrain at your disposal. The terrain includes hills, rivers, lakes, bridges, industrial facilities and a lot of small towns. It is up to you to decide how to start building your empire. 
+
+The game is shown in isometric projection. An icon bar at the top of the screen allows you to bring up the map, see the stats, or construct stuff. 
+
+Maybe you can begin by connecting two towns with a road, building a vehicle depot somewhere next to the road, and setting up bus stops in both towns. Now just buy a bus (initially, there are just a few models available, but more buses appear with time), set its schedule, and watch as it goes between both bus stops, taking passengers and unloading them, earning you money. 
+
+You can also transport passengers by building train tracks, sea ports, or airports and then buying appropriate vehicles - trains, ferries, planes. 
+
+If you set up a station next to an industrial facility (such as a factory, a power plant or a farm), you can also transport various cargo, such as coal, livestock or wood, which allows you to earn much more money than transporting passengers. Of course, you'll have to buy special lorries and train cars if you'll want to deal with these. Most businesses offer certain types of cargo and are ready to pay for transporting other cargo to them; for example, a steel mill has a lot of steel to fill your cars, and will gladly accept iron ore if you have any. 
+
+Clicking on any of your vehicles brings up a small window where you can observe a live feed of what the vehicle is doing and look up its status. If anything important happens during the game (such as a particular station accepting its first vehicle), it is shown as a newspaper headline at the bottom of the screen.

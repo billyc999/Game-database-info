@@ -1,0 +1,7 @@
+Civilization is doomed! You are our last hope! You must protect the Cosmic Kids from the Cosmic Creeps as they escape the orbit-decaying planet!
+
+The first part of the game is The Voyage. You begin on the bottom in your Orbinaut. You must move to the space station at the top while avoiding plasma, which moves from top to bottom, and Space Skeeters, which move left to right or right to left. If you are hit by anything, you will spin off into space and must begin again. Releasing a new Orbinaut, however, also causes the planet to decay a little more
+
+The second part of the game is The Rescue. A Cosmic Kid starts at the bottom left of the screen and moves to the right then goes up one level moving left, all the while being chased by one or two Cosmic Creeps. You, using the space station, must fire and time your shots to hit a Creep, sending them back to the bottom. If your shot hits the Kid, a new Kid must start at the bottom and the planet's orbit decays a little more.
+
+If the planet's orbit decays completely or if a Cosmic Creep gets to the upper right of the screen, the game is over. You get 100 points for each Creep you shoot and 1500 points for each Kid you get to safety. You need to score 5000 points on the Rescue screen to advance to the next level, where you will start the Voyage again, only faster.

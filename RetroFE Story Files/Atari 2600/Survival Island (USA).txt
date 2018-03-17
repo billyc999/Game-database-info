@@ -1,0 +1,9 @@
+You are headed to a mysterious island to study a temple when your ship is sunk. Now you must get to the island while collecting supplies , get through the dangerous jungle then explore the temple. All in a days work.
+
+This game is in three sections. They are called Shipwrecked, The Wilderness Island and The Secret Temple.
+
+Shipwrecked: You begin on a raft in the water. You must make your way to the island at the top while avoiding sharks and other sea creatures. Along the way, you must collect food and water so you can survive the island. If a shark or other sea creature hits you, you will lose the raft and all supplies. If you are hit when not on a raft, you will lose your life. You can press fire to swim faster but this will cost you life points, which can get you killed.
+
+The Wilderness Island: You make your way on the island while avoiding snakes, traps and other dangers. You must look for the temple, the key to the temple door and any other items you will need to get through the temple. Watch your food meter that it doesn't run out. Use the menu to eat food/drink water as needed. You can also switch to search mode, which allows you to place your walking stick on an item to learn what it is without getting hurt.
+
+The Secret Temple: You make your way through the temple in first person perspective, trying to learn its secret. Sometimes you will need to find certain items to pass through magical barriers. Watch out for one-way walls and invisible transporters.

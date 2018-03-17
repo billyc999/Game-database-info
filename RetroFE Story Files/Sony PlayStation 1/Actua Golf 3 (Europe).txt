@@ -1,0 +1,5 @@
+Actua Golf 3 is a golf simulation game featuring eight courses. You can completely customize your own character. With a new character you start with amateur tournaments until you have removed your handicap. Then you can participate in the pro tournaments.
+
+To hit the ball in this game the player will have to use his analogue stick and swing that much like a real club.
+
+The game features commentary by Peter Alliss and Alex Hay.

@@ -1,0 +1,9 @@
+You are sent to check out an abandoned asteroid base called Stronghold. As you approach, drones are launched from the surface. It may be abandoned but apparently the automatic defense system still works.
+
+You must shoot or avoid the drones. If the drones are cloned, and traveling in sets, shooting any drone in the set destroys all the ones in the set, if they are destroyable (see Game variations). You can move in any direction but cannot shoot straight left or right. You can shoot in any other direction, however. After you get past the drones, three shields form near the bottom of the screen. Also, interceptor and patrol ships appear. The interceptors track you and the patrol ships just move back and forth over the shields.
+
+You must shoot through the shields while dodging these ships so you can shoot the command crawler on the asteroid's surface. Be warned, though, that once there is a hole in the shield, the command crawler will shoot through it to destroy you. The crawler tries to stay below you but it is slow. In some game variations, the Mega-Field starts to form at the top of the screen, reducing your maneuvering room(see Game variations).
+
+Difficulty switches
+The difficulty switches determine what level you will start on.
+Both are set to B

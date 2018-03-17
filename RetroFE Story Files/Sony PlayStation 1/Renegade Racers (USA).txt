@@ -1,0 +1,5 @@
+A cart racer whose premise is to win a tournament sponsored by millionaire Buck Billionaire. You select from a series of "renegades" and go at it.
+
+Gameplay modes available include 2 player vs gameplay, the mission-based tournament which has over 40 races that take place in 6 tracks, and have different objectives such as jump over a certain number of obstacles, win in a certain time bracket, etc.as well as the time-honored "battle" races we have come to expect from Kart racers with all manner of power-ups and wacky weapons.
+
+Vehicles are all hovercrafts, so the control is the same no mather if you race on ice, grass, etc. and graphics-wise the game uses Direct 3D accelerated polygonal graphics .

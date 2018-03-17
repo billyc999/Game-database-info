@@ -1,0 +1,12 @@
+This is an obstacle race in a space ship. The ship controls in a rather Asteroids-like way, in that you push left or right to rotate and press fire to thrust. Once you stop thrusting, the ship does not immediately stop, although it will slow down on its own. To stop sooner, you have to face away from the direction you are traveling and thrust.
+
+First, you must pass a set number of hurdles. If there is a single hurdle, you must pass on the side indicated by the arrow. If there are two hurdles, you must pass in between them. If there are three, you can pass through them or go around. If you hit a hurdle, you must go back to the last successfully passed hurdle and do it again to continue.
+
+After the hurdles, you must pop ten space balloons by running in to them. They appear one at a time at random spots on the screen. After you pop all ten balloons, you must dock in the space dock to end the race.
+
+The difficulty switches are not used. You select your game variation by moving the joystick up or down.
+
+Game variations
+There are 28 variations. The odd numbered ones have fast maneuvering, the even numbered ones, slow.
+
+The number of hurdles also varies. The first two have 10 hurdles, the next two, 14, then 22 (twice), 27 (twice), 35 (twice), 39 (four times), 47 (twice), 51 (twice), 54 (twice), 63 (twice), 64 (twice), 72 (twice), and 82 (twice).

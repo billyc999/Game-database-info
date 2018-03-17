@@ -1,0 +1,1 @@
+As the title suggests, this game lets players play a game of Mahjong. Players receive and discard tiles until they complete hands by forming groups and pairs. Players can choose to play on either a beginner, intermediate, or expert difficulty level. The expert skill level introduces a time limit to the proceedings. The game also keeps track of the score during gameplay

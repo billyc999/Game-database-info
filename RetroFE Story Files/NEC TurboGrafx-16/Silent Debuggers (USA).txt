@@ -1,0 +1,5 @@
+Arriving at a desolate cargo station searching for treasure, a debugger and his buddy Leon encounter monsters instead.
+
+Silent Debuggers is an action game with a first-person perspective. The game advances in real-time but movement progresses in fixed steps like in many first-person dungeon games. Enemies are targeted with a crosshair that can be moved around the screen.
+
+Fight monsters with a variety of weapons and protect the valuable utility rooms around the center of the station from being cut-off by monsters as you advance through each level of the station.  Tools provided by Leon give the player special abilities.

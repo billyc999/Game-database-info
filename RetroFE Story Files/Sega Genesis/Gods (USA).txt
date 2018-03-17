@@ -1,0 +1,3 @@
+Hercules is aiming to achieve immortality by completing the task the Gods have set him. His task is presented as a  platform adventure set in ancient Greece, featuring a variety of enemies as you play it through.
+
+Of more significance, however, is the game's Artificial Intelligence system, in which creatures monitor how you play, and try to find safer positions. Also, the game offers more bonuses and power-ups if you're struggling to progress. Even without those, there are lots of bonus sections to find and unlock.

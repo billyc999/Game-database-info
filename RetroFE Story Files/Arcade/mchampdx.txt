@@ -1,0 +1,7 @@
+This game contains 6 games :
+A "Columns" clone.
+A "Pang" clone.
+A "Solitaire" clone.
+A "Shangai" clone.
+A "Pac-Man" clone.
+A "Tetris" clone.

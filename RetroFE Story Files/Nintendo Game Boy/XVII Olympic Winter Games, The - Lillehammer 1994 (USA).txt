@@ -1,0 +1,13 @@
+This is the officially licensed game for the Winter Olympics tournament of 1994 in Lillehammer, Norway. The player can practice in any event before the tournament. The game offers multiple modes with different events:
+
+1. Full Olympics
+All Downhill
+No Downhill
+First Half
+Last Half
+
+This version is different from the PC and console versions in how the events are graphically displayed and the various options that can be set for events (such as length).
+
+Simulated are seven different types of sports: downhill skiing, biathlon, ski jumping, bob-sleighing, downhill slalom skiing, speed ice skating and aerial skiing. 
+
+The events are presented in an isometric or side-scrolling view with the exception of bob-sleighing which uses an third person 3D view from just behind the sleigh.

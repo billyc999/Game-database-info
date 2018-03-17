@@ -1,0 +1,7 @@
+If anyone is wondering what the AWS in this title means, it is an acronym for Asciiware World Sports. Now with that out of the way, this is a soccer game with training, exhibition, and tournament modes.
+
+Training lets the players team practice without an opposing team on the field. Exhibition is the basic one team versus another for one game. The tournament mode is divided into two different modes; 8 Nations and World Cup. 8 Nations is just a shorter version of the World Cup tournament mode because it involves only 8 teams instead of all 32 of them like it does in the World Cup mode.
+
+The player can choose to play as one of these 32 International teams or can choose to create their own team that has its own shirt, stripe, and shorts colors.
+
+The game has options that allow the player to choose to have light or heavy wind, a dry, soggy, or snowy field, and to have fouls turned on or off.

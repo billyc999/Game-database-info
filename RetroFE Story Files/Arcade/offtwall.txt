@@ -1,0 +1,1 @@
+Atari's superb variant on "Breakout" has up to 3 players bouncing balls, breaking bricks, and ultimately trying to get the ball into the exit. Also includes multiplayer 'bonus rounds' where players compete to be the last man standing in a "Pong" match.

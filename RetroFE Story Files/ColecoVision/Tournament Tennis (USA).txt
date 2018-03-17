@@ -1,0 +1,3 @@
+Most of the conventions that became standard for tennis simulations appear in this early title - indeed many were pioneered by it. Matches can be played at quarter-final, semi-final or final level - winning at one level automatically moves you onto the next one. They can last for 3 or 5 sets, with a player requiring a 2-game lead to win a set, although a tie-break comes in at 6-6 in all but the final set.
+
+The view is pseudo-3D, from above the court, and features a shadow on the ball to give a more realistic appearance and make it easier to judge its height. Spectators turn their heads to view the action, and ball-boys run on to the court to retrieve a dead ball. Shot speed, direction and spin can all be applied, and forehand and backhand strokes are both available.

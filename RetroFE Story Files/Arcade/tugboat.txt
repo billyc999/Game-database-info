@@ -1,0 +1,1 @@
+A kids' game where the player controls a tugboat which the player must navigate up the river while avoiding logs and touching lighthouses for points. There is no penalty for hitting the riverbank. The Horn button just sounds. First four levels just get faster, then the river channel narrows, and the boat's speed increases.

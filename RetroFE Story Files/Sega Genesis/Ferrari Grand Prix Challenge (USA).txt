@@ -1,0 +1,3 @@
+Following F1 Grand Prix Nakajima Satoru, Varie produced another racing simulation using the license. This time the racing is from a first person view aping Super Monaco Grand Prix. The car setup can be modified before you take to the track
+
+There is a Time Attack mode, allowing you to go for as fast a laptime as possible on any of the game's 20 circuits (which include the 16 tracks of the 1992 Formula 1 season), as well as a full season mode, with qualifying and the race itself. Weather can be customised in the Time Attack mode but is randomly chosen in Grand Prix mode, while you can only choose one of the D-tier teams (the 4 weakest of the 16) in grand Prix mode, but can drive for McLaren, Williams et al in Time Attack.

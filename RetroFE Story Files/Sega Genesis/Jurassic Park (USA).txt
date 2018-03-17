@@ -1,0 +1,3 @@
+The Sega Genesis game based on the Jurassic Park movie/book differs from the games made by Ocean for other platforms. Basically, Sega's Jurassic Park is a side-scrolling action game.  You jump from platform to platform, pick up weapons and health items, and try to make it to the end of the level with all your lives intact.
+
+This version of Jurassic Park does feature an interesting twist, however.  You can play it either as Dr. Grant, or as a Velociraptor.  The story and level design changes based on which character you use.

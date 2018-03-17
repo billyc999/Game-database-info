@@ -1,0 +1,5 @@
+Colecovision's only baseball game and first of the Super Action series, Super Action baseball was specially designed to work with the Super Action controllers
+
+Batting is done with an angled view wherein you see your batter in the bottom-left of the screen and the pitcher at center-right. The top part of the screen is reserved for keeping an eye on the bases. As the ball approaches, your player attempts to hit the ball with his bat to send it flying. A successful hit will result in your player having to run around the bases. Running is done with the "wheel" on the top of the Super Action Controllers. Stealing is also possible.
+
+Fielding is simple, using the Super Action controllers, players have 4 buttons to correspond to each base. Thus the ball can be thrown at any of the bases instantly.

@@ -1,0 +1,6 @@
+A superb Formula One racing game from Sega that took sprite-scaled graphics to a whole new level. The game's single track offered a very reasonable representation of the famous Monaco Grand Prix circuit.
+Players could chose to race with one of three different skill/gear settings :
+Beginner : Automatic Gears
+Intermediate : 4-Speed Manual gears
+Professional : 7-Speed Manual Gears
+Before entering the Grand Prix, a qualification lap had to be completed. In the event of qualifying, the qualifying time determined the player's position on the starting grid. During the race itself, checkpoints had to be reached within a set time, or the race was over.

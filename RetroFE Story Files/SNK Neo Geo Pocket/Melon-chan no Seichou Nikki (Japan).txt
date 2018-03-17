@@ -1,0 +1,1 @@
+Melon-Chan's Growth Diary is a life simulation game (similar to small "Tamagotchi" games), the player controls the small girl Melon-chan. He manages her behaviour — food, rest, entertainment and shopping. Melon can walk around the city to buy new things. The game has a clock — in night shops are closed.

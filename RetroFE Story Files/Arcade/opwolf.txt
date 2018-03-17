@@ -1,0 +1,4 @@
+A light-gun game in which the player takes on the role of a soldier and must infiltrate an enemy army base. The object is to capture six bases and to save any hostages encountered on the way.
+Each mission begins with the player carrying a limited amount of machine gun bullets and rockets but extra ammunition can be collected by shooting any gun magazines or rockets that appear on screen.
+Any civilians or hostages that the player shoots will result in a reduction to the player's health meter (which is displayed on the right-hand side of the screen). Farm animals, in the form of a chicken and a pig, will occasionally run across the screen; Shooting these will reveal bonus items such as health or ammunition.
+Once the game is completed, the player is returned to the first mission, but with an increased level of difficulty.,

@@ -1,0 +1,5 @@
+Fighter Maker is a 3D fighting game that comes with three different modes. Normal mode lets the player fight in a series of exhibition matches against the computer and VS. mode lets two players fight against each other.
+
+Edit mode is the main draw of this game. It lets players create a fighter by editing one of the fighters already in the game. The player can edit a characters profile, set which button combo executes which move, and how much damage it does. Players can also change a character's martial arts style, and then change the way the frames of animation follow through. The player can edit over 800 different moves from 20 different fighting styles. 
+
+Options let the player set the difficulty, the time of the fighting rounds, number of rounds, length of the life bar, and whether to turn Hyper Mode on or off.

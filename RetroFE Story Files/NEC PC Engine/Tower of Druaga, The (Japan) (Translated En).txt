@@ -1,0 +1,5 @@
+This is a remake of the original game. The story still's the same: Ishtar sends Gilgamesh up the 60 maze levels of the Druaga's tower to rescue Ki and retrieve the Blue Crystal Rod. He must find each level's key to proceed to the next one.
+
+Besides the updated graphics, this remake features a 3/4 view instead of the original top-down one. It also bears some RPG elements, as Gilgamesh gathers experience points for killing enemies, which are spent at the end of each level, to improve his stats (such as speed, health, etc.). He'll also find equipment such as swords, helmets, armors, shields, gauntlets and boots, which can be changed to better his stats, and will also find special items in hidden chests. The way to find theses chests is different for each floor. There are new treasures and new enemies.
+
+The game also features four different difficulty levels (easy, normal, hard and pro), as well as a password feature.

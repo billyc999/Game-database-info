@@ -1,0 +1,1 @@
+Side-scrolling shooter, reminiscent of Konami's Parodius. Players take control of all three powerpuff girls who operate as a single unit, collecting powerups and blasting enemies. At any given time only one girl is active, any others remaining slowly regenerate health and the game is over if all three are knocked out.

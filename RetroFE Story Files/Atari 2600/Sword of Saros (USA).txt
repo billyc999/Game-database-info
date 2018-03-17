@@ -1,0 +1,16 @@
+You have entered a wizard's dungeons in search of the fabled Sword of Saros. You must avoid the wizard, his hunter bat and other nasties while gathering treasure. Then you must escape from the dungeons.
+
+You begin in the maze. The narrow areas are corridors and the wider areas are rooms. You must move from room to room, avoiding the wizard and his bat, gathering treasure, items and keys. Once in a room, do not stand around as each room has a monster in it that will harm you. Some rooms have doors that have either gold or a part of the sword behind them. When you find the sword piece, it will transport you to the next level of the dungeon.
+
+In the first two levels, you will be able to see the entire maze. On the next two levels, you will reveal parts of the mazes as you explore them. On all later levels, you will only see directly around you. If a monster touches you, you will lose life points. If you encounter the wizard, you will lose life points and will need to get through his skeletons. You will start at the bottom of the screen and need to make your way to the top. In the final dungeon, all the rooms have only unlocked doors but you will need gold to bribe the monsters so you can search the doors for the exit.
+
+The items in the maze, and their uses, are:
+
+1. Gold: Not a selectable item. Needed to bribe monsters in the last level
+2. Gems: If you collect nine gems, you can use them to get one or more type of each other item
+3. Lamp: Makes it possible to see the entire maze. Not needed for mazes one or two.
+4. Potion: Restores four to seven life points. You can never have more than twenty-five total life points.
+5. Cross:  Makes the wizard and bat move as far from you as the can
+6. Scroll: Allows you to see the wizard and bat, even if they are not in a visible portion of the maze. Not needed for mazes one and two.
+7. Ring: Makes you invisible to the wizard, bat and room monsters
+8. Keys: Not a selectable item. Needed to open locked doors except on last dungeon. Keys do not leave the dungeon level where they are found. When you get the sword piece, any extra keys you are carrying are lost and you must find new keys.

@@ -1,0 +1,5 @@
+The evil spider Zendocon has trapped you in its web of universes.  Your mission is to defeat Zendocon's droids and brave the 51 universes to fight Zendocon itself to the death!
+
+Gates of Zendocon is a side-scrolling shooter very similar to the original arcade shooter of this type, Scramble.  Unlike Scramble, there are 51 game areas in total, but the player fights through a subset of them through branches, choosing the next area to visit.  
+
+Some aliens will join you when shot (power-ups).  Alien bases in each area allow you to repair your weapons and shield, but landing at the wrong time will cause your ship to explode and lose all power-ups.

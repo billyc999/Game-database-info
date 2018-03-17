@@ -1,0 +1,48 @@
+Championship Pool is a pool game where players can 8-ball or 9-ball pool tournament that starts off with the BCA Regional Championship where the player must defeat 32 opponents in a first to four games match. If the player loses against any of the 32 opponents, they are then eliminated from the tournament. The winner of that then goes onto the World Championship.
+
+All of the gameplay is done from a top down view of the table. The player moves an icon to indicate location they want to hit the ball too. To aid in the aiming, a ghost of the cue ball and the first ball that is hit is repetitively played out to show the path of the hit ball. With the all the shots there is a very small margin of error, but this is only notable when a long shot is played or a shot from a sharp angle and the ghost balls will randomly play out all the possible occurrences. The player can also change the power and spin of the played shot with the ghost balls will updating to show the outcome of those changes. 
+
+There are 4 different game modes that can be chosen, each with a different set of pool games. The different game modes and there games are:
+
+1. Tournament: The player must defeat 32 different players in a first to four knockout tournament in 8-ball or 9-ball pool before going on to the World Championship. During the tournament the opponent is never actually is seen playing there shots. Instead, when it is the opponents turn, it cuts to an image of the player with a caption and then returns the control to the player with some balls removed and moved. This way the opponent can finish the game within 4 turns regardless of if they where snookered or not.
+
+2. Challenge:  It has many different pool games that are played, all with one player without an opponent. The games are:
+
+1. 14.1 Challenge � After the break the ball is placed anywhere at the top of the table behind the line. At that point, the player can hit any ball but once the fails to hit a ball in a hole the game is over. If there is only one ball left on the table the rest of the balls are re-racked and play continues. At the end score is given based on the number of balls that where hit in the holes. The score are tallied up over 5 games to get the total score.
+
+2. Eight Ball - After the break the ball is placed anywhere at the top of the table behind the line. The player must hit all the chosen set of balls (stripes or solids) and the 8-ball in one turn.  The score is based on how many balls where hit in.
+
+3. Nine Ball - After the break the ball is placed anywhere at the top of the table behind the line. The player must hit the 9 ball in one turn. The score is based on how many balls where hit in.
+
+4. Equal Offence � Same as 14.1 Challenge but there is only one game played.
+
+5. Three Pool � Only have 3 balls on the table. Score is based on how many shots it takes to get all three balls in with lower been better.
+
+6. Speed Pool � Objective is to hit all the balls in as quickly as possible as a timer is timing how long the game takes. Any ball can be hit at any time and the player can miss the shot and not be penalised (other than taking longer).
+
+3. Party:  It has many different multiplayer pool games that are played with ether just 2 or 2 to 8 human players. The games are:
+
+1. Eight Ball (2 Players)  � A standard eight ball game with the players taking turns to play.
+
+7. Nine Ball (2-8 Players)  � A standard nine ball game with up to 8 players taking turns. First player to get the 9-ball in wins.
+
+8. 14.1 Continuous (2 Players)  � Players can hit any ball in for a point. If a shot is missed then other player plays. If there is only one ball on the table the pocketed balls are re-racked. Play continues until one of the players reaches the score chosen at the start of the game.
+
+9. Ten Ball (2-8 Players)  � Same as Nine Ball except with 10 balls.
+
+10. Rotation (2-8 Players)  � Only the lowest ball can be hit and the score for getting a ball in is the value of the ball (e.g. 8-ball is 8 points). Player with the highest score at the end of the game wins.
+
+11. Straight Pool (2 Players)  �  Same as 14.1 Continuous but the player with the highest score after one game wins.
+
+12. Equal Offence (2-8 Players)  �  Same as Equal Offence in challenge mode but players can take turns to beat each others score.
+
+13. Fifteen Ball (2-8 Players)  � Same as Rotation except that any ball can be hit not just the lowest.
+
+14. One Pocket (2 Players)  � The two players are given one of the two pockets at the end of the table. The player must hit all the balls in there nominated pocket with the one with the most balls wins.
+
+  
+Three Ball (2-8 Players)  � Same as Three Ball in challenge mode but players can take turns to beat each other�s score.
+
+15. Speed Ball (2-8 Players)  � Same as Speed Ball in challenge mode but players can take turns to beat each other�s score.
+
+4. Freestyle: Lets the player practice with no opponent, no penalties, the ability to move any ball to the desired location (or remove by throwing the ball in the pocket), and the ability to place potted balls back on the table.

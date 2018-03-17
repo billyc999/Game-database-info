@@ -1,0 +1,5 @@
+In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
+
+Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.
+
+If you become trapped in a hopeless situation, your canon can enter hyperspace and be instantly transported to a different location on the screen. Just be careful, sometimes you may be transported to a situation worse than the one you left! The game ends when all of your laser canons have been destroyed.

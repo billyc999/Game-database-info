@@ -1,0 +1,1 @@
+The aim of the game is to attack the sub hunter while sinking as many ships as possible. If you miss the sub hunter it goes to another level where it drops depth charges while the player waits to fire a torpedo.

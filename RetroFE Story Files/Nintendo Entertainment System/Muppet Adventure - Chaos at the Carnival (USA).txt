@@ -1,0 +1,14 @@
+Chaos at the Carnival is a collection of six arcade mini-games.
+
+Miss Piggy has been "pignapped" by the sinister Dr. Grump; her Muppet friends come to the rescue. Kermit, Gonzo, Fozzie and three other characters from the children's TV show dash into Grump's mysterious fun fair in search for their pink companion. They must brave five rides in succession in order to take on the Grumpasaurus in the final carnival confrontation.
+
+1. Tunnel of Love: Avoid objects in the waterway
+2. Duck Hunt: Hit passing ducks with tomatoes
+3. Space Ride: Land a spaceship in the correct dock using rocket blasts
+4. Bumper Cars: Race around the track and avoid crashing into obstacles
+5. Funhouse: Find a way through a small maze filled with guard dogs
+6. Battle of the Grumpasaurus: Tickle the Grumpasaurus so that he laughs himself silly
+
+The C-64, Apple II and DOS versions of Chaos at the Carnival support two players, taking turns.
+
+The versions for the four platforms differ strongly; see the trivia section for details.

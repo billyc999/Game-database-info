@@ -1,0 +1,1 @@
+You see a board filled with mines and you don't know what fields exactly they occupy. By clicking on a field a number appears on it, which indicated how many mines are located on the nearest fields to it. Then you try and click on those fields you consider free of mines. If you make a mistake, the mine will explode and the game is over.

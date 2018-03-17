@@ -1,0 +1,10 @@
+This is an improved version of the game Space Treat.
+
+The improvements are:
+
+1. Scoring
+2. Hi-score feature
+3. The graphics are more stable
+4. Compatible with the Atari 7800
+5. Compatible with more Atari 2600 emulators
+6. Various cosmetic and audio improvements

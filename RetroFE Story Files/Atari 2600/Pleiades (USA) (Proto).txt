@@ -1,0 +1,9 @@
+This is a sequel to Phoenix. 
+
+On the first screen, you must shoot swooping aliens while not getting shot by them. At some point, an alien will create a shield across the screen just above your ship that will require you to shoot holes through to destroy more aliens. Be aware, however, that the alien shots are not slowed at all and can still kill you.
+
+On the second screen, you must shoot or avoid a phoenix(es) shots but the object is to shoot the alien in  the mothership above. You can also shoot the phoenix(es) themselves for points.
+
+On the third screen, you must maneuver between parked ships, without hitting any, to dock at your spot at the top. Once you do this, the game goes to the first screen only harder.
+
+There are game selections to choose to also play only the first, second or third screens, with each wave getting harder.

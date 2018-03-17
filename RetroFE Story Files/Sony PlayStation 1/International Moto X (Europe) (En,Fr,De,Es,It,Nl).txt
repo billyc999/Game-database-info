@@ -1,0 +1,7 @@
+International Moto X simulates off-road motorcycle races. The main part of the game is the championship mode in which the player controls a 125cc motorcycle. There are various different leagues on different continents.
+
+At first the player creates his rider and sets the colour of his bike. More important is the tuning of the bike. It is possible to buy new dampers, tires or engines or update the ones already in use. Also there is a choice between three, four or five gears  - inexperienced players can select automatic.
+
+During the race the goal is obviously to be the fastest rider by using all the tricks in the book - including stunts like wheelies, risky jumps, sliding or forcing the competition out of the way. There are several shortcuts to use but when the player is caught doing so, he is penalized. Winning a race results in prize money which can be reinvested in better gear. After winning all races in a league the player is allowed to ride in the 500cc league.
+
+Because the game is played in a 3rd person perspective there is no cockpit view - so all relevant data is shown in the upper left corner of the screen, including a mini map. Additionally there are two training modes, a time race and a training race against seven other riders on a course of choice. The game also features a scenery editor to create own courses but it not possible to save unfinished work. The competition editor allows the creation of new leagues with old or new courses.

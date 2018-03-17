@@ -1,0 +1,8 @@
+You are an air traffic controller at an international airport. You must guide planes in to landing safely.
+
+Your first screen is the Approach Control Radar screen or ARC. You must guide the aircraft , using the cursor, until they are headed left to right along the yellow line headed towards the black stripe. Make sure the other planes are headed where they won't immediately head towards each other or off screen.
+
+After the plane gets near the black stripe, move the cursor to the center red light and press the button. You will then be on the Ground Control Approach screen or GCA.  Here you must center the plane's nose on the glide slope and localizer before it arrives at the end of the runway. If the landing is successful, the plane will disappear from the ARC screen and a new one will appear soon to take its place. If not, when you press your joystick button and return to the ARC screen, the plane will still be there. If a plane starts flashing on the ARC and you hear an emergency sound, this plane has an emergency and must be landed first.
+
+Scoring
+Successful landing

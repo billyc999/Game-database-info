@@ -1,0 +1,5 @@
+Based on the movie from Walt Disney, you play a man trapped in a computer world who must keep moving to avoid being hurt.
+
+Enemies will come at you three at a time, and will throw discs at you.  You must keep moving to avoid them while also firing discs right back at them.  There are different doors you can enter that will teleport you to another part of the room, giving you a chance to catch the enemies off guard.
+
+There are two skill levels, and the higher your score, the harder the game becomes.  Do good, and your enemies will move faster, become more accurate, and the discs will go much faster.

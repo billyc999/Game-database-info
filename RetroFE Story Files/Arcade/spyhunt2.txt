@@ -1,0 +1,1 @@
+Driving/shooting game using a 3-D perspective from behind and above the car. The car can attain several different weapons up to four at one time. Two players may play at the same time cooperatively.

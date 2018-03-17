@@ -1,0 +1,5 @@
+Disney's Beauty and the Beast begins with a narrative that parallels the 1991 animated film-- an enchantress transforms a mean prince into a beast until such time that he could learn to love. One day, a woman named Belle happens into his castle. The Beast must pursue her through his own deadly castle for both their safety.
+
+This is a side-scrolling action platformer. The Beast is rather slow but with a powerful claw strike and jump-stomp attack. He can also scale certain types of walls and can catch the edges of platforms. He also has a special roar that allows him to stun certain enemies. This becomes necessary in some sections in order to freeze bats so the Beast can use them as stepping stones to higher platforms.
+
+The game has a time limit in the form of the magical rose. The Beast must battle through such levels as the dungeon and the main hall battling giant spiders, rats, rogue candle monsters, live gargoyle statues, and enchanted brooms, while collecting books for points (since Belle likes books) and magic mirrors that allow the Beast to see further into the current level to anticipate what challenges await.

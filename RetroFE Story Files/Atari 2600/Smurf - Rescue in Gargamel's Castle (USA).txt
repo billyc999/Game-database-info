@@ -1,0 +1,1 @@
+Smurfette has been kidnapped and is being held atop a platform in Gargamel's castle. The player controls a smurf across the screen and must jump over obstacles, away from spiders, eventually up to smurfette to rescue her. Completing of this task restarts the game with faster moving obstacles and it also takes longer (more scenes) to get to Gargamel's castle.

@@ -1,0 +1,1 @@
+Move along lines, erasing them as you go, to collect flashing or spinning items. If you collide with one of the yellow dots that are moving around erasing lines or if you end up at a dead end with nowhere to go, you lose a life. You cannot go back, only forward.

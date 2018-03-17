@@ -1,0 +1,1 @@
+Race over 20 vehicles around the world... but off the road.  There are 6 classes to race in: Hummer, Military, Safari, SUV, and Truck.  Vehicles include the Jeep Wrangler, Ford Explorer, Range Rover, and more.

@@ -1,0 +1,3 @@
+You are a space attack pilot flying at death range over a gigantic space ship. You must fight through the never ending waves of enemy craft while also firing missiles at the ship itself. Good luck!
+
+You control your ship with the joystick. To fire, simply press the button. You will fire lasers and missiles simultaneously. The missiles will strike where the cross hair in front of your ship is at the time they are launched. Beware of shots fired at you and do not run into anything that flies.

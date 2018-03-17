@@ -1,0 +1,23 @@
+In this isometric football game, 50 national teams are represented to play in two game modes: Exhibition and Tournament (a series of seven games on four continents, with a final against the World All-Stars), with the ability to set time, difficulty level, see cutscenes after goals and if players are free to kick each other around without (many) fouls.
+
+While the game seems short-featured for 1995 standards, the tournament mode includes a twist: depending on how well the player defeats his opponents, he can trade his "standard players", who won't do anything spectacular (but at least fill up the ranks) for star players, who not only look different, are able to cross and backheel the ball but also have a unique ability at the disposal of the player:
+
+1. The Marker: can latch on an opposing player, stopping him from running away with the ball;
+
+2. Goalkeeper 1: more capable of stopping shots than the regular goalkeeper;
+
+3. Barger: this large, muscular player is able to shove everyone in his path;
+
+4. Tricky: capable of jumping (or bunny-hopping, to be more precise) with the ball tucked between his feet, avoiding tackles;
+
+5. The Cheat: while it's hard to talk about fair play in a game where kicking a defenders' leg to gain a corner is (mostly) a legitimate play, this player takes the whole thing into the next level, being able to dig fouls out of nowhere, at the expense of the ball (if he's carrying it or the referee waves play on) or just some stains in his shirt (if he's trying to pull an offensive foul), with the odds of 50/50 (25% for penalties);
+
+6. Passer: capable of feeding forwards with laser-precision passes; 
+
+7. Striker 1: capable of unleashing impossibly-sliced shots, scoring from virtually any position in the offensive area;
+
+8. Striker 2: best used from positions directly in front of goal, this striker features a shot that is so powerful the ball ignites as it approaches the goal;
+
+9. Goalkeeper 2: features a better chance of stopping special shots from both Strikers;
+
+In Exhibition games teams start with their own setup of start players, from none to a full team. The playing surface also affects gameplay - playing in wet grass removes all ball bounce, the opposite occurring with sand, and the most dramatic change, a rocky field where the ball can change direction after hitting the ground, turning throw-ins into corners, poor attempts on goals and vice-versa.

@@ -1,0 +1,3 @@
+An arcade volleyball game featuring the characters and likeness of the Klonoa franchise. You compete in 2-on-2 matches using a selection of characters from the franchise in hopes of winning the 5-match tournament, which is staged on several locations from each game.
+
+The game plays from a 3d side-view, and you can block shots, counter them and release "Super Shots" with your selected character. Allows for 4-player gameplay and features a Championship, Exhibition and Training mode.

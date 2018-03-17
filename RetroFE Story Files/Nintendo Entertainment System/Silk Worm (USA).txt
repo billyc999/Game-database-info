@@ -1,0 +1,1 @@
+Silkworm is a classic horizontally-scrolling shoot-em-up based on the 1988 Tecmo arcade game. The main difference between this game and many other side-scrolling shoot-em-ups is that you got to be on land as well as in the air.

@@ -1,0 +1,7 @@
+A collection of 3 classic Buster Bros. games:
+
+1. Buster Bros.
+2. Super Buster Bros.
+3. Buster Buddies
+
+Each game plays virtually the same- these are action-puzzle hybrids (akin to Bubble Bobble); maneuver your character along the bottom of the screen and fire your rope gun; your rope causes the bad evil bubbles to break into smaller bubbles until they finally are defeated (much like the asteroids in Asteroids).  BBros and SBB both involve your world being attacked by the Bubble King (the funny synopsis of BBros in the instructions notes "One day for no particular reason the Bubble King began a siege on Earth's cities with multi-sized breakable bubbles"- Idi Amin he ain't.), while BBuddies involves precious art being guarded by bubbles- in a rare turn of events, you play as the thief looking to steal the art!

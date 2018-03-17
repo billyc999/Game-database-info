@@ -1,0 +1,3 @@
+Winter Gold is a winter sports game with events like bobsled, ski jump and snow boarding, all in a 3D graphics environment.
+
+Both single player and multi player options are available; you can play with up to eight people in compete mode.

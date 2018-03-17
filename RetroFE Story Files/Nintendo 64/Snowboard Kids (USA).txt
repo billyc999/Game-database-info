@@ -1,0 +1,5 @@
+A racing game where you control one of five cutesy snowboarders competing against each other. Being a snowboarding game, each track is a downhill slalom with a ski lift at the bottom which takes you back to the start for however many laps a track has.
+
+The tracks are varied, the first few taking place on snowy mountainsides, while the latter taking you to wackier locales such as grassy countryside, a desert and a theme park. The money collected on the course or won at the end of the race can be spent to buy better boards, which differ in stats, or to collect items/weapons while racing. There are also stunts that can be performed while racing which earn money as well, and certain parts of each course encourage the player to do so.
+
+Other modes include stunt mode, shoot mode and speed mode, all focusing on a particular part of the gameplay from the main game, and a multiplayer mode where up to 4 players can race each other. There are also unlockables for dedicated players.

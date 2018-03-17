@@ -1,0 +1,7 @@
+RayCrisis is the third part of a series of "Ray" shooting games. In the story it is considered a prequel to the first game's plot, RayForce. It is the only game without a two-player mode in the ported PlayStation version, even though the arcade does have 2 player mode.
+
+You have 2 weapons at you disposal, a vulcan gun and a lock-on missile attack. You can also do special attacks if you use the lock-on system to the max. The graphics are all in 3D, but the gameplay mechanics are in 2D.
+
+The players ship is a Waverider computer virus, which must get inside the Con-Human supercomputer's system. All enemies you encounter are antibodies, programmed to terminate any virus.
+
+Following this virus-infiltrate-in-body theme, the levels are called Self-Area, Emotion, Consciousness, Intelligence, Memory, and Consideration, each reflecting Con-Human's details of sentience. Finally the player must fight against the Dis-Human Antibody, and Infinity, Con-Human's heart.

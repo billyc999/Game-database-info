@@ -1,0 +1,3 @@
+The Tournament Edition of Clay Fighter fixes some glitches and adds new features to the original 2D fighting game. Most scenarios were changed or redone, the graphics are brighter and the gameplay is faster. The characters can now perform three and four-hit combos. More voice-overs and a new introduction cut-scene were added.
+
+Three kinds of tournaments are now available: double elimination, single elimination and sudden death. One, four or eight players can join the tournaments, with the option of renaming their characters for customization.

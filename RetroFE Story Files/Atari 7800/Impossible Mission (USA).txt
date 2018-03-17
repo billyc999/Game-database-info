@@ -1,0 +1,4 @@
+You play a secret agent on a quest to stop the evil Professor
+Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.
+
+The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.

@@ -1,0 +1,4 @@
+This edition of the licensed Supercross racing game features 
+8 indoor and 8 outdoor tracks. You can choose to do a single race on an individual track, or do a championship series on the indoor tracks, the outdoor tracks, or both. Additionally, there is a Time Trial mode, plus the Freestyle mode, where you can ride around in a skate-park like area performing tricks for points.
+
+The game features at least 8 real riders (depending on platform), plus the ability to combine outfit, bike and riding number to create a Custom Rider. 125cc and 250cc classes of motorcycle are featured. Races and Freestyle mode can be played with two players, via a split screen. A Track Editor is also featured, allowing you to create your own custom designed tracks.

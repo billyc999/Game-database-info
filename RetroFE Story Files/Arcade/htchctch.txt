@@ -1,0 +1,1 @@
+Shoot coloured blocks at the top of the screen. When 3 or more same colored blocks draw a line, they disappear. By terminating all blocks, the stage is clear.

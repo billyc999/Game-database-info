@@ -1,0 +1,3 @@
+A combination of exploration and classic Pac-Man (or in this case, Ms. Pac-Man) action, Ms. Pac-Man Maze Madness has Ms. Pac-Man saving Pac-Land once again, although this in full 3D.
+
+The four Wonders, mystical regions separated from the rest of Pac-Land by force fields, contains four Gems of Virtue: Generosity, Truth, Wisdom and Courage, each holding enough power to help keep Pac-Land safe from evil. However, an unknown enemy has transformed the Enchanted Castle into a haunted house, in turn starting a chain reaction of evil all around Pac-Land and the four Wonders. It is up to Ms. Pac-Man to enter the 3D designed worlds of the four Wonders and put the evil to rest for good.

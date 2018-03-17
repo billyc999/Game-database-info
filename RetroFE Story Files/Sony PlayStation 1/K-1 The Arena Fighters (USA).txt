@@ -1,0 +1,7 @@
+K-1 The Arena Fighters is a kickboxing game featuring 8 real world K-1 fighters.
+
+The game features a 1 player mode, a 2 player VS. mode, a Tournament mode featuring all 8 fighters, and a Team Battle mode.
+
+The team battle has 2 teams made up of 3 fighters each facing off against each other in one on one fights. The first team to win 2 out of 3 matches wins the entire team battle.
+
+Gameplay consists of two fighters in a boxing ring using high and low punches and kicks to down their opponent. Each fighter can also use their special signature move to hurt their opponent. Each fighter has two meters, one for strength and one for stamina. So the more punches and kicks that are thrown, the less amount of power they start to pack. This means the player is rewarded for timing their attacks because their attacks will be more effective. Also, a well placed hit on their opponent can lead to a flash knock down, which instantly drops the opponent to the canvas.

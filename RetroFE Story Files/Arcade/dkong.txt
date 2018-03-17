@@ -1,0 +1,15 @@
+An absolutely legendary arcade game in which the player takes on the role of Mario - who makes his debut in this game and would go on to become a gaming legend - and must battle his way to the top of each level to rescue his beloved Pauline; who has been kidnapped by the evil giant ape, Donkey Kong.
+
+On the Ramp, Elevator and Conveyor Belt Stages, whenever Mario reaches Pauline, Donkey Kong will grab her and carry her off to the next higher level. But on the Rivet stage, Mario must remove all the rivets on each and every floor by running or jumping over them. After all the rivets are removed, Donkey Kong will fall head first onto a stack of girders and be knocked out and then Mario and Pauline will be together again for good. The game then starts over again with an increased difficulty level.
+CAST OF CHARACTERS :
+Mario - This is the one and only Mario who will go on to become one of the biggest video game stars of all time. This is the game that started it all for him. In this game, he is thought to be a carpenter instead of a plumber.
+Pauline - Mario's girlfriend and damsel in distress. She is stuck at the top of each screen awaiting rescue from the clutches of Donkey Kong.
+Donkey Kong - The most well-known video game monkey. Donkey Kong has kidnapped Pauline and carried her up to the top of the construction site that Mario is working at.
+Hammer - Except for the Elevator Stage, 2 Hammers can be found on each stage. Jump to grab the Hammer and use it to smash nearby dangers for points. It only lasts for a short time and Mario cannot climb ladders while he is holding the Hammer.
+Barrel - Donkey Kong throws these at Mario on the Ramp Stage. Many of them roll down the ramps and randomly drop down ladders that they pass. Sometimes Kong throws them directly down the building.
+Beam - These are the blue Barrels that Kong throws. Other than color (the regular Barrels are orange), the only other difference between Barrels and Beams is that Beams will turn into Fireballs when they reach the burning oil can at the bottom.
+Fireball - These appear on every stage except the Rivet Stage; on the Ramp Stage, one appears each time a Beam reaches the oil can. They move about randomly and can be jumped, but it's dangerous to try because they change directions frequently.
+Firefox - These are the fire enemies that roam around the Rivet Stage. They are even harder to jump over and they seem to track Mario a little more closely.
+Spring - These bounce along the roof of the Elevator Stage before falling down to the bottom of the screen creating a dangerous but predictable obstacle to avoid.
+Cement Pies - The Cement Pies passively travel along the conveyor belt and are harmful to touch. The only danger they pose is when the conveyor belt suddenly changes directions.
+Prizes - Some of Pauline's items (Purse, Hat, and Umbrella) litter the construction site and can be retrieved by Mario for bonus points. They appear on every stage except the Ramp Stage.,

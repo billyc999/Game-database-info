@@ -1,0 +1,7 @@
+Billiards, as the title suggests, is a billiards game. The game features a Pocket Game mode and a Trick Shot Game mode. There is also a tutorial mode where the mechanics of the game are explained to the player.
+
+Pocket Game mode lets the player play either a normal game of nine ball, eight ball, rotation, basic, 14.1 continuous, or bowlliards. Once a game type is selected, the player can set the number of sets to play, and whether to play against a human opponent or against one of seven computer controlled characters.
+
+The Trick Shot Game mode lets the player attempt 18 different trick shots, including fancy bank shots and multi-pocket combinations. 
+
+When shooting billiards the player is able to select what direction to hit the cue ball, where to hit the cue ball with the cue stick, and the angle of the cue stick. The player is also able to change the angle the cue ball is viewed at and can zoom in and out on the table. When taking a shot, the power of the shot is determined by how filled a shot meter is.

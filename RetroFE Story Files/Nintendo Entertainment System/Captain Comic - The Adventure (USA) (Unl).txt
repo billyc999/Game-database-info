@@ -1,0 +1,5 @@
+"You are Captain Comic, galactic hero. Your mission is to recover three treasures from the planet Omsoc, which have been stolen away and hidden on the remote planet of Tambi."
+
+Captain Comic is a platformer featuring a huge nonlinear playfield divided into several different terrains. As Comic, you must search throughout Tambi for power ups and items that will aid you in your quest to recover the three treasures. The Captain's main weapon is 'Blastola Cola', a can of drink that allows him to hurl fireballs at his foes. For each can that he finds, an additional fireball can be thrown.
+
+There are many different paths that are available from the start, but without the right item or weapon, it can be impossible to progress through certain paths, or even to commit suicide. It's up to the player to decide the correct route to take, and which places to return to at a later time.

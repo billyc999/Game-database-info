@@ -1,0 +1,13 @@
+Mayday! Mayday! This is Colony 7! We are under attack by the Jarvians! Defensive shield has been raised. We will do what we can to survive.
+
+This is an Atari 2600 port of a 1981 Taito arcade game. The Jarvian have attacked. You must defend Colony 7. You are manning the defensive guns that defend the colony. The Jarvians will send wave after wave to try to break through the colony's defense shield and/or destroy the defense cannons. The defense laser fires non-stop so you just need to use the joystick to place the cross hair over an enemy to kill them. If the enemies get to be too much, press fire to activate the Mega Blaster and destroy all the enemies on the screen.. Be advised that you only have three shots for the Mega Blaster. If the colony or cannons are destroyed, the game is over.
+
+The Jarvian ships are:
+
+1. The Fighter: This is the most common and several attack at once, firing at the shield and colony and, sometimes, your cannon.
+
+2. The Advisor: This will cause the Fighters to target faster so remove it as soon as you can.
+
+3. The Bomber: This one will not target the shield but will try to bomb your cannon. Shoot it and/or it's bombs before they reach their target.
+
+4. The Scout: This one will call in replacement ships so see to it that he doesn't stay long.

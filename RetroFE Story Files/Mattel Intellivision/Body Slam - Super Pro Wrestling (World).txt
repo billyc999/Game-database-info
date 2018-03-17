@@ -1,0 +1,8 @@
+The Object of Body Slam: Super Pro Wrestling is to defeat your opponent in the ring. You must use strength, strategy, and a hint of sneakiness. Each match consists of a series of four-minute rounds. There is an unlimited number of rounds, so the match continues until a player wins or until a draw is declared. The first wrestler to pin his opponent to the mat for a time of 3 seconds is the winner.
+
+You control a wrestler selected from 12 different characters. Your 
+opponent is controlled by another player or by the computer. If 
+you choose a Tag-Team Match you and your opponent each 
+control 2 wrestlers who take turns in the ring.
+
+There are 26 possible moves - drops, kicks, punches, etc. Before each match, you choose 4 to 9 moves (depending upon your selected skill level) that you will use in that match. How many moves you can make during the match is determined by your selected skill level: the lower the skill level, the fewer the moves. Players may select different skill levels to handicap the match. The 12 wrestlers you have to choose from, have their relative strengths and weaknesses depending from their height, weight, strength, coordination, and ego.

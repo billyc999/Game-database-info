@@ -1,0 +1,15 @@
+Menacer 6-Game Cartridge was released as a pack-in cartridge for the Menacer light gun. It is a compilation of six games:
+
+1. Pest Control: in this game the player has to defend a pizza from the attack of assorted bugs. The player smokes the bugs while controlling a spotlight, but it is also possible to see the whole table while pressing a second button (in this case, it won't be possible to use the insecticide). The game is over when the pizza is all eaten. Different bugs will appear throughout the levels, such as some big ones which explode in smaller ones when shot.
+
+2. Space Station Defender: the player has to shoot aliens inside pods which appear on the screen in a given sequence and in specific positions. As the player follows the pattern, he has to reload the weapon by aiming the lower end of the screen where "power" can be read. There's also a random mode, where all pods appear at the same time and the player has to guess the order in which they'll open. The aliens shoot back if the player takes much time to shoot them. Once in a while a little flying saucer will cross the screen; shooting it will give the player a shield point. The game is over when player's life is depleted.
+
+3. Ready, Aim, Tomatoes!: this game is set in Toejam & Earl's universe. As the screen scrolls right, Toejam has to shoot tomatoes at enemies such as the Cupid, the Dentist, the Boogie Man, the little Devil and so on. There are also special items to shoot, like bombs which will kill all enemies at the screen or tomato baskets which will give ammunition. For each level there's a target score to achieve. In advanced levels the enemies will shoot back. The game is over when Toejam's life is depleted.
+
+4. Whack Ball: this is some sort of a Breakout game. The player controls a paddle and has to bounce a ball against a frame of blocks. Once a block is touched by the ball, its color is changed, and the objective is to change all blocks colors. Some glowing blocks have special effects when hit like sticking the ball to the paddle, giving an extra ball or shrinking the paddle. A time limit is given to each leval, and if the player doesn't succeed, another chance is given. The game is over when all balls are lost though the holes in the frame.
+
+5. Front Line: in this game the player has to shoot tanks, trucks, planes and helicopters before they shoot back. There are two weapons available: a cannon with unlimited ammo and 10 missiles per stage.
+
+6. Rockman's Zone: in this game the player has to shoot cardboard pictures of bandits while avoiding shooting pictures of women, children and policemen. Bonus points are given for acurracy.
+
+In the shooting games the player can choose to have the Accu-Sight on or off. If it is on, a crosshair will be displayed. If it's off, the player can also choose to use the Menacer's Binocular Module.

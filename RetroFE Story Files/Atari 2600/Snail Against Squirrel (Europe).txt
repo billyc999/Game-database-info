@@ -1,0 +1,1 @@
+Gather Nuts from the lower left and right of the screen , when the nut is ripe enough to be gatherd there will be a special sound to draw your attention once collected store them in your caves , each cave can store 5 nuts.

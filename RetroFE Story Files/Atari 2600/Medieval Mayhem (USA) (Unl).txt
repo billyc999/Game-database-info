@@ -1,0 +1,13 @@
+Medieval Mayhem is a version of the coin-op game Warlords, designed to be closer to the coin-op game than the home version released by Atari.
+
+Some of the features found in this version, not found in the Warlords release are:
+
+1. Launch dragon
+2. Multiple fireballs
+3. 4 AI levels
+4. Options menu
+5. Stereo sound
+6. Title screen music
+7. Demo mode
+8. Individual player catch setting
+9. Fireball flareups

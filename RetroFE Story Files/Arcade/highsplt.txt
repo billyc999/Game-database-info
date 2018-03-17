@@ -1,0 +1,5 @@
+Space Fever High Splitter is another of Nintendo's takes on the "Space Invaders" franchise only with a twist : if you don't quite hit the alien in the middle, you'll split the alien in two, both of which you'll have to shoot. The alien crafts are arranged in rows and they slowly move left and right across the screen. When the row reaches the edge, the ships drop down a row and move in the opposite direction (one exception : see below). As you shoot more enemies the speed will increase, as will the number of enemy bullets. You have four blocks above you that absorb the enemy shots until they are worn through, and being hit by an enemy shot will cost you a life. Sometimes a UFO will fly along the top of the screen; hit it and you'll get points and a smaller alien, hit the smaller alien and get more points.
+There are three different game modes for 1- or 2-player games :
+Game A : aliens go down two, up one, down two, up one.
+Game B : aliens show up in one up-and-down row, they add a row each time they reach the edge and turn around.
+Game C : The same as "Space Invaders" - all the aliens move as one 'block' in the same direction.,

@@ -1,0 +1,21 @@
+In 2631 a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien lifeform. Two years later in 2633, a terrorist organization of alien origin called Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+Contra is a hectic one or two player platform shoot-em-up featuring 10 stages. Six of the levels are standard side-scrolling platform levels, while the remaining four are enemy 'bases'; 3rd person into-the-screen stages in which players must run down series of heavily defended corridors to reach and destroy an end-of-level boss, before moving onto the next stage.
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.
+As players fight their way through the enemy-packed levels, additional weapons can be collected. If the player loses a life, they will also lose any weapon power-up they were carrying. Available weapons are :
+Machine gun [M] : Auto-fire.
+Spread gun [S] : Allows the player to fire 5 shots in an arc.
+Laser gun [L] : Will shoot a long laser that can take out many enemies in a row.
+Fire Ball [F] : A gun which fires small fireballs in a corkscrew pattern.
+Rapid-fire [R] : Increases the firing rate of the player's currently equipped weapon. Works with the Machine Gun and Fire Ball.
+Barrier [B] : Will make the player invincible for a few seconds.
+The game's 10 levels:
+Stage 01 : Jungle Area (side view)
+Stage 02 : Passage of First Base (3D view)
+Stage 03 : 1st Large Sensor (3D boss)
+Stage 04 : Waterfall (side view)
+Stage 05 : Passage of Second Base (3D view)
+Stage 06 : 2nd Large Sensore (3D boss)
+Stage 07 : Tundra Area (side view)
+Stage 08 : Energy Zone (side view)
+Stage 09 : Hangar (side view)
+Stage 10 : Alien Lair (side view),

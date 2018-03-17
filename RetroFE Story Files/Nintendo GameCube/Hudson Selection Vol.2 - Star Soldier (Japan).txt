@@ -1,0 +1,5 @@
+A budget remake of the top-down sci-fi shooter Star Soldier for next-gen consoles. 
+
+The game puts you in charge of a lone Galactic Empire starfighter as you make your way through several alien-infested stages using nothing but your reflexes and your laser weapons.
+
+The remake replaces the original graphics with a completely polygonal engine, featuring particle effects for all weapons and a new interface. New mid-stage bosses have been added to the mix and a new close range attack has been included in your ship for added damage.

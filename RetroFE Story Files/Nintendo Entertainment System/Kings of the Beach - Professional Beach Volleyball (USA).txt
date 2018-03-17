@@ -1,0 +1,3 @@
+Kings of the Beach is a two on two beach volleyball game. You must quickly move your team about on the sand performing serves, thumps, and spikes to not only out-perform but also out-smart the opposing team.
+
+There are 15 levels and 20 challengers to beat, on famous beaches like Rio, Hawaii and Sydney, in order to be crowned King of the Beach. Both cooperative and competitive multiplayer (non-networked) are also supported.

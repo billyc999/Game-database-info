@@ -1,0 +1,5 @@
+NASCAR action with 4 different series: Weekly Racing Series Presented by Dodge (dirt), NASCAR Featherlite (open wheel modifed), NASCAR Craftsman Truck Series (pickup trucks), NASCAR Cup Series (what people think of first when they hear NASCAR).
+
+Players can upgrade their vehicles in Career mode as they start off with dirt cars and move up through the ranks if they do well enough.  Players can also just jump in for fast action races.
+
+Cars reflect damage in their models and performance.  Players can paint their own schemes on their cars, and can place sponsorship placards to bring in more cash.

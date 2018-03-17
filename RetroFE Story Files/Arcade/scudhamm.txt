@@ -1,0 +1,1 @@
+An absolutely insane paper-rock-scissors game where the winner gets to beat the living crap out of the opponent.

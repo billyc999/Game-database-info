@@ -1,0 +1,3 @@
+"Me hungry! Me want FOOD!!"
+
+You, Sam the caveman, are hungry. You travel through various levels, defeating enemies, to gain yourself enough to eat in this side-scrolling platform game. Unlike the other game, the levels and controls differ in this version, due to the limitations of the Game Boy. There are ten levels and after every second level, there is a boss fight. Also, there are only two buttons, jump and attack.

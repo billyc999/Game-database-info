@@ -1,0 +1,3 @@
+Airwolf is a side-scrolling shooter based on the 1980s TV series of the same name. A division of the CIA builds itself a hi-tech helicopter in secrecy and codenames it "AirWolf". Armed with advanced weaponry, it is able to stand up to most types of enemy resistance. Given missions by intelligence agent Archangel, Airwolf is sent around to world on top-secret missions to quell trouble.
+
+Before each mission, the player is briefed and allowed to choose a primary and secondary weapon for Airwolf's firing buttons. From this, Airwolf then fires at enemies that appear on the screen and approaches a boss weapon. The game then switches to first-person, where the boss must be targeted in different locations.

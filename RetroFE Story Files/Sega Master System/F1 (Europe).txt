@@ -1,0 +1,5 @@
+F1 is an Official Formula One Racing Game. There are two modes of play available: "Arcade", "Grand Prix". In both of these modes you complete a certain number of laps (4, 8, or 12) and select which circuit that you want to race on. The circuits include San Marino, France, Britain, Germany, Italy, Portugal, Japan, and Australia. Some circuits are easy, while some are difficult. 
+
+There are slight differences between the two modes. For instance, "Arcade" allows you to select the circuit in any order that you like, whereas "Grand Prix" only allows you to fine-tune your car before starting a race. You also need to race a circuit in the order that they appear on the circuit selection screen, but you can skip a track if you want. 
+
+F1 is a 1-2 player game, meaning that if you have another player handy, you can compete against each other.

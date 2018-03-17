@@ -1,0 +1,2 @@
+A playable if simplistic Table Tennis simulation for one or two players. Ping Pong offers three different types of shot; Top spin, Back Spin and Smash. The actual gameplay centers on shot timing and shot choice, with the players' bats moving automatically to track the movement of the ball.
+In the single player mode, the player can opt to play the game on any one of five different skill levels.

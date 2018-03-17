@@ -1,0 +1,1 @@
+A blackjack game. The goal is to get closest to 21 without going bust. If your score is higher than the dealer or he busts, then you win. To hit a blackjack, you must score 21 in 2 cards.

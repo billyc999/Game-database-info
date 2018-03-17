@@ -1,0 +1,3 @@
+Rollerball is a pinball simulation for one to four players. 
+
+There are two different game variations included. The first is Skyscraper, which is a four screen tall pinball table where each player competes individually for the highest score. The second is called Matchplay. In this game two players compete against each other to see who can reduce his opponents score to zero first. Each player has a set of flippers and a ball in play, and points are awarded or taken away by hitting the various targets in the playfield.

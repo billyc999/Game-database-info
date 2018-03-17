@@ -1,0 +1,11 @@
+In this game, you are T. P., the Tooth Protector, and are trying to protect some teeth from tooth decay by the Snack Attacks. 
+
+Snack Attack moves across the top of the screen dropping snack food crumbs towards the teeth. You move at the bottom of the screen, just above the teeth. You must deflect the crumbs back up, hopefully hitting Snack Attack or a falling crumb for points. 
+
+Each round is time-limited. You play until the time runs out then you get bonus points depending on weather you lost any teeth and how many. 
+
+Occasionally, Snack Attack will try to swoop down and grab you. If you are caught, you lose a man. 
+
+If one or more of your teeth are in danger of being lost, indicated by it flashing, you can press your fire button to Reach toothbrush, Johnson & Johnson dental  floss and Act fluoride dental rinse to save that/those tooth/teeth. You get three of these cleanings to start but earn bonus cleanings every 50,000 points. 
+
+The game is over after you lose all three of your men or lose three of your teeth.

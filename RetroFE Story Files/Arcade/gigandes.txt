@@ -1,0 +1,1 @@
+A horizontal shooter with a twist. If you die, you get to keep your weapons and power-ups, but at the beginning of each stage you lose everything.

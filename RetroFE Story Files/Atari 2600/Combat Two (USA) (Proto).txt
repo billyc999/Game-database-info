@@ -1,0 +1,7 @@
+The year is 2037. Nations no longer fight monster wars, killing millions. Instead, two combatants enter an arena and fight for their countries honor.
+
+This is a sequel to the 1977 game Combat however, there are no planes, just tanks and missiles. Each player starts in a base in a corner, one in the upper left, the other in the lower right. You must seek out your opponent and shoot them three times to destroy their tank. If they are under trees or, in another game variation, behind walls, you must shoot the trees/walls out of the way first to reach them. Each player has three tanks. The winner is the last one standing.
+
+If you are still in your base, you can press the button to fire a homing missile that will seek out you opponent. When the homing missile hits, it counts as two shots. Missiles must reload between shots and the reloading time is several seconds. If a tank is not hit for several seconds, the 'crew' will affect repairs.
+
+There are game variations for trees, which you can drive but not shoot through, walls, which you can neither drive nor shoot through   and versions where you can place the trees/walls where you would like them to be.

@@ -1,0 +1,1 @@
+Solitaire is a game offering the player a chance to play Klondike. Klondike Solitaire is a game of moving cards of alternate suits onto each other in an effort to move them off the tableau. In the game, you have the option to draw one or three cards and you may also change the color and the backgrounds of the playing cards with a limited set of design and color choices.

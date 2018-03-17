@@ -1,0 +1,9 @@
+World Cup 2002 is the official game of the 17th FIFA World Cup, held in Korea and Japan between May 31 and June 30. It is based on the engine of FIFA Soccer 2002, so experienced Fifa players can get used for it quite fast. 
+
+It is based on the 2002 World Cup - Korea and Japan, and includes all of the countries who promoted to the World Cup, and a lot more. Small statistics are shown for every country - their last biggest win, appearances at the World Cup, etc.
+
+The stadium and all players are really detailed. The player's texture's resolution is so high, you can easily recognize most of them. The stadium is big and impressive, and full of colored crowd.
+
+As in FIFA Soccer 2002, animation were taken from real players, with motion sensors. Thus, some new animation were added - new sliding, falling, and more.
+
+And the newest feature of 2002 FIFA World Cup, is the air ball control model. You can take balls from the air, and have much more control with them - creating great goals from the air.

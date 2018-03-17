@@ -1,0 +1,9 @@
+Postman Pat and the Greendale Rocket is based on the famous TV cartoon series about happy and friendly Postman Pat and his hometown Greendale.  The old Greendale train station is in bad state and its steam train, the Greendale Rocket, does not seem to be working! The inhabitants of Greendale decide to repair the station and its train. And Pat is ready to help everyone!
+
+The game features five different levels - each of which include a separate platform phase, a mini-game and a driving phase for a total of fifteen different stages. During platform stages Postman Pat should find certain inhabitant of Greendale such as Mrs. Goggins, Charlie Pringle, reverend Timms, Dorothy and Alf Thompson. Walking and jumping, he should collect stamps, letters, and parcels.
+
+There are places that Pat can't reach by himself. In these situations, the player will take control of Pat's black-and-white cat, Jess, who can find buttons that allow Pat to continue. Upon finishing a level, Pat will be given an object that will help the villagers get the Greendale Rocket back on the tracks.
+
+The 5 mini-games are arcade games presented by the inhabitants of Greendale. They include sorting the objects to find six parcels, making a kite fly and collecting a certain number of letters, catching the drops, catching the butterflies as Jess the cat, and stamping parcels and letters.
+
+In the driving phases Pat with Jess the cat should drive in Pat's van through the streets of Greendale and the surroundings and should avoid various obstacles without losing too much time.

@@ -1,0 +1,18 @@
+Eat! Eat all the calories you can but watch out for the purple pickles. They stay with you and give you debilitating gas.
+
+Food starts on the left and moves to the right. You move the mouth to eat the food; the more fattening, the better. After eating several food items, you get the message that you're getting fatter. Then a faster round begins or, in a two-player game, player two plays. The green pickles are fine but avoid the purple pickles. If you eat six purple pickles during the game, you will burp, ending the game. You will then see a closed sign for the snack bar.
+
+The food calorie count, from lowest to highest, is:
+
+1. Green pickle
+2. Root beer
+3. Cola
+4. Soda pop
+5. Hot dog
+6. Hamburger
+7. Ice cream bar
+8. Milk shake
+9. Ice cream cone
+10. French fries
+11. Pizza
+12. Cheeseburger

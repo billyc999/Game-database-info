@@ -1,0 +1,1 @@
+Kevin Keegan's Player Manager combines a football management sim with the Kick Off football game. The Kick Off game includes several skill levels, Challenge Cup and practice options. Manager offers three management skill levels, three division league and two Cup competitions. Options to play on the pitch or watch and get computer predicted results.

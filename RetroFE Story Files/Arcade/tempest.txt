@@ -1,0 +1,73 @@
+Tempest is a classic into-the-screen shoot-em-up in which the player controls a yellow, claw-shaped "Blaster" ship that moves around the outer rim of a three dimensional, wireframe tunnel. Enemies move down the tunnel towards the player's ship and must be destroyed. Any contact with either incoming enemy fire or the enemies themselves will cost the player a life. Completion of a tunnel will see the player "warp" to the next tunnel to tackle a new wave of enemies.
+The tunnels are each rendered in one of sixteen different geometric shapes. Enemies increase in number as the game progresses and if an enemy reaches the outer rim occupied by the player's Blaster ship, it will chase and attempy to kill the player. Rim enemies can be killed, but this is difficult to achieve.
+Some enemies also drag "spikes" - in the form of green lines - behind them as they travel up the tunnel towards the player. These spikes must be avoided during the warp sequence at the end of the level, as contact results in the loss of a life.
+Two "Superzaps" are available per level. The first Superzap kills all enemies on the playfield at the time of firing, while the second randomly kills only one enemy on the playfield. The Superzap does not affect enemy shots, spikes or enemies that have not yet landed on the playfield.
+One new feature Tempest introduced was "Skill-Step". This allowed players to start a new game on the same level as was previously reached (although the new game must be restarted within thirty seconds) without having to replay previous levels. This allowed skillful players to continue being challenged, while less experienced players could try to master higher levels. The 99 skill levels of play included sixteen different playfields and seven different enemy targets.
+* Tempest level shapes:
+1. Circle
+2. Square
+3. Plus symbol
+4. Bow-tie
+5. Stylized Cross
+6. Triangle
+7. Clover
+8. V
+9. Steps
+10. U
+11. Completely Flat
+12. Heart
+13. Star
+14. W
+15. Fan
+16. Infinity Symbol (figure 8 on its side)
+The playfield's colour scheme changes every sixteen levels. In addition, other events also cause playfield colour variation. The Superzap causes the playfield to flash as enemies are zapped, Playfield rails flash rainbow colours when a player earns a bonus life and Pulsar enemies cause sections of the nearest rim to disappear and - during the pulse phase - adjacent rails to flash.
+Tempest level colour schemes:
+*Levels 1-16:
+Tunnel - blue
+Player ship - yellow
+Super Zapper - yellow
+Flippers - red
+Tankers - purple
+Spikers/Spikes - green
+Pulsars - N/A (these do not appear until the next colour scheme)
+*Levels 17-32:
+Tunnel - red
+Player ship - green
+Super Zapper - cyan
+Flippers - purple
+Tankers - blue
+Spikers/Spikes - cyan
+Pulsars - yellow
+*Levels 33-48:
+Tunnel - yellow
+Player ship - blue
+Super Zapper - blue
+Flippers - green
+Tankers - cyan
+Spikers/Spikes - red
+Pulsars - blue
+*Levels 49-64:
+Tunnel - cyan
+Player ship - blue
+Super Zapper - red
+Flippers - green
+Tankers - purple
+Spikers/Spikes - red
+Pulsars - yellow
+*Levels 65-80:
+Tunnel - black (invisible)
+Player ship - yellow
+Super Zapper - white
+Flippers - red
+Tankers - purple
+Spikers/Spikes - green
+Pulsars - cyan
+*Levels 81-96:
+Tunnel - green
+Player ship - red
+Super Zapper - purple
+Flippers - yellow
+Tankers - purple
+Spikers/Spikes - blue
+Pulsars - yellow
+Levels 97 and up - Keeps colour scheme from Levels 81-96, with random shapes from Level 99 onward - Keeps color scheme from Levels 81-96, with random shapes from Level 99 onward

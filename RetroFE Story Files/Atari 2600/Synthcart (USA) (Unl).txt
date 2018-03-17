@@ -1,0 +1,5 @@
+The Synthcart is a rather unique title for the 2600 that allows you to play music using a pair of keyboard controllers. Each keyboard controller controls one of the two oscillators in the Atari 2600. You can learn more about the Synthcart and download an MP3 demo of it in action on Paul Slocum's Synthcart web site. 
+
+AtariAge sponsored a Synthcart Beat Programming Contest in early 2002 to allow people to create and contribute beats to be included with the Synthcart. Check out the contest page for all the details and listen to all the beats that were submitted! 
+
+Includes cartridge and full-color manual. Requires a pair of Keypad Controllers. You can download and print a keypad overlay here. Available in NTSC and PAL formats (please specify above when ordering). The Synthcart cannot be used with SECAM Atari 2600 models due to the way the Black & White switch functions on those systems.

@@ -1,0 +1,3 @@
+Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships.  There are 2 different types of ships to fly, and 6 different missions.  In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing. 
+
+There are two ways to play the game.  First, one can directly control the ship and maneuver it around the 3D polygon environments.  Second, the player can let the 32X do the flying, and simply control a gun turret.

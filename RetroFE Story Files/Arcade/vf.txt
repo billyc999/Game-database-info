@@ -1,0 +1,4 @@
+In this 3-D fighting game the game's battle system is simple, yet complex. There are 3 buttons : Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.
+Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').
+When a 'Draw' is declared (timer reaches zero with both fighters having an equal amount of energy), a Sudden Death match is held on a very small platform, making a win by Ring-out that much more probable.
+The game favours tactical play over mindless button bashing, and the gameplay is balanced accordingly to reflect this.,

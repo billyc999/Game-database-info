@@ -1,0 +1,3 @@
+Heavy Unit is a "shoot-'em-up" game.
+
+It's year 2014 and human colony "Le Tau" is under attack by some strange aliens. You are given command a special starship that can be transformed into mecha (giant robot) through game by obtaining various power ups. Besides that it's a typical shooting game where you have to fly through various side scrolling levels and shoot everything you see.

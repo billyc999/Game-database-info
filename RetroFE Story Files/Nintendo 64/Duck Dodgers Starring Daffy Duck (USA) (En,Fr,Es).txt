@@ -1,0 +1,5 @@
+Looney Tunes Duck Dodgers is an action/adventure game. With 5 huge worlds to explore, gadgets and gizmos from the ACME company, you and your trusty side kick Porky Pig must defeat Marvin the Martian.
+
+Marvin the Martian has devised a plan to destroy the Earth and has built the Ultimate Weapon to do it. This weapon needs energy atoms to function so Marvin has sent out his 5 minions to 5 different worlds to collect the energy atoms. Daffy must defeat these bosses before he battles Marvin.
+
+Most of this game is played in 3rd person but there is a spin off of Quake called Quack mode which is played in the first person point of view.

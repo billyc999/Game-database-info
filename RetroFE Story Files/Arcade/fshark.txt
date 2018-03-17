@@ -1,0 +1,2 @@
+A vertically scrolling shoot-em-up in which the player pilots a bi-plane and must destroy enemy land air, and naval craft across a variety of environments.
+Some enemy aircraft waves produce bonuses when shot down, such as weapon power-ups, point bonuses, and extra lives. Each stage begins and ends with an airport runway and every time the player lands on a runway at the completion of a stage, the amount of remaining player bombs are multiplied by 3,000 points per bomb and added to the player's score. All bombs are replenished for the start of the next stage.,

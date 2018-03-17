@@ -1,0 +1,1 @@
+A vertical maze game featuring a little man chasing dollars.

@@ -1,0 +1,1 @@
+Sea Battle is an adaptation of the pen-and-paper game "Battleship"/"Sea Battle". The player is a fleet commander and must guess where enemy's ships are on board, and "destroy" them. Enemy hunts for player's ships, the better commander wins. Game has several modes: player can customize many things, like the size of the board, the number of vessels and the use of special weapons. 

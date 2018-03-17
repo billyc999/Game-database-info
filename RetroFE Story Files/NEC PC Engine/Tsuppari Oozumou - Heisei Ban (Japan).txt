@@ -1,0 +1,1 @@
+Tsuppari Ozumo is a sumo wrestling game. The goal is to wrestle the opponent out of the ring. The opponents get harder as the game progresses. Different moves can be performed depending on button and directional combinations.

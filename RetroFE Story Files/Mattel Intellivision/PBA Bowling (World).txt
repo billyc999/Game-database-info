@@ -1,0 +1,3 @@
+This is a game of skill that requires you to knock down pins as in real bowling. Play alone or with up to three friends. Two game are available: standard bowling and pick-up spares. Pick-up spares sets the pins in a variety of ways to let you practice difficult shots.
+
+Options allow you to select 1 of 10 conditions of alley slickness and the weight of your ball. Players can also choose to be a right or left handed bowler. While trying to knock down the pins you will need to control the curve and loft of the ball.

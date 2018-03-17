@@ -1,0 +1,19 @@
+After Atari acquired the rights to The Last Starfighter (convinced it would be a hit), they set to work on developing games based on the movie for the 5200, 400/800, and 2600.  The problem was that the game Alex played in the movie was impossible to reproduce on any home console of the time (in fact it was impossible to make a game like that at all in 1984, the one in the movie was just computer generated graphics), so programmers had to be creative in their approach.  Although both games were finished in time for the movie, Atari canceled The Last Starfighter due to the collapsing market.
+Although the title suggests that this game is based on the 1984 movie, this prototype is actually an early version of the game that eventually became known as Solaris.  Although the 5200/400/800 game has some elements from the movie (including a nice shot of the Gunstar taking off), the 2600 version doesn't seem to resemble the movie in any way shape or form.  The Last Starfighter is actually almost identical to Solaris with some minor gameplay differences.  This is most likely because this game was never meant to be The Last Starfighter.  It has recently been discovered that Tod Frye was working on another version of TLSF, which never materialized.  Atari mostly likely saw Doug's wonderful new game (which was called Universe at that time) and decided that it would make a perfect fit for the Last Starfighter license.  This allowed Atari to get a TLSF game out the door quickly and freed up Tod to work on other higher priority projects.
+- The title screen says "By Solaris" instead of "D. Neubauer".
+- The copyright is 1984 instead of 1986.
+- Your ship icon on the map is different.
+- An arrow at the top of the map shows which direction to go (no more mazes).
+- Each galaxy is numbered and displayed on the map screen (Scanner 1, Scanner 2, etc.).
+- When a planet is under attack the Jump Counter is displayed at the top of the screen instead of the words "Scanner".  When the counter reaches zero the planet will be destroyed.
+- There are no Cobra Ship squads on the main map.  Instead Cobra Ships appear randomly among other enemy types.
+- There are no Red Zones when a planet is destroyed.
+- The galaxy maps are different and only have one exit.
+- There are explosion sounds on a planet when it is under attack.
+- The warning sound when a planet is under attack is different.
+- Your scanner will eventually repair itself when damaged.
+- All corridors have multiple Ion Gates.
+- Extra lives for rescuing Federation Citizens from Ko-Dan planets are awarded after you leave the current galaxy.
+- The Cobra Ships use the same icon as people on the radar screen.
+After being canceled in 1984, Atari decided to release The Last Starfighter as a new game for the relaunch of the 2600 in 1986.  The problem was that The Last Starfighter license was owned by MCA who was currently suing Warner (who owned Atari at the time) over lack of payment.  The solution? Rename the game and take out any references to TLSF.  The result?  Solaris.  It appears that Atari chose the new name based on the pseudonym Doug Neubauer used while writing TLSF (notice how it says By Solaris at the bottom of the screen).  Pseudonyms were nothing new for Doug, he wrote many 2600 games under the name Dallas North (why all the name games Doug?).  
+Although we've been playing it for years and just didn't know it, The Last Starfighter is actually a pretty neat variation on Solaris.  The game is actually less complex as there is only one path to take to Rylos (err. Solaris), which can relieve some of the frustration players felt trying to get through the maze in Solaris.  Why Doug decided to make these changes are unknown, but Atari certainly could have released the game as is with only a minor name change.  The Last Starfighter is one of the lucky few games lost in the crash to actually be released, many others weren't as fortunate.

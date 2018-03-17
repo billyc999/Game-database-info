@@ -1,0 +1,3 @@
+Ever played that thing at carnivals were you have to maneuver a metal rod through a maze without touching the sides? well, this is what this game is. Seriously! This game is based on a Japanese show in which you actually get shocks when you touch the sides of the maze. You control  the rod and have to maneuver it through several 3-D mazes without touching the sides. 
+
+Includes 1 or 2 players simultaneous play or 8 players tournament mode, 3 courses with 100 mazes in total plus a random maze generator and editor mode.

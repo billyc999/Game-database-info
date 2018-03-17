@@ -1,0 +1,3 @@
+This hockey game includes 24 NHL teams and 288 NHLPA players. The NES version contains an exhibition, training and a super cup mode. The SNES version has a practice and a season mode. The training mode in the NES version allows you to practice both offense and defense. The training mode in the SNES version lets you either practice in an exhibition game or compete in a shootout. The super cup is based on the round-robin format in the NES version. The teams chosen to compete in the super cup are decided by the teams rankings from the season mode in the SNES version.
+
+The game is played with a top down view of the hockey rink, with the screen scrolling vertically as the puck carrier heads towards a net.

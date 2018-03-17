@@ -1,0 +1,3 @@
+A 3D fighting game similar to Tekken or Dead or Alive. Choose from over 20 characters and fight in different modes, including "Normal Mode" (where secret characters can be unlocked), "VS Mode", "Time Attack Mode", "Survival Mode", "Training Mode", "Watch Mode" (watch two fighters controlled by the CPU) and an "Extra Mode", a racing mini-game that becomes available once all hidden characters are unlocked.
+
+Four buttons are used to control the fighters, one for punches, one for kicks, one for grappling moves and one for blocking. Combinations and special attacks can be performed by pressing the punch, kick and directional buttons in various combinations. Defensive moves include blocks, sidesteps as well as counterattacks.

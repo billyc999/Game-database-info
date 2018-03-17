@@ -1,0 +1,5 @@
+This basketball game lets the player choose from 107 Division 1 men's teams, 16 Division 1 women's teams (the top 16 from the 1998 season), and 20 of the all-time great men's teams from the past. The license from the NCAA allows for the team's names to be real, but no player's names are allowed, although the players on the teams mimic the real jersey number's and skills of their real life counterparts.
+
+The game features six game modes which are: Exhibition, Tournament, Practice, Women's Sweet Sixteen, Three-Point Shootout, and Dynasty. 
+
+Exhibition let's the player pick any team to play against any other team in the game. Tournament mode lets the player fully customize a 64 team NCAA tournament. Practice mode let's the player practice their skills on the court. Women's Sweet Sixteen let's the player set up a tournament for the 16 women's teams in the game. Three-Point Shootout let's the player compete in a three-point shooting contest. Dynasty mode let's the player take a college team through multiple seasons and allows the player to recruit new talent to improve their team.

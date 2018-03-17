@@ -1,0 +1,10 @@
+In this classic game of checkers you can play with your friend or many different levels of computer AI.  Mastering all of them will take skill and strategy, as well as a bit of luck.  Video Checkers follows the standard checkers rules with the following rules: if there is a jump available, you must take it and if you get to king's row and are promoted, you cannot move again that turn but must wait for your next turn.
+
+Game variations
+Games 1 through 9 are regular checkers, from easiest to hardest in which the object is to capture or block all your opponents pieces.
+ Game 10 is a two player game. 
+Games 11 through 19 are giveaway checkers, from easiest to hardest, in which the object of the game is to lose or be unable to move any of your pieces.
+
+Difficulty switches
+Left switch:
+ Set to A

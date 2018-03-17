@@ -1,0 +1,7 @@
+New edition of Midway's "NFL Jam" action/sports game where the emphasis is on bone-crushing action rather than sport simulation.
+
+Additions this year come in the form of a season mode, a simpler passing system based on preset buttons (gone is the "aiming" mechanism) as well as a limited yet functional play-book editor.
+
+Also included are new audible calls and voice-overs, smoother animations and new stadiums to play in.
+
+Supports multiplayer gameplay of up to 4 players in one single machine! (two on keyboard, two on gamepads).

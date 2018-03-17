@@ -1,0 +1,4 @@
+You are captain of the boat trying to make it upriver while saving
+the drowning people lost in one of the nine rivers.
+
+You must guide your boat up the river without hitting the shore, rocks, driftwood, other boats or TNT, which will sink you immediately. You want to rescue as many drowning swimmers as you can. Your boat also has a leak so don't delay and keep an eye on you water gauge at the bottom. If that reaches zero, your boat will sink. You want to avoid alligators and whirlpools as, although they won't sink you instantly, they will cause you to take on water faster for a time.

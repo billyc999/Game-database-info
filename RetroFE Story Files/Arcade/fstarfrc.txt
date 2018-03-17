@@ -1,0 +1,10 @@
+A sequel to Tehkan's 1984 shoot-em-up classic "Star Force", featuring improved graphics and sound and a new weapons power-up system. The player's ship is equiped with three smart bombs and the fire button can be held down for rapid fire. At regular intervals, a red ship will appear which will release a power-up capsule; the three power-ups available are as follows :
+* A-Pulsator :
+Fire : Thunder + Homing
+Bomb : S-Bomb
+* B-Pulsator :
+Fire : Wide Shot + Missile
+Bomb : M-Bomb
+* C-Pulsatorq :
+Fire : Spraygun + Synch-Fire
+Bomb : T-Bomb,

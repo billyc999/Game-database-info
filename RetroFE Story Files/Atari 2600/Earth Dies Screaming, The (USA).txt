@@ -1,0 +1,11 @@
+You are a space destroyer defending Earth against the Trillians.
+
+The Trillians are using attack bases to launch Kamikaze satellites and Trillian fighters at Earth.
+
+When a satellite/fighter gets close, your weapon will automatically track their vertical motion. You must track them horizontally and fire at the right time.
+
+You lose energy when a fighter shoots you or when a fighter or satellite explodes on Earth.
+
+If you see a fighter with a white stripe (the back of the fighter), keep it on the screen for five seconds and you will come to an attack base. Destroy the attack base to regain energy.
+
+If you lose all your energy, you will explode and the Trillians will celebrate as...The Earth Dies Screaming!

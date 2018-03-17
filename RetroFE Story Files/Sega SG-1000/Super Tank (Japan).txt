@@ -1,0 +1,1 @@
+Super Tank is a shoot-'em-up game for the SG-1000. The player drives a tank and is tasked with shooting at and destroying enemy units and structures.

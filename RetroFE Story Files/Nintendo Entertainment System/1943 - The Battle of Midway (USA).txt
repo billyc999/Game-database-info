@@ -1,0 +1,3 @@
+The sequel to 1942, which is still a vertically scrolling shooter, has the player once again fighting over the clouds during the second world war, this time in an intense battle just off the coast of Midway islands.
+
+Updates to the gameplay include an energy bar, which can be run down by either being hit from incoming fire or using a special weapon. The energy bar can be replenished by picking up power-ups, while special weapons (lightning, cyclones and waves) can knock down all fighters on the screen at the time.

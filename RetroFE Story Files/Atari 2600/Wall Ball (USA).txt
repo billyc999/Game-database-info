@@ -1,0 +1,1 @@
+A breakout type game, you earn points for knocking out bricks in the far wall. how many points depends on level of play and how many balls you've used since starting that level object of the game is simple hit the ball with the racket

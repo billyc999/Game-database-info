@@ -1,0 +1,9 @@
+Play either the Road Runner OR Wile E. Coyote in this unique side-scroller that is just like an interactive Saturday morning cartoon.
+
+Your goal: run through six different desert environments before time expires, collecting ACME stamps.
+
+As the Road Runner, speed is your ally as you do incredible jumps, burn though loop-de-loops, and avoid all of the Coyote's contraptions and ambushes. The Road Runner can also scare an unsuspecting Coyote with his Beep-Beep attack.
+
+As the Coyote, you use Acme's crazy gadgets to catch the Road Runner, constantly attempting to master their power without getting yourself flattened. The Coyote has a special leap attack which allows him to make a last ditch attempt to grab the bird!
+
+Bonus rounds include cameos from other classic Warner Bros. characters such as Elmer Fudd, Bugs Bunny, Marvin the Martian.

@@ -1,0 +1,5 @@
+In this children's learning game, you play as the Berenstain bear called Brother. On your unicycle, first you must avoid hitting stones in the road. Then you will be in the forest, where, depending on the cassette you have selected, you will have to catch the correct numbers, letters or the letters to spell a certain word.
+
+After you catch the required items, you then move on and either have to dodge stones again or cross one or two bridges that open and close.
+
+If you hit a stone, catch the wrong falling item or don't get across the bridge(s) in time, you get a warning sound but do not lose a life. You can play non-stop until you choose to stop.

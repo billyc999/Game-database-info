@@ -1,0 +1,1 @@
+The premise is simple, race against the clock and computer-controlled F-1 opponents in a series of races.  Along the way, earn points to upgrade various aspects of your machine, including acceleration, top speed and handling.  It also includes a track editor, so you can create your own courses as well.

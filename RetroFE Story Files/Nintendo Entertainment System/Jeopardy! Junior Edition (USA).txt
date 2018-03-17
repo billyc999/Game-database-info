@@ -1,0 +1,7 @@
+A conversion of the popular TV game show for younger players ages 7 and up.
+
+Up to three players can take part in the three-round trivia contest where the answers are given and the contestants must supply the correct question.
+
+In the first two rounds, six categories of five answers each are randomly chosen by the computer to fill the "wall" and the player begins by choosing any one of them.  After the chosen answer is given, the first player to hit his "buzzer" gives the response using the controller to move a cursor over an onscreen keyboard, spelling out the question within the time limit.  In the final round, a category is announced and the players each place a bet, up to the limit of their winnings so far, on the final question.  After all players are ready, the final answer is shown and all players give their questions.
+
+There are three difficulty levels and the computer can supply opponents if desired.

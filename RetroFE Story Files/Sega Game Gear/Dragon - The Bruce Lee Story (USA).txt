@@ -1,0 +1,3 @@
+Based on the 1993 movie of the same name, Dragon: The Bruce Lee Story  has Bruce Lee learn that he was born in America and he sets off to explore this new land. However it is a dangerous place and must fight to survive.
+
+Dragon: The Bruce Lee Story is a side-scrolling action game. Bruce Lee travels through various locations and engages enemies in martial arts. As Bruce Lee, the player can jump and attack. The direction button being pressed at the time of the attack determines whether Bruce will Punch, Roundhouse Kick or Low Kick. Power-ups are scattered throughout the levels and can be activated by attacking them. Bruce has a health meter at the top of the screen, when it is depleted he loses a life.

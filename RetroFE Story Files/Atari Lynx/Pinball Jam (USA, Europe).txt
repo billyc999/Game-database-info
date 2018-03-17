@@ -1,0 +1,3 @@
+Pinball Jam is a Lynx conversion of two pinball tables:  "Elvira and the Party Monsters" (Midway, 1989), and "Police Force" (Williams, 1989).  Both feature authentic table layouts, targets, and bonuses; the conversion of Elvira and the Party Monsters also features digitzed sound effects, including the voice of Cassandra Peterson (Elvira).
+
+Each table scrolls up and down during gameplay (as opposed to just "snapping" to a new area as the ball reaches it).

@@ -1,0 +1,5 @@
+The SNES game based on James Cameron's classic 1984 film is an action game where the player takes the role of Kyle Reese, sent from the future to protect Sarah Connor from the Terminator.
+
+The game has two kinds of levels: in several scrolling platform levels, Reese runs and jumps, shooting at Terminators (in the future war level that begins the game), street punks or policemen.
+
+The film's chase scenes are recreated in two driving sequences. Viewed from behind, Reese and Sarah must escape the Terminator's pursuit in their car, dodging incoming traffic and avoiding the Terminator's fire.

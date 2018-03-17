@@ -1,0 +1,1 @@
+XS Moto is a 3D motorbike racing game with 22 racing tracks located around the world. The game modes include Single Race, Championship, Two-Player Race, and Two-Player Championship. The game features real-time weather effects and conditions. While racing no map of the track is shown, but yellow icons appear on the left or right to signal the direction of the upcoming turn.  

@@ -1,0 +1,9 @@
+The NES version for Dragon's Lair brings Dirk the Daring in a side-scrolling game, different from the interactive movie gameplay common to the other games under the same license.
+
+Once again, Dirk is up to rescue Princess Daphne from the evil dragon Singe. To do so, Dirk will use weapons such knifes, axes, fire balls, etc, thrown against dragons, bats, snakes, the Lizard King (who will steal gold from him), among other foes. He will also do a lot of jumping and ducking to avoid threats along his way, such as falling bridges, presses, spikes and holes on the floor. To complete a stage, all he has to do is to get to the end of it alive.
+
+At the end of some stages, Dirk will take an elevator that will lead him to other stages. The elevator makes short stops at some platforms, and you have to decide if Dirk will jump onto that platform or another. If  he takes the wrong platform, he may go back to a previous stage and go through it all over again. From the elevator Dirk can also get to a bonus level, the Lizard King's throne room, where he can try to recover the gold the King has stolen from him.
+
+Although Dirk has a life bar, he will instantly die if takes damage from the most of the threats. He also has a "candle bar", which is used (by pressing the start button) to light up dark places and to discover hidden items at specific locations.
+
+The game can be played by 2 players taking turns. The PAL version has faster gameplay, additional enemies (including level bosses), death animations and splash screens in between the levels.

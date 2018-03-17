@@ -1,0 +1,7 @@
+Papyrus is a platform game based on the Belgian comic and animated series of the same name by Lucien de Gieter.
+
+In the game you play as Papyrus, a young Egyptian lad, in an ancient Egyptian setting. The princess Theti has been kidnapped by the evil High Priest Seth, who wants to take over the power of her father the pharaoh. Once you rescue Theti you can also play as her.
+
+The game features typical platform controls, where you can move back and forth, jump, attack; by punching or throwing stones, climb, and hang from vines and cracks. There are 21 levels in total to play through, with seven boss battle mixed in.
+
+A secret level can be unlocked using the &quot;Ubi Key&quot;, which is activated by connecting two GBCs playing Papyrus via the Infra-Red Port.

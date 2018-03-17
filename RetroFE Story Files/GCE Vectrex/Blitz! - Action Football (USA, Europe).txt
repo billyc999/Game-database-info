@@ -1,0 +1,1 @@
+Blitz! is one of the oldest football games, using X's and O's using a top-down look on a football field with four options a piece for offense and defense. Two player game play is supported through an additional control panel. There are three game options that change the game's speed and difficulty.

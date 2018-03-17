@@ -1,0 +1,1 @@
+A very basic translation of the popular game show Wheel Of Fortune, where you guess letters until you can guess the phrase.  This CGA version has three old-school rounds of Wheel of Fortune (where the puzzles are simply "Phrase", "Title", "Person", etc.) and then a bonus round.  You can compete against 2 computer players or up to three people can play against each other.

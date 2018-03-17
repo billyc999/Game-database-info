@@ -1,0 +1,5 @@
+Based on the popular Where's Waldo series of books, the player's goal is to find Waldo, who is hidden in various pictures, before the time on the clock runs out. The player controls a magnifying glass and must click on various items for different effects. Finding a clock adds more time to the search, clicking on a 150 icon adds 150 points to the score, etc.
+
+Each picture consists of 6 adjacent screens containing a continuous theme. The themes are The Carpet Flyers, The Underground Hunters, The Battling Monks, The Unfriendly Giants and The Land of Waldos. Players are given the option of playing on Normal difficulty, Expert difficulty, or playing the Land of Waldos stage. The only difference between the difficulties is that on expert there are no clock items to provide players with extra time.
+
+In all of the stages the player must find both Waldo and a scroll to complete the stage. Waldo must be found before the scroll in order to complete the stage. Waldo's dog Woof is also in each of these stages (except for the Land of Waldos) and by finding him players get to play a small bonus stage where they collect points as they control the dog on a flying carpet.

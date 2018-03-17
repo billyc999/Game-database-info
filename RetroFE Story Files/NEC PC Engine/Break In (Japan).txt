@@ -1,0 +1,1 @@
+Break In is a pool simulator. The game features six different billiard games, including 9 Ball, Rotation, and Carom. It also features different modes: Simulation, Action, and Technique. Up to four players may play.

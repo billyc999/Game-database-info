@@ -1,0 +1,1 @@
+An old black and white American football game where the player characters are represented as X's and O's. Players select either offensive or defensive plays and then control one of the characters on each team by rolling a trackball.

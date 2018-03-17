@@ -1,0 +1,5 @@
+Mercs is a shoot 'em up influenced by Ikari Warriors. You are an anti-terrorism soldier, and must rescue a former President from a Central African revolutionary gang. 
+
+You run through each of the 8 levels, which primarily scroll horizontally, shooting everyone before they can shoot you. At times you will have to shoot trees and other scenery to progress. 
+
+Finding strategic placings is important, especially as you can't shoot while on water. Most of the time you are on foot, but at times you can hijack vehicles of shot foes. There are improved weapons, smart bombs and energy recharges to collect. Each of the 8 levels ends with a large vehicle requiring multiple shots to destroy.

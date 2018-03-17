@@ -1,0 +1,9 @@
+Congratulations! Your mission was a success!
+You, your helicopter and the other two helicopters of your squadron did very well and fought the enemy's army bravely. Your new objective sounds easy: escape the enemy territory and return to your home carrier.
+Due to fuel shortage you have to take the shortest way which follows a river flowing through a long canyon heading directly to the sea. Unfortunately all your ammunition is depleted and so you have to avoid colliding with objects just by your flying skills! Good luck, pilots! 
+The game starts up by displaying the titlescreen showing the game name and copyright information. This screen also tells you to press "Fire!" and start the game.
+The game starts with the screen showing a canyon from above (top view) while you have to guide your helicopter and avoid colliding with the different obstacles. The display also shows the current level (left), the remaining amount of available helicopters (middle) and the distance to the goal of this level (right). Shown below is the frequency scanner - use it to dismantle the enemy's homing missiles by pressing the fire button while the scanner is at the correct range. A sound will indicate this range, too.
+Your helicopter is able to fly at three levels of height. The dangerous objects in your way are fences, bars, homing missiles and columns. You either have to fly aside the columns, above the fences or above or below the bars. The missile can only be disarmed by the frequency scanner and your fire button.
+If the three helicopters of your squadron are destroyed, you will come to the flashing Game Over screen.
+There is no direct score in I Project, but your progress can be judged by the entered zone and remaining distance. The game consists of 31 zones to pass.
+The game ends when all three helicopters of your team are destroyed or when you manage to finish the final zone.

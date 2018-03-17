@@ -1,0 +1,5 @@
+In Prism Land you play as Prism and Rhythm (a cat and a fairy) who set out to save the seven trapped guardians of the land in a game very similar in gameplay to Breakout. You play through the stages with the cat holding a magic paddle at the bottom of the screen bouncing a ball across the screen to break all the pieces set up on the stage. 
+
+As you play you can get a wide variety of bonuses such as multi-balls, bigger paddle, a magic wall to stop the ball from falling down at the bottom of the screen.
+
+At the end of every "world" you encounter a boss that you need to defeat in order to advance further. After having saved all the guardians you unlock the final castle stage.

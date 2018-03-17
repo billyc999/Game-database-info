@@ -1,0 +1,3 @@
+Cadets at Starfleet Academy must spend some of their classes in the starship simulator. This year is a simulation of the U.S.S. Enterprise. Substituting for Jean-Luc Picard, cadets will take the role of captain and then must access different crew members (functions of the ship) to complete a series of scripted missions.
+
+Star Trek: The Next Generation is divided into a series of missions. Players will start on the main screen of the bridge and from there can access Navigation, Tactical, Operations, Engineering, Transporter Systems and Mission Control. Mini-games are sometimes used to complete certain ship functions (such as rerouting power to the shields).

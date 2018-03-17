@@ -1,0 +1,2 @@
+This is a puzzle-game by Taito which looks like the Puzzle Bubble series but the bubbles cannot bounce on the walls, you can only release them vertically so we can also see similarities with Space Invaders.
+It features characters from Taito games such as Bub and Bob from the "Bubble Bobble" series, Tiki from "The New Zealand Story", Bubby and Bobby from "Rainbow Islands", Sayo-chan from "Kiki-Kaikai" or the dwarves from "Don Doko Don".

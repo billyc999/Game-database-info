@@ -1,0 +1,1 @@
+Four-Play is an Atari 2600 version of the classic Milton Bradley board game Connect Four. The object is to drop red or blue colored marbles onto a board in an attempt to get four in a straight line, whether it be horizontally, vertically or diagonally. You can play the computer in up to four skill levels or play against another human opponent.

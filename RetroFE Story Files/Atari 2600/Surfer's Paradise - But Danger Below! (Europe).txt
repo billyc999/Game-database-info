@@ -1,0 +1,5 @@
+In Surfer's Paradise, the player's objective is to stay on top of a wave as long as possible. From time to time, a shark will approach the player who can in turn jump to try to avoid the shark. If they fail or if they don't manage to stay on top of the wave, they will drop into the water.
+
+The underwater sequence makes up the second part of the game. Here, the player has to get from the left side of the screen to the right side and back onto their surf board. However, there's a sunken galleon in their way. The player has to navigate a maze of walls in a limited amount of time while also avoiding oncoming jellyfish.
+
+Once the player reaches the top of the board, a new and more difficult round starts. Scoring is achieved by staying on top of the wave as long as possible. Extra lives are awarded for every 1000 points.

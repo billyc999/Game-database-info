@@ -1,0 +1,13 @@
+Brigandine is a war strategy simulation game set in a active world where all of your army units and your enemy units fight and grow continuously.
+
+The story takes place on the continent of Forsena where a coup d' etat has taken place in the kingdom of Almekia. You have a choice of selecting one of five characters from surrounding kingdoms to conquer the kingdom of Almekia and return peace to Forsena once again. 
+
+Gameplay is very much like other tactical games in that you first select the kingdom to attack, attack that country, organize your troops and repeat that process until victory. The gameplay is reminiscent of Ogre Battle in that when you envade a country you then select the towns or bases in which to attack to conquer that country. Your units will upgrade with experience from fighters to knights and barbarians to berserkers. Summon monsters like dragons and hydras to fight on your side which will grow with experience also. 
+
+As with Final Fantasy Tactics, the Zodiac (a favourite of 90's Japanese RPG's) plays a role in determining every units effectiveness against another.  Elements (Fire, Nature, Water, Thunder) and Alignments (Neutral, Light, Dark) also figure into damage.
+
+The progression of a battle involves sending three Rune Knights and their retinue of monsters to represent your side.  Each Knight has a number of "rune points" calculated off of level, class, and particular attributes.  Each monster requires a number of rune points to have in the party, ranging from a ghoul (15) to a Lucifer (125).  Regardless of rune power a Knight can only have 6 units in his retinue.
+
+Each castle/fort/town produces a set number of 'Rune Energy', which is set against the 'upkeep' cost of all alive units.  In this way larger nations sustain more powerful fighters, smaller nations must sacrifice fighters who they can not upkeep, and saving up rune energy can allow a nation to quickly bolster forces after a defeat.
+
+The majority of the game takes place in 2D sprites except for the battle scenes which take place in full 3D polygons.

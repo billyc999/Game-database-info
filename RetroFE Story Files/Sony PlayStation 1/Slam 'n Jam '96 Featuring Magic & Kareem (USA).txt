@@ -1,0 +1,1 @@
+A fast paced 5-on-5 basketball game very similar to the Run and Gun series from Konami. This game features no real NBA license but two real legends: Earvin "Magic" Johnson and Kareem Abdul-Jabbar. There are player stats and skills for each player which are modeled to be similar to their actual NBA counterparts. Features exhibition, season and playoff modes.

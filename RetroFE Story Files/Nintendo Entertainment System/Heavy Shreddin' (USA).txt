@@ -1,0 +1,5 @@
+In this snowboarding game, the player goes on various runs completing events on downhill mountains. There are five events in all: Downhill, Slalom, Half-pipe, Moguls and Backwoods.  In Downhill the object is to get down the slope as fast as possible. In Slalom you have to guide the board between the gates. In halfpipe, you have to perform stunts on a half pipe. In Moguls, you have to jump over both small and large moguls. In Backwoods, you'll be given different obstacles to contend with and you'll have to find away to get around them.
+
+You also earn points by executing various stunts along the way. Stunts you can pull off are a toe grab, hand-plant, mid-air 360, and a mule-kick.
+
+There are three different peaks, each featuring a couple different runs. The mountain ranges consist of Poseur Peak, Scary Summit, and Mt. Mortified.

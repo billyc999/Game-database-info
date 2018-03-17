@@ -1,0 +1,3 @@
+In this game you are Rad Gravity, a futuristic heroic spaceman.  A mad scientist disrupts the peaceful universe and it is your job to visit various planets to re-establish contact between all the worlds. Sights vary between verdant planets, lava pits and hazardous jumps, with gravity variations and craters.
+
+The game is a platformer and on each world you must fight your way past many enemies. You can collect different weapons and additional health bars which will help you when you face the evil boss. With the main computer you can choose your next destination - but many puzzles rely on the usage of items found on a different world; e.g. an alien-translator.

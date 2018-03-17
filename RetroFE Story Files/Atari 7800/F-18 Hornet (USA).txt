@@ -1,0 +1,3 @@
+F-18 Hornet is a one-player fighter simulator in which the player pilots a Navy F-18/A Jet through a series of simulated combat situations including carrier take-offs and landings, bombings, strafings, and air combat. 
+
+In each of four missions, you are confronted with a variety of opponents and must perform a series of combat objectives in order from the Naval Aviator rank.

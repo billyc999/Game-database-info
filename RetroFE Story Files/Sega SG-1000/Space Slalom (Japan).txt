@@ -1,0 +1,1 @@
+Space Slalom  Though on the surface it appears to be a space-themed vertical shoot-'em-up, there is actually no shooting involved. The player controls a shuttle and must navigate it through a course defined by coloured stars, similar to ski slaloms. The player must also avoid obstacles, and will be awarded with extra points depending on on his/her speed across the course.

@@ -1,0 +1,5 @@
+Volfied is a home conversion of an arcade coin-op developed by Taito in the late '80s. The game is very similar to Qix -- the player takes control of an object whose purpose is to roam the screen, forming shapes and removing them from the play field. By way of reward, a picture is gradually revealed in the removed areas of the screen. The borders of the area which the player has not cleared become the border of the area the player's pointer can move along.
+
+The player's object must avoid contact with any of the enemies which float around the screen, as this will weaken and eventually destroy it. Barriers limit which parts of the border boxes can be formed through. The goal is to clear 80% or more of the screen, and each additional percent adds bonus points.
+
+As an arcade conversion this game allows for one or two player games in three difficulty levels, but offers no passwords or saved games across its numerous levels.

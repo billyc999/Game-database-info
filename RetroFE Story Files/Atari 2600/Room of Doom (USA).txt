@@ -1,0 +1,6 @@
+You are trapped in a room with a monster. As if that wasn't bad enough, there are gunmen outside the room shooting at you when the portals open. To advance, you must shoot the gunman when the portals are open. You can shoot the monster but it will only be stunned and if you stay in the same room too long, the monster becomes immune to your weapon.
+
+There are sixty-four game variations. In some, the gunmen shoot in a straight line only, others they aim at where ever you are, others are slow, others fast, others the portals all open at the same time and stay open, others various portals open and close.
+
+Scoring
+Shoot a gunman

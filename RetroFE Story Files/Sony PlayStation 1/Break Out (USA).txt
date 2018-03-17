@@ -1,0 +1,3 @@
+In this updated version of Breakout, players take the role of "Bouncer", whose main objective is to rescue both his friends and Daisy and defeat the evil Batnix. 
+
+Gameplay is similar to the original game from 1977, but with 3D graphics and multiplayer support. Play through exotic locations like a dark prison cell, a menacing dragon-owned castle, an animal infested farm, and outer space. The game also contains numerous challenging modes, secrets and bonuses.

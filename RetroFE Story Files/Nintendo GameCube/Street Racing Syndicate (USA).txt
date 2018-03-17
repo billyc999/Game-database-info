@@ -1,0 +1,9 @@
+SRS: Street Racing Syndicate is an arcade racing game, offering more than 50 licensed cars, which are tunable with licensed tuning parts. The player races on tracks situated in Los Angeles, Miami and Philadelphia, both during daylight and at night. It's also possible to date 18 cute models, each with their own video clips. 
+
+The game features two modes:
+
+In Street Mode, there are tree types of awards: money, respect and girls. Money is necessary to buy cars, tuning parts and place bets, and can be earned by winning races and collecting prizes and bets. The player receives respect points for doing tricks such as two-wheel driving or drifting. These points allow them to progress in the game (i.e. unlock races). The last type of award, girls, will date the player if they win a respect challenge. This can be a car chasing, a checkpoint run or a respect points race. There are 8 races with various crews and difficulty, each consisting of three tracks where the player will race against one or three opponents. It's also possible to drive Street Challenges (point-to-point races) against another car, where the winner takes the bet. Or the player can just cruise around the town in Cruise Zone.
+
+Arcade mode offers four types of races: Quick Race, Checkpoint Run, Ironman (set of 3-12 races which have to be won), Speed Trial (a race against time).
+
+SRS: Street Racing Syndicate also features six multiplayer modes: Quick Race, Collection Race, Team Collection Race, Team Time Race, Team Position Race and Pink Slip Race. They can be played over LAN or on Internet using GameSpy Arcade.

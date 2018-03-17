@@ -1,0 +1,1 @@
+Tennis is a singles tennis game which can be played by one player against the computer or two players against each other. The game follows standard tennis rules, and allows you to hit a variety of forehand and backhand shots to any location on the court. There are two skill levels included; a slower practice game, and the more challenging full speed game.

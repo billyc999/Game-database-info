@@ -1,0 +1,9 @@
+Big Bird's Hide and Speak is an edutainment title for based on the Sesame Street license.  It is designed to teach early recognition, memorization and reading skills to young children.  It is one of the few NES games to use digitized speech thanks to a special chip included in the cartridge.
+
+There are six modes divided into three groups of two.  In all modes, Big Bird stands outside an apartment building with four windows.  Little Bird sits on top of one of the windows and acts a cursor.  Players use the D-pad to move Little Bird to the correct window and press the A-button when they find it.
+
+The first group of modes teaches simple name-recognition skills.  Four Sesame Street characters walk into the building and appear at the windows.  Big Bird calls out their name and the player must choose the character whose name is called.  The windows can be left open or shut to teach memorization.
+
+The second group of modes teaches kids to recognize letters.  As before, four Sesame Street characters enter the building.  Now, letters appear in the windows along with the characters.  Big Bird says the name of a letter, which you must then find.  This mode also can have the windows left open or shut.
+
+The third group of modes teaches basic spelling.  Letters appear with the characters as in the previous mode.  In the first version of this mode, Big Bird calls out a three-letter word to spell.  You must then select the letters in the correct order.  The final mode is timed.  The sun starts at the top of the screen and play continues until it drops below the fence.  There are groups of four letters again, however Big Bird does not instruct you what to spell this time.  You must pick out words from the list yourself.  After each word, a new batch of letters is revealed.  The object is to see how many words you can spell before the sun sets.

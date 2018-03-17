@@ -1,0 +1,3 @@
+As in the movie (and the more famous graphic adventure), your task is to find the Holy Grail. Before this can be done you must find the Cross of Coronado, a shield and a diary. 
+
+This makes for a four-level arcade adventure combining climbs, exploration (with several routes through each level, and some traps) and puzzles. Indy is armed with his trusty whip to fight off foes, but can also get involved in hand-to-hand combat. The first level takes place in caves underneath Colorado, before you reach a moving circus train strewn with traps, a Zeppelin which is full of guards and ladders, and then Castle Grunwald in Austria.

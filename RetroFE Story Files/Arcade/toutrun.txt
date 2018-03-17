@@ -1,0 +1,21 @@
+Turbo Out Run is the first arcade-based sequel to the legendary 1986 original. It echews the forked-road, variable route gameplay of it's illustrious predecessor and instead opts for a set route point-to-point race across America. There are several new game-play additions, however, which help to differentiate 'Turbo Out Run' from the original.
+Firstly, there's the 'Turbo' of the game's title; a turbo boost that greatly increases the car's speed when engaged. It must be used sparingly, however, as overuse will cause the engine to overheat, rendering the turbo useless until such time as the engine has cooled (as indicated by an on-screen 'Overheat' meter).
+Weather conditions are another new feature, with both snow and rain having an adverse effect on driving conditions and car handling. Road surfaces also vary greatly in quality, with sand, oil, speed bumps, safety barriers, standing water and other debris all adding to the challenge.
+The final new addition is the ability to upgrade the player's car. This is possible upon completion of every four of the game's sixteen stages. Available power-ups are an improved turbo boost, a more powerful engine, or better gripping tires.
+Turbo Out-Run's sixteen stages are as follows:
+* Stage 1: New York
+* Stage 2: Washington D.C.
+* Stage 3: Pittsburgh
+* Stage 4: Indianapolis (1st car upgrade section)
+* Stage 5: Chicago
+* Stage 6: St. Louis
+* Stage 7: Memphis
+* Stage 8: Atlanta (2nd car upgrade section)
+* Stage 9: Miami
+* Stage 10: New Orleans
+* Stage 11: San Antonio
+* Stage 12: Dallas (3rd car upgrade section)
+* Stage 13: Oklahoma City
+* Stage 14: Denver
+* Stage 15: Grand Canyon (Runs along Route 66)
+* Stage 16: Los Angeles (End of game)

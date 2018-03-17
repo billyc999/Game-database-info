@@ -1,0 +1,12 @@
+This is an updated version of the game INV.  The following items were corrected or added:
+
+1. Scoring more closely matches the original arcade game.
+2. PAL support has been added.
+3. Added an Invisible Invaders mode.
+ 
+Player death sequence improved and animated.
+4. Hidden easter egg added.
+5. New, full-color manual
+6. Several bugs were fixed
+
+For a full list of what was changed, see this page.

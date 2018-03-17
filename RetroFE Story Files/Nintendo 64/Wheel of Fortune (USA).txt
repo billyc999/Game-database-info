@@ -1,0 +1,5 @@
+This game is an interactive version of the popular U.S. quiz show Wheel of Fortune complete with hostess Vanna White.
+
+The game is played by trying to find a hidden word with only a few guesses allowed for the letters which is very similar to the pen and paper game Hangman. The other round which features the Wheel of Fortune involves you spinning the wheel which has various prizes both good and bad and whatever the pointer stops on when it stops revolving is what the player wins. This can be cash, a free spin or if you're very unlucky Bankruptcy which means you lose all the money you've earned up to that point.
+
+Up to 3 Players can play together in multiplayer mode

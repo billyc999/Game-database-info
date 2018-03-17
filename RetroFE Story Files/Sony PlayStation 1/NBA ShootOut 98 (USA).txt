@@ -1,0 +1,6 @@
+This game features all 29 NBA teams from the 1998 season. The game modes included are Exhibition, Season, and Playoffs. The game also features a draft mode and a player creation option. The game also contains player and league leader stat tracking.
+ 
+
+Game options let the player choose whether to play a sim or arcade type of game, set the difficulty level, set the quarter length, and whether to turn turbo on or off.
+
+During the game, players can use the Total Control Dunking which lets the player perform various types of slam dunks. Also featured during the game is Icon Passing and Icon Cutting. These let the player select which team member they want to get open for a pass or to cut towards the basket.

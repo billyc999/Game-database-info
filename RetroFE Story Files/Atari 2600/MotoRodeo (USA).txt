@@ -1,0 +1,14 @@
+This is a monster truck race that features true split screen action on an Atari 2600.
+
+First, you move the joystick(s) up or down to select if this opponent will be a human player or computer, a blazer or a truck and whether it will have tires or trax. Tires allow you to go over obstacles easier, trax make you bounce higher. Then on the next screen, you select weather you are going to do a competition at hard, medium or easy or whether you are going to practice one of the obstacles in the game.
+
+Press the joystick button to accelerate. Move the joystick down to do a wheelie when on the ground. Move the joystick left and right when in the air to control your spin. Move the joystick left and right quickly to escape mud bogs. Press the joystick button and push forward to use a nitro burst if you collected them.
+
+Difficulty switches
+Only the left switch is used.
+ Set it to A for a scoring game in which the player with the most points at the end of the race wins.
+Set it to B for a timing race in which the first player across the finish line wins.
+
+Scoring
+If the difficulty switch is set to A, the scoring is as follows:
+Landing upright and flat from a jump

@@ -1,0 +1,3 @@
+True Pinball is a console version of Pinball Illusions that has 4 different tables, named "Extreme Sports", "Vikings - The Tales", "Ricochet" and "Babewatch".
+
+Both 2D and 3D views (not available in computer versions) are available and over 32,000 colors in high resolutions boost it visually.

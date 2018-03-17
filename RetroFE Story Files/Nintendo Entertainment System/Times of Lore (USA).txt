@@ -1,0 +1,3 @@
+A simple action-RPG following the adventures of a young warrior (strong barbarian, armored knight, or quick valkyrie) to assist a weakened kingdom from various threats, and to recover special Artifacts that once made the kingdom strong.
+
+Gameplay consists of moving your character in real-time through various terrains, like forests, towns, and dungeons. The player gathers basic items, like health and magic potions, and increasingly powerful weapons as you progress through the story. Conversations are handled through keyphrases. Combat is real-time as well, against a few types of creatures (skeletons, orcs, rogues) of which there can be various flavors.

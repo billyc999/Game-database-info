@@ -1,0 +1,9 @@
+You're warping along fine when suddenly you are caught and unable to maneuver. Suddenly, space pirates approach attempting to disable you so they can board. The only thing you have left is your tachyon launcher that moves back and forth and fires a tachyon beam. Hold off the space pirates for as long as you can.
+
+Using your paddle controllers, move the tachyon launcher left or right and press the button to fire a tachyon beam. The beam only travels up. Destroy the pirates and avoid them colliding with you. Sometimes the pirates travel on groups. Destroy any pirate in a group to kill the whole group.  You only have one life. Once you die, player two can begin by pressing the button on their paddles or you can press the Reset switch to start a new game.
+
+Game variations
+The only variation is one or two player. The difficulty switches are not used.
+
+Scoring
+You score one point for each enemy killed. After sixteen points, the enemy start shooting photon shots at you to kill you from more of a distance.

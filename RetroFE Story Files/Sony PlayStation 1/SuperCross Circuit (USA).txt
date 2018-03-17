@@ -1,0 +1,7 @@
+Supercross Circuit is a motorcycle racing game with both supercross and motocross tracks.  In addition to the handful of fictional "local" tracks there are 9 tracks that are modeled after actual national event courses.  Included in the game are 15 professional riders, and licensed gear and bikes to choose for your rider.  
+
+When you start a race you are given the opportunity to set up the suspension, exhaust, and brakes.  Racing modes, include Free Ride, Time Trial, and Season.  The majority of the tracks must be opened in Season mode before they can be ridden in Free Ride.  
+
+Application of the brake, helps the bike make tight turns, and the use of the goose button, along with weight shift, can help maximize or minimize air on any given jump.  There are 7 AI riders on the track in single player mode, and 2 AI players in 2 player split screen racing.  There are a dozen tricks that can be performed in the air with various combinations of the shoulder buttons, and points are listed for using a variety of the tricks, although it doesn't affect the winner of the race.
+
+In season mode, you need to buy new tires, and add parts to your bike for increased performance.  You also upgrade from  a 125cc, to a 250cc, and finally a 400cc bike.

@@ -1,0 +1,2 @@
+A demanding yet superb sprite-scaling racing game from Konami, based on the annual 'WEC Le Mans 24' race; a grueling event that, as its name suggests, takes place over a 24-hour period.
+The width of Le Mans' racetrack never varied and remained a constant 3 lanes wide. The track itself was incredibly demanding and contact with either a rival racer or one of the many track-side objects would send the player's vehicle flying dramatically through the air, costing valuable seconds in time.

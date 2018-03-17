@@ -1,0 +1,3 @@
+This is a futuristic pool game, in which the tables are designed in several different shapes and sizes, with pockets sometimes slightly inwards from the cushion. This makes the game more similar to miniature golf than conventional pool. 
+
+You can set the power of each shot, though not the spin. In one-player mode you must clear the table without missing more than more than 3 times. There are 60 different tables, and 255 levels in total to play through in sequence, and you can also alter the friction level. You can also go head to head with another player.

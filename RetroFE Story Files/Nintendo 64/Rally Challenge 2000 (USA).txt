@@ -1,0 +1,9 @@
+Rally Championship 2000 is a racing game for the N64 and features 9 courses in different countries around the world, licensed cars including Subaru Impreza, Mitsubishi Lancer Evolution, Toyota Corolla, etc. and with each car having its own strengths and weaknesses, car damage, various weather conditions and 4 modes.
+
+1.  Arcade - you must simply select one of the 3 difficulty settings, one of the available cars and compete with the other 8 CPU players for the first place. Each difficulty setting has 3 races and the place you manage to get at the end of each race is carried on to the next one. Car damage does not apply in this mode. 
+
+2. Championship - you race in a total of 9 rounds with 3 laps per round. In each round you get points depending on what position you finished in and in the end these points are accumulated to decide your final ranking. In this mode you can see the damage inflicted on the car, not on the car itself but on an icon on the left part of the screen. Effects from the damage include lesser top speed, slower acceleration and bad steering. It is also possible to customize certain options like tires, steering, etc., to get the best possible performance depending on the weather condition on each course.
+
+3. Practice - mode where you can learn the controls and get acquainted with the various courses of the game.
+
+4. Vs Race - allows up to 4 players to play simultaneously in any of the game�s courses.

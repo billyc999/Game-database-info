@@ -1,0 +1,1 @@
+A First-person shoot'em up gallery style game. A player must use his skill to shoot a number of 'good' targets, while not shooting the 'bad' ones, before time runs out. The game has several levels including a bar, Varmit Alley, Bank Robbers, Robots, Birds, outer space, Bank robbers again and a Bonus 'Slot machine' level.

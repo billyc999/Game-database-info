@@ -1,0 +1,3 @@
+In this new version Tetris, from the same people that brought Tetris into the 3D sphere world, you can now play a 4 player game, and dump your cleared lines to another player using 'garbage'.
+
+In the single player mode, the total lines cleared in every match that you play are added up, and once you reach a certain amount, a famous monument will be unlocked, and you can view them from all angles in full 3D.

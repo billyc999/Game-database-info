@@ -1,0 +1,3 @@
+Based on the 1987 movie of the same name, Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town...
+
+RoboCop is a side-scroller shooter. The player, taking the role of Robocop can move left or right, duck, jump and fire his pistol in front, up or diagonally from himself.

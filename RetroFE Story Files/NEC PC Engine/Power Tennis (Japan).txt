@@ -1,0 +1,1 @@
+Power Tennis is a tennis game. It features three modes: singles, doubles, and world tour. Countries featured include Japan, the United States of America, the United Kingdom, Australia, and France. The player can choose between various athletes, and different types of courts (hard, lawn, and clay).

@@ -1,0 +1,1 @@
+A game that includes puzzle, quiz and action games within.

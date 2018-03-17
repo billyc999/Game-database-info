@@ -1,0 +1,9 @@
+Ballerburg is a realtime strategy game of a different kind. The goal is to destroy the opponent's castle (or something else, as described in the mission briefing). But here ends the similarity to any other strategy game. To accomplish your mission, you have no armys to command - your only weapons are ballistic: cannons, catapults and the like. Add a bomber airship and some magic effects and you get a very strange mix :)
+
+Everything takes place in a 3D environment. You can build your own castle and it's surroundings, like peasant huts, blacksmith and so on and place some weapons. These things cost gold, and you get gold by collecting taxes from the peasants. To destroy the opponent's castle, you use your guns, catapults... You aim and shoot with an easy interface - you cannot see where the shot will hit before it has hit, so you need to shoot more than once to target more precise. You can have multiple guns and switch between them to bombard your enemy with heavy stones, cannonballs etc. You can even upgrade these weapons to become even more deadly. Be aware that you cannot fire these weapons all the time - they need time to reload and every shot needs to be paid.
+
+And what does your opponent do? Well, the same as you do - he shoots at your settlement, trying to cut you short of peasants so you cannot buy anything (you should try the same :) and then finish off your castle. To hinder him, you can "disturb" him by using wizards. They can send sandstorms, rain (making a bad sight for shooting) ... 
+
+What does the name "Ballerburg" mean? It's German and can be translated to "Blasting castle" - "Baller" means to shoot something with really heavy artillery (it's "every-day" german language) and "Burg" means castle.
+
+The game supports multiplayer and hotseat mode up to 4 players at once.

@@ -1,0 +1,5 @@
+Top Gear Rally has you racing around a collection of high speed tracks, both on-road and off, with varying weather conditions and shortcuts to improve your times.
+
+The cars available to race vary in speed, braking, acceleration and top speed rankings, and the more you complete in Championship mode, the better cars that are unlocked for you to race. You can also edit the cars paint scheme, including text and icons.
+
+Single player and split screen multiplayer is supported.

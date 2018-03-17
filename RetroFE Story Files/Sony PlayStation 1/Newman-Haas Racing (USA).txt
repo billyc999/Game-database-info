@@ -1,0 +1,3 @@
+Newman Haas Racing is a racing game developed in conjunction with the real-life Newman/Haas racing team. The game features 16 official drivers, cars and 11 tracks from the Indy Car series. The tracks include Houston (introduced in 1998), Laguna Seca Raceway, The Milwaukee Mile, Long Beach and more. The graphics engine is based upon Psygnosis' Formula One game. Commentary is provided by Indy car champion Danny Sullivan and Bob Varsha (ESPN).
+
+There are 4 difficulty levels and 3 main game modes: Single Race, Challenge (the AI is adjusted according to your results) and a full season of racing. In multiplayer, players can go head-to-head in a split-screen mode.

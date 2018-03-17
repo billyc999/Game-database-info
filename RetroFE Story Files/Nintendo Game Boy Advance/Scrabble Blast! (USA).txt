@@ -1,0 +1,7 @@
+Scrabble Blast is a puzzle game based on the board game Scrabble that offers various different game modes in which the player must try to complete levels. Each level is limited in time. remaining time is shown in the form of falling clocks.  The game modes are as follows: 
+Action mode tests your speed as the clocks fall faster and faster 
+Puzzle mode features number clocks. You must include these within words of a minimum length to get them to disappear. 
+Classic mode gives you a bag of 101 tiles or more. 
+In Points mode you have to reach a specific score in limited time. 
+In Words mode you have to reach a minimum score with a specific number of words. 
+Survival mode tests your nerves as a fatal countdown is going on. 

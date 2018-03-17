@@ -1,0 +1,3 @@
+King's Quest is an adventure game where you play Sir Graham, a brave knight who is sent on a quest to retrieve three treasures that were stolen by deception and stealth: a shield that protects its bearer from invaders, a mirror that foretells the future, and a treasure chest that is forever filled with gold. If Graham takes these treasures back to the royal castle, then the ailing King Edward the Benevolent will hand over the crown. During his travels, Graham will meet characters that will either help or hinder him. 
+
+You move Graham around with arrow keys, and perform actions by typing commands into the game, usually a verb/noun sequence. Some of the puzzles in the game rely on fairy tales, and a good knowledge of them is needed to complete them.

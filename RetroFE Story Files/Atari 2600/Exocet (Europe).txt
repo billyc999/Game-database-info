@@ -1,0 +1,8 @@
+You are a UFO. You must shoot tall and short towers above ground. You can shoot the short ones on any part of them but the tall ones must be shot at the firing spot. To shoot, you move in the direction you want to shoot, the press fire. You have to do this every time you shoot.
+
+After you destroy ten towers, a tunnel will open so you can get underground. You will have three chances to get underground. If you choose to remain above ground, the firing rate of the enemies doubles.
+
+Underground, the tunnel narrows after a time. If, after you hit ten towers underground, the firing speed doubles.
+
+Points:
+Hitting a tall above ground tower

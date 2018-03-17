@@ -1,0 +1,7 @@
+The sequel to the chaotic off-road rally racing game, Rally Cross.  The lead programmer, Mark Lyons, and the lead artist, Scott Atkins, from Rally Cross had left Sony and formed a new company, Idol Minds.  Rally Cross 2 was one of the first two games developed by Idol Minds. It was an attempt to build on the original, while creating a game with a simpler learning curve.  
+
+Rally Cross 2 retains the rough terrain of the original, with even more jumps and crashes.  Multi-tap and 4 player split screen were not included in the sequel, but 2 player split screen remained.   The ability to control attributes such as suspension, tires, and steering was added, as well as the ability to paint your car with a primary and detail color that can be picked from a large palette.
+
+Once again the courses can be raised forwards or backwards, and in suicide mode(cars racing in opposite directions at the same time).  The multi-race, season mode, still exists.  One of the biggest additions is the track editor.  There are a dozen or so different pieces that can be rotated and dropped into a 2D grid to create completely new tracks.  
+
+The cars are still flipped upright with the shoulder buttons, but it now requires only a single button press instead of the multiple rocking motions in the original.  Handling has changed significantly since cars tend to fishtail around the corners instead of flip, but high speed crashes will still result in an upside down car.

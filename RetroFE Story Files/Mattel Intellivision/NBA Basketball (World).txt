@@ -1,0 +1,7 @@
+NBA Basketball is an early, very basic basketball game.  While officially licensed by the NBA, the game contains no team names or players to speak of.  There are only two teams, a Home team and a Visitor team.  The Home team is red and the Visitor team is green.  
+
+The game is shown from a side-court angle with team baskets on the left and right sides of the screen.  Characters animate when running, and when dribbling the basketball.  The "floor" does have basic basketball set-up including the center line and free throw lines.  
+
+NBA Basketball is a two-player (only) game and features four quarters, passing, blocking and jump shots.  There is even overtime should it become necessary.
+
+The title screen says only "Basketball," but the box and game cartridge have the NBA emblem and "NBA Basketball" printed on them.

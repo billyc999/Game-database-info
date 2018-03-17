@@ -1,0 +1,9 @@
+Fun House is based on a children's television game show of the same name.
+
+The basic premise of the game is to get through the 72 rooms of the Fun House. The object of each room is to throw tomatoes at the targets littered throughout the room before time expires. Sometimes these targets are numbered, so they have to be hit in numerical order. After all targets are hit, a key will appear allowing the player to move on to the next room. 
+
+This may appear simple, but the player's character is on rollerblades, thus making navigating not such a simple task. There are also blobs, boingers, the banana launcher, and the spray gun which will either try to hinder progress or take away time if the player gets hit by them. The player also has to deal with various terrain obstacles in each room such as slime covered ramps or icy floors.
+
+The player starts with three lives, but can earn more by collecting 25 silver coins. There are also gold coins with each one equaling 5 silver coins.
+
+Other helpful items the player can collect are glop clocks, with the small ones adding 8 seconds, and the large ones adding 15 seconds to the game clock. There are also sneakers which will temporarily increase the player's speed. There are also starbursts, which increase the players score and warp cubes, which will send the player to another part of the Fun House.

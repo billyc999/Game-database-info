@@ -1,0 +1,1 @@
+Ghosts'n Goblins is a sideways scrolling action platformer spread over six levels, each of which must be completed within three minutes (or a life is lost), taking in forest, village, mountain and cavern settings with increasing difficulty.

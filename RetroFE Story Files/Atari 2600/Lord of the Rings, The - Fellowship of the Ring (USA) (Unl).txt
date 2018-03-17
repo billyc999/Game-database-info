@@ -1,0 +1,3 @@
+This game's plot is a condensed version of the first book of The Lord of the Rings trilogy. This is an interactive fiction game wherein you use the joystick to make your selections. You must find Gandalf and make your way to Rivendell, collect your party members then make your way to the gates of Mordor.
+
+The game uses the Dark Mage text adventure engine and Adam Thornton created the game as an entry into the 2002 Interactive Fiction IntroComp.

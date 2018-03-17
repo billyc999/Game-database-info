@@ -1,0 +1,1 @@
+Realsports Tennis is a tennis game for two players or one player against the computer. The game follows standard tennis rules, and allows you to hit forehand or backhand shots to all areas of the court as well as serves and lobs. You can play a game of singles or doubles, and multiple skill levels are included.

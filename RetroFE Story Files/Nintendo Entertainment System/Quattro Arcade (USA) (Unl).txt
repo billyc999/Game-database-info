@@ -1,0 +1,11 @@
+Quattro Arcade is an collection of 4 action arcade games, all of which feature single and 2-player modes.
+
+1. C.J.'s Elephant Antics: C.J. the elephant went and got himself caught in an elephant trap. One thing led to another and the next thing you know, he's in a Parisian zoo. He makes a break for it and vows to make his way back home to Africa, traveling through Paris, Switzerland, and Egypt in order to reach his destination. This game is a side-scrolling action game. Offensively, C.J. can toss bombs at myriad enemies in his path. He also has a parachute that allows him to glide safely down from great heights. 2 players can play this game cooperatively as 2 differently colored C.J. characters.
+
+2. Stunt Buggies: this game involves 1 or 2 players piloting buggies around dangerous mazes filled with renegade buggies on a quest to collect all the bombs in order to escape the maze.
+
+3. F-16 Renegade: your crazy professor has hacked into the US Air Force's computers and programmed all of the jets to fly off and start World War III. Since no one will believe your tale on this matter, you take it upon yourself to follow your professor's footsteps: you hack into the USAF computers yourself but to locate the F-16 training program so that you can then break into the air base and heist a jet in order to take down all of the malevolent computer-controlled jets. The action in this game consists of flying a jet and shooting other jets. However, the perspective alternates from overhead scrolling (odd levels) to 3rd person view from behind the jet (even levels). Powerups come in the form of stronger weapons, smart bombs, and extra lives. The game also features a 2-player competitive mode.
+
+4. Go! Dizzy Go!: Dizzy's nemesis, the evil wizard Zaks, has abducted Dizzy's friends. Thus, the task falls to Dizzy to rescue them. To do this, he must collect fruit in a variety of dangerous mazes scattered throughout several worlds including an underwater realm, forest realm, a pyramid, a mountain, and a castle. Additionally, 2 players can team up to conquer the mazes.
+
+All of the games feature 2-player modes. This is an unlicensed NES game.

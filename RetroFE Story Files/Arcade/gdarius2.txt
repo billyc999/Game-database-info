@@ -1,0 +1,1 @@
+This version contains 3 buttons instead of 2 because one was entered for rapid fire and the selection menu is added for difficulty once a coin is inserted.,

@@ -1,0 +1,5 @@
+This game is a sequel to Barkley: Shut Up and Jam!. It is a street basketball game which means no referees to enforce fouls and no shot clock to force a player to take a shot. The game features an exhibition and a tournament mode. 
+
+In exhibition mode the player chooses 2 players out of a possible 10 to play in a 2 on 2 game. The game can either be played for 3 minutes, 5 minutes, or til the first team gets to either 21 or 50 points depending on what option is chosen.
+
+The tournament mode is also a 2 on 2 game against various teams that represent cities across the United States.

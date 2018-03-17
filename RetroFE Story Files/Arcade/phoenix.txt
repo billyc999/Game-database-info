@@ -1,0 +1,9 @@
+Phoenix is a classic shoot-em-up in the mould of Taito's "Space Invaders" and Namco's "Galaxian" but takes the concept further with the introduction of progressive stages of play (instead of simply repeating a single playfield over and over with an increasing difficulty level).
+The player's ship moves along the botton of the playfield firing upwards. The ship can also utilize a temporary 'Force Field' to protect it from missiles and birds. Any Phoenix that collide with the Force Field are destroyed. The Force Field only lasts for two seconds and then cannot be used again for another five seconds.
+There are five attack waves to each round of play.
+The first wave begins with a formation of sixteen Phoenix attacking the player's ship. They drop missiles and dive at the ship in an effort to destroy it.
+The second wave is a variation of the first, only with a different enemy attack pattern.
+The third wave begins with pattern of eight eggs that when shot hatch into blue Phoenix birds that then attack the player's ship. These birds can be destroyed by rocket fire from the ship. If the rocket hits the bird on center, the bird is destroyed. If the rocket hits the bird to the left or right of center, only that wing of the bird is destroyed. The wing will regenerate itself if the bird is not quickly destroyed.
+The fourth wave is similar to the third, only with two banks of eggs instead of one.
+The fifth and final wave is the attack of the Space fortress mothership; a huge mothership piloted by a purple-coloured alien that sends down waves of small birds to attack the player's ship, as well as launching missiles from the fortress itself. The alien is protected by a barrier that must be shot several times before both the alien and mothership are destroyed.
+Once the mothership has been destroyed, the game starts over with an increased level of difficulty.,

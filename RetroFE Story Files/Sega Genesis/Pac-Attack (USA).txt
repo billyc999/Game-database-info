@@ -1,0 +1,9 @@
+Based on Namco's Japanese-only arcade puzzler Cosmo Gang the Puzzle, Pac-Attack is similar to many block-dropping puzzle games from the time, such as Puyo Puyo.
+
+The objective of the game is to place ghosts and then, after three pieces (which can include one or two blocks as well), make Pac-Man eat as many ghosts as possible to try and clear up the game area. Pac-Man's directions are chosen at random between left or right, but as he goes moving on the game area (after you place him, of course), if he bumps against a block or a "wall" on the game area, he will change his direction. As with many block-dropping puzzlers, if a line of blocks and/or ghosts reaches the top, the game ends. However, by filling up a meter on the left of the game area, a fairy may appear that can clear approximately 6 or 7 lines with ghosts, but it only clears the ghosts, although the blocks that were on top of them will drop.
+
+Also, like many puzzlers, it contains a versus mode against another human player. It's similar to the many versus modes of puzzle games: eat plenty of ghosts and your opponent will recieve many ghosts on his area.
+
+The game also includes a Puzzle mode. It features 100 levels, in which you have to eat all ghosts with no more than 4 Pac-Men at least (the number reduces in certain levels), and, unlike the other modes, you can change Pac-Man's direction with the press of a button.
+
+All of the handheld versions (including the one on Pac-Man Collection) lack the versus mode.

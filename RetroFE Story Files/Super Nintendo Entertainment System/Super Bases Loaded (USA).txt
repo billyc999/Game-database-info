@@ -1,0 +1,3 @@
+Super Bases Loaded 2 is the 16-bit remake of the original NES versions.  It features the modes Exhibition, Season, and All Star and features a battery backup that will allow the player to keep track of stats and resume play at their own leisure.
+
+The game also allows the player to create their own team and use them in either exhibition or season mode.  It does feature a full 162-game season, but does not feature any MLB license, instead it consists of two fantasy leagues with seven teams to each league, along with three generic stadiums.  The DSP chip is also utilized to give's the appearance of realistic 3D movement of the players.

@@ -1,0 +1,1 @@
+Simplistic soccer game in Sega's Champion sports series. The game which you can play at three levels of difficulty. There is no referee and no tournament mode. The duration of match can not be set, a match takes ten minutes.

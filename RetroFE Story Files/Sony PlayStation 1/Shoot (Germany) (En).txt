@@ -1,0 +1,17 @@
+Shoot is a budget compilation of 7 action mini games. These are:
+
+1. Wild West
+2. War Drones
+3. Space Rebellion
+4. G Squad
+5. IF22
+6. Ace
+7. Air Rescue
+
+Though listed as 7 different games, in fact the games are mostly reskinned versions of each other. They all feature the same premise: Take down a certain number of enemies to advance to the next stage. Each game has its own main menu, although it only features three options: New Game, High Score, and Main Menu (which takes you back to the game selection screen).
+
+Wild West and Ace (while graphically different) has the player assume the role of a single character in the foreground seen from behind. The Mission (as in all games on the disc) is to kill a certain number of bad guys per stage to advance. The character can walk sideways or roll, and the game utilizes a Cabal style aiming system. Meaning that you move the aim as well as the character with the directional pad. There are also a few bonuses such as heavier weapons and bonus points to pick up.
+
+G Squad has the player pilot a big mech robot. The only freedom of movement is strafing sideways to the left or right and some slight movement up and down. Aside from that the player controls the aim and can select from three different weapons to take down enemies with. There are also bonuses, such as ammo, extra points and fuel.
+
+War Drones, Space Rebellion, IF22 and Air Rescue are all variants of the same theme. The player controls an airborne machine (airplane, jetfighter, mecha or spaceship, depending on the game), and takes down enemies in a similar fashion to the arcade classic Afterburner. There are two types of weapons to use: either a light rapid firing weapon (machine gun or laser, depending on the game) and rockets which are somewhat heat seeking. There are some bonuses, such as more ammo, extra points and fuel to pick up along the way.

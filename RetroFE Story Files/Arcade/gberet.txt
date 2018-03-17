@@ -1,0 +1,4 @@
+Move soldier to the right of the screen and destroy the enemy soldiers by pressing 'Knife Button'. By destroying the enemy commanding officer you are able to capture his weapon (a flame thrower a rocket gun or hand grenades). These special weapons will destroy the enemy soldiers en masse.
+Use the shoot button to activate the special weapons you have captured.
+Jump or lie down to avoid the enemy bullets. Avoid the mines by climbing the ladders, buildings, etc. During the last battle at the end of each stage, crack troops from the enemy will attack, destroy them to advance to the next level.
+The game is completed when you have rescued the captives at the end of the fourth stage.,

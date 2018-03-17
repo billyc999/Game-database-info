@@ -1,0 +1,3 @@
+Tempo is a grasshopper who lives on Planet Rythmia, the world of music.  Unfortunately, the malevolent King Dirge is trying to steal all the rhythm from the planet.  It's unclear as to how a creature with no appreciation for music became King, but it's up to Tempo to stop him!
+
+Tempo's game is a side scrolling platformer with 7 levels.  It's a single player game, although you can collect "dance" power-ups that allow you to call your friend, a butterfly, to help you defeat your enemies using killer dance moves.

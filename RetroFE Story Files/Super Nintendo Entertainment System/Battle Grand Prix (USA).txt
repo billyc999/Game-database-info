@@ -1,0 +1,10 @@
+Battle Grand Prix is a Formula One racing game in which one or two players can pit themselves in 3 Grand Prix races. The players can pick from 40 fictional drivers and 24 teams to play with. The game is always shown in split-screen mode, even when the player is playing on his own, in this case the opponent directly behind or ahead of the player is shown in the other window. Car settings can be adjusted in the garage. Pit-stops can be used to repair the car during a race. Crashing the car can also force the player to retire from the race early.
+
+In the game the player can choose from four game modes:
+
+1. Survival - Finish at or lower than a certain position (determined by your difficulty) to continue to the next race
+Champion
+VS
+Slot - In this game mode steering happens automatically. The only thing the players need to concern themselves with is the gas and break pedals.
+
+The game features three difficulty levels: Beginner, Pro and Expert.

@@ -1,0 +1,7 @@
+Race Drivin' includes all of the innovative game features that made "Hard Drivin'" the industry's first true driving simulation game plus many more new features :
+Improved Handling - Faster microprocessor and more efficient software code provides a now imperceptible lag time between control input and screen graphic response. Race Drivin' feels even more like a real car!
+New Tracks - The Super Stunt track will challenge even the best Hard Drivin' stunt racers. New tests of skill include a corkscrew loop, a jump loop, and a full pipe.
+The autocross track with a built-in pace car provides feedback to hone competitive driving skills. The vector-drawn pace car is actually a recorded view of the player's best lap.
+Buddy Race - 2-player sequential race in which the computer records the performance of player one, and player 2 races head-to-head against the first player and the clock.
+Linked Race - Install a simple cable between two simulator cabinets, adjust game options, and the buddy race becomes a true head-to-head competition.
+Select a Car - Players can select from several different sports cars to suit the race track chosen. The Race Drivin' cars are modeled after the performance features of several well-known sports cars.  Each car has its own handling characteristics of off-the-line quickness, top speed, and cornering.,

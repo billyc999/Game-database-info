@@ -1,0 +1,2 @@
+Olympics style sports game.  Compete in several events including:
+Skiing, Weight Lifting, Barrel Jumping, Sumo Wrestling, Bull Riding, Cliff Diving, Log Rolling, Caber Toss, Pole Vault, Platform Diving.

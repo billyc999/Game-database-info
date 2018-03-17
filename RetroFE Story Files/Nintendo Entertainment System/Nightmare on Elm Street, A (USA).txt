@@ -1,0 +1,7 @@
+LJN's NES version of the classic horror series casts the player as a teen searching the houses on Elm Street for Freddy Krueger's bones. Once they are all collected, they must be thrown into the high school  furnace to destroy Freddy once and for all (a plot similar to 1987's A Nightmare on Elm Street 3: Dream Warriors).
+
+Nightmare has two worlds. In the red-tinted "real world," players fight snakes and spiders while navigating standard platform challenges. The players here have a "sleep meter" that depletes with every hit taken. If the player's sleep meter drops to empty, the game transitions into the blue-tinted "dream world," where enemies take on the appearance of skeletons and ghosts. An invisible timer also starts, counting down until Freddy appears and forces the player into a brief boss battle. The sleep meter becomes a standard life gauge in the dream world, and deducts a life from the player if drained.
+
+Players can find and collect three different icons in the dream world to become "Dream Warriors" with special powers and projectile attacks - both of which give a significant edge when fighting Freddy. Collecting all the bones in a level takes the player to a final level boss, usually taking the form of a monster with Freddy's face or trademark razor glove. Players move back and forth down Elm Street, and a new house opens up as the previous one is cleared.
+
+Nightmare is compatible with the NES Four Score accessory, allowing up to four players to play at once using the same screen.

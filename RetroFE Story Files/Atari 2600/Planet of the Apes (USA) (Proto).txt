@@ -1,0 +1,35 @@
+Talk about suffering from an identity crisis, for years Planet of the Ape had been misidentified as another 20th Century Fox prototype called Alligator People.  This was because the first PotA prototype was found in case labeled Alligator People, and since no screenshots of either game existed there was no reason to doubt the name on the label.  However after much research it was discovered (by yours truly) that this game was in fact really John Marvin's lost Planet of the Apes game.  So why was Planet of the Apes found in a case labeled Alligator People?  While no one knows for sure, it's assumed that this prototype was simply put into the wrong case (they probably just used an old case they had lying around).  
+
+You play the role Col. George Taylor (who looks a bit like Pitfall Harry's long lost brother).  Your mission is to guide Col. Taylor through a series of screens as he avoids an army of apes and makes his way towards the Forbidden Zone.  There are three different kinds of apes in this game, and they all move in a straight line across the screen from right to left.
+
+Chimpanzees - These little guys are harmless and can be touched without fear.  Shooting them is worth 3 points.
+
+Orangutans - Orangutans are a bit bigger and a lot more dangerous than the Chimpanzees.  Touching them will get you captured and cost you 1 life unit.  Shooting a Chimpanzee is worth 200 points.  
+
+Gorillas - Gorillas are the most dangerous of all the apes.  Not only can they capture you, but they can shoot at you as well.  Being shot will cost you 2 life units and shooting them is worth only 42 points!
+
+At the top of the screen you see two counters, L and E.  L is your Life counter, you start with 60 life points and if you lose them all the game ends.  The E is your Escape counter, this is the number of times you can escape from the cage or pit.  If you run out of escapes your character will be trapped forever (effectively ending the game).
+The Forest
+You start out in a forest with several apes after you.  You can shoot at the apes by pressing the fire button, but since they just keep on coming its best to run for it.  There are also pits scattered throughout the forest, falling into one of these pits will cause your life to deplete rapidly.  Thankfully you can press the fire button to get out, but it will cost you one of your Escapes.  While you can run in any direction, only moving south will advance you towards your goal.  Moving south three times will bring you to the river.  
+
+The River
+Unlike other sections of this game, the river is only one screen wide.  Once again you can move any direction, but only going south will bring you towards the Forbidden Zone.  Touching the river isn't deadly, and you can move through without any trouble.  As you move through the river you'll notice that your guy appears to be flailing about with his arms in the air like he's drowning.  This may be because the river was going to be deadly and a bridge put across it, but since this is an early prototype we'll assume your guy is just a poor swimmer and move on.
+
+The Village
+If you touched an Orangutan or a Gorilla then you'll end up here.  You can escape from the cage by pressing the fire button, but it will cost you one of your Escapes.  You need to be extra careful in the village since the area is cramped, and there are lots of apes roaming around.  It's very easy to escape and be captured again right away.  You'll also want to escape from the cage as quickly as possible since the apes will constantly hit you while your trapped in the cage.  Moving south three times will bring you to the desert.
+
+The Desert
+After the river you'll encounter a large featureless desert which is the beginning of the Forbidden Zone.  There are more apes here than in any other part of the game, so you'll have to be on your guard.  Each desert board looks exactly alike except for a slight change in color, so its easy to get lost.  If you haven't been caught, moving south nine times will bring you to the caverns.  If you came by way of the village (you were captured), you only need to move south six times to reach the caves.
+
+The Caverns
+These have to be the funkiest looking caverns I've ever seen.  The cavern walls are rainbow colored making your journey extra trippy.  There are no apes to worry about in the caverns, but they are unfortunately a giant maze.  You'll also slowly loose life points as you traverse the caves at the rate of 1 point every 5 seconds.  There are two paths out of the caves: If you got captured at least once you to move south once, left once, and south again, but if you took the long way you need to move south once, left once, and south twice to reach your goal.  If you take the wrong path through the caves you'll end up back on the forest screen.  There are other paths out of the caves, but these work every time.
+
+The Statue of Liberty
+This is the goal you've been trying to reach.  It's a little hard to make out, but the picture is of the Statue of Liberty's torch and head.  Once you reach this the screen will begin to flash and you'll see the Statue of Liberty displayed while the background scrolls through all the boards you've crossed.  After this strange scene you'll gain 10 life points, 1 extra Escape, and 1200 bonus points.  You will now start back at the forest screen on the next higher difficulty level. 
+Each new difficulty level has a few changes:
+The apes will do an extra point of damage when they shoot you.
+The apes move faster.
+More apes appear on the screen at once and come out more often.
+The bonus points for reaching the Statue of Liberty increases by 100.
+
+It's obvious that Planet of the Apes still has some work to be done, but was finished enough to go through initial playtesting.  Before programmer John Marvin could finish it he left 20th Century Fox to go work for Epyx.  Since 20th Century Fox closed down its video game unit three months later Planet of the Apes was never completed.

@@ -1,0 +1,1 @@
+In this classic vector game, two ships are controlled by two players, flying around a sun, fighting gravity and trying to blow each other to bits.  Options include variable gravity, a black hole, an extra orbiting moon, toroidal space, and playing across a modem connection.

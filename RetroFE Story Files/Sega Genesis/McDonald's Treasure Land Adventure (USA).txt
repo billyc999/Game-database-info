@@ -1,0 +1,9 @@
+McDonald's Treasure Land Adventure is a side-scrolling adventure starring Ronald McDonald.
+
+After finding a piece of a treasure map, the yellow clown travels through four different levels (Forest, Town, Sea and Moon).  He's off to find and defeat the baddies who have the other pieces of the map.
+
+Ronald can jump, shoot and use his scarf to grab onto hooks to jump to higher levels.
+
+Jewels and flowers collected in each level can be used to purchase extra lives and power-ups in shops between levels.
+
+You can also pay to play a Columns style falling block game between levels to earn extra items.

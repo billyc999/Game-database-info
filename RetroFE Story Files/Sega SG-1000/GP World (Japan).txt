@@ -1,0 +1,1 @@
+GP World has a simple premise: the player must race against the clock and computer-controlled Formula 1 opponents in a series of races. Along the way, the player will earn points to upgrade various aspects of his machine, including acceleration, top speed and handling. The game also includes a track editor, which allows players to create their own courses.

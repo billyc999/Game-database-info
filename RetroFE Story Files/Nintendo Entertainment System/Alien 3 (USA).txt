@@ -1,0 +1,9 @@
+Alien� on the NES is similar to Probe Software's adaptations of the film on other systems. While using the same overall game concept as the Sega and Commodore versions, the NES title has unique levels.
+
+The player controls Ripley through a number of platform levels. She must not only defend herself against hordes of aliens and find the exit, but also save a number of prisoners, all within a tight time limit of only minutes per level.
+
+Weapons to use against the aliens include a pulse rifle, flame thrower, grenade launcher as well as hand grenades. Ammo for each is limited and must be collected in the levels. The rifle is prone to overheating, so should only be fired in short bursts.
+
+Next to health packs, Ripley can also find a radar. The radar indicates both moving aliens as well as the locations of prisoners.
+
+After every two levels, a guardian level follows, in which an especially tough alien must be defeated to continue.

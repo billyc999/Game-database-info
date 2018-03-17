@@ -1,0 +1,8 @@
+Block Out is a 1-player or a simultaneous 2 players competitive game of unique dimensional action and strategy.
+As the blocks drop one-by-one into the three-dimensional pit, rotate them by using the three buttons and joystick. Once the player has decided on the the rotation of the block, use the button to drop the block into place. The objective is to place the blocks into the pit without leaving any empty spaces. Once this is achieved, the layers without empty spaces, will disappear.
+The player begins the game by selecting a starting stage. Game start level select can be chosen from stages 1, 5, 10, 15, or 20. There is a total of 100 stages in the game and as the players progress through the game, the stages get more and more difficult.
+Each stage has a certain number of layers (faces) that must be erased. Once these faces are erased, the player will move on to the next stage. The less blocks the players has left in the pit at the end of the stage, the more points are awarded.
+In addition to the one player mode, Block Out offers a competitive simultaneous two player mode. The split screen effect gives each player their own pit with which to play in. They compete against each other in the race to erase the faces. As one player erases a face, that face will be added to the opponent's pit, making their pit rise. This allows less room to work. There are two ways to win in the 2-player mode :
+1) Force the opponent to the top of their pit and out of the game
+or
+2) Erase 21 faces first.

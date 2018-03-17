@@ -1,0 +1,3 @@
+This version of Dragon's Lair is a departure from the earlier arcade titles of the same name. Instead of recreating the original arcade experience, the game now focuses on action/platforming elements, not dissimilar to Konami's Castlevania games. 
+
+The story begins with our hero, Dirk the Daring, on a quest to rescue the Princess Daphne from the evil dragon, Singe. However, before he can rescue the princess, he must first overcome 24 levels filled with enemies and obstacles.  Fortunately, Dirk has both his trusty sword and the ability to used ranged weapons (axes, knives, & shuriken) at his disposal.

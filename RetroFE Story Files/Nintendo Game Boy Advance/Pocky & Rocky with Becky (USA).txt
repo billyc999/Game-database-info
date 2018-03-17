@@ -1,0 +1,3 @@
+A portable revival of the classic Pocky & Rocky shooter games. You take control of Shinto priestess Pocky, her raccoon buddy Rocky or newcomer priestess Becky and go out in search of an evil demon that has escaped imprisonment and is wreacking havoc across the land.
+
+Gameplay wise the game is a top-down free-scrolling shooter, in which you must navigate your characters across the maze-like stages  collecting items and power-ups in order to reach the level boss and proceed to the next stage. Across the way you'll have to deal with hundreds of enemies that can be vanquished by shooting your magic cards and spells. Additionally, each character has a unique offensive ability that allows you to use pattern shots, homing shots, etc... depending on the power-ups you acquire.

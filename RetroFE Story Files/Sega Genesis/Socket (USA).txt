@@ -1,0 +1,7 @@
+A fast-paced platform game in the vein of the classic Sonic the Hedgehog. The evil overlord Time Dominator has constructed a time machine and is using it to steal treasures from the past, creating a warp in the flow of time. The Time Warp Patrol, created to prevent this sort of thing from happening, sends the special time-traveling duck Socket (or Minutes in the Japanese version) to fix the flow of time and stop Time Dominator.
+
+Socket has reasonably basic abilities: he can jump, kick to the side or straight upward, and run quite fast. As Socket is a robot, his energy level continually drains from simply being in operation; thankfully, there are a liberal amount of electric bolts strewn about each stage, which will refill his health when picked up. Getting hit by enemies will take a chunk out of his life bar.
+
+There are seven different themed zones, each with four separate parts. First up is the High Speed Zone, which is a gateway level leading to the next zone, and as the name suggests it encourages high speed play. Next is the Athletic Zone, which generally entails lots of jumping, and the Labyrinth Zone, which is focused on exploration and simply finding a path to the exit. At the end of each Labyrinth Zone, Socket faces off against Time Dominator in a boss round, then moves on to the next High Speed Zone.
+
+The game also features a sound test mode and a time trial mode, where the High Speed Zone stages can be played without any enemies present with times being recorded.

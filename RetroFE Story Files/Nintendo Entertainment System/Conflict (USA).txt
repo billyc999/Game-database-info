@@ -1,0 +1,8 @@
+Conflict is a turn-based, hex-grid wargame for the NES that can be played by one or two players.  It is not a strictly historical wargame in which battles of the past are recreated using real-world geography.  Instead, the two opposing sides (Blue vs. Red) fight it out across 16 imaginary scenarios with armies modeled on NATO and Warsaw Pact forces of the late 1980s. 
+
+The game alternates between two modes of play: a strategic/operational scale, in which players move their units around the hex map; and a tactical combat module for resolving unit-to-unit combats.  In the tactical mode, human players have the choice of either issuing orders themselves or using the &quot;auto&quot; mode which delegates command to the AI.
+Splash graphics and text messages convey battle results.
+
+By capturing towns and winning battles, the player gains &quot;fame&quot; points that can be used to purchase more and better military hardware.  Every scenario ends only when the same, single victory condition is achieved by one of the two sides: destroy the opposing side's main battle tank unit in combat.
+
+Winning any one of the first 15 scenarios yields a letter of the alphabet; together, the letters spell out the password that must be entered in order to play the final scenario.

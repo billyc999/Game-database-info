@@ -1,0 +1,11 @@
+The Shadow was a canceled SNES game published by Ocean. It is based in the
+film of the same name.
+
+The gameplay is similar to other Beat 'em up games such as Final Fight or
+Double Dragon, where the player controls The Shadow through several levels
+fighting against several enemies. The player has two bars; one is the life
+bar and a bar that allows the player to perform special attacks
+(invisibility, gun play, speed running, a dome shield that knocks out
+everyone who hits it). It also contains a driving stage where The Shadow
+battles Mongols on motorbikes (Maritech Labs), and roughly follows the plot
+of the movie.

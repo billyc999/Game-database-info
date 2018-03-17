@@ -1,0 +1,1 @@
+An updated version of Psygnosis' first Formula 1 game. It features all tracks, drivers and cars from the 1997 season. Both an arcade mode and a realistic Grand Prix mode are available. New features are higher resolution and split-screen multiplayer.

@@ -1,0 +1,7 @@
+Licensed by snooker player Jimmy White, this game is a simulation of not only the British game of snooker, but also of the three main variations of pool.
+
+The game is viewed in detailed 3D, allowing you to rotate the table at all angles, either from overhead or using the cue position as a base. Taking a shot involves setting the exact pace and spin of it, and considering what each contact will do to the position of the cue ball, and any balls you may wish to pot afterwards. In the snooker mode playing accurate 'safety' shots (to prevent your opponent scoring) becomes important as well).
+
+In each mode there are 10 computer opponents, and matches can consist of up to 9 frames. A trick-shot editor is also included, allowing you to practice shots and set up challenges. Replays and an undo mode are also included.
+
+Bonus games are included as well - darts, draughts, a fruit machine, and even a remake of Dropzone, a Commodore 64 game from the same programmer.

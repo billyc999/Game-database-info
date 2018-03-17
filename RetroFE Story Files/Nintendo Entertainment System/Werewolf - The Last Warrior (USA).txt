@@ -1,0 +1,5 @@
+An evil leader and his gang of bio-engineered monsters has taken over the land and only one man stands in their way. Only he's not a man, he is a lycanthrope, a person able to transform into a terrible werewolf to let loose his anger.
+
+You start the game in human form. The human can punch, jump, move and shoot a powered up shot which moves horizontally across the screen.  By finding a Red "W" icon, the human is able to transform into a mighty werewolf creature. Accidentally grabbing a blue "W" icon or losing too much energy will change you back into a mere human being. The werewolf form offers higher jumps, quicker speed, greater strength, a shockwave attack and the ability to climb walls, so naturally you'll want this form whenever possible.  Additionally the werewolf form has an anger meter that is augmented by collecting orbs. After 5 such orbs, the werewolf will transform yet again into a SUPER werewolf with even greater strength, speed and partial invincibility.
+
+There are 5 stages in all. Each with a boss who moves in a distinct pattern.

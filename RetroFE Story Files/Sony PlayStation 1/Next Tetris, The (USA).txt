@@ -1,0 +1,5 @@
+It's Tetris, only... new.  The Tetris series returns to its roots, eschewing the Disney characters, 3D pieces, hats, and letters that have been tacked on previous entries.
+
+Contains the standard Tetris game, as well as some variants.  Some of the new features are puzzle pieces made of individual parts- after a piece lands, some parts may be able to break off and continue down; &quot;wiggly&quot; pieces that not only provide trippy eye-candy, but may allow you to squeeze a big piece through a tight spot; challenge modes where you must clear a cluttered playfield with limited time/pieces.
+
+Allows for solo or competitive simultaneous play.  Also links to a global board via the Internet to compare scores and times.

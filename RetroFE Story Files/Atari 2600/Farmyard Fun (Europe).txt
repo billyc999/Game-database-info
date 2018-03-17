@@ -1,0 +1,1 @@
+In Farmyard Fun you control Tom the egg thief who roams the farmyard collecting eggs. The eggs are guarded by hens that defeat Tom with a simple touch. Successfully collecting all eggs advances the player to the next level where the eggs are displayed in different locations. The hens also become faster and harder to avoid

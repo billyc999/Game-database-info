@@ -1,0 +1,7 @@
+In this game, you have five minutes to get from your front steps to the steps of the school. You have to get through this maze and conquer 30 tubes and ramps AND get to the school.
+
+You start at your front steps. To get on the board, move left or right and while moving, press fire. When you are on your board, just push the direction you want to turn. Press fire to jump and press and hold fire to jump and land in a crouched position. You will also see rails, walls and hurdles but these you must avoid as they will make you crash.
+
+To jump a ramp, just ride towards it and be aligned with it. To clear a tube, ride through it while crouched. If you ride through grass, it will slow you down. To get back up to speed, either crash into something or ride through grass until you stop then get the skateboard going again.
+
+The scoreboard at the top of the screen is not an obstacle. When you get to it, you just keep going.

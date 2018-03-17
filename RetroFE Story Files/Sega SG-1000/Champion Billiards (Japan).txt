@@ -1,0 +1,1 @@
+Unlike the other Champion Sports games, Champion Billiards is not an accurate representation of it's sport. Instead, Champion Billiards is a level-based physics game. The goal of each level is to use the red cue ball to sink the other balls. Trivia: Breaking open the yellow ball can release a yellow Flicky. 

@@ -1,0 +1,1 @@
+You pilot an arrowhead-shaped vessel at the bottom of the screen, facing off against four different types of enemies. Certain enemies drop 'space soldiers' when shot, if these make it to the bottom of the screen, they will try to 'spear' your ship from behind.

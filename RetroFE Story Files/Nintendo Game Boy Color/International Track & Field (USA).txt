@@ -1,0 +1,4 @@
+Game Boy Color release of Track & Field games is different to the console and computer version in a way that it does not use 3D graphics but instead uses sprites with 2D graphics with various gameplay perspectives, depending on one of the twelve available athletic games. Main two gameplay modes are Single Play and Versus Play.  Single Play mode offers you three choices: 
+ Olympic mode - where you get to select one of the events you wish to play, select your country, and try it out after checking the tutorial. 
+ Championship mode - you only select the country, and events are selected randomly (trap shooting and table tennis are excluded) 
+ Record - where you can check the top records for each of the athletic events Versus Play mode lets you connect to another device with a system link and test your skill against a human opponent.

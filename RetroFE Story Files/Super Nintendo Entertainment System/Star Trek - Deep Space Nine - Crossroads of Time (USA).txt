@@ -1,0 +1,5 @@
+"Star Trek: Deep Space Nine - Crossroads of Time" is a 2D action adventure based on the famous TV series.
+
+You play Benjamin Sisko, commander of Federation space station Deep Space Nine. When the station is attacked by Bajoran terrorists, your mission to uncover their plot leads you from DS9 to Bajor, beyond the wormhole and even through time itself.
+
+Moving through the side-scrolling environments of DS9 and other places, Sisko must complete several missions like disarming bombs or rescuing hostages. If necessary, Sisko can use a phaser to stun enemies. To solve puzzles, he can use a tricorder and other items. The plot is often carried forward by interacting with other characters from the TV series.

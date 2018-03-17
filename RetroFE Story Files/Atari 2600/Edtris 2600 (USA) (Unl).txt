@@ -1,0 +1,1 @@
+Edtris 2600 is an unofficial port of the popular game Tetris to the Atari 2600. As various shaped blocks fall from the top of the screen, stack them so they form a solid line across, at which point the solid line will disappear. If the stacks reach the top of the screen, the game is over.

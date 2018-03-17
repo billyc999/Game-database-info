@@ -1,0 +1,3 @@
+Reel Fishing is a fishing simulation game for the Playstation. All the fishing spots are displayed with Full Motion Videos with the fish and line superimposed on them. Once you have bait, you see the fish and the end of your line and have to make sure he doesn't get away. Using the right bait you can catch fish, which can be held in your own personal aquarium, where they need to be taken proper care off. You have to refresh the water and feed them regularly. 
+
+The game is divided in stages. For each stage you need to catch a certain number of fish before you advance to the next location.

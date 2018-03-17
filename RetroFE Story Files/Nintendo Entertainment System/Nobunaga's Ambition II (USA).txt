@@ -1,0 +1,42 @@
+Nobunaga's Ambition II is the sequel to Nobunaga's Ambition. The setting is 16th century feudal Japan, a period when ruthless daimyo (feudal lords) contended with each other for dominance. Ultimately, the winner in this struggle will become Shogun and hold actual power over the islands, while being nominally subject to the Emperor.
+
+The game casts the player as one of the daimyo, allowing them freedom to decide the fate and future of feudal Japan, through diplomacy and ultimately war. The objective is to unify Japan under the player's rule. If the player fails through death on the battlefield, assassination at the hands of a ninja, or through natural causes, they can choose a successor and play on. Functionally, the first job is to let prosper the fief (province) under the player's control through agricultural development and town investment. 
+
+There are two scenarios available in the game: 
+
+1. Warlords: 1560 A.D.
+The first scenario begins as the daimyo prepare what will eventually become a full scale war in the whole of Japan. The warring states period begins here. There are 28 of them included in the scenario, among others: the Mori clan, the Takeda, the Hojo clan, the Uesugi clan, etc.
+
+Nobunaga's Ambition: 1582 A.D.
+The second scenario follows the rise of Oda Nobunaga in 1582 A.D. to power and allows the player to play either as Oda Nobunaga or as one of his chief allies or rivals. 
+
+Samurai
+The game improves on its predecessor by including some 400 historical samurai in the game, providing the player with generals for troops and governors for a conquered fief. 
+
+Each samurai is characterized by statistics: Age, Rank, Body Points, War, Politics, Ambition, Charisma, and Loyalty. There are also additional attributes for specific military purposes: Skill, Arms Level, and Unit Type. Some of these attributes may be improved through training (i.e. war, politics, and skill), rewards (i.e. loyalty), or through merchants (i.e. arms level). 
+
+Strategy
+The game is turn-based, with each turn representing one month. Certain events take place annually such as tax collecting (March) and rice harvest (September), while other events, such as invading neighbors, follows the player's time table.
+
+The game uses an initiative system to determine what actions can be completed in a particular month. Each daimyo and samurai has a stock of "Body Points" that represent the attention he can afford to spend on an action. Each action has a cost in Body Points for the character executing it, and if he does not have the point�s necessary, he may not perform it. Body Points are refreshed a little each month. The level of Body Points refreshed per month is depends on the level of his Political skill. Intensive operations will deplete Body Points and then require turns of inaction to stock up again, so timing actions to coincide with Body Point availability is an extra wrinkle to the management of resources.
+
+Combat
+Each samurai can lead a 100-strong unit, which must be recruited, then trained, and equipped with weapons for battle. The attack of an army results in a tactical play out of the resulting battle or siege. A hex-based map of the area of the battlefield will form the playing board for the movement to combat and actual fighting. Fortifications (castles) have a dramatic benefit for the defender. The attacker must defeat the defender within 30 days or must force a withdrawal. Additionally, both sides must pay attention to their food provisions as each day subtracts food supplies in accordance to their army size.
+
+Unit Types
+The game introduces 3 basic military unit types: Infantry (Inf), Cavalry (Cav), and Rifles (Rif). Each unit type has certain special abilities and tactical advantages/disadvantages in combat:
+
+1. Infantry have the ability to ambush anywhere on the main fief map (explained later) and have 4 movement points; 
+Cavalry have the ability to charge at an enemy (inflicting considerable damage on both sides) with the chance of breaking through the defending unit and emerging on the other side. Samurai leaders may often be killed (instead of captured) if their unit reaches zero. Cavalry have 6 movement points; Rifles may attack using muskets which have devastating offensive capabilities, which may also kill an enemy samurai unit if the opponent's unit reaches zero (thus, a standard non-rifle attack is also available for capturing an enemy samurai leader). Rifles have 3 movement points.
+
+ 
+Additionally, both Infantry and Rifle units may move over walls or through water during the castle siege for a certain amount of movement points.
+
+Tactical Combat
+Tactical combat occurs in two different locations:
+
+The first is the tactical map of the fief, where the attackers first arrive and the defenders surrounding the castle. In this setting, each days is divided into three time periods: morning, afternoon, and night, before the day ends. At night, armies may maneuver to surprise attack enemies in the dark, which does considerably more damage than an average attack. This may be done if the enemy is at least two squares away (not adjacent).
+
+The second is the castle siege map, which occurs if the defender chooses to retreat to the castle from the previous map. Here, each turn represents one day, thus the time limit of the attack as well as the provisions of both sides, rapidly decrease with each turn. In this setting, the siege force must break down gates leading towards the castle for the final engagement. The defender is defeated, if the governor of the fief retreats, or if his unit is destroyed: resulting either in his capture or death.
+
+The end outcome is either the fall of the fief to the attacking forces or victory for the defenders. Either way, captured samurai (if any) will require a prompt response for release, beheading, or recruitment to the winner's force.

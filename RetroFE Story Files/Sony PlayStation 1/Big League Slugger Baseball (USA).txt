@@ -1,0 +1,5 @@
+Big League Slugger Baseball is a cartoonish, big-head-anime-style baseball game. It uses the standard behind-the-catcher viewpoint for batting and pitching and switches to different views when the ball is hit.
+
+One or two players can play a single exhibition game, or a single player can play a 10 or 30-game season, which can be saved to a memory card.  After completing the season you can proceed to the Final Series.
+
+The game is unlicensed and does not include any real teams, players, or stadiums, though you can create your own players and teams.

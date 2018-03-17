@@ -1,0 +1,15 @@
+The next edition of this version of Jeopardy!. 
+
+The Game modes include a Normal game, a Solo game, a Tournament of Champions, and a Contestant Exam.
+
+In the normal game, 3 contestants compete against each other in a game show, trying to supply the question for answers in several different categories. Each correct answer the player gives earns them money, while giving an incorrect answer will cost them money. The player with the most money at the end of the game is deemed the winner. The solo game is the same as the normal game, except that it's just the player competing against no other contestants.
+
+The Tournament of Champions is for players who've won five games or accumulated more than $75,000. In this mode, the answers and questions are more difficult.
+
+The Contestant Exam gives the player a sample of the exams a contestant who wants to be on the real show has to take.
+
+The game keeps track of the player's career statistics. Tracked stats include the number of games won and lost, the total winnings, the best and worst score, the player's best jeopardy, double jeopardy, & final jeopardy amount, the number of tournament wins, and the number of right & wrong answers.
+
+The game also offers some behind the scenes videos for the player to view.
+
+Options include setting the amount time to buzz-in, the amount of time to respond, setting the spelling accuracy to be either more strict or loose, and setting the computer opponent's IQ to either easy, medium, or hard.

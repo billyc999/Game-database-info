@@ -1,0 +1,2 @@
+A colourful, 1 or 2-player platform shoot-em-up consisting of 5 stages, in which the player controls a Ninja who must jump and shoot his way through each of the game's stages, before taking on the archetypal end-of-level 'Boss'.
+Bonuses can be picked up to increase the firepower, and barrels can either be smashed to reveal bonuses, or picked up and thrown at the enemies. In addition; the Ninja can perform high jump by pressing the JUMP button, then pressing it again while the Ninja is in the air. This is useful for avoiding enemies and essential for reaching high platforms.

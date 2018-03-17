@@ -1,0 +1,1 @@
+Meteoric Shower is a Galaga style vertical arcade shooter from Bit Corp. You control a space fighter at the bottom of the screen, scrolling left and right in order to avoid oncoming bombs and kamikaze attacks from alien invaders--and to fire your own missiles to fight back!

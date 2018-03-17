@@ -1,0 +1,5 @@
+Extreme 500 is a motorcycle racing simulation done with the assistance from the 1997, 250cc World Championship winning team (as advertised).
+
+The game consists of all 3 GP classes (125, 250 and 500), racing on the World GP tracks of 1996, and it's possible to race against the clock, the computer or up to 15 other players in the multiplayer network version.
+
+Extreme 500 incorporates several elements of motorbikes you can tweak as you please, so you have to try and fine-tune your bike to be able to get the best time.

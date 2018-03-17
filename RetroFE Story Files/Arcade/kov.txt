@@ -1,0 +1,1 @@
+A side scrolling beat-em-up that gives you control of one of the Five Tiger Generals of Shu (though it is possible to earn other famous faces, such as the intelligent Zhuge Liang and the beautiful though historically-nonexistant Diao Chan), following the historical fiction novel Romance of the Three Kingdoms by Luo Guanzhong.

@@ -1,0 +1,9 @@
+The film Platoon featured a squad of five soldiers on their mission for the US Army in Vietnam. In this action game based around the film, you take control of these five guys in turn, with the chance to switch between them as they each take one of the 3 hits that would kill them.
+
+The game recreates each of the sections of the film, starting with a side-scrolling journey through the jungle, with paths to cross both horizontally and vertically, and the ability to jump or duck hazards. You will need to blow up a bridge and then locate a village, which contains a torch, a map and a trap-door. The enemy has booby-trapped the area and are launching airstrikes, so the danger is not all from enemy ground soldiers.
+
+The next section is in first-person 3D, as you move through a network of tunnels in search of flares and a compass. There are 3 distinct control methods, changing from the standard motion when an enemy appears (this puts you in control of a cross-hair for more accurate targeting), and when you enter a room to search.
+
+After escaping this you settle in a bunker overnight, and have a limited amount of flares with which to locate incoming enemy, and must then shoot them before they can shoot you. The jungle airstrike from the film is the next moment - you have two minutes to rush into a safe position to the north, using your compass for guidance.
+
+Finally you face the treacherous Sergeant Barnes, and must hit him with grenades 5 times whilst trapped in a foxhole to prevent him wiping you out.

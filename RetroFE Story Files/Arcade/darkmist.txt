@@ -1,0 +1,1 @@
+A vertically scrolling fighting game where the player controls a knight who battles against a variety of magical characters. Collect potions, power-ups and bonus items from the treasure chests left by slain enemies. Defeat the boss enemies to proceed to the next level.

@@ -1,0 +1,1 @@
+An early shoot'em up featuring parallax effects in the background and a nice simulation of inertia in the control of the ship.

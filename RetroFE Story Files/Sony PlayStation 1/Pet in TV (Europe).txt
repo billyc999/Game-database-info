@@ -1,0 +1,7 @@
+Pet in TV is an original (and quite bizzare) PlayStation game, where the user takes control of a virtual pet. (A more complex version of the Tamagotchi.)
+
+The player can choose from a selection of PiTs and name it.
+
+It is then up to the player to nurture their PiT and allow it to explore the 3D world, learning from its encounters with scenery and objects through trial-and-error. Once these behaviours are learn, the PiT will know how to respond to those objects in the future (such as a Flower, or a Spike). Whenever the PiT becomes injured, or tired, returning it to its home will allow Dr. Y to fix it. 
+
+The objective then becomes for your PiT to solve puzzles on its own - for which it will be rewarded with AI upgrade chips.

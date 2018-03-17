@@ -1,0 +1,1 @@
+Overhead 2D golf game. This one does nothing unusual - all the controls are pretty standard for a game of this type, the course is viewed overhead at all times (no 3D tee-off like in Naxat Open) and the view is zoomed in when you reach the green. Club swing is determined using the circular gauge method. 

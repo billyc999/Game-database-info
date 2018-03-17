@@ -1,0 +1,5 @@
+The player play four Allied commandos in operations during World War 2. Mission vary from bomb planting to hostage rescue. The player can even drive tanks and other vehicles. 
+
+The player can control a soldier in FPS mode and control the rest in a tactics mode. 
+
+The campaign is divided into many episodes, and each episode into missions.

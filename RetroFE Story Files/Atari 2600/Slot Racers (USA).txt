@@ -1,0 +1,5 @@
+The goal of this two-players console game is to move your vehicle in a maze so you can shoot missiles at your opponent without getting shot at. 
+
+The games features four different mazes to choose from, each faster than the last. Another feature lets you decide to make the missiles faster or slower than the car. The difficulty switch determines whether you can shoot a missile while one of your own is still on the screen. Otherwise, your missile has to hit the enemy or be retrieved by your vehicle before you can launch another one.
+
+You steer your car with a joystick. Each time you hit your enemy with a missile, you get a point. The fist player to get 25 points is the winner.

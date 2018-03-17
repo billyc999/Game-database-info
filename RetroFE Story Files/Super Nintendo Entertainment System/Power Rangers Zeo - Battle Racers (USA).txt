@@ -1,0 +1,5 @@
+In this racing title based in the Zeo season of world-famous television series Power Rangers, players are allowed to select among the six Zeo Rangers (Pink, Yellow, Red, Blue, Green, Gold) or their enemies (King Mondo, Cog Soldier) to compete in a head-to-head circuit challenge along 16 race courses divided by 5 Tracks.
+
+Each pilot has different attribute levels for Acceleration, Speed and Grip, providing a more balanced competition. Besides several obstacles and speed energizers scattered by the courses, players can attack opponents by firing Blasters (a la Super Mario Kart special items) at your adversaries; the limit is 5 Blasters per race except by Cog Soldier's infinite Blaster amount.
+
+Along with 1-Player game modes (Race, Time Trial and VS CPU), the game also offers 2-Player split-screen gameplay through Race and 2P VS plus 3 alternative modalities: Point Race, where players must to race over objects to earn points; Bumper Chase, with the main objective to ram the opponent off the course; and Blaster Master, a Life Energy-based deathmatch.

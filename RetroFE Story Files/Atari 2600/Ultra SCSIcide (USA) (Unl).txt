@@ -1,0 +1,13 @@
+This is an improved version of SCSIcide.
+
+The improvements are:
+
+1. Support for joysticks
+2. Fixed the flicker that occurred at the beginning of each level.
+3. Changed background and data bit colors to make bits easier to distinguish.
+4. Reduced track size from ten to eight bits.
+5. Speed increase per level has been changed so that only two random data bits increase in speed each level.
+6. Modified sound and scoring routines to account for the game going for longer and to higher levels.
+7. Changed the title screen text and added logos for Grand Idea Studio and Pixels Past.
+8. Added PAL support.
+9. New label and manual cover

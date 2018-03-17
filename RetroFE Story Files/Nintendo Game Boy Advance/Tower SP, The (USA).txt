@@ -1,0 +1,3 @@
+An enhanced port of The Tower, better known as SimTower, for the Game Boy Advance. Build your tower, set up offices and stores, and don't forget about the elevators.
+
+The Gameboy Advance version is mostly identical to the PC/Mac version, but has a few enhancements, such as letting you manually clean bathrooms, and an extensive tutorial.

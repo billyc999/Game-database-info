@@ -1,0 +1,11 @@
+Inspired by the 1980s movie about a computer trying to take over the world, this action/strategy game allows you to field either the tanks of human NORAD or the walkers of AI-controlled WOPR, in warzones across the world.
+
+You control one vehicle and can cycle through all the units in your current army at any time, and there are limited commands you can issue to the rest of your army. For example, you can tell all the units in your army to follow your vehicle. However this can be unreliable due to poor pathfinding.
+
+There is a huge range of vehicles available for each army, from reconnaissance jeeps and bikes through heavy tanks and walkers all the way to the really special toys, laser and stealth tanks. There are air and sea assault troops available as well.
+
+You receive your mission objectives in e-mails sent from mission control (or WOPR itself) which update as you fulfill briefs. These can be as simple as 'go there, kill that' but sometimes require more complex tasks such as picking up a spy from behind enemy lines, crippling a base's SAM sites to allow an attack from the air, and so on.
+
+One major draw of the game is an enjoyable two-player co-operative mode. Using a unique split-screen view (split diagonally instead of vertical/horizontal) both players control a vehicle each, and can cycle through the rest. This can be interesting as one player lends air support while the other storms the AA sites with a tank, for example.
+
+In addition to co-operative mode, there is a head-to-head multiplayer mode available and about 30 levels in the single player mode.

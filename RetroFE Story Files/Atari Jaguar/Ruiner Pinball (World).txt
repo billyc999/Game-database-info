@@ -1,0 +1,5 @@
+Ruiner Pinball is a collection of two fantasy pinball tables: Ruiner and Tower.
+
+Ruiner is a two screen wide table that features flashy scaling and rotation effects. There are lots of ramps and animated moving targets to score on.  Ruiner has a cold war nuclear holocaust theme.
+
+Tower is an extra-tall table that features a medieval horror motif. Like Ruiner, it contains animated targets and scaling effects.  Both tables contain missions, or series of targets to increase the scoring opportunities available.

@@ -1,0 +1,1 @@
+Super Tank is a shooter where you control a tank and have to clear a field of mines and bushes. You are chased by enemy tanks, which fire at you. After wiping out all the mines and bushes, you reach the second level. It is kind of a 'boss' level, where you have to fight a big enemy tank, the Super Tank. You can destroy it by a direct hit into its gun.

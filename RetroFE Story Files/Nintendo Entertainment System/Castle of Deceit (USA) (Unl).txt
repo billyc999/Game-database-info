@@ -1,0 +1,3 @@
+Your world is facing peril. The mystic Runes of Guarding have been stolen. You must recover them and reset the protective wards to fend off the doom that threatens your world.
+
+This is a side scrolling platform game. You must fight through enemies and jump onto ledges to grab keys to unlock doors. After you unlock the last door in your area, you must defeat the castle's Head Master, boss, in other words, and grab the Rune of Guarding that they had. After you have gotten all the Runes, your world will be safe.

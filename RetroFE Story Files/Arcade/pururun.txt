@@ -1,0 +1,1 @@
+Link 4 or more coloured blobs on the grid to make them pop. Each blob has an outer colour and an inner colour and when the blobs pop, they change into their inner colour. Keep linking the blobs until you guide our heroes Pipi and Moko to the goal. You can try to link outer/inner combinations to help them reach the goal quicker.

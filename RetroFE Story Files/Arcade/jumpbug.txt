@@ -1,0 +1,1 @@
+The player controls a VW Beetle that jumps through 8 scenarios collecting money and jewels. Shoot or avoid the enemies.

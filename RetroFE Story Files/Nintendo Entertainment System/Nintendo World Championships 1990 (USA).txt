@@ -1,0 +1,9 @@
+This is the cartridge that was used for the Nintendo World Championships held in 1990 in 30 cities across the U.S. and Canada. The player has a total of 6-7 minutes to play all three games but this can be changed by DIP switches on the cartridge.
+
+The first game played is a version of Super Mario Bros. in which the player is given 99 lives and the goal of collecting 50 coins in the first level. Upon collecting the 50th coin, the "finished the castle" music will play and a score will be displayed.
+
+The second game played is Course 1 of Rad Racer, using the 328 Twin Turbo vehicle. The player must finish the course as quickly as possible. No clock is shown in the game but the cartridge keeps track internally. After finishing Rad Racer, its score is displayed, multiplied by 10 and added to the previous Super Mario Bros. score.
+
+Last up is Nintendo's Tetris in A-type mode. All remaining time for the Championship is played out here. The player's objective is simply to get the best score. The Tetris score is multiplied by 25 and added to the previous Super Mario Bros. and Rad Racer scores.
+
+After all the time runs out, a screen will display "Time!" and display the final score, a sum of the previous scores and their multipliers.

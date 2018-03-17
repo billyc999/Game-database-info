@@ -1,0 +1,5 @@
+This soccer game lets you choose a team representing one of twenty-four countries around the world to participate in the World Championship tournament. This is identical to the real 1990 World Cup.
+
+Once you pick your team you can also select which players you want on the field, so that you can round out the team's strengths and weaknesses. Also provided are modes for single exhibition matches, either against the computer or against a friend.
+
+The action is viewed from above with large player sprites. Violent play is encouraged as there are no free kicks. Whereas later sports games often carry heavy focus on the attention to detail, this game is rather simplified -- you can only control the player closest to the ball, for example, and it is missing many of the rules of soccer such as penalty flags and offsides.

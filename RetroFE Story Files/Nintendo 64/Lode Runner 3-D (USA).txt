@@ -1,0 +1,5 @@
+The Emperor Monk of Pandora has begun raiding the Out-Sector Colonies, stealing vital gold supplies from the free systems. The Federated Hegemonies have no choice but to ask the Lode Runners to stop the raids and put an end to the Emperor's rule.
+
+Unable to use the full fleet on the Emperor's defenses, which would cause mass casualties, they decide that a lone Lod Runner should enter the enemy base to recover any gold found and destroy the Emperor.
+
+From an isometric style perspective, you must guide Lode Runner through each of the levels, dodging defensive blocks and enemies by either placing bombs and blowing holes in the ground to finding another way around. By finding all of the gold on the level, you can then progress to the next level.

@@ -1,0 +1,2 @@
+An on-the-rails lightgun game for 1 or 2 players, based on the groundbreaking Steven Spielberg movie of the same name.
+Jurassic Park features Sega's often-used and highly effective sprite scaled graphics and is very similar in style to another Sega Lightgun shoot-em-up, 1991's "Rail Chase". For subsequent games in the series, graphics technology had moved on somewhat and scaled sprites were dropped in favour of far superior textured polygons.

@@ -1,0 +1,1 @@
+A fun memory game starring Fred Flintstone. Match together as many Flintstones characters as you can within the time limit.

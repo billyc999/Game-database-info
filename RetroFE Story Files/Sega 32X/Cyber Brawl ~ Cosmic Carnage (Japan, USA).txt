@@ -1,0 +1,3 @@
+Cosmic Carnage is a one-on-one fighting game set in outer space.  The story begins as a prison barge is hijacked by it's cargo in an escape attempt.  The resulting chaos caused the barge to crash into a military cruiser. The impact caused extensive damage to both ships.  There were only 8 survivors, 4 from each ship.  What's worse, there's only one escape pod.  You control one of the 8 survivors, and have to finish off all the others to escape with your life.
+
+The gameplay in Cosmic carnage is similar to Street Fighter 2, but with a much slower pace.  Some of the fighters can be customized with different armor combinations, allowing them access to different special moves.

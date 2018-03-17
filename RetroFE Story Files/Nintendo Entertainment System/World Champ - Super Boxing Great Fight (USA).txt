@@ -1,0 +1,3 @@
+A boxing game from Romstar that has many similarities to Data East's Ring King. You can play a one player "Ranking" mode, where you can build your boxer's stats up while climbing the ladder to eventually challenge for a championship in one of the four weight classes. There is also a two player vs. mode where you and a friend can square off. A tournament mode allows up to 8 players participate in a bracketed tournament.
+
+Gameplay consists of each boxer moving around the ring trying to land jabs, hooks, and uppercuts. The goal is to either knock your opponent out for a 10-count or have the most points on the scorecard at the end of the allotted amount of rounds.

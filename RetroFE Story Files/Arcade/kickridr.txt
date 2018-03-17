@@ -1,0 +1,1 @@
+A road-race game where the view is from above. You control a motorbike with opponents on motorcycles who jostle you with their legs, and the occasional car. Played against the clock with points for passing.

@@ -1,0 +1,6 @@
+Magic Darts contains six different games of darts; 301, 501, 701, Count Up, Round the Clock and Half It. In the 301, 501, and 701 games you can choose the open or double rules. You can choose to be one of 10 characters (a monkey,alien, and a robot are just some of the choices of characters available). Throwing a dart depends on four different factors: position, curve, angle and power. The game allows up to four players to compete against one another.
+
+In the 301, 501, and 701 games the point is to get the score down to exactly zero.
+In Count up, the players compete to see who can achieve the highest score.
+In Round the Clock, players must try to hit the numbers one  through twelve in sequential order.
+In Half It, players begin with 40 points. Players have three chances to hit the assigned numbers to add to their own score. If the player is unable to hit all assigned numbers, their point total will be cut in half. The player with the highest score wins. The assigned numbers are 16, double ring, 17, 18,triple ring, 19, 20 and the bullseye.

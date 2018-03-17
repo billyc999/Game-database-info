@@ -1,0 +1,26 @@
+This is a compilation cart featuring 15 games. There are 2 versions of this cart. The AVE cart contains the following games:
+
+1. F-15 City War
+Puzzle
+Pyramid
+Tiles of Fate
+Krazy Kreatures
+Double Strike
+Dudes with Attitude
+Venice Beach Volleyball
+Stakk'M (never released outside of this multicart)
+Deathbots
+Rad Racket: Deluxe Tennis II
+Chiller
+Solitaire
+Menace Beach
+Shockwave
+
+Stakk'M is a Tetris like game that uses falling square blocks with either numerals, hearts, or diamonds patterns on them. The player tries to create either horizontal, vertical, or diagonal lines of 3 to 5 identical or consecutive numbers to score points and eliminate them from the well. Each level has a goal that must be met in order to move on to the next level. Goals involve completing a set number of horizontal, vertical, or diagonal lines, scoring a stated number of points, or eliminating a certain number of blocks at once by using any combination of horizontal, vertical, and diagonal lines. There are also treasure blocks which act as wild cards and death blocks which can only be eliminated by combining them with other death blocks.
+
+The HES version of this game does away with Pyramid and Double Strike and adds the following games in their place:
+
+1. BlackJack
+Death Race
+
+This game is unlicensed.

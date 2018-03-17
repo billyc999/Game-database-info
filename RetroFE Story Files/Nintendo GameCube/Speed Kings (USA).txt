@@ -1,0 +1,3 @@
+Speed Kings is an arcade-style motorbike racing game. The player has to race through 22 different levels, weave through civilian traffic and compete against 5 CPU opponents. There are 22 non-licensed motorcycles, modeled after their real world counterparts to use in the six game modes: single race, time attack, trick attack, head to head, grand prix, meets, and tag (multiplayer-only). As players progress in the game, they earn respect points, which unlock new bikes.
+
+During the race, the player has to build up the powerband meter to perform nitro boosts by colliding into the sides of oncoming vehicles, or performing tricks such as wheelies, handstands, big jumps or sliding underneath 18-wheelers. It's also possible fight other riders Road Rash style.

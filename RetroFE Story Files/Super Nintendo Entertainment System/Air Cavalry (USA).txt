@@ -1,0 +1,1 @@
+A standard helicopter war-game, featuring the Air Cavalry division. The game is played in a third person view using mode 7 graphics, with the cockpit displayed in splitscreen. There are three campaign areas to fly in: Middle East, Indonesia, and Central America. There are also 2 player versus and co-op split-screen modes.

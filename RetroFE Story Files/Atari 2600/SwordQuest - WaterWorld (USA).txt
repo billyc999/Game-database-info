@@ -1,0 +1,4 @@
+Much like the games SwordQuest: EarthWorld
+and SwordQuest: FireWorld before it, SwordQuest: WaterWorld involves walking through rooms, picking up items, beating action stages to reveal more items, and seeing the odd set of numbers flash at you when you have the right items in the right rooms. 
+
+The sets of numbers, for instance 8-4, were actually a combination of a page number and a panel number in the comic book that came with the game. On the page indicated by the game, you would find a word hidden somewhere in the numbered panel. When all the correct words were found, you could send them to Atari in hopes of winning the SwordQuest contest that this game was designed for.

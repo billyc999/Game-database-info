@@ -1,0 +1,7 @@
+This game is a rather simple alien blasting shoot-em-up. It uses almost industry standard vector controls, which are four buttons, Left Rotate, Right Rotate, Thrust, and Fire. You begin the game in the center of four strange looking shapes. These shapes are both level selects and upgrades. Run into one of them and it will add itself to your ship, and then you get to do the level associated with it. Each level is different mainly because you have wildly different shot patterns on each one. But all of them are the same when it comes to your objective. What you have to do is blast all the spaceship parts before they can form into dangerous enemy spaceships. Blast them all, and you get to select a new level and watch a little interlude where the alien taunts you with his evil computer voice.
+PLAY INSTRUCTIONS :
+1. Enemy ships will be formed by four craft coming together.
+2. Only complete enemy ships can launch fireballs.
+3. Partial enemy ships will try to ram the player ship.
+4. Between rounds the player ship can dock for more firepower.
+5. To dock destroy enemy fleet before reinforcements arrive.

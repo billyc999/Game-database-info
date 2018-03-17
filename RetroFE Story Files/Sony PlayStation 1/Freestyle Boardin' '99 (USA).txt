@@ -1,0 +1,9 @@
+This snowboard game features four different game modes; a Championship Mode, a Time Competition Mode, a Freestyle mode, and a Vs. Mode.
+
+In the Championship mode, players choose from one of six snowboarders who each have their own ability ratings in max speed, cornering, technique, power, and recovery. Players then compete on 10 different courses with the majority being downhill races, and the others consisting of slalom courses, a halfpipe, and a tricks ramp. Players can perform tricks while racing to earn style points. Style points and the overall time are combined in order to determine the player's overall ranking. In between races, players get points to upgrade their boarders abilities depending on how well they performed on their previous race.
+
+The Time Competition mode has the player racing solely to get the best time possible.
+
+The Freestyle mode lets players choose any of the available courses to play at their own leisure.
+
+Vs. mode lets two players race against each other.

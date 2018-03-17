@@ -1,0 +1,1 @@
+An early shooter. You goal is the destroy the invading ships around the screen. You can only fire upwards.

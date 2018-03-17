@@ -1,0 +1,1 @@
+Vertically scrolling shoot 'em up where you collect modules that can either combine with your ship or fly in formation with you to alter their effectiveness.

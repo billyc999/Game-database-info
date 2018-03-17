@@ -1,0 +1,5 @@
+The F.A. Premier League Football Manager 2001 is the sequel to The F.A. Premier League Football Manager 2000. Like its predecessor you take control of a football team of your choice and try to send them to (or keep them at) the top. Aside from all the clubs, players, stadiums and logos from the British F.A. Premier league the game also features 6 other national leagues such as that of the Netherlands and Germany. But not all the names from these countries are official. But a database editor is provided so that you can manually fix these unlicensed clubs.
+
+In the game you are mostly presented with statistical screens with data. Communication with club personnel such as scouts and youth trainers is done through ingame emails. There are always several pre-written replies to choose from. Tasks you have to perform is select the line-up for your teams, buy and sell players, raise money, scout for new players and improve your stadium and training facilities.
+
+Both the entire match or just the highlights match can be viewed in 3D with live commentary,

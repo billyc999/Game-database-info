@@ -1,0 +1,5 @@
+It�s the middle of the 21st century. The armies of Lord Halley are launching attacks on planet Earth. You are the last chance for Earth, piloting a craft specially developed to engage these hordes. You must fight your way through their defenses to the final goal, the alien base. The final battle is about to commence!
+
+Halley Wars is a vertical scrolling shooter. The game has 6 stages set in locations in space such as, above planets or in asteroid fields. There are end of levels bosses at the end of each stage each with their own weaknesses. There are power-ups, which can be picked up along the way when you shoot particular asteroids or satellites. These upgrade your weapon strength, speed, add explosive pods and shields.
+
+Where the game stood out was, there are comets that need to be destroyed on your journey. Each comet and ship that you don�t shoot makes it to earth and does some damage there. Comets do more damage than the enemy ships do. If Earths damage level reaches 100% the game is over. For every 2000 points you score, 1% of Earths damage is repaired.

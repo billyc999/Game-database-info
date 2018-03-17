@@ -1,0 +1,3 @@
+Victory Run is an arcade racer based on the Paris-Dakar rally. The gameplay is similar to OutRun, with your car appearing near the bottom of the screen, and a course made of scaling sprites laid out ahead.  
+
+At the start of the race, you choose how many spare engines, tires, brakes, and so on to take with you on the rally. As you finish each segment, you have to decide to use those parts so that you can repair your car so you can complete the race.

@@ -1,0 +1,3 @@
+A port of a Playstation title that offers a more action-oriented aproach to american football. You can only play the 1998 season with your choice of NFL licensed teams (tough all with the same playbook) in either the standard game mode or a pseudo coaching mode were you call the plays and watch the computer develop the action.
+
+Additions for the pc version include expanded multiplayer support (over modem/internet/lan) and Direct3D accelerated graphics which show off the game's animations and real-time weather conditions. Also in the sound department you get in-game comment by Dick Enberg and Phil Simms.

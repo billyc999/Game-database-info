@@ -1,0 +1,7 @@
+In this unofficial sequel to the arcade game BurgerTime, the Rotten Foods (Hot Dogs, Cherries, Bananas, and their leader Mugsy, the Mug o' Root Beer) have thrown lunch all over the diner and Peter Pepper has to get it back on the plate. 
+
+The game is for 1 or 2 players (but in this case they have to choose two different difficulty levels). Peter Pepper must kick the Food Balls (red Meatballs, green Lettuce Heads, white Rice, tan Mashed Potatoes, and yellow Macaroni) scattered throughout the diner. The Food Ball will roll across the floor, down ramps, and over ledges. If it's close enough to the bottom of the screen, it will roll right onto the plate.
+
+When a plate is full, Side Orders appear in the diner: if Peter picks them up, he earns 250 points and 1 pepper. When he fills 4 plates (finish four game screens), he enters the Blue Plate Special bonus round: Food Balls start raining across the screen and Peter can eat all them, but the flashing ones, for extra points.
+
+With them he can squish the Rotten Food too, earning extra points. He can shake pepper to stop them momentarily or simply run away. If a Rotten Food touch him, he loses a turn. Peter can obtain a new turn every 20.000 points. If he run out of turns the game ends.

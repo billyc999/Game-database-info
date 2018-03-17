@@ -1,0 +1,64 @@
+The first big commercially-available emulator collection (and a direct outgrowth of Digital Eclipse's early emulation work on the Macintosh.)
+
+DOS version
+
+1. Defender - side-scrolling shooter
+2. Defender II - side-scrolling shooter
+3. Joust - joust on flying ostriches
+4. Robotron: 2084 - single-screen manic shoot 'em up
+5. Sinistar - overhead free-range space shooter
+6. Bubbles - play a scrubbing bubble in a game similar to the arcade Reactor
+7. Also contains FMV supplements, including interviews with the original programmers.
+
+Windows version
+
+1. Defender
+8. Defender II (a.k.a. Stargate)
+9. Joust
+10. Robotron
+11. Sinistar
+12. Bubbles
+13. Also contains FMV supplements, including interviews with the original programmers.
+
+Dreamcast version
+
+1. Defender
+14. Defender II (a.k.a. Stargate)
+15. Joust
+16. Robotron
+17. Sinistar
+18. Bubbles
+
+PlayStation
+
+1. Defender
+19. Defender II (a.k.a. Stargate)
+20. Joust
+21. Robotron
+22. Sinistar
+23. Bubbles
+24. Also contains FMV supplements, including interviews with the original programmers.
+
+SNES version
+
+1. Defender
+25. Defender II (a.k.a. Stargate)
+26. Joust
+27. Robotron
+28. Sinistar
+
+Genesis version
+
+1. Defender
+29. Defender II (a.k.a. Stargate)
+30. Joust
+31. Robotron
+32. Sinistar
+
+Game.Com version
+
+1. Defender
+33. Joust
+34. Robotron
+35. SiniStar
+36. Defender II

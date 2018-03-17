@@ -1,0 +1,1 @@
+An explorer must get all the treasure chests while avoiding the monsters in this platform game.

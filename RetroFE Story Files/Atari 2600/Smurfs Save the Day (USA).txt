@@ -1,0 +1,16 @@
+In this children's learning game, you learn music, sorting and color mixing.
+
+With Harmony Smurf, the computer will play four, five or six notes and you must repeat them. After the notes play, they fall to the ground and you must put them in their correct spots. The highest level has invisible notes, you must match by sound only.
+
+There are two modes, changed by the select switch.
+In Game Mode, the computer plays and you must duplicate it. In Toy Mode, there are six notes on the ground and you can make any tune you like, the computer doesn't create a tune.
+
+With Handy Smurf, items will move along a conveyor belt and you must sort them into one of three bins. You press the button to close or open gaps to guide the object but don't press too soon or the gap returns to the way it was before after a short time.
+
+In Game Mode, the first five items are sorted by shape, the next five by size and the next five by color then the sequence repeats only faster. In Toy Mode, after each item is sorted, the sorting criteria (shape, size or color) changes randomly.
+
+With Greedy Smurf, Clumsy Smurf has a colored liquid in a glass. Using blue, red, yellow and white spigots, Greedy must put the same color liquid or mix liquids to get the same color in his glass. If he gets it right, he and Clumsy drink up. If he gets it wrong, the glass drains out.
+
+In Game Mode, the colors start easy and get progressively harder. In Toy Mode, the color selection in Clumsy's glass is random.
+
+There is no time limit or penalty if you get something wrong.

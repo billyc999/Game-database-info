@@ -1,0 +1,3 @@
+Based on the film of the same name, Kevin McAllister has been left home alone for Christmas while his family is on vacation. This would not be so bad except for two burglars, Harry and Marv, aka the Wet Bandits, have decided to burglarize his house. However, Kevin is too smart to play victim and will use the items he has available to make traps for the burglars.
+
+Home Alone is a side scroller. Controlling Kevin, the player must wander around Kevin's house picking up icons representing different kinds of traps. He then drops these icons onto the ground, in the path of one of the burglars, stunning them and earning a score. Once stunned, Kevin can walk past them and continue collecting trap icons.

@@ -1,0 +1,1 @@
+A cute platform game with gameplay similar to "Snow Bros." and "Bubble Bobble".

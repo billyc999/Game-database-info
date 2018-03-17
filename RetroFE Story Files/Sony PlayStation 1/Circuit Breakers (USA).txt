@@ -1,0 +1,9 @@
+Circuit Breakers is a racing game similar to Micro Machines and Ignition, where the vehicles resemble toys viewed from above. The game lets the player control cars (of various models), boats and submarines that change according to the track.
+
+The tracks have power-ups. They can be collected and activated and have negative and positive effects. Most are standard power-ups from this type of game, like speed boosts and oil leaks. Some are more bizarre, making the vehicle bigger or smaller, or making it bounce or fly.
+
+The tracks are organized by theme and difficulty. By winning races the player receives access to increasingly more challenging tracks. The game controls are particularly sensitive, and getting out of the path often makes the vehicle explode.
+
+Instead of a fixed camera, the game usually changes angles when the vehicle reaches certain points of the track. The camera can go as low as behind the vehicle, and go high to a "bird's eye" viewpoint.
+
+Multi-player mode has its own set of tracks. It supports up to 4 players (using a multi-tap).

@@ -1,0 +1,7 @@
+In the far future, conflict is at an all-time low and outdated defence bases are being vacated and replaced with automated software. You play as an engineer sent to update one such base. Just after uploading the automating code, the base is suddenly invaded by unknown assailants from the air and ground. You must rely on your wits and the defence software to fend them off.
+
+The main game takes place in a first-person view inside the complex. Trams connect the maze-like living areas to a handful of manned turrets outside. You must shuttle between shooting down waves of fighters in the turrets, and scouring the base levels for card keys during the down time.
+
+A third consideration is the "Virtual Operating System" controlling all major base functions. You use this interface to repair damage from attacks, monitor intruders, and place robot sentries to guard key passages. As you find more access keys, you can increase the software's efficiency to the point that you can command turrets remotely, or set them to auto-attack with a high degree of success. 
+
+As defending the base becomes more automated and efficient, you have more time to search the levels for keys. Your ultimate goal is to find the clearance to self-destruct the base, defend your escape shuttle, and get out alive.

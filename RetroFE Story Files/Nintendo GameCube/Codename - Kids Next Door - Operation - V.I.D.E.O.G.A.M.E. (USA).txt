@@ -1,0 +1,3 @@
+This action/adventure platformer is based on the Cartoon Network show Codename: Kids Next Door. The Kids Next Door battle their arch-nemeses from the show (Knightbrace, Count Spankulot, and others) when they escape from the maximum-security KND prison on the moon.
+
+In each mission, you control a specific KND agent, and each agent has a unique play style: Numbuh One is a master of ranged weaponry, Numbuh Two pilots aircraft and spacecraft, Numbuh Three has extra platforming mobility, Numbuh Four is a melee brawler, and Numbuh Five uses stealth to her advantage.

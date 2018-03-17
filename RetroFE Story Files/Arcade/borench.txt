@@ -1,0 +1,1 @@
+A puzzle game similar to "Marble Madness". The player must guide a ball to the goal of a certain level.  You must do this by adding blocks to the squares to influence the ball's movement. You must avoid the edges to prevent the ball falling off.

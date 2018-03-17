@@ -1,0 +1,1 @@
+Based on the original Dr. Seuss book (not the movie), this adventure game lets young players control the Cat in the Hat as he's looking for objects to play games with. Collecting the objects unlock different arcade games that can be played over and over again to try to beat the best scores.

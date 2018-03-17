@@ -1,0 +1,7 @@
+In a dark future, Mojo has his own TV show where the participants fight to death. He has imprisoned some X-Men from the past to recreate their greatest battles. Wolverine and Rogue have to enter the game and rescue their friends, then defeating Mojo to return back home. 
+
+In this platform game, the player starts choosing either Wolverine or Rogue. At each new level beaten, a new X-Men will be available: first Gambit, then Cyclops, Havoc and finally Shard. If one of the X-Men dies, the player has to start the level again, choosing among the remaining X-Men the one to play. After all the X-Men have died, the game is over.
+
+Each character can activate his/her power at will. Wolverine can use his claws, Rogue can fly, Gambit can throw explosive cards, Cyclops will fire optic blasts, Havoc fires plasma blasts and Shard fires energy blasts. The characters have an energy meter and a power meter, which will worn out as they are hit or use their powers, respectively. They can find items to restore their energy and power.
+
+Gameplay consists basically in finding the way out of each of the six levels. Once finding it, the character will face a boss, usually known characters from the comics like Magneto, Fitzroy, a Sentinel, etc. The last boss is Mojo himself.

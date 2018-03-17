@@ -1,0 +1,5 @@
+Another fighting game based on the Ranma 1/2 manga series set around the misadventures of a martial artist that gets cursed and magically transforms into a female version of himself whenever he's splashed with water.
+
+As in previous games the premise simply involves the cast of the series going at each other's throats for ultimate supremacy, although this time you can select any character in either the single player or Vs gameplay modes.
+
+The gameplay itself involves controlling your character in a side-scrolling arena and trying to defeat your opponent either with your basic attacks, special moves (triggered by specific controller motions) or super moves that require you to charge buttons and can only be dealt under specific situations (ie, when your life-bar starts flashing), while avoiding your opponent's attacks in turn.

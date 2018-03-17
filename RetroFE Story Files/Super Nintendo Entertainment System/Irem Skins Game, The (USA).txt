@@ -1,0 +1,13 @@
+A golf game featuring four different game modes. The four game modes are Skins game, Match play, Stroke play, and Tournament.
+
+The Skins game has players compete for prize money on each individual hole.
+
+Match play involves 2 golfers competing to see who can win the most holes out of 9 or 18 holes.
+
+Stroke play counts the total number of strokes over a course of a golf game. The golfer with the least amount of strokes wins.
+
+Tournament mode has golfers competing in either one day (18 holes) or two days (36 holes) of golf. Scoring is figured out by how many strokes over or under par a golfer made to finish a hole.
+
+Gameplay consists of first choosing a golfer type of either a power hitter, all-around, technician, or magician. Each type has its own proficiencies in the drive, power, accuracy, hook, slice, and back spin categories.
+
+When on the golf course the player can choose a club, their stance, direction of where to hit the ball, and the power of the swing. Once that is decided, the swing is determined by a meter which measures the accuracy of the shot and determines whether the ball gets hit straight, hooks, or slices.

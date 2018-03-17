@@ -1,0 +1,3 @@
+A platform adventure based on the world and characters of the movie The Scorpion King. Mathayus (The Scorpion King) must rescue his wife, Cassandra, from the hands of the evil warlord Menthu, who whishes to use Cassandra's magical abilites for his own evil purpose. 
+
+Using a Gauntlet, Mathayus can increase his attacking speed and power by feeding it magic gems, collected by defeating boss characters in 6 different worlds, with traps and enemy characters littering each level.

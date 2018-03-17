@@ -1,0 +1,3 @@
+Budokan is a martial arts game covering Karate (unarmed combat), Kendo (using a wooden sword), Nunchaku (using piercing chain weapons) and Bo (using a staff). The player has a realistic range of moves and must use them wisely, as Ki (life-force) is drained for every move made, whether successful or not, and both this and your stamina level must be kept high.
+
+You can practice your skills alone, or spar against the instructors or your friends. Finally, when you feel you are ready, you can travel to the martial arts world championship tournament at Budokan.

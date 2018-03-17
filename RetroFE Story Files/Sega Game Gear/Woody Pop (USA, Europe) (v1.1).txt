@@ -1,0 +1,7 @@
+Every system must have a Breakout clone, and every self-respecting developer must have one, especially in the mid-eighties, following the success of Taito's Arkanoid. Sega's answer was called Woody Pop.
+
+With a wooden paddle, which in fact is Woody the tree spirit, you bounce your ball against bricks laid out in a big house filled with toys. The toys will come out to disturb you. When you hit "mystery bricks", wind-up toy soldiers or robots come out, obstructing your ball. On some levels, a toy train will cross your path as well. Speaking of wells, the bottom of the screen is not a big black hole as in most other games of this kind � instead the whole covers only a part of the wall, so that even if you miss the ball, it might bounce back in the corners.
+
+Once a room is cleared, you can choose freely between up to three adjacent rooms to progress to, making this game less linear than usual.
+
+Like any post-Arkanoid game, there is a range of powerups released from special blocks. Most are known from other games such as the double-ball, the growing bat or the "diamond ball", which destroys all blocks in its path without ricocheting. Some invented by Sega are the fire ball, which sets blocks on fire, allowing them to destroy even neighbouring blocks, and the big ball, which hits bricks with more power, thereby destroying brick with one hit that would otherwise have required several.

@@ -1,0 +1,7 @@
+This is an Atari 2600 version of a Star Trek game found on many college mainframes.
+
+Like those mainframe programs, it has no graphics, only text. You use the joystick, moving left or right, to select the command you want then press the red button. You then move the joystick left or right to select set the parameters of that command, if there are any. You start by pressing Reset or Select to choose how many enemies you must kill in how many stardates. 
+
+The commands and any settings are as follows:
+
+Galaxy Map

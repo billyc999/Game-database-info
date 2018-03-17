@@ -1,0 +1,9 @@
+In this soccer game, two players can play a single match between any of the 8 teams available, or one player can play either one of the two championships available.
+
+The Ultimate League Soccer championship let the player choose one of 8 national teams: France, England, United States, Argentina, Italy, Brazil, Australia or Germany. The other championship available restricts the choice to the 4 first teams: France, England, United States and Argentina. Each national team has its own characteristics, varying in offensive, defense, speed, skill, accuracy and experience traits.
+
+After selecting the team, players are prompted to choose the color of their team's uniform, among white, green, gray and red. They are also prompted to choose the duration of the periods (15, 30 or 45 minutes - which run faster than real time). They are also prompted to choose team formation: 4-3-3, 4-2-4 or 4-4-2.
+
+The game is played from a side-scrolling perspective. While conducting the ball layers can make short passes (with button B) or strong kicks (with button A, stronger the longer the button is held). Without the ball's possession, players can try to steal the ball (with button A) or skip to the next player (with button B). The goalkeeper control is manual, and players can make the goalkeeper jump (by pressing button A). Tied matches are decided on a penalty kick contest.
+
+Players can also watch single computer vs. computer matches.

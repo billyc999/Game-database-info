@@ -1,0 +1,3 @@
+A top-down/side-scrolling sci-fi shooter in which you take control of a small starfighter as you make your way through an alien planet with your objective being to destroy all enemy forces.
+
+Your ship is equipped with both a standard laser and an independently fired ground weapon, which you must coordinate to defeat ground and aerial enemies. A shield bar keeps track of your damage and you can replenish it by defeating certain enemies, but otherwise its just you, your ship and several stages of alien enemies that alternate between top-down and side-scrolling perspectives.

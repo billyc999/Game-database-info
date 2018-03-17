@@ -1,0 +1,1 @@
+Junction is a puzzle game somewhat similar to Pipe Dream where the object of the game is to slide square track pieces into the correct place, in order to allow the ball to reach the exit. The game consists of 50 levels which can be attempted in any order, but a certain number of points must be accumulated in order to beat the game.

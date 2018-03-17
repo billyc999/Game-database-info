@@ -1,0 +1,5 @@
+Made in the hey-day of SEGA's sprite scaling hardware (After Burner, Out Run) in the arcades, Galaxy Force is a combination of After Burner and G-Loc R-360 set in space.
+
+The game is divided into four "scenes", or planets: the A world is a green planet, world B is a fire-ridden lava planet, world C is a green water planet and world D is barren ice planet. You must fly your spaceship above the planet's surface, facing not only Space Harrier-style enemy attack waves, but also natural phenomena such as meteorites, lava eruptions and tornadoes. To fight them, you have a vulcan as well as an undepletable stock of missiles.
+
+Once you have fought your way across the planet, you enter a tunnel system in the inner confines of the planet. As the tunnel turns, you are given directions as to which way you must manoeuvre, but the narrow tunnel gives you little space to take evasive action. Once you escape the tunnel, the entire planet is destroyed, leading you towards the ultimate boss encounter.

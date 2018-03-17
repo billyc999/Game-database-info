@@ -1,0 +1,18 @@
+According to Atari, Peek-A-Boo was to be a revolutionary new video activity based on the familiar concepts of Peek-a-Boo and Hide 'n' Seek.  It was supposed to teach important concepts such as spatial orientation, direction, and memory that build a child's self-esteem and teach them to have fun on the 2600.  Yeah and I play Missile Command to help my hand-eye coordination...
+Since Peek-A-Boo was intended for very young children the gameplay is very simple.  The main character of this game (a cat named Smart Seymour) moves in and out from behind a square.  Depending on the game selected the various elements of the game change slightly.  The square may be a single block, a rectangle, or four colored squares.  The cat may move far away from the square, or he may barely move half his body out.  The cat may move rapidly in and out from behind the square, or he may stay behind the square.  There are eight different types of games, each with a slightly different objective.
+Before starting the game, the first thing you must do is turn the kids controller sideways to the left (so the top row read 3 6 9 #, middle row reads 2 5 8 0, and bottom row reads 1 4 7 *).  Once you have your controller in the proper position, you can actually attempt to play the game.  As mentioned above, there are eight different games:
+Game 1: Single Block
+This is the easiest of all the games.  All of the buttons work to move Seymour behind the block or out from behind it in various directions.
+Game 2: Horizontal Bar
+In this game the top row of buttons (369#) moves Seymour up, the bottom row (147*) moves Seymour down, and the middle row (2580) gives you an error sound.  As with all the other game variations, all of the buttons work to move Seymour behind the line.
+Game 3: Vertical Bar
+In this game buttons 123456 move Seymour to the left while buttons 789*0# move him to the right.
+Game 4: Single Block
+In this game buttons 6 and 9 move Seymour up, 4 and 7 move him down, 123 moves him left, and *0# moves him right.  Buttons 5 and 8 give the error sound.
+Game 5: Four Blocks
+In this game you have to press the right buttons depending on which block Seymour is behind.  Buttons 3 and 6 move him from behind the top left block, 9 and # move him from behind the top right block, 1 and 4 move him from behind the bottom left block, and 7 and * move him from behind bottom right block.  All of the middle buttons 2580 give the error sound.
+Game 6: Four Colored Blocks
+In this game the buttons are assigned different colors that correspond to the colored blocks.  Buttons 123 moves Seymour from behind the green block, 456 for the red block, 789 for the tan block, and 0*# moves Seymour from behind the blue block.
+Games 7 & 8: 4 Blocks/4 Colored Blocks
+These last two games are a bit of a mystery.  Hitting any button moves Seymour in various directions and only the two middle buttons (5 and 8) give the error sound when moving him out from behind the blocks.  Perhaps these games aren't finished or you need the mind of a child to understand them (you'd think I'd be qualified for that).
+Obviously Atari was trying to branch out to all age groups, young and old with its new line of games.  Unfortunately with the collapsing market there was no room for niche games like Peek-A-Boo which probably wouldn't have sold in great numbers.  Still Peek-A-Boo holds a minor place in Atari history as being the first video game designed with a psychologist.

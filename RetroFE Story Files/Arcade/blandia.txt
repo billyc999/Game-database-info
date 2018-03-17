@@ -1,0 +1,1 @@
+Weapon-based fighting game featuring visible damage to each of the 6 fighter's armor.

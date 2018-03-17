@@ -1,0 +1,2 @@
+An early submarine game with ten missions which can be played with both American and Soviet attack submarines. The game focuses on realism with several stations the player can use (sonar, weapons, navigation, helm, radio and periscope) but most duties can be delegated to crew members. 
+The graphics are mostly close-up views of the control panels but in some occasions they feature digitized images of surface ships and crew.

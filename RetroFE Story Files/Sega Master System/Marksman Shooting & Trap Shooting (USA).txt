@@ -1,0 +1,3 @@
+These two games allow you to use the Sega's Light Phaser to your advantage. In Marksman Shooting, you shoot red spots on a several number of targets in order to score points before they disappear. Try to shoot at least ten targets, otherwise your qualification score may be low. If you beat the qualification score, you proceed to the next round. Otherwise, the game ends.
+
+In Trap Shooting, shoot discuses that are thrown into the air. If you miss, then they will fall into the distance. Your gun is reloaded after each go.

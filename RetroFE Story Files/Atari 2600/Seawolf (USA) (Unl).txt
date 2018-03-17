@@ -1,0 +1,5 @@
+This game is inspired by the Br�derbund game Seafox and the Midway coin-op games Sea Wolf and Sea Wolf II, although it is not a direct conversion of any of them.
+
+You are a submarine along the bottom of the sea. You must sink ships with your torpedoes.
+
+You move your sub left or right with the joystick and launch a torpedo with the button. Try to shoot past the mines as they waste torpedoes and give no points. Try to hit ships, destroyers, enemy subs and PT boats. Try to avoid hitting the white ships as these will cause your torpedoes to rebound back down. You have fifty torpedoes and ninety-nine fuel. You lose a life when you run out of fuel. After three lives, the game is over.

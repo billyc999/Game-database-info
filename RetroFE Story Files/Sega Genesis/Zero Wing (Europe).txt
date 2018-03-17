@@ -1,0 +1,5 @@
+Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
+
+Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
+
+The game (or the European PAL version) is best known for being the origin of the infamous "All Your Base" 2001 Internet meme.

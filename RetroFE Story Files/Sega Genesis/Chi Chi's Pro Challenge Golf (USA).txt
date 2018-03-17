@@ -1,0 +1,3 @@
+Chi Chi's Pro Challenge Golf is a golf game featuring Juan "Chi Chi" Rodriguez. It has options that allow for match, stroke, and tournament play. The player can also choose to play against different levels of opponents, whose skills are measured on that opponent's putting, approach, and control abilities. 
+
+The game lets the player choose whether to play on a US or Japanese golf course. Once out on the course, the player must choose which golf club to use, where to make contact with the ball, and where to aim in the direction they want the ball to go. Once that's decided the player fills a swing meter and hits the ball trying to get the ball into the hole.

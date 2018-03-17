@@ -1,0 +1,5 @@
+Funny World & Balloon Boy is an unlicensed two-in-one cartridge containing two simple games:
+
+Funny World is an action game where the player must shoot strange animals as they move across the screen. On each stage a set number of "funnys" will cross the screen, and the player must shoot a certain number of them before they can safely reach the other side. To make things harder, some will walk, some will run, and some will move erratically; from time to time a female funny will cross the screen, which if shot will cause the player to lose a life. They player also has a certain number of boulders they can drop, which will hit any funny on the screen that may be out of the player's range. If enough funnys are hit, the player moves on to the next stage.
+
+Balloon Boy is an action game where the player controls a boy at the bottom of the screen who must shoot at balloons floating across the top. When shot, the balloons will release either a trap or an item, and the boy must collect the items while avoiding the traps. If all the balloons are destroyed before the time runs out, the player moves on to the next stage.

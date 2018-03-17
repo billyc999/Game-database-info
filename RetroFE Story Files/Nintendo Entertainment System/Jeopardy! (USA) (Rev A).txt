@@ -1,0 +1,9 @@
+Gametek's faithful NES recreation of the long-running international quiz show. Up to three contestants can play at once, with gaps optionally filled in by computer AI. If three human players are engaged, then Player 1 and 2 share the first controller, with the second controller going to Player 3.
+
+For the first two rounds, six categories with five questions each are randomly selected by the computer to populate the game board. The contestant who answered the last question correctly gets to pick the category and a dollar value, with harder questions being worth more money. Players have ten seconds from the time a question appears to "ring in" with the appropriate controller button and answer. 
+
+Answers are built by using the controller to navigate around a grid of letters and "type" out the correct answer. Spaces and punctuation are ignored, but spelling and grammar generally must match the expected answer exactly. The contestant has 30 seconds to provide the answer before "time is up" and the other players have the opportunity to ring in.
+
+Final Jeopardy consists of one category, which players bet their current winnings on being able to answer. A single question from that category is asked after the hidden bets have been placed. Again, each player has 30 seconds to provide their answer while the other players are instructed to look away. At the end, scores are tallied and the winner declared.
+
+Categories in this edition draw from general knowledge and do not follow a specific theme (like the sports or Star Wars editions). Each category will always consist of the same five questions, and the game draws on a limited number of categories. Repeats will appear after a handful of sessions played. Some questions "current" for 1987 will also be less obvious decades later, and more difficult than intended.

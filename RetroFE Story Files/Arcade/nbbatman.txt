@@ -1,0 +1,1 @@
+An abstract and colorful scrolling beat-em-up, in which one to four players control a team of robotic ninjas who must fight their way through a variety of levels, defeating the game's many enemies. The enemies themselves are based entirely around the sport of Baseball; taking the form of Baseballs, Catcher's mitts, bats etc.

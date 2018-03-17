@@ -1,0 +1,25 @@
+During WWII German bombers turned daily existence in London into a nightmare. Most bombs exploded on impact but some would sit for hours, days or weeks before detonating. It was up to the Royal Engineers to find and defuse these unexploded bombs (UXB's) before they exploded. As a Lance Corporal in the Royal Engineers, it is your job to defuse these bombs.
+
+First, you will check your London map to see where the bombs are. Then it is defusing time. 
+
+On the C64, you must use the joystick to cause the dial to rotate, changing the numbers next to a switch then clicking on the disarm switch at the bottom. If the number is wrong, you must change it again and keep trying. 
+
+On the Atari 2600, you slide a sliding bar. On green bombs, the top bar controls the left switch, the middle the middle and the bottom the right.You set the slide to a spot the move to the switches and push right. On orange bombs, what slide bar controls what switch varies from bomb to bomb and on blue bombs, you can't control the switches. They just randomly change and you push right and hope you disarm in time.
+
+The possible ranks are:
+Lance Corporal
+Corporal
+Sargent
+Staff Sargent
+Warrant Officer
+Second Lieutenant
+First Lieutenant
+Captain
+
+At the start of the game, you can select which rank to start at, from Lance Corporal to Second Lieutenant on the C64 or from Lance Corporal to First Lieutenant on the Atari 2600.
+ 
+Every time you disarm a bomb, you move up levels within your rank. Move up eight levels and you are promoted. If a bomb explodes in the city and causes damage, you are demoted a level in rank.
+
+You lose the game is you are demoted below Lance Corporal or a bomb explodes while you are near it, a not-very-healthy thing to happen.
+
+You win if you get promoted to Captain, whereupon you will be given a desk job.

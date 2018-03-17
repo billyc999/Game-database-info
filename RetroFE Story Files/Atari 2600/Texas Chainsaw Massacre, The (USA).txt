@@ -1,0 +1,11 @@
+In this game, you are Leatherface. Some tourists have trespassed onto your land. They have been mostly eliminated but a few remain.
+
+The object is to chase down the remaining tourists and kill them.
+You chase the tourists with your chainsaw. When you get next to them, you press the fire button to rev up your saw and make cold-cuts out of them.
+
+Try to avoid obstacles like hedges, fences, cow skulls and wheelchairs.
+Try not to rev the chainsaw unnecessarily as you only have 3 tanks of fuel and when you're out of fuel, the game is over.
+
+If you run into fences, cow skulls or wheelchairs, you will be delayed a moment. If you run into hedge, you will need to use the chainsaw to remove them. The chainsaw idles all the time so you don't want to be delayed.
+
+You get 1000 points for each tourist killed. You get a new fuel tank every 5000 points. When you run out of fuel, a tourists comes up behind you and kicks you in the pants.

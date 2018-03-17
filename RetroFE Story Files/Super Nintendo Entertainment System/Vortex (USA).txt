@@ -1,0 +1,3 @@
+Vortex was one of the few games designed to use the SNES Super FX 1 chip, a custom-made graphics accelerator RISC processor. The game is a 3D shooter similar to Star Fox by the same development studio, but with some subtle differences. Players can morph their vehicle at any time from the standard walker to a sonic jet, a land burner and a defensive hard shell, each with their own weapons, strengths and weaknesses.
+
+The player is cast as a soldier fighting the Aki-Do Forces, an evil empire bent on taking over the entire universe. To stop them, the player has access to an experimental mech, the Vortex, to travel the seven worlds of the Aki-Do system and destroy the bases.

@@ -1,0 +1,3 @@
+VMX racing is a 3D dirt bike racing simulation.
+
+The game features four bikes, six different tracks, both outdoor and in stadiums. You can unlock bonus tracks (including one that takes place on the moon) trough performing tricks during the races. You can choose from individual races or a championship in which you play all tracks. Each time you race against seven opponents. One of them can be a friend in two player split-screen mode.

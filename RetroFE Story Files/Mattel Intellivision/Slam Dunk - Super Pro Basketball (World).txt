@@ -1,0 +1,7 @@
+Updated / enhanced version of the original Mattel Intellivision Basketball game, featuring manager mode, player statistics, and more.  At the time, this was the only sports game cartridge that let you own & manage your team.  
+
+Selecting from a pool of 70 players, each with statistics taken from the actual NBA (and attributed with 'fake' names so as to avoid licensing issues), each player must manage salaries to stay under the salary cap.
+
+As player/owner, you run, pass, shoot, defend, and rebound.  Keep an eye on your players - if they tire, they play more poorly.  And keep an eye on the 24 second shot clock!
+
+Play against an opponent or against the computer.

@@ -1,0 +1,1 @@
+A horizontal boxing game from Jaleco. Choose one of 7 boxers, each with their own special punch, and win matches to claim the World Freeweight Title.

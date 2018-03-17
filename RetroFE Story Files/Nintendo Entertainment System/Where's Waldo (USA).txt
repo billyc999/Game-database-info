@@ -1,0 +1,5 @@
+Based on the popular Where's Waldo series of books. Your goal is to find Waldo in various pictures in order to progress through the game.  
+
+The pictures are still images the size of the screen in the Easy and Practice levels.   In the Medium and Hard levels, you have to scroll to the side to see the rest of the area.  The directional buttons control a magnifying glass and once you find Waldo, you get to go to the next level and a new picture.
+
+In the Practice level, you have no time limit but only get to play the Train Station, Forest and Caves. The time limit for the other levels varies: Easy

@@ -1,0 +1,5 @@
+Your name is Oscar. You have to run and jump through 7 Levels in Hollywood-style (Science Fiction, Western, Horror, Cartoons, Dino, Detective and Gameshow) to find Oscars (yes � the Academy Award!). 
+
+If you have enough Oscars you solve the level. You can choose the levels in every order you want. In the levels you must jump on platforms to discover the level. 
+
+You kill the enemies by jumping on them. Some of them lose a power up like invulnerable or a superjump. You can also find a JoJo to break down walls or using as ladder. Two creatures are no opponents. First the white rabbit. He gives you a extra continue. Second a red elephant. Touch him for using as save point in level.

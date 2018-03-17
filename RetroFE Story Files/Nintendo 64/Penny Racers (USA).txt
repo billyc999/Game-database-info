@@ -1,0 +1,9 @@
+Penny Racers is a racing game with cartoonish, made-of-paper-like cars. There are thirteen cars which you can choose from and nine tracks in total � all available right from the start. It features two playable modes, Race Series and Time Trial, and a mode that allows you to create your own track. The game also supports up to four human players. 
+
+In Race Series you can select one of the thirteen cars and race in any of the nine tracks with five more competitors. You can only compete in Class C (lower difficulty) races at first but can unlock more if you finish within the first three positions. At the beginning of each race you are given the option to customize your car�s parts � parts like the car�s body, engine, tires, etc. � but only if you have more than one in stock for each category. New parts can be taken from the other cars at the end of each race but only if you are among the first three racers that cross the finish line. Also, each part has points and the sum of these points must not exceed the point limit for each difficulty. For example a basic brake part may add one point to the total sum (better parts add more points). If with all the other parts the sum of points exceeds a lets say point limit of six then you are not allowed to enter the race. The current mode supports up to two human players.
+
+Time Trial is the basic mode where you run against time. You can also load a previously saved ghost to race against.
+
+VS Race mode can be accessed only if three or four human players are selected. It has 8 tracks that are different from the ones of the other modes and these tracks have more obstacles. 
+
+New Track lets you create your own custom made track. You can select the road type (on road/off road) and track type (circuit/stage). After the basic layout is selected you are taken on the �map� where you can choose from the available layers to make the track. You can also adjust the road�s height.

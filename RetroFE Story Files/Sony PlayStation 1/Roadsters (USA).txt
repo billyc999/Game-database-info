@@ -1,0 +1,9 @@
+Roadsters is a car racing game that features both licensed cars from manufacturers like Mitsubishi, Alfa Romeo, Lotus, etc., and unlicensed cars from imaginary manufacturers that are based and bare great resemblance to their equivalent, real car models. The game has 8 racers and 34 cars from which you can choose from and 4 modes in total:
+
+1. Roadster Trophy – The player starts by selecting one of the available racers and is given a sum of money that must be used to acquire a car. There are 3 divisions in which the player can compete on with the 3rd being of the easiest difficulty and requiring less money to participate;  the 1st being the most difficult one and needing a higher amount of money in order to participate. More money can be earned by winning the races and that in turn allows to buy new cars or upgrade the ones that are already in  possession.
+
+Multi-Player – Multi-player mode supports up to 2 human players that can compete in any of the available circuits with 4 more CPU controlled racers. The mode allows for either vertical or horizontal split screen. 
+
+Quick Race – In Quick Race the player can select the racer, car, circuit and weather conditions, and race against 7 more CPU controlled players.
+
+Time Trial – Like Quick Race mode, the player can also select here the racer, car, circuit and weather conditions but without the competition of the other modes, the player races against time for as many laps as the player wants.

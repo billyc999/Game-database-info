@@ -1,0 +1,7 @@
+Cabal is a coin-op conversion of Capcom's arcade game. The mechanics of the game are simple: shoot everything in sight!
+
+The hero (there is a two player mode) runs back and forth along the bottom of the screen, ducking and dodging bullets and grenades from the enemy. The roll maneuver from the arcade was not implemented in the PC version. You return fire by moving a target around the screen which also moves your character, so be careful not to run into a bullet.
+
+The enemies throughout the 5 levels, come thick and fast and there are loads of them, normal foot soldiers, tanks, helicopters and end of level bosses, like submarines and war machines.
+
+Just about everything on the screen can be blown up or shot. There are bonus points to be picked up for destroying buildings and weapons to be picked up from the enemy, such as machine- and shot-guns.

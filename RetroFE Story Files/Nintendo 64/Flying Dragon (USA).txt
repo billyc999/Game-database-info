@@ -1,0 +1,5 @@
+Flying Dragon is a side-view battle game reminiscent of 16-bit titles. It features eight characters to choose from with two main modes of play, "SD" (super deformed) and "Virtual" (ala 'Virtua Fighter' style).
+
+SD mode is sort of RPG'ish with treasures you gain from winning battles and becoming a stronger fighter. it has the usual circuit, tournament and practice modes plus a 'treasure box' where you check your existing items, buy new items or trade items you already have for something else.
+
+Virtual mode is the more familiar format of a battle game with game modes such as circuit, tournament and practice. It also has 2D and 3D "rules" for how the game is played. 2D is 16-bit arcade style and 3D is more realistic.

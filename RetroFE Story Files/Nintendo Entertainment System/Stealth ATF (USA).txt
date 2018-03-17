@@ -1,0 +1,9 @@
+Stealth ATF is a flight simulator in which you pilot a F-117A, a.k.a. Nighthawk in several missions.
+
+In every mission's beginning and ending you have to take off and land your plane respectively, from a side view. If you fail to land after completing the target objectives, you fail to succeed in mission and thus have to replay it.
+
+Your view during the flight is from inside the cockpit, and the gameplay offers total freedom of movement on flight. Your terrain is infinite, and your enemies will re-appear in your radar every time they fly out of range. You fly in different locations, such as the Middle East, Alaska, the Pacific, etc. During flight, you can also turn off the music and play with only the flight sounds.
+
+Your mission is to defeat a fixed number of enemies each mission. Your targets will always be aerial ones. You can shoot a cannon (which ammunition is unlimited) or missiles (8 per mission). If an enemy shoots you a missile, you can try to avoid it using the stealth mode (pressing the start button) once per mission. The stealth mode will automatically turn off once you pass out of the danger. If you manage to accomplish the mission perfectly, a bonus round is offered, and you have to try to take down as many enemies as you can.
+
+The game can be played by one or two player taking turns. A second player can also take control of the aircraft closest to the center of the radar, either in one or two player mode.

@@ -1,0 +1,3 @@
+Power Drive Rally is a view into the exciting world of rally racing.  This game is an overhead-view racer featuring real cars and tracks based on locations around the world.
+
+The main game mode portrays a season of championship racing.  There are several types of races that you will encounter.  First, there is the special stage, which is a timed qualifying round.  Second, there is the rally cross stage, in which you race against one other computer-controlled racer.  Finally, there is the skill stage, where you have to perform a series of tricky driving maneuvers.  After each round, you earn money for qualifying or winning.  You can then use this money to repair your car, or save the money to purchase a new, faster car.

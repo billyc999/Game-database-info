@@ -1,0 +1,5 @@
+The Powerpuff Girls must battle enemies in a variety of settings in order to reclaim Chemical X and track down Mojo Jojo.  
+
+In the story mode, players can pick up objects and throw them at an enemy to decrease their opponents health meter. They can use superpowered attacks by collecting vials of Chemical X.  If the player successfully defeats the enemy in two out of three rounds, they move to the next enemy location.
+
+Players can play the story mode or can battle against a friend in a head-to-head battle.

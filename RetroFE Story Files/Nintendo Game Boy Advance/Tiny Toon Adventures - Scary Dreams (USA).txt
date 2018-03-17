@@ -1,0 +1,6 @@
+Beat 'em up game featuring Tiny Toon Characters. Buster Bunny moves from left to right through 4 scrolling worlds, encountering various nightmarish creatures that he can beat up by applying 16 'Final Fight' style combos.
+
+The Player can choose an additional sidekick from the Tiny Toon cast, making further special abilities available for the player (such as power ups, additional strength, stinking clouds etc.). These are only available for a limited time per level, but this time can be extended using 'normal' attacks on enemies.
+
+Each world is completed by defeating a giant boss monster.
+Continues available using passwords.

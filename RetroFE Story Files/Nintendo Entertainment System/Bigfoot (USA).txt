@@ -1,0 +1,5 @@
+Monster truck game where you go from LA to NYC through different kinds of races.
+
+At every stop, you first drive a qualification round against your opponent, which is in top-down perspective. Here, you can collect money and several power-ups to use to win against your opponent. After this qualification, you go into a side perspective head to head race, where you have to push left and right continuously. In this view there are all sorts of events, including Car Crush, Mud Race and Drag Race. Before these races, you can (read: must) also buy upgrades for your cars, with the money you collected in the qualify race.
+
+The game is supported to play 2 players.

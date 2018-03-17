@@ -1,0 +1,1 @@
+A shooter game where you control either a jeep or a helicopter and travel through the enemy terrain, shooting various enemies.

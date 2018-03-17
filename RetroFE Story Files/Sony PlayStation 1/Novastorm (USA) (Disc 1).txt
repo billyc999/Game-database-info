@@ -1,0 +1,3 @@
+A behind-the-view perspective of a shooter's dream:  Blast enemies against a cinematic backdrop.  Kill the computer-controlled fighters before they take over the world!
+
+Unlike first-generation interactive movies with action, Novastorm has hooks into the environment; if you move into the path of a pre-rendered obstacle and it &quot;hits&quot; you, you take damage, etc.

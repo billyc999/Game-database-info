@@ -1,0 +1,1 @@
+Vertical scrolling shoot-em-up that adds new features to its prequel Raiden II. Choose from three separate missions: Training special stage, Alpha levels 1-5 and Bravo levels 1-9. Collect various power-ups to increase your weaponry. Lots of secrets and bonuses including ratings based upon player performance

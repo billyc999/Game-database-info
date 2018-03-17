@@ -1,0 +1,3 @@
+This iteration of the FIFA lineage includes commentary from John Motson with summaries from Andy Gray, with the between-match sections covered by Des Lynam. All player moves are from David Ginola using the MotionBlending technology. Full interactive replays are included.
+
+You can play a league or cup tournament, and practice your skills before playing. The game can be tailored to action or simulation style, with fouls, injuries and offsides available to toggle on or off. This version also includes a 6 vs 6 indoor play mode, and various multiplayer options

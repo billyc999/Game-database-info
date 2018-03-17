@@ -1,0 +1,14 @@
+Gunboat is a 2D action simulation. You take control of a U.S. Gunboat in several conflict zones.
+
+Your Gunboat carries a crew of four men:
+
+- A first-class petty officer who serves as boat captain and pilot
+- A gunner�s mate, who controls the forward guns
+- An engine man, who takes care of the engines and serves as midship gunner
+- A seaman who controls the aft guns
+
+All four men are cross-trained in each other�s tasks � redundancy becomes crucial if one or two crew members are wounded or dead.
+
+Be careful on the rivers ...!
+
+Anchors aweigh!

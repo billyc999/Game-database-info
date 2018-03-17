@@ -1,0 +1,11 @@
+After inserting quarters and hitting the Start button the player chooses one of 6 planes (plus 1 hidden plane) or can opt for a random choice.
+The available fighters are :
+* P-38 Lightning
+* Vought XF5U 'Flying Pancake'
+* Spitfire Mk. VI
+* Zero Type 52
+* Focke Wulf Ta 152
+* Fiat G.56
+* XP-55 Ascender (Hidden)
+The first 4 stages are in random order, while the last 4 are sequential. Players collect weapon powerups, bombs, and gold bars for points. Each plane has a unique 'supershot' which is charged by damaging enemies and fired by holding then releasing the fire button. Supershots can be stored, although the number varies from plane to plane. Using a Bomb results in a large friendly fighter swooping onto the screen and blocking shots while returning fire for a few seconds.
+After the player beats the final boss, the game starts again from the beginning, albeit at a much higher difficulty level. All level are similar to the ones in Strikers 1945 II. Only one of the 4 bosses that are randomly chosen and the 6th boss is changed.,

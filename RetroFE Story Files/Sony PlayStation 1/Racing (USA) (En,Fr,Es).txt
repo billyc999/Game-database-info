@@ -1,0 +1,5 @@
+Racing as the title suggests is a simple racing game. It features both a short and a long distance race course, a mirrored version of the long course, plus different skill levels. Before a race begins, players select a car (out of 6 total), and then set whether they want automatic or manual transmission, and whether they want a drift or grip setting. 
+
+Races have the player racing against 3 opponent racers. Players try to attain the fastest lap times and the fastest total race time while trying to defeat their opponents. The players fastest times can then be saved.
+
+The game also contains a brief tutorial that explains the controls and some techniques of racing.
