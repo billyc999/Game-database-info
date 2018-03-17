@@ -1,1 +1,0 @@
-A maze game where you play an anteater that elongates his sticky tongue through maze-like anthills eating ants, other bugs and insects.

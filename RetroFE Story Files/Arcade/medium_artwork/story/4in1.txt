@@ -1,1 +1,0 @@
-This multi-game system lets you select from four different games; "Galactic Convoy", "Scramble Pt2", "Galaxian Pt5" and "The Ghost Muncher Pt3".

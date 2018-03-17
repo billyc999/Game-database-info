@@ -1,1 +1,0 @@
-An up-to-4 players beat'em up game with 4 selectable warriors who battle hordes of soldiers and mythical beings. Plenty of sprite-scaling action from foreground to background.

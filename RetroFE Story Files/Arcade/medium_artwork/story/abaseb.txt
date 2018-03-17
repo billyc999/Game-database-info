@@ -1,1 +1,0 @@
-A black and white 2-player baseball game.
