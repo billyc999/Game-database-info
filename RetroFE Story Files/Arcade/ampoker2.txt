@@ -1,0 +1,1 @@
+AGI's flagship product American Poker II uses a standard deck of 52 cards plus 1 Joker card. The Joker card substitutes for any card. The player places a bet for the 1st hand deal and can then choose to buy a 2nd draw. The win combination Jacks or Better is only paid if a 2nd draw is bought.

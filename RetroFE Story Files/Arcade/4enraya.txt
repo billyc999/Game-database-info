@@ -1,0 +1,1 @@
+A puzzle game from Spain. Line up your pieces 4 in a row either vertically, horizontally or diagonally. You can also shoot your opponent's piece to cancel their turn.
