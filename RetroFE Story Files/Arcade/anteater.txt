@@ -1,1 +1,1 @@
-A maze game where you play an anteater that elongates his sticky tongue through maze-like anthills eating ants, other bugs and insects.
+ The player controls an anteater that elongates his proboscis through maze-like anthills eating ants. The player can only eat ants with the tip of the anteater's proboscis. If an ant bites your proboscis at any other location you lose a life. Pressing the

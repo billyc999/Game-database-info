@@ -1,1 +1,1 @@
-An old shoot'em up that features voice simulation.
+ An old shoot'em up that features voice simulation.

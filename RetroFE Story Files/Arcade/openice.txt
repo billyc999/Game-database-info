@@ -1,1 +1,1 @@
-A 4-player hockey game with "NBA Jam"'s game-play.
+ A four-player hockey game with 1995 NHL players and teams.Just imagine NBA Jam, then replace basketball with hockey. You pick a team and then play for the Stanley Cup.

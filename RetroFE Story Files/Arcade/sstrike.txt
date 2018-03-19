@@ -1,0 +1,1 @@
+ A conversion of "Strata Bowling" which uses a ball and mini alley.

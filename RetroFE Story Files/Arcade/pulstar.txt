@@ -1,2 +1,1 @@
-An accomplished and graphically superb sideways scrolling shoot-em-up that borrows many of its visual and gameplay elements from all three games in Irem's legendary "R-Type" series; including the Beam weapon and R-type's infamous pod attachment. Unlike "R-Type", however, Pulstar's pod cannot be detached from the front of the ship and merely acts as a shield to protect the player's ship.
-Pulstar consists of eight challenging levels, with the player able to start the game on any one of the first four.
+ In the year 2248, the first recorded sign of extraterrestrial life was discovered coming from Mars. The signal emanated from the planet and from it an object travelled through space at light speed out of the Solar System. Earth scientists read the signal,

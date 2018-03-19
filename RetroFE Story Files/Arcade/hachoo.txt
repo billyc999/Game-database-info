@@ -1,1 +1,1 @@
-A side-scrolling beat-em-up from Jaleco.
+ A side-scrolling beat-em-up from Jaleco.

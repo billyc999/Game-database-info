@@ -1,1 +1,1 @@
-A simple yet playable platform game which is somewhat unique in that while the game itself is original (i.e. not a direct clone of another game) many of the game's componant parts are NOT. See 'Trivia' for further details.
+ A simple yet playable platform game which is somewhat unique in that while the game itself is original (i.e. not a direct clone of another game) many of the game's componant parts are NOT. See 'Trivia' for further details.

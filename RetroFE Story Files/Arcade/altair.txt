@@ -1,1 +1,1 @@
-A "Space Invaders" style shoot'em up.
+ A "Space Invaders" style shoot'em up.

@@ -1,1 +1,1 @@
-A cutting-edge 3-D hockey game for up to 4 players. Features input codes for stats tracking, 2 levels of Cup play, time-released secrets, and player contests with prizes from Atari.
+ As opposed to the more realistic hockey gameplay seen in Electronic Arts' NHL series, the game featured a more unrealistic arcade-style of gameplay, featuring moves such as "power saves", which caused the goaltender to briefly transform into a brick wall,

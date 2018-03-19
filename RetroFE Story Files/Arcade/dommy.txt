@@ -1,1 +1,1 @@
-A maze game.
+ A maze game.

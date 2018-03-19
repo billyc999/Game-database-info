@@ -1,1 +1,1 @@
-A side-scrolling beat'em up / platform game.
+ A side-scrolling beat'em up / platform game.

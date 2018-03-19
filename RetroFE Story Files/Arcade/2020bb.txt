@@ -1,1 +1,1 @@
-A futuristic baseball game with humans and robots where you may buy power-ups with the money gained during the matches.
+ Super Baseball 2020 is a futuristic baseball video game. It was first released in Japan for the Neo Geo in 1991, and then it was later released in North America for the Mega Drive/Genesis (ported by NuFX and released by Electronic Arts) and Super Nintendo

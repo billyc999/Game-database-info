@@ -1,1 +1,1 @@
-You are a carpenter and you are being chased by hammers and whirlwinds through a grid of scaffolding. You can move the scaffolding to move letters and spell EXIDY and HARD HAT.
+ Hard Hat is a unique logic game with an educational puzzle to solve. It was designed and programmed for Exidy by Larry W. Hutcherson Sr. and released in 1982. Touted as the “First Educational Coin-Op Game”, you play a busy carpenter that is constantly bei

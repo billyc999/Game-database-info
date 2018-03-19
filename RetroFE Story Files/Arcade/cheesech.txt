@@ -1,1 +1,1 @@
-You play a mouse who must avoid rats and bombs while collecting cheese in a maze. You are able to open and close doors to help you elude your enemies. This maze game uses an overhead perspective with very big sprites and a multi-directional scrolling playfield.
+ You play a mouse who must avoid rats and bombs while collecting cheese in a maze. You are able to open and close doors to help you elude your enemies. This maze game uses an overhead perspective with very big sprites and a multi-directional scrolling play

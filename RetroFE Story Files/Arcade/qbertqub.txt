@@ -1,14 +1,1 @@
-The object of Q*bert's Qubes is to jump around diamond formation of 25 cubes and rotate them so that one or more rows of cubes match the shown target cube (a tic-tac-toe) while avoiding the meltniks the rat and the purple guys. Jumping on anything green is safe, catching the turtle slows down enemies for a short time and catching the freeze ball freezes enemies for a short time.
-Each level has four rounds and a bonus round and there are 11 levels...
-Level 1 : get 1 tic-tac-toe, cubes only have 2 colors
-Level 2 : get 1 tic-tac-toe, cubes only have 3 colors
-Level 3 : get 1 tic-tac-toe, cubes have 6 colors from this point on
-Level 4 : get 2 tic-tac-toes
-Level 5 : get 3 tic-tac-toes
-Level 6 : get 1 tic-tac-toe, matched target cubes can be rotated
-Level 7 : get 2 tic-tac-toes, matched target cubes can be rotated
-Level 8 : get 3 tic-tac-toes, matched target cubes can be rotated
-Level 9 : get 4 tic-tac-toes
-Level 10 : get 3 tic-tac-toes, matched target cubes can be rotated
-Level 11 : get 3 tic-tac-toes
-After this levels 9-11 repeat indefinitely.,
+ The game features Q*bert, but introduces new enemies: Meltniks, Soobops, and Rat-A-Tat-Tat. The player navigates the protagonist around a plane of cubes while avoiding enemies. Jumping on a cube causes it to rotate, changing the color of the visible sides

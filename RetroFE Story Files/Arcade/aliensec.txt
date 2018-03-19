@@ -1,1 +1,1 @@
-A horizontally scrolling shoot'em up where you try to shoot all the evil aliens while collecting cute, friendly one-eyed aliens. At the end of each level there is a chance to gain more energy.
+ Alien Sector is a scrolling shooter arcade game, that was released by Namco in 1985. It runs on Namco Pac-Land hardware, but with a video system like that used in Metro-Cross and Dragon Buster (modified to support vertical scrolling and a 2048-color palet

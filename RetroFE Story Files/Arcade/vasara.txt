@@ -1,1 +1,1 @@
-Vertical shoot'em up with three selectable characters and nice manga style cut scene.
+ Vertical shoot'em up with three selectable characters and nice manga style cut scene.

@@ -1,1 +1,1 @@
-Solitaire mahjong game.
+ Solitaire mahjong game.

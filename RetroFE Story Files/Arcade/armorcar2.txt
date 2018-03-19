@@ -1,0 +1,1 @@
+ An overhead view maze game where you drive a money van (the armoured car) through as it scrolls from right to left. Some intersections are marked with directions. You pick up money to deliver to banks while avoiding criminals by dropping saw horses in roa

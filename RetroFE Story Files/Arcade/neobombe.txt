@@ -1,1 +1,1 @@
-
+ The gameplay consists of walking through maze-like areas filled with monsters with a goal of opening the gate leading to the next area. Playing as a bomberman, the player can lay bombs to destroy all of the monsters, which will subsequently open the gate.

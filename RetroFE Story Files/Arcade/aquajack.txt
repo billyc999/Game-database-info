@@ -1,1 +1,1 @@
-A chase-view shoot'em up were you pilot a hoovercraft over water and land while dodging bullets and avoiding objects by either going around them or jumping over them.
+ A hovercraft is piloted over water and land while dodging bullets and avoiding objects by shooting or jumping over them. Enemies are shot in the air and on water or land to advance levels. The game has eight levels.

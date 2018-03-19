@@ -1,1 +1,1 @@
-A horizontal boxing game from Jaleco. Choose one of 7 boxers, each with their own special punch, and win matches to claim the World Freeweight Title.
+ Best Bout Boxing is a boxing arcade game released by Jaleco in 1994, where boxers have to compete for the fictional "1993 Worldfreeweight Championship" (no weight limitation). It was never released outside Japan.

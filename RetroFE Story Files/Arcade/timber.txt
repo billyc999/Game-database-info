@@ -1,2 +1,1 @@
-An addictive and simple game in which a lumberjack must fell his quota of trees within a strict time limit and under the ever-watchful eye of his boss. Angry forest creatures and falling trees must be avoided as the lumberjack goes about his business.
-Extra points can be earned on the bonus stage, in which the player must try and stay on a rotating, floating log for as long as possible.
+ Controlling one of two lumberjacks, you run madly around the screen chopping down trees as they sprout suddenly out of the ground while racing the clock and avoiding beehive throwing bears. Running birds are a bonus.

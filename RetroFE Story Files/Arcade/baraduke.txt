@@ -1,0 +1,1 @@
+ Alien Sector is a scrolling shooter arcade game, that was released by Namco in 1985. It runs on Namco Pac-Land hardware, but with a video system like that used in Metro-Cross and Dragon Buster (modified to support vertical scrolling and a 2048-color palet

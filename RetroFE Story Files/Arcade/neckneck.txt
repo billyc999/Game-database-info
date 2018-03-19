@@ -1,1 +1,1 @@
-A horse racing game.  Choose from one of 6 horses and press your button to jump over fences to win the race.
+ A horse racing game. Choose from one of 6 horses and press your button to jump over fences to win the race.

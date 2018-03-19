@@ -1,0 +1,1 @@
+ Maneuver a skier through a downhill ski course, a slalom course, and a ski jumping competition.

@@ -1,1 +1,1 @@
-A "Galaxian" type game. Shoot all the cars on the screen the clear the level.
+ A "Galaxian" type game. Shoot all the cars on the screen the clear the level.

@@ -1,1 +1,1 @@
-A futuristically-themed, maze based shoot-em-up in which one or two players must battle through an alien-infested space station in a desparate hunt for the level's exit. Weapon power-ups, ammunition and health packs are dotted around the levels to assist players in their task.
+ A futuristically-themed, maze based shoot-em-up in which one or two players must battle through an alien-infested space station in a desparate hunt for the level's exit. Weapon power-ups, ammunition and health packs are dotted around the levels to assist

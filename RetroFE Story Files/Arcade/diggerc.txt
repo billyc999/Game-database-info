@@ -1,1 +1,1 @@
-An early maze / digging game.
+ An early maze / digging game.

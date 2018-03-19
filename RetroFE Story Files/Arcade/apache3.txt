@@ -1,1 +1,1 @@
-A chase-view shoot'em up where you control a yellow helicopter. 3 leaders of the allied power were kidnapped by the terrorist group Blackslash. An issue at top secret code No. 744251191. Steal into the Blackslash base. Rescue the 3 leaders. With the failure the leaders won't be concerned. Best of luck to you.
+ Apache 3 is a 3D scrolling shoot 'em up arcade game released by Tatsumi (and Data East in North America) in 1988. Players control a yellow AH-64 Apache helicopter with weapons and shoot everything in the air and on the ground.

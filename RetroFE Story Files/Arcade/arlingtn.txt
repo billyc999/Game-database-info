@@ -1,1 +1,1 @@
-In this horse racing game, you plunk a bunch of quarters into the coin mechs, and then bet on the horses. When you are finished betting, press the start race button to see the horse run the track. The game then pays off any winning bids in credits, and then starts over.
+ Arlington Horse Racing is a horse racing arcade game released by Strata / Incredible Technologies in 1990, based on the Arlington Park race track.

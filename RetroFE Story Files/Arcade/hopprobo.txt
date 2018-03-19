@@ -1,1 +1,1 @@
-A robot must jump between platforms carrying boxes that he must drop onto a conveyor belt.
+ A robot must jump between platforms carrying boxes that he must drop onto a conveyor belt.

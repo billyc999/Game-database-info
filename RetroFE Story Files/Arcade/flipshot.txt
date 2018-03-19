@@ -1,1 +1,1 @@
-A modern "Pong"-like game with selectable characters.
+ Battle Flip Shot (sometimes also referred to simply as Flip Shot) is a 1998 ball-and-paddle game developed and published by Visco exclusively for the arcade cabinet known as the SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tenn

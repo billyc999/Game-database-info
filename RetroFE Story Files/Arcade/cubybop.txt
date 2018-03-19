@@ -1,1 +1,1 @@
-A ball and paddle game.
+ You and an opponent, either the computer or another player, throw a ball up to try and break colored blocks; blue for player one, red for player two. Only when the ball is thrown as the player's color will it break the blocks. Otherwise, it will just bouc

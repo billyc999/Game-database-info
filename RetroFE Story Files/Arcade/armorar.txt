@@ -1,0 +1,1 @@
+ The player controls a jeep and must destroy the many tanks and helicopters that attack them in a maze-like cityscape. The jeep is armed with a rocket launcher that fires straight forward; the player can have two rockets on-screen at the time. The driving

@@ -1,1 +1,1 @@
-A multi event multi-player game in the style of Konami's legendary "Track and field" series, featuring events such as free-style swimming, one-man kayaking, four-man boating etc.
+ A multi event multi-player game in the style of Konami's legendary "Track and field" series, featuring events such as free-style swimming, one-man kayaking, four-man boating etc.

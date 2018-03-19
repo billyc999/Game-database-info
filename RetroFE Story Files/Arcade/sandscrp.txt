@@ -1,1 +1,1 @@
-A vertically scrolling shooter.
+ A vertically scrolling shooter.

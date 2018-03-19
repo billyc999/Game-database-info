@@ -1,1 +1,1 @@
-Ski racing game (downhill and gate) with 3 courses and 2 play modes : Race and Time Attack. The player stands on a sophisticated set of ski-like foot stands while holding onto 2 bars for stability to play.
+ Alpine Racer is a 3D Alpine skiing arcade game released by Namco in 1994. It features downhill and gate with three courses and two play modes - Race and Time Attack. The player stands on a set of ski-like foot stands while holding onto two bars for stabil

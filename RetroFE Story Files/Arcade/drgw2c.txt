@@ -1,1 +1,1 @@
-A solitaire mahjong game where the object is to match 3 of a kind using a limited amount of tiles.,
+ A solitaire mahjong game where the object is to match 3 of a kind, using a limited amount of tiles.

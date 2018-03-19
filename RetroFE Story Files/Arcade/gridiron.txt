@@ -1,1 +1,1 @@
-A football game from Tehkan.
+ ehkan Gridiron Fight is a two-dimensional top-down scrolling American football game in which the player(s) control the virtual player on their team who is closest to the ball, with the trackball determining the speed and direction at which the player runs

@@ -1,1 +1,1 @@
-A vertically scrolling shooter.  Destroy enemies and collect items, such as speed, that are stored in a tail behind your ship.  Press the second button to activate them one by one in the order they were collected.
+ Arcade version of a vertically scrolling shooter by TECMO. Destroy enemies and collect items, such as speed, that are stored in a tail behind your ship. Press the second button to activate them one by one in the order they were collected.

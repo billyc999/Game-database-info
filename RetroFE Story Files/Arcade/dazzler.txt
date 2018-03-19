@@ -1,1 +1,1 @@
-An early maze game that features voice simulation. The game is pretty much a cross between "Pac-Man" and "Donkey Kong Junior".
+ An early maze game that features voice simulation. The game is pretty much a cross between "Pac-Man" and "Donkey Kong Junior".

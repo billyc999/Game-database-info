@@ -1,5 +1,1 @@
-An early platform game in which the player must defeat a mad scientist, avoiding and destroying his evil creations in the process.
-The game consists of 3 single-screen levels :
-On the first the player must move from the left to the right of the screen, dropping dpown onto constantly moving metal pillars and shooting the enemies.
-On the second level, the player must steer a floating ball around the screen, killing as many enemies as possible. Once enough enemies have been killed, an exit will open which the player must enter. The floating ball gradually dimishes and the player will have to drop to the bottom of the screen several times to get a replacment ball.
-The final screen takes place on the scientist's production line; with machinary that must be carfully negotiated. Two large robots bar the route to the scientists and must be destroyed before the scientist can be reached.
+ An early platform game in which the player must defeat a mad scientist, avoiding and destroying his evil creations in the process.[-LF-]The game consists of 3 single-screen levels :[-LF-]On the first the player must move from the left to the right of the

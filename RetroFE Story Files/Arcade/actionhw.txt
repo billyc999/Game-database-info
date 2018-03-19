@@ -1,1 +1,1 @@
-A platform game where players must walk around turning over all the squares while eliminating all the enemies in the process.
+ Action Hollywood is a top-view hack and slash arcade game released by TCH in 1995. Gameplay is similar to "Gauntlet." You can choose to start at a Hollywood shoot set in "Temples of Chaos," "Excaliwood," "Transilvania" or "Galaxy War."

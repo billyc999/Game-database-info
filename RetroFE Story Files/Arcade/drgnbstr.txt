@@ -1,1 +1,1 @@
-A role-playing game in which you travel through various scenery to rescue the princess from an evil dragon.
+ Dragon Buster is a platform dungeon crawl action role-playing arcade game that was developed by Namco in 1984 and released in 1985. It runs on Namco Pac-Land hardware, modified to support vertical scrolling

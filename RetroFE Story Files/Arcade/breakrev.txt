@@ -1,1 +1,1 @@
-A small update to "Breaker's" containing one new selectable character, Saizo and different colored backgrounds.
+ Breakers Revenge is an upgraded version of Breakers that was released exclusively for the arcades. It introduces one new character named Saizo and makes the final boss Bai-Hu into a playable character. Revenge makes adjustment to the character balance by

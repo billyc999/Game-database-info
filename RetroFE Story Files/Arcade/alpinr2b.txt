@@ -1,1 +1,1 @@
-A checkpoint-style racing game featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.,
+ Alpine Racer 2 is a 3D Alpine skiing arcade game released by Namco in 1996. It is the sequel to Alpine Racer.

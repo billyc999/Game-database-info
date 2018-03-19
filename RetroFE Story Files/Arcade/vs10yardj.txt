@@ -1,0 +1,1 @@
+ The game is viewed in a top-down perspective and is vertical scrolling. The player does not select plays for either offense or defense. On offense, the player simply receives the ball upon the snap and either attempt to run with the quarterback, toss the

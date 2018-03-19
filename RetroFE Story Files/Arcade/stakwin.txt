@@ -1,1 +1,1 @@
-
+ Stakes Winner is a 2D horse racing game. Taking the role of horse jockeys, players must win a series of races using one of the game's eight selectable horses. Each horse is rated in strength, speed, and stamina, making each horse different in handling. Du

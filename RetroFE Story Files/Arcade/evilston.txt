@@ -1,1 +1,1 @@
-A vertically scrolling beat'em up / platform game.
+ A vertically scrolling beat'em up / platform game.

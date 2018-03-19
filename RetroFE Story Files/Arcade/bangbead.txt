@@ -1,1 +1,1 @@
-A modern "pong"-like game with selectable characters.
+ A modern "pong"-like game with selectable characters.

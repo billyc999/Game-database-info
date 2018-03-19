@@ -1,9 +1,1 @@
-A first-person shoot'em up game, with a western motif. The player uses a gun (mounted to the cabinet) to escort the sheriff through a variety of dangers, gathering bounty for capturing criminals. There are 7 levels or scenes plus the bonus level :
-1) SALOON SCENE - Protect yourself from outlaws, armed with guns and knives, flying chairs and bottles, rolling barrels and raging bulls. Buster this is no time for a drink!
-2) GRAVEYARD SCENE - Beware of ghosts, ghouls, killer cats, demons and armed outlaws.
-3) GHOST TOWN - Defend buster against skeletons, undertaker throwing pitch forks, the headless horseman, ghosts, skeletal bird, etc...
-4) CANYON SCENE - Poor buster is trapped by cannon fire, bombs, flying arrow and hatchets, can you possibly saves him and defeat the outlaws?
-5) STAGECOACH SCENE - Ride thru the desert looking out for outlaws, flaming arrows, egg dropping bird vultures, wild injuns, etc...
-6) FOREST SCENE - Poor buster is really in a fix. Torrential waterfalls, wild annimals, tumbling boulders. Is the gold really worth it ?
-7) MINESHAFT - Hunt down outlaws while looking out for runaway ore cars, fluttering vampire bats, falling rocks, hungry rats, don't let the lanterns dim busters chances for survival.
-8) BONUS ROUND : you've protected buster thru a gruelling sequence of danger filled episodes, before you dare go on to even more perilous encounters (with even greatter bounties) pratice shooting is a must. Good luck to you buster!
+ A first-person shoot'em up game, with a western motif. The player uses a gun (mounted to the cabinet) to escort the sheriff through a variety of dangers, gathering bounty for capturing criminals. There are 7 levels or scenes plus the bonus level :[-LF-]1)

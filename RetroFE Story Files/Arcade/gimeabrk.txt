@@ -1,1 +1,1 @@
-An overhead pool game.
+ Gimme a Break is a cue sports arcade game which was released by Bally and Sente in 1985; it was the first of the second batch of games to run on that company's SAC-I hardware, and the player must use a singular button to position the cue ball, with a trac

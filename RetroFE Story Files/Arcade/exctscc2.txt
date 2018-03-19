@@ -1,1 +1,1 @@
-A soccer game from Alpha Denshi.
+ Exciting Soccer is an arcade game from Alpha Denshi, released in 1983. It is an association football game which includes penalty shootout if the game ends in a tie. If you win the game you move on to the next level, each time the opponent

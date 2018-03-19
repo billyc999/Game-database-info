@@ -1,1 +1,1 @@
-An early shoot 'em up. You must first attempt to take off you spaceship by repeatedly pressing left and right. Then you must attempt to fight off enemy spaceships.
+ A spaceship must attempt to take off by repeatedly pressing left and right. Then it must attempt to fight off enemy spaceships.Nippon, the Ambush maker, released only 1 different machine in our database under this trade name.

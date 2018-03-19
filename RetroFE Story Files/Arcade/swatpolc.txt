@@ -1,1 +1,1 @@
-A gun shooting, horizontal scroll action game that uses joysticks and buttons rather than guns. One player can play on their own, or 2 players can team up and play simultaneously as the two SWAT police characters, Cruise and James.
+ A gun shooting, horizontal scroll action game that uses joysticks and buttons rather than guns. One player can play on their own, or 2 players can team up and play simultaneously as the two SWAT police characters, Cruise and James.

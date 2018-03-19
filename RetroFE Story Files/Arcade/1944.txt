@@ -1,16 +1,1 @@
-Warbirds Fly Again! A full-screen vertically shoot-em up game featuring 15 stages / bosses :
-Stage 01 : The Deep Blue - Boss : High Speed Destroyer 'Nagi'
-Stage 02 : Iron Beast Warcry - Boss : New type heavy tank 'Shouto'
-Stage 03 : Jungle Fight - Boss : Prototype Attacker 'Akane'
-Stage 04 : The Rock Fortress - Boss : Cruising Tank 'Noroshi'
-Stage 05 : Eagle Territory - Boss : Intercontinental Bomber 'Kyuoh'
-Stage 06 : Devil Mountain - Boss : Special Attacker 'Haruka'
-Stage 07 : Nightmare Valley - Boss : Anti-Submarine Battle Cruiser 'Kai'
-Stage 08 : Fields Of War - Boss : Multi-Cannon Tank 'Ishizue'
-Stage 09 : Muddy Interceptor - Boss : Middle Class Bomber 'Akatsuki'
-Stage 10 : Storm Fortress - Boss : Super Gigantic Battleship 'Kaijin'
-Stage 11 : Oil Legion - Boss : Anti-Aircraft Battleship 'Yu'
-Stage 12 : Leviathan's Mouth - Boss : Twin-Bodied Transporter 'Take'
-Stage 13 : Battle Of Green Field - Boss : Gigantic Fighter 'Arashi'
-Stage 14 : The Last Duel - Boss : Railed Tank 'Goku'
-Stage 15 : Bell Of Triumph - Boss : Moving Fortress 'Appare Toride'
+ The game takes place in the heated battles of 1944 during the Second World War as a super ace pilot attempts to defeat an entire army. The game operates and plays like most standard shooters. The objective of every level is to shoot enemy planes, tanks, t

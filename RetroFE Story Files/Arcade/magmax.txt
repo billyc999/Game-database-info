@@ -1,2 +1,1 @@
-A horizontally scrolling shoot-em-up in which a single player takes control of a hovership and must battle their way through an enemy-packed level; moving both above and below ground during the course of a level.
-At various points the player will come across robot parts, either a torso or a pair of legs. Collecting these will eventually see the player's hovership become a towering robot, vastly increasing available firepower in the process.
+ A horizontally scrolling shoot-em-up in which a single player takes control of a hovership and must battle their way through an enemy-packed level; moving both above and below ground during the course of a level.[-LF-]At various points the player will com

@@ -1,1 +1,1 @@
-Insert coin(s), and underwater creatures appear randomly on the screen. By pulling the trigger on the speargun, the player fires spears at the sea creatures. Features a three dimensional color background scenery depicting an underwater scene.
+ Insert coin(s), and underwater creatures appear randomly on the screen. By pulling the trigger on the speargun, the player fires spears at the sea creatures. Features a three dimensional color background scenery depicting an underwater scene.

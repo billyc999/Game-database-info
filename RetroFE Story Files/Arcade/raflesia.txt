@@ -1,3 +1,1 @@
-A deep space shooter from Coreland - it has a similar eerie feel to it as in other space shooters such as "Brain" and "4-D Warriors".
-The game scrolls vertically as you manuver your ship through hordes of enemies while collecting the tears of Rafflesia to power up your weapons. Each sector has a large boss enemy to defeat.
-Can you survive to reach the final battle against Rafflesia himself?
+ A deep space shooter from Coreland - it has a similar eerie feel to it as in other space shooters such as "Brain" and "4-D Warriors".[-LF-]The game scrolls vertically as you manuver your ship through hordes of enemies while collecting the tears of Raffles

@@ -1,1 +1,1 @@
-A horizontally scrolling shoot'em up game.
+ A horizontally scrolling shoot'em up game.

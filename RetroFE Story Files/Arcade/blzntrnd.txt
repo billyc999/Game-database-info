@@ -1,1 +1,1 @@
-8 wrestlers from different countries take part in a wrestling tournament in single or tag team match.
+ An arcade wrestling game developed by Masato Masuda and his team, most famous for their work on the Fire Pro Wrestling series.

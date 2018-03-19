@@ -1,1 +1,1 @@
-Midway's futuristic arcade hover-racing game. Hyperdrive features custom arcade controls and state-of-the-art 3-D graphics.
+ Midway's futuristic arcade hover-racing game. Hyperdrive features custom arcade controls and state-of-the-art 3-D graphics.

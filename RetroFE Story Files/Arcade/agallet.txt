@@ -1,1 +1,1 @@
-A vertically scrolling shoot'em up game.
+ Air Gallet, released in Japan as Akuu Gallet is a vertically scrolling shoot 'em up arcade game developed by Gazelle (one of the offshoots of Toaplan) and released by Banpresto in 1996. It runs on the Cave MK 1 hardware. It features the voice of narrator

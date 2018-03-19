@@ -1,2 +1,1 @@
-An addictive puzzle game in which the object is to guide eggs through a maze of egg-runs and guide them safely to the basket at the bottom of the screen.
-This is achieved by switching red and blue pipes to face the left or right-hand side at exactly the right moment. Players must manipulate different pipes on BOTH halves of the screen at the same time, making for demanding and rewarding gameplay.
+ An addictive puzzle game in which the object is to guide eggs through a maze of egg-runs and guide them safely to the basket at the bottom of the screen.[-LF-]This is achieved by switching red and blue pipes to face the left or right-hand side at exactly

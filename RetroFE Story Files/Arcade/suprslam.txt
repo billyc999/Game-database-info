@@ -1,1 +1,1 @@
-Basketball game with four selectable teams. This game has a nice design and easy gameplay.
+ Basketball game with four selectable teams. This game has a nice design and easy gameplay.

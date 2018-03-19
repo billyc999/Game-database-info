@@ -1,1 +1,1 @@
-Fighting game with 8 selectable characters. Each stage is infinite in length and therefore allows lots of running attacks.
+ Fighting game with 8 selectable characters. Each stage is infinite in length and therefore allows lots of running attacks.

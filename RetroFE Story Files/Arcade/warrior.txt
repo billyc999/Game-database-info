@@ -1,1 +1,1 @@
-Two vector knights battle each other in an overhead death pit.
+ This game consists of a top, or bird's eye view, of two knights fighting around two square pits. The game must have two players. Each player controls both the movement and sword of their knight with a single joystick. The object is to kill the opposing kn

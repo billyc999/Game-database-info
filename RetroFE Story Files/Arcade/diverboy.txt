@@ -1,1 +1,1 @@
-A reversed "Bomb Jack"-type game.
+ A reversed "Bomb Jack"-type game.

@@ -1,1 +1,1 @@
-A platform game with shoot'em up elements.
+ A platform game with shoot'em up elements.

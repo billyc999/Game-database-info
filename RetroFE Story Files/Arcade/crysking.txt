@@ -1,9 +1,1 @@
-A nice beat'em up featuring transparencies, rowscroll effects and eight levels...
-Stage 1 : The Pull Off Evil - Boss : Great Destructer
-Stage 2 : Across The Currents - Boss : Serpent
-Stage 3 : The Cave Of Darkness - Boss : Master Of Underground
-Stage 4 : The Congress Of Cystals - Boss : Harpies
-Stage 5 : Into The Darkness - Boss : 2 Minotaurs
-Stage 6 : Estorea - Boss : Sinister Dragon
-Stage 7 : Nero Filone - Boss : Black Knight
-Stage 8 : Crystal Of The King - Boss : Night Spirit, Dark Spirit
+ The Crystal of Kings is an extremely rare arcade scrolling fighter developed by BrezzaSoft. It boasts very high-quality pre-rendered graphics, and a morality system that determines whether you get a good, neutral, or bad ending. Unfortunately, the gamepla

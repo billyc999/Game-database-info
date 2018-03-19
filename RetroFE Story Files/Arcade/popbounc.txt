@@ -1,1 +1,1 @@
-A breakout-style game.
+ A breakout-style game.

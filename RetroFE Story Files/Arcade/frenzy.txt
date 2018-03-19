@@ -1,2 +1,1 @@
-A sequel to the 1980 game "Berzerk", Frenzy once again has the player battling through a maze of rooms, populated by robotic skeletons, robotic octopi and walls. Everything in each room, except walls is deadly to the touch.
-The object is to shoot all the robots, and then escape out of the room through one of the doorways. Like its prequel, Frenzy consist of 64,000 levels. Once all 64,000 have been cleared the game will crash.,
+ Frenzy followed the basic paradigm set by Berzerk: the player must navigate a maze full of hostile robots. The goal of the game is to survive as long as possible and score points by killing robots and travelling from room to room. The game has no end othe

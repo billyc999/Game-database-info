@@ -1,3 +1,1 @@
-Star Hawk is a 3-D wireframe shoot-em-up which places a strong emphasis on player timing. Players move a cross hair around the screen and must blast the approaching enemy spaceships.
-The skill level settings affect how quickly the cross hairs move in response to the joystick input. As the game progresses, the speed of the enemy craft increases. If one particular enemy ship is not destroyed quickly enough, it will zap 800 points off the player's score, with the enemy itself also worth 800 points.
-Star Hawk can effectively be played indefinitely, providing the player keeps shooting enough enemy ships.
+ Star Hawk is a 3-D wireframe shoot-em-up which places a strong emphasis on player timing. Players move a cross hair around the screen and must blast the approaching enemy spaceships.[-LF-]The skill level settings affect how quickly the cross hairs move in

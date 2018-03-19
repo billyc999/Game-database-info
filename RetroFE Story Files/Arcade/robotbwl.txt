@@ -1,1 +1,1 @@
-
+ Robot Bowl was a black and white bowling alley game designed and programmed by Edward Valeau and Howell Ivey of Exidy. The game featured one or two robot bowlers playing with the standard bowling rules. To control the outcome, the game had five buttons: lef

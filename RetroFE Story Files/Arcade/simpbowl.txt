@@ -1,1 +1,1 @@
-A 3-D bowling game featuring the characters from the popular cartoon series.
+ A 3-D bowling game featuring the characters from the popular cartoon series.

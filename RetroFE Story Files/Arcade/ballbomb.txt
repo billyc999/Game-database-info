@@ -1,1 +1,1 @@
-A simple shoot'em up.
+ You control a shooter that moves left and right and shoots balloons that drop bombs at you. If the bomb misses you, it makes a crater at which point you cannot move past, thereby limiting your movement to avoid bombs.

@@ -1,1 +1,1 @@
-The object in Sundance was to catch little suns that bounced back and forth between a pair of grids, which move closer and closer together as the game goes on.
+ The object in Sundance was to catch little suns that bounced back and forth between a pair of grids, which move closer and closer together as the game goes on.

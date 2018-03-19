@@ -1,1 +1,1 @@
-A horizontally scrolling shoot'em up.
+ A horizontally scrolling shoot'em up.

@@ -1,14 +1,1 @@
-SUBROC-3D is an overwhelming 3-dimensional game, with a dual scene system for battles in the ocean or in space. The graphics and sound effects are very exciting!
-You command a sophisticated craft and by using the elevation controls you can move it up or down so it can be operated under water or in space.
-The periscope-type viewer can be moved from side to side, enabling you to attack more enemies.
-Preen the fire button to shoot down the enemy.
-The dynamic stereo sound system creates an amazingly realistic surround effect.
-Many strangely-shaped crafts, missiles and UFOs suddenly zoom in to attack you; once they are in your sights they can attack you, so shoot first and survive!
-The 3-dimensional effect of fast-moving crafts and missiles, combined with the terrifying  explosions seemingly right up close to you are truly bewildering.
-To destroy the BARRIER guarding the enemy COMMAND SHIP, you must hit it in the very center.
-After blowing up the COMMAND SHIP, you proceed to another round.
-The bonus points remaining will be added to your score.
-When you reach HIGH SCORE you will get another ship.
-In each successive round the score increases by 100 points over the previous round.
-Your score and the round are displayed at the top of the screen. Your score and the previous best three scores are displayed over the periscope.
-Play ends with the loss of your last ship.
+ SUBROC-3D is an overwhelming 3-dimensional game, with a dual scene system for battles in the ocean or in space. The graphics and sound effects are very exciting![-LF-]You command a sophisticated craft and by using the elevation controls you can move it up

@@ -1,1 +1,1 @@
-An early shoot 'em up game in which you exist on a plane that disappears into the horizon. You move on a small grid, catching balls, avoiding the grid squares that have been touched by the bad guys, and shooting the bad guys when they are in the air.
+ Gridlee is a game that was never released. It was developed by Videa, Inc. in 1982, on hardware designed by Howard Delman. Videa was eventually acquired by Pizza Time Theater and formed the core of their new Sente Technologies division. The hardware that

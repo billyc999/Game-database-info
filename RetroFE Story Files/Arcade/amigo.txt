@@ -1,0 +1,1 @@
+ Amidar is an arcade game programmed by Konami and published in 1981 by Stern. Its basic format is similar to that of Pac-Man: the player moves around a fixed rectilinear lattice, attempting to visit each location on the board while avoiding the enemies. W

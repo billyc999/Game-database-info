@@ -1,1 +1,1 @@
-A "Bubble Bobble" clone.
+ A "Bubble Bobble" clone.
