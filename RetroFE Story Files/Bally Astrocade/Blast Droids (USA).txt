@@ -1,0 +1,1 @@
+ Blast Droids is an action-game, in which the player has to destroy all of the hostile droids in each level. The ship steers like the one in the quite popular game "Asteroids".
