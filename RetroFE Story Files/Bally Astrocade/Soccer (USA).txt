@@ -1,0 +1,1 @@
+ Soccer a simple 4 player game of pass,dribble shoot,score. Try your hardest to beat the cpu or your friends in the match of the day, win,lose or draw your sure to have fun, come kick off.
