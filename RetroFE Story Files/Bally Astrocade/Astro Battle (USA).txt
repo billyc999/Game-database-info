@@ -1,1 +1,0 @@
- Astro Battle is a Space Invaders clone arcade game released by Bally Manufacturing in 1978 for the Bally Astrocade arcade system. The aim is to defeat waves of aliens with a laser cannon and earn as many points as possible.

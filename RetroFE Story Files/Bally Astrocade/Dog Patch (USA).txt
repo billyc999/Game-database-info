@@ -1,1 +1,0 @@
- Dog Patch is a two-player Skeet-Shoot type game in which players accumulate points by bouncing the target can between each player.

@@ -1,1 +1,0 @@
- In Road Toad The object of the game is to direct Toads to the other side of a busy road while avoiding the hazards that come from the left and right.
