@@ -1,0 +1,1 @@
+Meteorites is a clone of asteroids: Play the role of a spaceship pilot trapped in a gigantic asteroid cloud and pulverize incoming asteroids with the ship's photon cannon. When all asteroids are destroyed, the player can then move on to the next round. In addition to the asteroids, the player will also face an Alien Robot Saucer which shoots randomly across the screen.

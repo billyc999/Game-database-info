@@ -1,0 +1,1 @@
+War Of The Worlds gameplay and graphics, and game was essentially a Space Invaders clone done using 3-D vector graphics. The player controls a tank object at the bottom of the screen and shoots towards the top of the screen at descending Tripods robots in a first person perspective. The player only has movement, cannon fire and shields to protect them from the Tripods' lasers.

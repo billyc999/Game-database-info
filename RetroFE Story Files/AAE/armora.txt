@@ -1,0 +1,1 @@
+You will be driving a jeep through a maze (Top-Down View). Of course such mazes , as we all know, are often not very safe when they are in a video game. Tanks and Helicopters will appear on the screen, you will have to shoot them before they shoot you. If you are hit by enemy fire you will lose a life.

@@ -1,0 +1,1 @@
+Demon is a monochrome vector arcade game from Rock-Ola that was created in 1982. The premise was that the player must fly his space shuttle around the screen collecting the crystals to keep the ship's laser powered.
