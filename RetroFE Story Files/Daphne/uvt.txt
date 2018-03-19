@@ -1,0 +1,1 @@
+ The is a laserdisc-based horizontal and vertical shoot-em-up. The game features scrolling video with overlayed computer-generated graphics. Clips of live acting are interwoven into the plot: fighting off an alien attack of earth.
