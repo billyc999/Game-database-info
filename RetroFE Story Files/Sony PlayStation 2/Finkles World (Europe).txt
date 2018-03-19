@@ -1,1 +1,1 @@
-Finkles World is a puzzle game that features 3 game modes: Classic, Puzzle 
+ Finkles World is a puzzle game that features 3 game modes: Classic, Puzzle and Collect Color. The gameplay is about join 3 or more creatures of the same colour to make them dissapear being careful that the upper bar doesn't reach zero or it will be game over. 

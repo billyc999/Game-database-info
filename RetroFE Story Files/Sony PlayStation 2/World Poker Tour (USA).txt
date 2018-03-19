@@ -1,1 +1,1 @@
-Poker tournament game with six tour-exclusive casinos to choose from. Possibility to create custom poker games with editor or choose from 15 different community poker game types. You can either play against 1000 different AI characters or go on-line and battle other players.
+ Poker tournament game with six tour-exclusive casinos to choose from. Possibility to create custom poker games with editor or choose from 15 different community poker game types. You can either play against 1000 different AI characters or go on-line and battle other players.

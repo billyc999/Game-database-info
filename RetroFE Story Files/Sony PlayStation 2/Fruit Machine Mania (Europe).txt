@@ -1,1 +1,1 @@
-Fruit Machine Mania is a slot machine simulator for one person. The game is entirely keyboard controlled and contains six slot machines. Each machine looks and plays differently. Play to unlock new machines or bonus games. 
+ Fruit Machine Mania is a slot machine simulator for one person. The game is entirely keyboard controlled and contains six slot machines. Each machine looks and plays differently. Play to unlock new machines or bonus games. 

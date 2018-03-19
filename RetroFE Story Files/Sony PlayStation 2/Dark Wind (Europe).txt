@@ -1,1 +1,1 @@
-A First-Person fighting game using the Game-Trak system. Fight through 9 opponents (including the Grand-Master Storm) in 9 locations in Story, Arcade, Survival or other game modes. Your actual punches translate to punches within the game.
+ A First-Person fighting game using the Game-Trak system. Fight through 9 opponents (including the Grand-Master Storm) in 9 locations in Story, Arcade, Survival or other game modes. Your actual punches translate to punches within the game.

@@ -1,1 +1,1 @@
-Q-Ball is a hyperrealistic billiards simulation.  The focus is squarely upon accurate, realistic physics 
+ Q-Ball is a hyperrealistic billiards simulation.  The focus is squarely upon accurate, realistic physics and ball behavior - friction, speed, collisions, etc.    Players can learn trick shots, practice, and even compete against the various computer players who are Pro-Ranked.  There's also a 2 player mode to play against a friend, over a total of 10 different games.

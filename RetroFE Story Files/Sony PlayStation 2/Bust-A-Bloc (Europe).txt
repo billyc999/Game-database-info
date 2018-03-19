@@ -1,1 +1,1 @@
-Bust-A-Bloc is a one or two player, 3D, Breakout clone.  In addition to the single player game Bust-A-Bloc has a player-versus-player and a co-operative mode, one hundred and fifty levels, four camera angles and many power-ups.
+ Bust-A-Bloc is a one or two player, 3D, Breakout clone.  In addition to the single player game Bust-A-Bloc has a player-versus-player and a co-operative mode, one hundred and fifty levels, four camera angles and many power-ups.

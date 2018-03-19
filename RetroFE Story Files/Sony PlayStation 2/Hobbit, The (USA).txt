@@ -1,1 +1,1 @@
-Third person platformer adapted from J.R.R. Tolkien's famous book. Players control Bilbo as he's taken from his safe little hole in the Shire by a band of Dwarves to confront the dragon Smaug, while picking up a glowing sword, an invisibility ring and coins and crystals.
+ Third person platformer adapted from J.R.R. Tolkien's famous book. Players control Bilbo as he's taken from his safe little hole in the Shire by a band of Dwarves to confront the dragon Smaug, while picking up a glowing sword, an invisibility ring and coins and crystals.
